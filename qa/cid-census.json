@@ -1,0 +1,1211 @@
+{
+ "bodyFont": "DTREBQ+MonlamUniOuChan2",
+ "totalGlyphOccurrences": 400580,
+ "cids": [
+  {
+   "cid": 110,
+   "count": 110223,
+   "toUnicode": "་"
+  },
+  {
+   "cid": 214,
+   "count": 35466,
+   "toUnicode": "ྗེ"
+  },
+  {
+   "cid": 206,
+   "count": 28380,
+   "toUnicode": "ི"
+  },
+  {
+   "cid": 179,
+   "count": 21824,
+   "toUnicode": "ད"
+  },
+  {
+   "cid": 216,
+   "count": 20393,
+   "toUnicode": "ོ"
+  },
+  {
+   "cid": 200,
+   "count": 19956,
+   "toUnicode": "ས"
+  },
+  {
+   "cid": 184,
+   "count": 13148,
+   "toUnicode": "བ"
+  },
+  {
+   "cid": 181,
+   "count": 13121,
+   "toUnicode": "ན"
+  },
+  {
+   "cid": 165,
+   "count": 12356,
+   "toUnicode": "ག"
+  },
+  {
+   "cid": 186,
+   "count": 10651,
+   "toUnicode": "མ"
+  },
+  {
+   "cid": 182,
+   "count": 10238,
+   "toUnicode": "པ"
+  },
+  {
+   "cid": 167,
+   "count": 8949,
+   "toUnicode": "ང"
+  },
+  {
+   "cid": 112,
+   "count": 8238,
+   "toUnicode": "།"
+  },
+  {
+   "cid": 196,
+   "count": 8019,
+   "toUnicode": "ར"
+  },
+  {
+   "cid": 197,
+   "count": 7889,
+   "toUnicode": "ལ"
+  },
+  {
+   "cid": 194,
+   "count": 7696,
+   "toUnicode": "འ"
+  },
+  {
+   "cid": 192,
+   "count": 3578,
+   "toUnicode": "ཞ"
+  },
+  {
+   "cid": 359,
+   "count": 2843,
+   "toUnicode": "སྐ"
+  },
+  {
+   "cid": 448,
+   "count": 2775,
+   "toUnicode": "ཕ"
+  },
+  {
+   "cid": 369,
+   "count": 2659,
+   "toUnicode": "ག"
+  },
+  {
+   "cid": 411,
+   "count": 2615,
+   "toUnicode": "ར"
+  },
+  {
+   "cid": 3,
+   "count": 2315,
+   "toUnicode": " "
+  },
+  {
+   "cid": 198,
+   "count": 2223,
+   "toUnicode": "ཤ"
+  },
+  {
+   "cid": 177,
+   "count": 2085,
+   "toUnicode": "ཏ"
+  },
+  {
+   "cid": 169,
+   "count": 1982,
+   "toUnicode": "ཆ"
+  },
+  {
+   "cid": 195,
+   "count": 1803,
+   "toUnicode": "ཡ"
+  },
+  {
+   "cid": 453,
+   "count": 1636,
+   "toUnicode": "བྱ"
+  },
+  {
+   "cid": 171,
+   "count": 1466,
+   "toUnicode": "ཉ"
+  },
+  {
+   "cid": 421,
+   "count": 1457,
+   "toUnicode": "ད"
+  },
+  {
+   "cid": 168,
+   "count": 1407,
+   "toUnicode": "ཅ"
+  },
+  {
+   "cid": 420,
+   "count": 1404,
+   "toUnicode": "དུ"
+  },
+  {
+   "cid": 406,
+   "count": 1326,
+   "toUnicode": "ས"
+  },
+  {
+   "cid": 505,
+   "count": 1269,
+   "toUnicode": "སུ"
+  },
+  {
+   "cid": 413,
+   "count": 1138,
+   "toUnicode": "ལྟ"
+  },
+  {
+   "cid": 455,
+   "count": 1085,
+   "toUnicode": "བ"
+  },
+  {
+   "cid": 178,
+   "count": 1047,
+   "toUnicode": "ཐ"
+  },
+  {
+   "cid": 345,
+   "count": 1007,
+   "toUnicode": "ཀྱ"
+  },
+  {
+   "cid": 430,
+   "count": 960,
+   "toUnicode": "རྣ"
+  },
+  {
+   "cid": 508,
+   "count": 937,
+   "toUnicode": "ས"
+  },
+  {
+   "cid": 457,
+   "count": 920,
+   "toUnicode": "བ"
+  },
+  {
+   "cid": 483,
+   "count": 887,
+   "toUnicode": "ར"
+  },
+  {
+   "cid": 443,
+   "count": 866,
+   "toUnicode": "སྤ"
+  },
+  {
+   "cid": 408,
+   "count": 731,
+   "toUnicode": "ཏུ"
+  },
+  {
+   "cid": 427,
+   "count": 717,
+   "toUnicode": "ས"
+  },
+  {
+   "cid": 415,
+   "count": 640,
+   "toUnicode": "སྟ"
+  },
+  {
+   "cid": 506,
+   "count": 615,
+   "toUnicode": "ས"
+  },
+  {
+   "cid": 392,
+   "count": 574,
+   "toUnicode": "སྔ"
+  },
+  {
+   "cid": 188,
+   "count": 509,
+   "toUnicode": "ཚ"
+  },
+  {
+   "cid": 366,
+   "count": 506,
+   "toUnicode": "ཁ"
+  },
+  {
+   "cid": 370,
+   "count": 488,
+   "toUnicode": "གྱུ"
+  },
+  {
+   "cid": 404,
+   "count": 486,
+   "toUnicode": "ར"
+  },
+  {
+   "cid": 164,
+   "count": 476,
+   "toUnicode": "ཁ"
+  },
+  {
+   "cid": 183,
+   "count": 463,
+   "toUnicode": "ཕ"
+  },
+  {
+   "cid": 441,
+   "count": 457,
+   "toUnicode": "ས"
+  },
+  {
+   "cid": 489,
+   "count": 431,
+   "toUnicode": "ར"
+  },
+  {
+   "cid": 397,
+   "count": 421,
+   "toUnicode": "ཆུ"
+  },
+  {
+   "cid": 299,
+   "count": 409,
+   "toUnicode": "ི"
+  },
+  {
+   "cid": 385,
+   "count": 405,
+   "toUnicode": "སྒ"
+  },
+  {
+   "cid": 193,
+   "count": 404,
+   "toUnicode": "ཟ"
+  },
+  {
+   "cid": 377,
+   "count": 395,
+   "toUnicode": "རྒྱ"
+  },
+  {
+   "cid": 452,
+   "count": 387,
+   "toUnicode": "བུ"
+  },
+  {
+   "cid": 371,
+   "count": 373,
+   "toUnicode": "གྲ"
+  },
+  {
+   "cid": 378,
+   "count": 350,
+   "toUnicode": "རྒྱུ"
+  },
+  {
+   "cid": 344,
+   "count": 341,
+   "toUnicode": "ཀུ"
+  },
+  {
+   "cid": 170,
+   "count": 340,
+   "toUnicode": "ཇ"
+  },
+  {
+   "cid": 487,
+   "count": 339,
+   "toUnicode": "ཚུ"
+  },
+  {
+   "cid": 470,
+   "count": 332,
+   "toUnicode": "མ"
+  },
+  {
+   "cid": 320,
+   "count": 329,
+   "toUnicode": "ོ"
+  },
+  {
+   "cid": 428,
+   "count": 314,
+   "toUnicode": "སྡུ"
+  },
+  {
+   "cid": 375,
+   "count": 313,
+   "toUnicode": "ར"
+  },
+  {
+   "cid": 111,
+   "count": 310,
+   "toUnicode": "༌"
+  },
+  {
+   "cid": 501,
+   "count": 296,
+   "toUnicode": "ལུ"
+  },
+  {
+   "cid": 399,
+   "count": 283,
+   "toUnicode": "ར"
+  },
+  {
+   "cid": 187,
+   "count": 279,
+   "toUnicode": "ཙ"
+  },
+  {
+   "cid": 417,
+   "count": 271,
+   "toUnicode": "ཐུ"
+  },
+  {
+   "cid": 494,
+   "count": 268,
+   "toUnicode": "ཟ"
+  },
+  {
+   "cid": 306,
+   "count": 260,
+   "toUnicode": "ེ"
+  },
+  {
+   "cid": 364,
+   "count": 250,
+   "toUnicode": "ཁྱ"
+  },
+  {
+   "cid": 425,
+   "count": 240,
+   "toUnicode": "ལྡ"
+  },
+  {
+   "cid": 454,
+   "count": 226,
+   "toUnicode": "བྱུ"
+  },
+  {
+   "cid": 493,
+   "count": 220,
+   "toUnicode": "ཟུ"
+  },
+  {
+   "cid": 386,
+   "count": 214,
+   "toUnicode": "སྒྲུ"
+  },
+  {
+   "cid": 163,
+   "count": 208,
+   "toUnicode": "ཀ"
+  },
+  {
+   "cid": 189,
+   "count": 207,
+   "toUnicode": "ཛ"
+  },
+  {
+   "cid": 381,
+   "count": 206,
+   "toUnicode": "སྒ"
+  },
+  {
+   "cid": 445,
+   "count": 188,
+   "toUnicode": "སྤ"
+  },
+  {
+   "cid": 372,
+   "count": 182,
+   "toUnicode": "གྲུ"
+  },
+  {
+   "cid": 465,
+   "count": 181,
+   "toUnicode": "སྦྱ"
+  },
+  {
+   "cid": 353,
+   "count": 175,
+   "toUnicode": "རྐ"
+  },
+  {
+   "cid": 497,
+   "count": 173,
+   "toUnicode": "ཡུ"
+  },
+  {
+   "cid": 513,
+   "count": 164,
+   "toUnicode": "ལྷ"
+  },
+  {
+   "cid": 432,
+   "count": 156,
+   "toUnicode": "སྣ"
+  },
+  {
+   "cid": 492,
+   "count": 143,
+   "toUnicode": "ཞུ"
+  },
+  {
+   "cid": 373,
+   "count": 143,
+   "toUnicode": "ག"
+  },
+  {
+   "cid": 437,
+   "count": 135,
+   "toUnicode": "པྱ"
+  },
+  {
+   "cid": 395,
+   "count": 125,
+   "toUnicode": "ལ"
+  },
+  {
+   "cid": 429,
+   "count": 115,
+   "toUnicode": "ནུ"
+  },
+  {
+   "cid": 398,
+   "count": 110,
+   "toUnicode": "ཇུ"
+  },
+  {
+   "cid": 357,
+   "count": 108,
+   "toUnicode": "སྐ"
+  },
+  {
+   "cid": 394,
+   "count": 108,
+   "toUnicode": "ཅུ"
+  },
+  {
+   "cid": 480,
+   "count": 96,
+   "toUnicode": "སྨྲ"
+  },
+  {
+   "cid": 423,
+   "count": 88,
+   "toUnicode": "ར"
+  },
+  {
+   "cid": 450,
+   "count": 80,
+   "toUnicode": "ཕྲ"
+  },
+  {
+   "cid": 368,
+   "count": 78,
+   "toUnicode": "གུ"
+  },
+  {
+   "cid": 498,
+   "count": 75,
+   "toUnicode": "རུ"
+  },
+  {
+   "cid": 469,
+   "count": 75,
+   "toUnicode": "མུ"
+  },
+  {
+   "cid": 476,
+   "count": 74,
+   "toUnicode": "སྨ"
+  },
+  {
+   "cid": 447,
+   "count": 69,
+   "toUnicode": "ཕུ"
+  },
+  {
+   "cid": 390,
+   "count": 62,
+   "toUnicode": "ལྔ"
+  },
+  {
+   "cid": 502,
+   "count": 59,
+   "toUnicode": "ཤུ"
+  },
+  {
+   "cid": 358,
+   "count": 55,
+   "toUnicode": "སྐུ"
+  },
+  {
+   "cid": 422,
+   "count": 55,
+   "toUnicode": "དྲུ"
+  },
+  {
+   "cid": 367,
+   "count": 52,
+   "toUnicode": "ཁྲུ"
+  },
+  {
+   "cid": 384,
+   "count": 46,
+   "toUnicode": "སྒྱུ"
+  },
+  {
+   "cid": 474,
+   "count": 42,
+   "toUnicode": "རྨ"
+  },
+  {
+   "cid": 471,
+   "count": 38,
+   "toUnicode": "མྱུ"
+  },
+  {
+   "cid": 349,
+   "count": 34,
+   "toUnicode": "ཀ"
+  },
+  {
+   "cid": 350,
+   "count": 32,
+   "toUnicode": "ཀླུ"
+  },
+  {
+   "cid": 387,
+   "count": 32,
+   "toUnicode": "ངུ"
+  },
+  {
+   "cid": 363,
+   "count": 30,
+   "toUnicode": "ཁུ"
+  },
+  {
+   "cid": 499,
+   "count": 29,
+   "toUnicode": "རླ"
+  },
+  {
+   "cid": 514,
+   "count": 27,
+   "toUnicode": "ལྷུ"
+  },
+  {
+   "cid": 490,
+   "count": 24,
+   "toUnicode": "རྫུ"
+  },
+  {
+   "cid": 401,
+   "count": 23,
+   "toUnicode": "ལ"
+  },
+  {
+   "cid": 201,
+   "count": 23,
+   "toUnicode": "ཧ"
+  },
+  {
+   "cid": 414,
+   "count": 22,
+   "toUnicode": "ལྟུ"
+  },
+  {
+   "cid": 434,
+   "count": 20,
+   "toUnicode": "པུ"
+  },
+  {
+   "cid": 482,
+   "count": 19,
+   "toUnicode": "ཙུ"
+  },
+  {
+   "cid": 485,
+   "count": 19,
+   "toUnicode": "སྩ"
+  },
+  {
+   "cid": 507,
+   "count": 17,
+   "toUnicode": "སྲུ"
+  },
+  {
+   "cid": 355,
+   "count": 17,
+   "toUnicode": "ལ"
+  },
+  {
+   "cid": 403,
+   "count": 16,
+   "toUnicode": "ཉུ"
+  },
+  {
+   "cid": 347,
+   "count": 16,
+   "toUnicode": "ཀྲ"
+  },
+  {
+   "cid": 449,
+   "count": 16,
+   "toUnicode": "ཕྱུ"
+  },
+  {
+   "cid": 424,
+   "count": 16,
+   "toUnicode": "རྡུ"
+  },
+  {
+   "cid": 442,
+   "count": 14,
+   "toUnicode": "སྤུ"
+  },
+  {
+   "cid": 361,
+   "count": 13,
+   "toUnicode": "སྐྲ"
+  },
+  {
+   "cid": 509,
+   "count": 13,
+   "toUnicode": "སླུ"
+  },
+  {
+   "cid": 383,
+   "count": 13,
+   "toUnicode": "སྒ"
+  },
+  {
+   "cid": 202,
+   "count": 11,
+   "toUnicode": "ཨ"
+  },
+  {
+   "cid": 617,
+   "count": 10,
+   "toUnicode": "ཤཱ"
+  },
+  {
+   "cid": 446,
+   "count": 10,
+   "toUnicode": "སྤྲུ"
+  },
+  {
+   "cid": 1206,
+   "count": 10,
+   "toUnicode": "ཎ"
+  },
+  {
+   "cid": 496,
+   "count": 10,
+   "toUnicode": "འུ"
+  },
+  {
+   "cid": 478,
+   "count": 10,
+   "toUnicode": "སྨ"
+  },
+  {
+   "cid": 451,
+   "count": 9,
+   "toUnicode": "ཕྲུ"
+  },
+  {
+   "cid": 500,
+   "count": 9,
+   "toUnicode": "རླུ"
+  },
+  {
+   "cid": 351,
+   "count": 9,
+   "toUnicode": "རྐ"
+  },
+  {
+   "cid": 468,
+   "count": 9,
+   "toUnicode": "སྦྲུ"
+  },
+  {
+   "cid": 618,
+   "count": 8,
+   "toUnicode": "དྨ"
+  },
+  {
+   "cid": 388,
+   "count": 8,
+   "toUnicode": "རྔ"
+  },
+  {
+   "cid": 816,
+   "count": 8,
+   "toUnicode": "ན"
+  },
+  {
+   "cid": 412,
+   "count": 8,
+   "toUnicode": "རྟུ"
+  },
+  {
+   "cid": 521,
+   "count": 8,
+   "toUnicode": "དྭ"
+  },
+  {
+   "cid": 376,
+   "count": 8,
+   "toUnicode": "རྒུ"
+  },
+  {
+   "cid": 522,
+   "count": 7,
+   "toUnicode": "རྩྭ"
+  },
+  {
+   "cid": 456,
+   "count": 6,
+   "toUnicode": "བྲུ"
+  },
+  {
+   "cid": 1052,
+   "count": 6,
+   "toUnicode": "ཤྲ"
+  },
+  {
+   "cid": 523,
+   "count": 6,
+   "toUnicode": "ཚྭ"
+  },
+  {
+   "cid": 131,
+   "count": 5,
+   "toUnicode": "༠"
+  },
+  {
+   "cid": 352,
+   "count": 5,
+   "toUnicode": "རྐུ"
+  },
+  {
+   "cid": 458,
+   "count": 5,
+   "toUnicode": "བླུ"
+  },
+  {
+   "cid": 484,
+   "count": 5,
+   "toUnicode": "རྩུ"
+  },
+  {
+   "cid": 132,
+   "count": 4,
+   "toUnicode": "༡"
+  },
+  {
+   "cid": 180,
+   "count": 4,
+   "toUnicode": "དྷ"
+  },
+  {
+   "cid": 696,
+   "count": 4,
+   "toUnicode": "ང"
+  },
+  {
+   "cid": 511,
+   "count": 4,
+   "toUnicode": "ཧ"
+  },
+  {
+   "cid": 529,
+   "count": 4,
+   "toUnicode": "ཧྭ"
+  },
+  {
+   "cid": 346,
+   "count": 3,
+   "toUnicode": "ཀྱུ"
+  },
+  {
+   "cid": 362,
+   "count": 3,
+   "toUnicode": "སྐྲུ"
+  },
+  {
+   "cid": 846,
+   "count": 3,
+   "toUnicode": "པཱུ"
+  },
+  {
+   "cid": 824,
+   "count": 3,
+   "toUnicode": "ནྡ"
+  },
+  {
+   "cid": 176,
+   "count": 3,
+   "toUnicode": "ཎ"
+  },
+  {
+   "cid": 475,
+   "count": 3,
+   "toUnicode": "རྨུ"
+  },
+  {
+   "cid": 463,
+   "count": 3,
+   "toUnicode": "སྦ"
+  },
+  {
+   "cid": 626,
+   "count": 3,
+   "toUnicode": "ཀཱ"
+  },
+  {
+   "cid": 515,
+   "count": 3,
+   "toUnicode": "ཨུ"
+  },
+  {
+   "cid": 416,
+   "count": 3,
+   "toUnicode": "སྟུ"
+  },
+  {
+   "cid": 488,
+   "count": 3,
+   "toUnicode": "ཛུ"
+  },
+  {
+   "cid": 13,
+   "count": 2,
+   "toUnicode": "*"
+  },
+  {
+   "cid": 136,
+   "count": 2,
+   "toUnicode": "༥"
+  },
+  {
+   "cid": 134,
+   "count": 2,
+   "toUnicode": "༣"
+  },
+  {
+   "cid": 133,
+   "count": 2,
+   "toUnicode": "༢"
+  },
+  {
+   "cid": 689,
+   "count": 2,
+   "toUnicode": "ད"
+  },
+  {
+   "cid": 218,
+   "count": 2,
+   "toUnicode": "ཾ"
+  },
+  {
+   "cid": 510,
+   "count": 2,
+   "toUnicode": "ཧུ"
+  },
+  {
+   "cid": 203,
+   "count": 2,
+   "toUnicode": "ཀ"
+  },
+  {
+   "cid": 906,
+   "count": 2,
+   "toUnicode": "མྦུ"
+  },
+  {
+   "cid": 172,
+   "count": 2,
+   "toUnicode": "ཊ"
+  },
+  {
+   "cid": 519,
+   "count": 2,
+   "toUnicode": "གྲྭ"
+  },
+  {
+   "cid": 426,
+   "count": 2,
+   "toUnicode": "ལྡུ"
+  },
+  {
+   "cid": 512,
+   "count": 2,
+   "toUnicode": "ཧྲུ"
+  },
+  {
+   "cid": 348,
+   "count": 2,
+   "toUnicode": "ཀྲུ"
+  },
+  {
+   "cid": 389,
+   "count": 2,
+   "toUnicode": "རྔུ"
+  },
+  {
+   "cid": 433,
+   "count": 2,
+   "toUnicode": "སྣུ"
+  },
+  {
+   "cid": 464,
+   "count": 2,
+   "toUnicode": "སྦུ"
+  },
+  {
+   "cid": 517,
+   "count": 2,
+   "toUnicode": "ཁྭ"
+  },
+  {
+   "cid": 761,
+   "count": 2,
+   "toUnicode": "ཏྤ"
+  },
+  {
+   "cid": 467,
+   "count": 2,
+   "toUnicode": "སྦྲ"
+  },
+  {
+   "cid": 38,
+   "count": 1,
+   "toUnicode": "]"
+  },
+  {
+   "cid": 51,
+   "count": 1,
+   "toUnicode": "”"
+  },
+  {
+   "cid": 50,
+   "count": 1,
+   "toUnicode": "“"
+  },
+  {
+   "cid": 16,
+   "count": 1,
+   "toUnicode": "-"
+  },
+  {
+   "cid": 14,
+   "count": 1,
+   "toUnicode": "+"
+  },
+  {
+   "cid": 140,
+   "count": 1,
+   "toUnicode": "༩"
+  },
+  {
+   "cid": 139,
+   "count": 1,
+   "toUnicode": "༨"
+  },
+  {
+   "cid": 137,
+   "count": 1,
+   "toUnicode": "༦"
+  },
+  {
+   "cid": 138,
+   "count": 1,
+   "toUnicode": "༧"
+  },
+  {
+   "cid": 103,
+   "count": 1,
+   "toUnicode": "༄"
+  },
+  {
+   "cid": 104,
+   "count": 1,
+   "toUnicode": "༅"
+  },
+  {
+   "cid": 737,
+   "count": 1,
+   "toUnicode": "ཉྫུ"
+  },
+  {
+   "cid": 166,
+   "count": 1,
+   "toUnicode": "ག"
+  },
+  {
+   "cid": 1212,
+   "count": 1,
+   "toUnicode": "ཥཱ"
+  },
+  {
+   "cid": 950,
+   "count": 1,
+   "toUnicode": "ཛྙཱ"
+  },
+  {
+   "cid": 1309,
+   "count": 1,
+   "toUnicode": "རྱཱ"
+  },
+  {
+   "cid": 825,
+   "count": 1,
+   "toUnicode": "ནྡྲ"
+  },
+  {
+   "cid": 215,
+   "count": 1,
+   "toUnicode": "ྱཻ"
+  },
+  {
+   "cid": 979,
+   "count": 1,
+   "toUnicode": "རཱ"
+  },
+  {
+   "cid": 848,
+   "count": 1,
+   "toUnicode": "པྟ"
+  },
+  {
+   "cid": 796,
+   "count": 1,
+   "toUnicode": "དྷཱུ"
+  },
+  {
+   "cid": 612,
+   "count": 1,
+   "toUnicode": "ཏ"
+  },
+  {
+   "cid": 185,
+   "count": 1,
+   "toUnicode": "བྷ"
+  },
+  {
+   "cid": 949,
+   "count": 1,
+   "toUnicode": "ཛྙ"
+  },
+  {
+   "cid": 551,
+   "count": 1,
+   "toUnicode": "ཕྱྭ"
+  },
+  {
+   "cid": 407,
+   "count": 1,
+   "toUnicode": "སྙུ"
+  },
+  {
+   "cid": 461,
+   "count": 1,
+   "toUnicode": "ལྦ"
+  },
+  {
+   "cid": 1012,
+   "count": 1,
+   "toUnicode": "རྴ"
+  },
+  {
+   "cid": 698,
+   "count": 1,
+   "toUnicode": "ངྒཱ"
+  },
+  {
+   "cid": 435,
+   "count": 1,
+   "toUnicode": "པྲ"
+  },
+  {
+   "cid": 444,
+   "count": 1,
+   "toUnicode": "སྤྱུ"
+  },
+  {
+   "cid": 1068,
+   "count": 1,
+   "toUnicode": "སཱ"
+  },
+  {
+   "cid": 409,
+   "count": 1,
+   "toUnicode": "ཏྲ"
+  },
+  {
+   "cid": 191,
+   "count": 1,
+   "toUnicode": "ཝ"
+  },
+  {
+   "cid": 217,
+   "count": 1,
+   "toUnicode": "ཽ"
+  },
+  {
+   "cid": 360,
+   "count": 1,
+   "toUnicode": "སྐྱུ"
+  },
+  {
+   "cid": 356,
+   "count": 1,
+   "toUnicode": "ལྐུ"
+  },
+  {
+   "cid": 1157,
+   "count": 1,
+   "toUnicode": "ཊཱ"
+  },
+  {
+   "cid": 526,
+   "count": 1,
+   "toUnicode": "རྭ"
+  },
+  {
+   "cid": 615,
+   "count": 1,
+   "toUnicode": "པཱ"
+  },
+  {
+   "cid": 374,
+   "count": 1,
+   "toUnicode": "གླུ"
+  },
+  {
+   "cid": 926,
+   "count": 1,
+   "toUnicode": "ཙྪ"
+  }
+ ]
+}

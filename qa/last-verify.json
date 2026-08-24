@@ -1,0 +1,25 @@
+{
+ "ranAt": "2026-08-24T02:07:18.249Z",
+ "results": [
+  {
+   "name": "Line reconstruction (all 978 pages)",
+   "result": "978/978"
+  },
+  {
+   "name": "Genitive agreement",
+   "result": "99.92%"
+  },
+  {
+   "name": "Illegal Tibetan stacks",
+   "result": "59"
+  },
+  {
+   "name": "Lexicon vs repair table",
+   "result": "none - lexicon agrees with every entry in the repair table"
+  },
+  {
+   "name": "Dropped-stack sweep",
+   "result": "13"
+  }
+ ]
+}

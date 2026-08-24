@@ -1,0 +1,34 @@
+{
+ "DTREBQ+Qomolangma-Uchen-Sarchung": {
+  "519": {
+   "to": "ཀྱ",
+   "was": "ཀ",
+   "n": 1,
+   "pct": 1,
+   "curPct": 0
+  }
+ },
+ "DTREBQ+Qomolangma-Uchen-Sarchen": {
+  "519": {
+   "to": "ཀྱ",
+   "was": "ཀ",
+   "n": 1,
+   "pct": 1,
+   "curPct": 0
+  },
+  "538": {
+   "to": "ཟླ",
+   "was": "ཟ",
+   "n": 2,
+   "pct": 1,
+   "curPct": 0
+  },
+  "548": {
+   "to": "སྒྱ",
+   "was": "སྒ",
+   "n": 2,
+   "pct": 1,
+   "curPct": 0.5
+  }
+ }
+}

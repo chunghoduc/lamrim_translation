@@ -1,0 +1,30 @@
+# --- source text: NOT redistributed -----------------------------------------
+# The Lamrim Chenmo PDF is a copyrighted published edition (Sera Jey Rigzod
+# Chenmo). The repo holds everything DERIVED from it, but not the edition itself.
+# Put the PDF back at the project root to re-run extraction.
+*.pdf
+
+# --- derived, regenerable, and large ----------------------------------------
+# Per-glyph audit trail: 116 MB, 978 files. Regenerate with:
+#   node tools/11-extract-glyphs.mjs
+source/raw/
+
+# Rendered pages, glyph contact sheets, extracted font programs (16 MB).
+# Regenerate on demand with tools/09, tools/14, tools/20.
+qa/pages/
+qa/compare/
+qa/glyphs/
+qa/font/
+
+# Third-party lexicon, 25 MB (Apache-2.0). Not vendored for size.
+# See data/README.md for where to get it. data/syllables.json (derived, 260 KB)
+# IS committed, and is what the tools actually read.
+data/monlam-lexicon.txt
+data/monlam-lexicon-LICENSE.txt
+
+# --- standard ----------------------------------------------------------------
+node_modules/
+npm-debug.log*
+.DS_Store
+Thumbs.db
+*.tmp

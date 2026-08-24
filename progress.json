@@ -1,0 +1,48 @@
+{
+  "project": "Lamrim Chenmo -> Vietnamese",
+  "source": "བྱང་ཆུབ་ལམ་རིམ་ཆེན་མོ།_Lamrim.pdf",
+  "targetLanguage": "Vietnamese",
+  "scope": "full book, 978 pages",
+  "deliverable": "Markdown working files, translation-only",
+
+  "nextAction": {
+    "phase": 2,
+    "summary": "Build the sa-bcad outline: detect section headings and produce the chapter/section structure that chunking will follow.",
+    "firstCommand": "node tools/31-outline.mjs   (does not exist yet - Phase 2 starts by writing it)",
+    "notes": "Headings live in DTREBQ+Qomolangma-Uchen-Sarchen (12pt, ~9k chars) and are now correctly decoded. Detect by font + size, not by text matching."
+  },
+
+  "phases": {
+    "0": { "name": "Project skeleton", "status": "done" },
+    "1": { "name": "Extraction & repair", "status": "done", "verified": true },
+    "2": { "name": "Structural segmentation (sa-bcad outline)", "status": "not_started" },
+    "3": { "name": "Terminology spine (glossary)", "status": "not_started" },
+    "4": { "name": "Translation loop", "status": "not_started" },
+    "5": { "name": "Review (fidelity + consistency)", "status": "not_started" },
+    "6": { "name": "Assembly", "status": "not_started" }
+  },
+
+  "decisions": [
+    "Target language: Vietnamese. Deliverable: Markdown, translation-only (no bilingual layout).",
+    "Repair happens at CID level via our own content-stream interpreter, NOT by regex over decoded text.",
+    "source/raw/glyphs/ is the permanent audit trail and is never edited. Everything downstream is a reproducible transform.",
+    "Every repair-table entry requires TWO independent signals that agree. Score alone is not sufficient - see FINDINGS.md 8.5.",
+    "CIDs with no decisive evidence are left UNREPAIRED rather than guessed; each keeps a value that decodes to a valid Tibetan syllable.",
+    "Reference (do not copy) the existing Vietnamese Bo De Dao Thu De Quang Luan and the Snow Lion English translation for terminology checking only."
+  ],
+
+  "openQuestions": [
+    "Phase 3: which Vietnamese rendering to fix for terms with competing conventions - decide once, record in glossary/decisions.md, never relitigate mid-book.",
+    "Phase 4: whether to enable experimental Agent Teams for the translation-quality skill, or run single-session (current assumption: single-session)."
+  ],
+
+  "chunks": [],
+  "chunkSchema": {
+    "id": "string, e.g. 'c003'",
+    "section": "sa-bcad path",
+    "pages": "[from, to]",
+    "status": "pending | translated | reviewed",
+    "translatedAt": "ISO date, set by the tool that writes it",
+    "flags": "array of inline uncertainty markers raised during translation"
+  }
+}
