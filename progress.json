@@ -1554,8 +1554,25 @@
         113,
         115
       ],
-      "status": "pending",
-      "flags": []
+      "status": "translated",
+      "flags": [
+        "unsure: p0135, Tứ Bách Luận verse reads ཐ་མར་ལྟ་ཞིག་ཀུན་བཟློག་པ. The widely attested reading of Catuḥśataka VIII.15 is ལྟ་བ་ཀུན ('all views'). The source's ཞིག is not accounted for by my rendering 'hết thảy mọi kiến' — I translated ལྟ as 'kiến' and left ཞིག untranslated rather than emending the source. Needs checking against the raw glyphs / another edition; may be a genuine variant or a source typo.",
+        "unsure: p0134, སྤྱོད་པ་བསྡུས་པའི་སྒྲོན་མེ is attributed here to འཕགས་པ་ལྷ (Āryadeva), whereas the existing glossary entry སྤྱོད་བསྡུས་སྒྲོན་མ = 'Nhiếp Hành Đăng' (p0123) records it as Atiśa's (ཇོ་བོས). Two distinct works may share a near-identical Tibetan title (Caryāmelāpakapradīpa vs Caryāsaṃgrahapradīpa). I used the same Vietnamese title in both places; if they are different texts the titles must be split.",
+        "unsure: p0133 verse line དེས་བསྟན་དམ་ཚིག་ལྡན་པ་ནི། ཡོངས་སུ་བསྐྱང་ལ་རབ་ཏུ་བརྩོན། — དམ་ཚིག་ལྡན་པ could be the samaya-commitment itself or the samaya-holder (a person) who is to be nurtured/protected. I rendered it as the thing ('Điều đầy đủ tam-muội-da mà vị ấy chỉ dạy'). Also, དེས ('by that/him') is left as neutral 'vị ấy' rather than resolved to the guru named in the preceding line.",
+        "unsure: p0134, བྱིས་པའི་ཤེས་རབ་ཅན་རྣམས (Asaṅga quote) rendered 'các chúng sinh có trí tuệ non nớt'. བྱིས་པ is literally 'child/immature' (bāla); 'non nớt' is a plain rendering that avoids the more loaded 'phàm phu' / 'ngu si'. Not a settled term.",
+        "unsure: heading level. The chunk's declared section is 6.2.3 (level 2) but its first two thirds belong to 6.2.2.1.2.2.2 (དགོས་པ།, level 6), a different branch. I gave དགོས་པ། '##' (matching the '##' c040 gave its sibling རྒྱུ་མཚན་དངོས) and reserved '#' for the declared section 6.2.3, so the file opens with a '##' before any '#'. Precedent for that exists (c009, c032, c046), but the two '##' levels in this file are not siblings.",
+        "unsure: དངོས is rendered 'phần chính' in my heading (following c040's 'Lý do chính') but 'thực sự' in c043's sibling heading ཆུང་ངུའི་བསམ་པ་སྦྱང་བ་དངོས = 'Thực sự tu tập ý lạc bậc hạ'. Both are provisional; a single ruling for དངོས in headings would be worth recording.",
+        "unsure: p0134 Kinh Tổng Trì Tự Tại Vương Thỉnh Vấn — the Vietnamese title is coined from the Tibetan components and is not verified against any existing Vietnamese edition.",
+        "unsure: p0135, ལུང་འདི ... ཁུངས་སུ་དྲངས་ནས — I rendered 'Giáo điển này cũng được đại A-xà-lê Nguyệt Xứng dẫn ra làm nguồn y cứ'. The Tibetan does not name which of Candrakīrti's works cites it, and I did not supply one."
+      ],
+      "translatedAt": "2026-08-25",
+      "sourceHash": "bdf49625ebfa",
+      "outputHash": "787fc3c6c9eb",
+      "outputBytes": 7837,
+      "runId": "wf_9a0a7f2f-18e",
+      "verify": {
+        "verdict": "clean"
+      }
     },
     {
       "id": "c043",
@@ -2312,8 +2329,25 @@
         174,
         177
       ],
-      "status": "pending",
-      "flags": []
+      "status": "translated",
+      "flags": [
+        "unsure: བ་བླས at p0197 l.6 (མི་མཐུན་པ་བ་བླས་བྱུག་པ), the first item in the list of unsuitable offering substances. Rendered as 'bôi bằng [*ba blas* — nghĩa không rõ]', following c062's convention for unresolved words. This is NOT a decode artefact: I rendered the page at scale 4 and cropped the word, and the printed reading is བ་བླས (ba + subjoined la + suffix sa). No lexical match found, and a targeted search turned up nothing. The parallel items (washing with ghee, fumigating with guggulu, arka flowers) are all substances of non-Buddhist ritual, which would fit cow dung — i.e. a printing error for something like བ་ལྕི་བས — but there is no second signal, so nothing was substituted.",
+        "unsure: ཆོས་ཀྱི་སྡོམ་བཞི at p0197 l.17–18 rendered 'bốn pháp ấn'. The Tibetan སྡོམ means 'summary/epitome', not ཕྱག་རྒྱ 'seal'; equating the item with the four dharmoddāna is very likely from the company it keeps (four immeasurables, three refuges, recollection of the pāramitās, emptiness) but the wording does not state it. A more literal 'bốn điều tóm lược của giáo pháp' was rejected as unidiomatic; the project owner should confirm.",
+        "unsure: འདི་ནི་བསྟན་པ་འདི་ལ་གོ་རིམ་ཡིན། — closing line of the Adhyāśayasaṃcodana verse at p0194, rendered literally 'Đây là trình tự nơi giáo pháp này'. The sense of གོ་རིམ here, and how it connects to the preceding line བསྐལ་པ་གཅིག་གིས་ཐར་པ་འཐོབ་མི་འགྱུར ('trong một kiếp sẽ chẳng đắc được giải thoát'), is not transparent. No interpretive expansion was added inside the quotation.",
+        "unsure: རང་ལ་དངོས་པོ་ཆུང་ངུ་ཡོད་ལ at the end of p0195, opening the definition of གཞན་བྱེད་དུ་བཅུག་པའི་མཆོད་པ. 'Mình chỉ có chút ít tài vật' is the literal reading, but it sits oddly as the motive for having others make the offering. Translated literally without resolving whether ཆུང་ངུ qualifies the practitioner's own means or is meant to set up the compassion clause that follows.",
+        "unsure: the count 'སྟེ་བདུན་ནོ' (seven) closing རྒྱ་ཆེ་བའི་མཆོད་པ at p0196 does not divide transparently into seven from the items as written (many things, good things, present/not-present, done by self and by others, heartfelt joy and strong devotion, dedication to full awakening). The list was translated item by item without regrouping it to force seven.",
+        "unsure: རྒྱགས (p0194 verse) rendered 'sự kiêu căng'. glossary.json already assigns 'ngã mạn' to both ང་རྒྱལ and ཁེངས་པ, so a third word was needed to keep the terms separable, but there is no ruling for རྒྱགས.",
+        "unsure: དམ་ཚིག་གསུམ་བཀོད་པ (p0197) rendered '*Ba Tam-muội-da Trang Nghiêm*'. Built from the components on the model of c008's དམ་ཚིག་བཀོད་པའི་རྒྱལ་པོ; no established Vietnamese title was found, and 'Tam Tam-muội-da…' was avoided because the doubled 'Tam' reads badly. decisions.md requires one fixed title per cited text, so this needs confirming before c062+ reuse it.",
+        "unsure: བ་འཇོས་ཙམ at p0197 l.17 rendered 'khoảng thời gian vắt sữa một con bò'. The usual form of the idiom is བ་བཞོ་བ་ཙམ; འཇོས is treated here as a form of འཇོ་བ 'to milk' rather than as an error, but the spelling is unusual for this edition."
+      ],
+      "translatedAt": "2026-08-25",
+      "sourceHash": "0bdf8c56008a",
+      "outputHash": "111b9e534d6c",
+      "outputBytes": 7768,
+      "runId": "wf_9a0a7f2f-18e",
+      "verify": {
+        "verdict": "clean"
+      }
     },
     {
       "id": "c062",
@@ -2497,8 +2531,22 @@
         190,
         191
       ],
-      "status": "pending",
-      "flags": []
+      "status": "translated",
+      "flags": [
+        "unsure: p0210 ཆོ་ག་ཉམས་པ་དང་འཚོ་བ་ཉམས་པ་དང་ཚུལ་ཁྲིམས་ཉམས་པ་ནི་ཡོངས་སུ་རྫོགས་པར་མ་བྱས་ལ - redundant against the clause immediately before it (ཚུལ་ཁྲིམས་དག་པ་ཡོངས་སུ་རྫོགས་པར་མ་བྱས་ཏེ), and the ནི after three ཉམས་པ nominals plus a second མ་བྱས leaves it unclear whether the three are the subject ('those whose nghi quy / sinh ke / gioi are impaired did not complete them') or an appositive gloss on the preceding clause. Translated as an appositive set off with dashes, with a bracketed [những thứ ấy] supplied so Vietnamese parses. Nothing doctrinal turns on it, but the sentence may be corrupt.",
+        "unsure: p0211 ལམ་བརྒྱགས་མང་བསྡོགས་པ - བསྡོགས་པ is not a form I can confirm; read as 'having packed/prepared much provision' by contrast with ལམ་བརྒྱགས་ཉུང་བ in the parallel stanza two lines earlier, and rendered 'đã sắm sửa nhiều lương đi đường'. The contrast (much vs little provision) is certain; the exact verb is not.",
+        "unsure: p0211 སྣོད་ཆེན vs བུམ་ཆེན - the two parallel six-line Udanavarga stanzas use different words for the vessel (སྣོད་ཆེན in the sin stanza, བུམ་ཆེན in the virtue stanza), and the four-line stanza just before uses སྣོད་ཆེན again. Kept distinct in Vietnamese ('bình chứa lớn' / 'bình lớn', following the glossary's སྣོད = bình chứa) rather than normalised, but I cannot tell whether the variation is the source text's or a scribal slip.",
+        "unsure: p0211 Jatakamala line མི་རྣམས་ལ་ནི་འདྲིས་པ་ཉིད་དུ་འགྱུར - could be 'they (the habituated karmas) become familiar/second nature to people' or 'people become habituated to them'. Rendered the first way ('Nơi loài người [chúng] trở thành quen thuộc'), with the subject supplied in brackets since the Tibetan leaves it unstated; the following line's unstated subject (ཆེད་དུ་མ་བསྒྲིམས / སྤྱོད) was likewise left agentless rather than resolved.",
+        "unsure: p0210 བྱེ་བ་ཕྲག་གོ་བརྒྱད / ཕྲག་རེ་བཞི / ཕྲག་བརྒྱད་ཅུ / ཕྲག་གོ་དགུ - read as 98 / 64 / 80 / 99 koti on the standard Tibetan decade-prefix system (གོ = 90s, རེ = 60s), giving the familiar ascending series for the four buddhas. Not independently checked against another edition; if the prefixes were read wrongly the numbers would all be wrong together."
+      ],
+      "translatedAt": "2026-08-25",
+      "sourceHash": "c245a2de0535",
+      "outputHash": "5236b855bfbd",
+      "outputBytes": 4693,
+      "runId": "wf_9a0a7f2f-18e",
+      "verify": {
+        "verdict": "clean"
+      }
     },
     {
       "id": "c067",
@@ -2554,8 +2602,25 @@
         196,
         199
       ],
-      "status": "pending",
-      "flags": []
+      "status": "translated",
+      "flags": [
+        "unsure: p0218, Aśvaghoṣa verse ཁ་དང་བཤང་ལམ་བྱིན་པ་དང - བྱིན་པ read as the noun 'calf (of the leg)' (bắp chân), giving a five-item anatomical list (miệng / đường đại tiện / bắp chân / ép hai đùi / động nơi bàn tay) parallel to the Sanskrit mukha-pāyu-jaṅghā-ūru-hasta. It can also be read as the past verb 'given', yielding 'miệng và đường đại tiện đã được trao'. Chose the noun because the surrounding items are body parts and because བརླ (thigh) appears separately; the reading is NOT decisive. Note that Atiśa's parallel list quoted immediately after has no calf, which the text nonetheless calls མཐུན (in agreement).",
+        "unsure: p0219 last line གོ་བྱའི་ཡུལ་ནི་ཕ་རོལ་པོས་དོན་གོ་བའོ - rendered 'Đối tượng cần làm cho hiểu là: việc kẻ kia hiểu được ý nghĩa'. The Tibetan is compressed: གོ་བྱའི་ཡུལ could be the person to be informed, or the propositional content to be conveyed, and the predicate ཕ་རོལ་པོས་དོན་གོ་བ (agentive ཕ་རོལ་པོས) is an event, not a person, so the equation is not clean in either reading. Kept literal rather than resolved.",
+        "unsure: p0216 Abhidharmakośa verse དངོས་མེད - translated '[nghiệp] chính hành' on the assumption that དངོས་ abbreviates དངོས་གཞི, which the surrounding prose uses twice (དངོས་གཞིའི་སྡིག). Inside a quotation this is a supplied reading; bracketed accordingly. It could instead be the bare 'chẳng có [nghiệp đạo]'.",
+        "unsure: p0218 ཡུལ་དེ་ལ་གནོད་པའི་ས་ཕྱོགས - rendered 'nơi đất đai gây tổn hại cho chỗ ấy', taking ཡུལ་དེ as the bodily part just discussed. ཡུལ could instead refer back to the གནས (the location), giving 'ground that damages that site'. Not resolved by the passage.",
+        "unsure: p0216 ཀུན་སློང་སྤྱི་ལ་ཞུགས་པ་ཡོད་ན - rendered 'nếu có [kẻ] đã dấn vào động cơ có tính chung'. The Tibetan gives no explicit subject for ཞུགས་པ; it may equally be read impersonally ('if there is engagement in a general motivation'). Left ambiguous in Vietnamese rather than assigning agency.",
+        "unsure: p0219 མཛོད་འགྲེལ passage - ལུགས་གཉིས་བཤད་དོ was attached to the SECOND case only (the two positions being 'thành / chẳng thành' for entering another's wife under a mistaken identification of whose wife she is). The syntax also permits reading the two positions as covering both cases. Chose the narrower reading because the first case is stated flatly as མི་འགྱུར་བ with no alternative.",
+        "unsure: p0219 མཐར་ཐུག་ནི། གཉིས་ཀྱིས་གཉིས་སྤྲད་པའོ - rendered 'hai [bên] khiến hai [chỗ] gặp nhau'. Both instances of གཉིས are bare; the standard Abhidharma sense (union of the two organs by the two parties) was NOT written into the Vietnamese, only bracketed minimally.",
+        "unsure: p0216 མཆོད་སྦྱིན here is a personal name (Yajñadatta), but glossary.json already fixes མཆོད་སྦྱིན = 'tế tự' (the ritual, from p0225-p0226). Reported as a new term rather than reused; the collision should be resolved centrally so a sweep does not flatten the two."
+      ],
+      "translatedAt": "2026-08-25",
+      "sourceHash": "b7eecbb77637",
+      "outputHash": "6f646bfaff4e",
+      "outputBytes": 9220,
+      "runId": "wf_9a0a7f2f-18e",
+      "verify": {
+        "verdict": "clean"
+      }
     },
     {
       "id": "c069",
@@ -2652,8 +2717,32 @@
         208,
         211
       ],
-      "status": "pending",
-      "flags": []
+      "status": "translated",
+      "flags": [
+        "unsure: ངག་བཀྱལ་པ / ཚིག་བཀྱལ་པ at p0228 — the glossary carries TWO conflicting entries for the same term (ངག་བཀྱལ་པ = 'lời tạp uế' and ངག་བཀྱལ / ཚིག་བཀྱལ = 'ỷ ngữ'), and its own note calls this an existing drift needing one ruling. Both spellings occur in a single paragraph of this chunk. I used 'ỷ ngữ' throughout, because c070 — the chunk this one directly continues, in the same enumeration of the ten — uses 'ỷ ngữ' and 'ác khẩu'; using the glossary's 'lời tạp uế' would make the section label read as a different term from c070's two pages earlier. This overrides a glossary vi value and needs the ruling.",
+        "unsure: ཕྲ་མ at p0228 — glossary vi is 'lời ly gián', but c070's section label for the sentence this chunk completes is 'Ly gián ngữ nặng do cơ sở là'. I used 'ly gián ngữ' so the subject and its predicate do not use two different words inside one sentence. Needs the same ruling as the ỷ ngữ item.",
+        "unsure: བརྒྱད་བཀག at p0228 l.4 (མངོན་སུམ་དུ་གཤེ་བ་དང་སྤྱོ་བ་དང་བརྒྱད་བཀག་སྨྲ་བའོ) — meaning not established. Glyph reading confirmed against the rendered page at scale 6. The same word occurs at p0080 and c026 also left it as '*brgyad bkag* [nghĩa chưa xác định được]'; I followed that precedent rather than guess.",
+        "unsure: བསྟིང་སླད at p0228 l.8 (བླ་མ་ལྟ་བུ་ལ་བསྟིང་སླད་དང་ཅོ་འདྲི་བ) — meaning not established; glyph reading confirmed at scale 6. Left as transliteration with a bracketed note. Context (beside ཅོ་འདྲི་བ = teasing) suggests something in the mockery family, but that is inference, not evidence.",
+        "unsure: མི་གཤའ་བ at p0228 l.9 (ཚིག་གི་ལམ་དང་མི་གཤའ་བ་བརྗོད་པའོ) — meaning not established; ག with a subjoined letter plus འ confirmed at scale 6, though ཤ vs ཞ subjoined is not fully separable at that zoom. Left as transliteration. 'not in accord with the way of words' is the obvious guess and was deliberately NOT written.",
+        "unsure: ཤེས་ཀྱི་ཁེ at p0228 l.12 (མཁས་པ་རྣམས་ལས་ཤེས་ཀྱི་ཁེ་དང་བཀུར་སྟི་འདོད་པའོ) — reading confirmed visually at scale 6, but the sense of ཤེས་ཀྱི་ཁེ is not certain. Rendered literally as 'cái lợi của sự được biết đến'. It may be a corruption of a more ordinary phrase for gain (e.g. རྙེད་པའི་ཁེ); not normalised.",
+        "unsure: ཞལ་དུ་འདུ་བའི་སྒོ at p0230 l.5-6 — rendered 'cửa [tài vật] được gom vào để thọ dụng'. The phrase distinguishes two classes of Saṅgha property with different karmic consequences, but I could not establish what the technical distinction is; the rendering is a literal gloss of the words, not a claim about the category.",
+        "unsure: དེའི་ནང་གི་བར་མནར་མེད་པའི་འཁོར་མུན་ནག་ཆེན་པོ at p0230 l.6-7 — the constituent parse is not settled. I read it as 'vòng tối tăm mênh mông của ngục A-tỳ ở khoảng giữa bên trong [địa ngục] ấy'. It could equally be read with བར་ joined to མནར་མེད (an 'intermediate Avīci'), or with འཁོར་མུན་ནག་ཆེན་པོ as a fixed name for the great dark inter-world spaces (lokāntarika). Not resolved by preference.",
+        "unsure: རོ་བསྐམ at p0230 l.10 (འབྲོག་དགོན་པ་རོ་བསྐམ་དུ) — meaning not established. Literally 'dried corpse'; left as transliteration inside 'nơi đồng hoang vắng vẻ'.",
+        "unsure: Sūryagarbha verse, p0230 l.17-18: དགེ་འདུན་དག་ལས་གང་དེ་ནི། །དགེ་འདུན་གྱི་ལས་ལོངས་མི་སྤྱད། — the couplet is textually rough (ལས appears twice, apparently as the ablative particle both times) and my rendering 'Phàm cái gì [thuộc] về Tăng-già / Thì chẳng nên thọ dụng từ [tài vật] của Tăng-già' is near-tautological, as the Tibetan is. Not smoothed.",
+        "unsure: ཐམས་ཅད་དབྱུང་བ་བྱས་པ at p0231 l.1 (verse) — 'having everything taken out/expelled'. What is taken out is not stated; rendered 'Thà bị lấy đi hết thảy' without supplying an object. The parallel line names impalement, so 'entrails' is the natural guess and was deliberately not written.",
+        "unsure: གསལ་ཤིང at p0231 l.1 — glossary vi is 'cây xiên sắt', but that entry was set on ལྕགས་ཀྱི་གསལ་ཤིང at p0158, where ལྕགས (iron) is written. Here the word stands bare, so I wrote 'cây xiên' without 'sắt'. Worth recording so the sweep does not read it as drift.",
+        "unsure: ཁྱིམ་པ at p0230-p0231 (×6, incl. four verse lines) — I used the glossary's vi 'hàng cư sĩ' rather than the 'hàng tại gia' that the entry's own note recommends, on the rule that a glossary term is settled. This chunk is the densest occurrence of the word in the corpus so far, so if the ruling goes the other way it is the chunk to sweep first.",
+        "unsure: cited-title renderings — 'Kinh Tín Lực Nhập Ấn', 'Kinh Nhập Định Bất Định Ấn' and 'Kinh Tịch Tĩnh Quyết Định Thần Biến' (p0231) are all first occurrences and none was verified against an existing Vietnamese edition. The third in particular departs from the received Chinese title 寂照神變三摩地經, because 照 does not answer to the Tibetan རྣམ་པར་ངེས་པ; a ruling should decide between component-faithful and received-title.",
+        "unsure: མངོན་པར་འདུ་བྱེད་པ at p0229 — 'hiện hành' is a coinage forced by the fact that 'gia hành' (the usual Sino-Vietnamese for this Yogācārabhūmi item, 加行) is already pinned to སྦྱོར་བ in the same chapter. Not a confident choice; flagged for a central ruling on the six modes of weight as a set."
+      ],
+      "translatedAt": "2026-08-25",
+      "sourceHash": "00742b83acb2",
+      "outputHash": "f593264b623b",
+      "outputBytes": 9160,
+      "runId": "wf_9a0a7f2f-18e",
+      "verify": {
+        "verdict": "clean"
+      }
     },
     {
       "id": "c072",
@@ -3034,8 +3123,25 @@
         242,
         243
       ],
-      "status": "pending",
-      "flags": []
+      "status": "translated",
+      "flags": [
+        "unsure: p0263 — the section heading བསམ་པ་སྦྱང་བ་དངོས། was INCLUDED at the end of the file (as '## Thực sự tu tập ý lạc'), against the brief's instruction not to restate the heading. Reason: the heading physically stands on the last line of p0263, i.e. inside this chunk's range, and c082 begins at its first subsection (s091 ཐར་པ་དོན་གཉེར་གྱི་བློ་ངོས་བཟུང་བ), so omitting it would drop the heading from the corpus entirely. If the assembler emits it from the outline instead, delete the last line of c081.md.",
+        "unsure: p0262 — this chunk is labelled part 2/2 of section 6.2.3.1.4, but pages 262-263 are in fact the OPENING of the middle-capacity division: the division heading སྐྱེས་བུ་འབྲིང་དང་ཐུན་མོང་བའི་ལམ་གྱི་རིམ་པ་ལ་བློ་སྦྱང་བ། stands at the top of p0262 and section s090 does not begin until the last line of p0263. source/outline.json has no node for that division heading (s090's parent is s053, the SMALL-capacity node), so the whole 6.2.3.1.x numbering from s090 onward is attached to the wrong parent. Heading levels here were therefore set chunk-relative (# division, ## s090) rather than from the outline's level field.",
+        "unsure: p0262, བསྟི་བ in the Śiṣyalekha verse (ནང་དུ་ཞུགས་ནས་བསྟི་བ་ཙམ་ལ་བདེར་སེམས་པ) — rendered 'chỉ nơi chút dừng nghỉ đã tưởng là an lạc', taking བསྟི་བ as staying/lodging, because the immediately preceding simile is of resting at the edge of a precipice. But བསྟི་བ is also the honouring/hospitality word (cf. བསྟི་སྟང), which would give 'thinks mere honour to be happiness'. I could not settle it from the passage alone.",
+        "unsure: p0262, འགྲོ་བ་མཉམ་དང་མི་མཉམ་ཀུན་ཏུ་འཁྱམ་པར་འགྱུར — rendered 'lang thang khắp nơi giữa các chúng sinh ngang bằng và chẳng ngang bằng'. What མཉམ / མི་མཉམ qualifies is not stated: beings equal or unequal to oneself, or destinies of equal or unequal status. Nothing was supplied to disambiguate.",
+        "unsure: p0263, འགྲོ་བ་ཀུན་ལ in the four-couplet Śiṣyalekha verse — rendered 'đối với hết thảy chúng sinh' per the glossary's provisional འགྲོ་བ = chúng sinh. But Tsongkhapa's own gloss two lines later reads སྲིད་པའི་ཕུན་ཚོགས་ལ་བདེ་བར་འཛིན་པ ('grasping the excellences of EXISTENCE as happiness'), which supports reading འགྲོ་བ here as the destinies/realms ('hết thảy các thú') rather than beings. The verse was left literal and the commentary was not allowed to reshape it.",
+        "unsure: p0263, རྩེ་གཞིལ in འདོད་ཆགས་མེ་ལྕེ་ཤིན་ཏུ་རྩེ་གཞིལ་འགྱུར — rendered 'bị dập tắt ngọn'. རྩེ = tip/point, གཞིལ = crushed/flattened, so the image is of the flame's tip being beaten down; 'dập tắt' may be stronger than the Tibetan, which says subdued rather than extinguished.",
+        "unsure: p0262, འདུ་བྱེད་ཀྱི་སྡུག་བསྔལ rendered with the Sino-Vietnamese 'hành khổ'. No glossary entry exists for འདུ་བྱེད and this is the term's first load-bearing occurrence; the choice will govern the three-sufferings section at 6.2.3.1.4.2.1 (p0265ff), so it should be confirmed before those chunks are translated.",
+        "unsure: p0263, ཐར་པར་བགྲོད་པའི་ལམ་གྱི་རང་བཞིན་གཏན་ལ་དབབ་པ rendered 'quyết trạch tự tánh của con đường đi đến giải thoát'. The glossary registers གཏན་ལ་དབབ་པ = quyết trạch, but ALSO registers ལས་དང་འབྲས་བུ་གཏན་ལ་དབབ་པ = 'xác định nghiệp và quả', with an explicit note that 'xác định' was chosen there to avoid colliding with the text title གཏན་ལ་དབབ་པ་བསྡུ་བ = Nhiếp Quyết Trạch. The two entries pull opposite ways for section headings; this one needs a ruling before s119 is translated."
+      ],
+      "translatedAt": "2026-08-25",
+      "sourceHash": "4d1db657d0d5",
+      "outputHash": "1e0bb45b01c2",
+      "outputBytes": 4643,
+      "runId": "wf_9a0a7f2f-18e",
+      "verify": {
+        "verdict": "clean"
+      }
     },
     {
       "id": "c082",
@@ -3060,8 +3166,25 @@
         244,
         247
       ],
-      "status": "pending",
-      "flags": []
+      "status": "translated",
+      "flags": [
+        "unsure: p0267, རྒྱུད་བླ་མ verse — རེག་པར་བྱ (of འགོག་པ) rendered 'cần tiếp xúc'. The Tibetan verb is literally 'to be touched' (Skt. spraṣṭavya) and I kept it literal inside the quotation; the doctrinally expected Vietnamese would be 'cần chứng'/'cần hiện chứng', which would import a gloss the verse does not write. Needs a ruling, since the verse recurs.",
+        "unsure: p0267, ཉམས་ལེན་གྱི་འགག་སྡོམ་ཡང་ཆེ་བས — rendered 'chỗ thâu tóm điểm hiểm yếu của sự hành trì cũng lớn'. འགག་སྡོམ could not be verified against a lexicon entry; the reading is inferred from the components plus context. Not decisive.",
+        "unsure: p0264, དེ་གཉིས་ཀྱི་དབང་གིས་ཁམས་ཀྱི་དབང་གིས — དབང་གིས occurs twice in immediate succession. I read the first as 'by the power of those two [karma and afflictions]' and the second as 'when [divided] by way of realm', parallel to the following འགྲོ་བས་ཕྱེ་ན and སྐྱེ་གནས་ཀྱི་སྒོ་ནས. It may instead be a source repetition/typo. Translated as it stands, not normalised.",
+        "unsure: p0264, ལྷ་ལ་སོགས་པ་ལྔའམ་དྲུག rendered 'năm hoặc sáu [thú] như chư thiên v.v.'. glossary.json's bare ལྷ = 'bổn tôn' (itself flagged as a gap needing a ruling) is plainly wrong for a list of destinies and was not applied. The ལྷ ruling is still outstanding.",
+        "unsure: ཞི་བ rendered as the verbal 'lắng dịu' in prose (སྡུག་བསྔལ་ཞི་བ, ཉེ་བར་ཞི་བ) but as 'tịch tĩnh' inside the Catuḥśataka verse (ཞི་གུས). glossary.json's ཞི་བ = 'tịch tĩnh' is scoped to the teacher's quality (ཏིང་ངེ་འཛིན་གྱི་བསླབ་པ), so neither use is directly covered. The split is deliberate but unruled.",
+        "unsure: བློ rendered 'cái trí' per glossary.json, and it lands in the section headword itself ('cái trí mong cầu giải thoát'). The glossary entry is marked a GAP whose note recommends a neutral 'tâm'/'ý'. Because this heading repeats through the whole བསམ་པ་སྦྱང་བ་དངོས division, a later ruling forces a retro-sweep of this chunk and of c043.",
+        "unsure: p0267, ཐར་པ་འགོག་པ་མངོན་དུ་བྱའོ — read as apposition ('giải thoát, tức sự diệt'). The alternative takes ཐར་པ as the object of a separate clause. The apposition reading is what the preceding ཐར་པ་ལ་ཐོབ་བྱར་མི་འཛིན་པ supports, but the Tibetan is not explicit.",
+        "unsure: extraction artefacts — p0266 སྡུག༌བསྔལ, p0267 འགོག༌བདེན and འགག༌སྡོམ carry a non-standard inter-syllabic mark instead of the ordinary tsheg. Treated as cosmetic and read as the normal words; the source was not normalised."
+      ],
+      "translatedAt": "2026-08-25",
+      "sourceHash": "1c9c1153f553",
+      "outputHash": "1707f603f721",
+      "outputBytes": 8650,
+      "runId": "wf_9a0a7f2f-18e",
+      "verify": {
+        "verdict": "clean"
+      }
     },
     {
       "id": "c083",
@@ -3084,8 +3207,25 @@
         248,
         251
       ],
-      "status": "pending",
-      "flags": []
+      "status": "translated",
+      "flags": [
+        "unsure: p0271, བཅེར་བས་འགགས in the Śiṣyalekha verse (ཤིན་ཏུ་མི་བཟད་དྲི་ང་མི་གཙང་བཅེར་བས་འགགས). བཅེར་བ occurs exactly once in the whole corpus, so nothing internal disambiguates it, and I could not settle the word with two independent signals. འགགས = blocked/stopped up is secure; I rendered the pair as 'bị ép nghẽn' on the reading བཅེར་བ = pressing/squeezing, but 'gcer ba' (bare/naked) is an equally available reading and would give a different sense. The line should be checked against another edition of the Śiṣyalekha.",
+        "unsure: p0268, དེས་པ opening the Suhṛllekha citation. Rendered 'Này bậc hiền thiện' as a vocative addressing the letter's recipient — the honorific imperative སྐྱོ་མཛད in the same verse supports an address to a superior. But the commentary that follows glosses only འཁོར་བ, སྡུག་བསྔལ and the eight, never དེས་པ, so the chunk itself gives no confirmation.",
+        "unsure: p0268, འདོད་པས་ཕོངས་པ. The referent is certain (the eighth of the eight sufferings, per the commentary's own count of four-shown-plus-four-implied), but the literal Tibetan is 'destitute through/of desire' and I did not resolve whether the instrumental འདོད་པས names the cause (impoverished BY craving) or the thing lacked (impoverished OF what is wanted). 'thiếu thốn điều mong muốn' leans to the second; the choice was not decisive.",
+        "unsure: p0270, glossary collision on དགོངས་འགྲེལ. glossary.json fixes it as a common noun ('luận giải mật ý', from p0084), but here with འཕགས་པ prefixed and Maitreya as interlocutor it is unmistakably the Saṃdhinirmocana-sūtra title. I used the title reading. A ruling should record that the two senses coexist rather than let a sweep unify them.",
+        "unsure: p0269, བྲེང་ཆགས་སུ — a hapax in the corpus. Read as 'continuously/unbrokenly' (= འབྲེང་ཆགས / རྒྱུན་ཆགས). Not verifiable from the corpus; may be a genuine source typo, which per project policy I did not normalise.",
+        "unsure: p0269, the clause སེམས་དམིགས་པ་ལ་རྒོད་པ་སོགས་དགག. I read སེམས་ as governing དམིགས་པ ('the mind's object'), giving 'ngăn dứt trạo cử v.v. nơi sở duyên của tâm'. The alternative parse takes སེམས་ with the preceding མི་བཏང་བར ('not letting the MIND go') and leaves དམིགས་པ་ལ་ alone. The sense is close either way but the syntax was not decisive.",
+        "unsure: p0270, ཞི་ལྷག rendered 'chỉ quán' while ཞི་གནས་དང་ལྷག་མཐོང in the Saṃdhinirmocana quotation two sentences earlier is 'tịnh chỉ và thắng quán'. This is inside the glossary's closed fixed-set and I judged ཞི་ལྷག to be exactly the compound the set licenses 'chỉ quán' for, but the register does shift within one paragraph, which the decisions.md working rule warns against. Worth a check.",
+        "unsure: p0268, the heading rendering 'Việc tu tập về khổ thực sự' for སྡུག་བསྔལ་བསྒོམ་པ་དངོས. Kept 'thực sự' for དངོས only to match c028, the sole precedent; the Vietnamese reads awkwardly and 'Chính phần tu tập về khổ' would be better prose. Not changed unilaterally because it would desynchronise c028."
+      ],
+      "translatedAt": "2026-08-25",
+      "sourceHash": "843f31e8fc99",
+      "outputHash": "9bef51e820e6",
+      "outputBytes": 8064,
+      "runId": "wf_9a0a7f2f-18e",
+      "verify": {
+        "verdict": "clean"
+      }
     },
     {
       "id": "c084",
@@ -3104,8 +3244,33 @@
         252,
         255
       ],
-      "status": "pending",
-      "flags": []
+      "status": "translated",
+      "flags": [
+        "unsure: མནག in ལུས་ཡོངས་བསྐུམས་ལ་སྡུག་བསྔལ་ཆེན་པོ་མནག་དགོས་སོ (p0272 l.1, Śiṣyalekha) — not a standard verb form and a hapax in the corpus; possibly a printing error for མྱང / མནར. Rendered 'phải chịu nỗi khổ lớn' on the sense the sentence requires, not on the word.",
+        "unsure: བརྟ in ཟླ་བ་རེ་རེ་བཞིན་ཟླ་མཚན་འབྱུང་བས་ནི་བརྟ (p0272) — no finite ending; read as བརྟས ('được bồi lớn/tăng trưởng') on the parallel with the other verbs in the series (བསྐྱེད, རྒྱུ, རེག, གསོ, སོང). Possible source typo, left untouched.",
+        "unsure: ཀླད་རྒྱས (p0272, ×2) — rendered 'dịch não'. First occurrence lists it beside ཀླད་པ (óc) and རྐང (tủy); the second has it smeared on the mother's food 'from above' (སྟེང་ནས་ཀླད་རྒྱས་སྦགས་པ), which suggests a head-derived secretion. Neither reading is decisive.",
+        "unsure: ཤ་མའི་སྣོད in ལག་པ་དང་རྐང་པ་དང་འགྲམ་པ་ནི་ཤ་མའི་སྣོད་ཀྱིས་དཀྲིས (p0272) — hapax; rendered 'túi thịt' taking ཤ་མ as flesh. Could be a specific membrane name.",
+        "unsure: སྲིན་གྲོལ་མ (p0272) — unidentified creature name; left in transcription as 'loài srin-drolma' rather than guessing 'trùng'.",
+        "unsure: སྡུག་བསྔལ་ཉེ་བར་སྤྱད་པའི་རྣམ་པར་མཐོ་བཙམས་མོད (p0273, Śiṣyalekha l.4) — མཐོ་བཙམས is opaque; read as 'đã khởi đầu (བཙམས ~ བརྩམས) một mức (མཐོ) thọ khổ cao hơn'. The Vietnamese line is the weakest in the chunk and should be rechecked against another edition of the Śiṣyalekha.",
+        "unsure: སྐྱུག་ལ་ཐུག་པ་བཞིན་དུ་སྔོན་གྱི་དྲན་པས་སྤོང (p0273, Śiṣyalekha l.8) — the agent is not marked. Two readings: (a) recalling the earlier state, one rejects that body as nauseating (adopted, with [người ta] bracketed), or (b) the newborn loses its memory of former lives. I did not choose silently — (a) was taken because the preceding line describes the body as an object of disgust, but (b) is not excluded.",
+        "unsure: རུལ་བ་ལྟུང་བ་འགྲེང་བ in the string of adjectives on the birth canal (p0274) — rendered flatly as 'mục rữa, sa xuống, dựng đứng'; the three do not form an obvious sense together and may belong to different referents in the string.",
+        "unsure: ཚོས་པ in མཛེ་ཅན་ལུས་ཚོས་པ (p0274) — literally 'dyed/coloured'; rendered 'thân thể lở loét' from the leprosy context. Interpretive.",
+        "unsure: དྲས་གདན in དཔྲལ་བ་དྲས་གདན་ལྟར་གཉེར་མས་ཁེབས་པ (p0275) — hapax; rendered 'tấm đệm bị rạch cắt' (གདན = đệm/chiếu, དྲས = cắt). A cutting-board reading (a block covered in knife marks) fits the wrinkle simile better but is not supported by the words.",
+        "unsure: སྤྲ་བའི་མེ་ཏོག (p0275) — a Tibetan plant whose flower is the standard simile for white hair; the species is not established, so the name is transcribed rather than translated.",
+        "unsure: ལྡིབ and འབུབ་པ in སྨྲ་ན་ལྡིབ་ཅིང་འགྲོ་ན་འབུབ་པ (p0275) — rendered 'nói thì lắp bắp' / 'đi thì lom khom'. Both are colloquial verbs; the general sense (impaired speech, stooped gait) is secure, the precise manner is not.",
+        "unsure: ཚ་བ occurs twice in the one list of harmful foods at p0273 (…གྲང་བ་ཚ་བ་ལན་ཚྭ་ཆེ་བ་སྐྱུར་བ་མངར་བ་ཁ་བ་ཚ་བ་ཧ་ཅང་བསྐ་བ…). Not normalised: translated as 'nóng' the first time and 'cay' the second, since the second sits in a taste series. The repetition may be a source error.",
+        "unsure: བསམ་པ rendered 'suy xét' (p0275, རྒ་བའི་སྡུག་བསྔལ་བསམ་པ, and in this chunk's other uses). c083 — which carries the parent sa-bcad headings སྡུག་བསྔལ་བསམ་པ / འཁོར་བ་སྤྱིའི་སྡུག་བསྔལ་བསམ་པ / སྡུག་བསྔལ་བརྒྱད་བསམ་པ — is still pending, so this word is set here before the heading that governs it. The two must be reconciled.",
+        "unsure: the chunk opens mid-verse-line (p0271 ends inside མངལ་གནས་དམྱལ་|བ), so the first blockquote line begins at 'giống như địa ngục' and reads as a fragment by design; it must join c083's last line to form the full pāda.",
+        "unsure: འདོད་པ་ལ་སྤྱོད་པ (p0273) rendered literally 'thọ dụng dục lạc'. In this list of maternal activities harming the fetus the sense is almost certainly sexual intercourse, but the Tibetan does not say so and I did not make it say so."
+      ],
+      "translatedAt": "2026-08-25",
+      "sourceHash": "23d7cba7558f",
+      "outputHash": "5b92abbcbb39",
+      "outputBytes": 8660,
+      "runId": "wf_9a0a7f2f-18e",
+      "verify": {
+        "verdict": "clean"
+      }
     },
     {
       "id": "c085",
@@ -3124,8 +3289,27 @@
         256,
         259
       ],
-      "status": "pending",
-      "flags": []
+      "status": "translated",
+      "flags": [
+        "unsure: p0276 ཐུ - Chengawa's saying reads འཆི་བའི་སྡུག་བསྔལ་ཐུ་སྟེ་ཡུན་ཐུང་། རྒས་པ་འདི་ག་ཐུ་གསུང་ངོ་། The syllable ཐུ (twice) is not a word in this construction. I verified against the rendered page at scale 4 (qa/pages/p0276-crop760.png): the source really does read ཐུ, with no ba suffix, so this is not an extraction fault. Translated as if ཐུབ ('kham nổi' / 'bear, endure'), which the སྟེ clause ('because its duration is short') and Kamapa's immediately following remark about བསྲན་ཐབས་མེད ('no way to endure it') both support. A second reading, ཐུང ('short'), is contextually possible but makes ཐུ redundant with ཡུན་ཐུང in the same clause. Only one signal, so recorded rather than resolved.",
+        "unsure: p0277 གེལ་པ in the Lalitavistara verse རྩྭ་ཤིང་གེལ་པ་ནགས་སྨན་མདངས་ཀྱང་འཕྲོག. Verified against the page image (qa/pages/p0277-crop855.png) - the source reads གེལ་པ. I could not confirm the word. Translated as a verb, 'làm cỏ cây ngã đổ', on the guess that it stands for འགྱེལ་བ (to fall over); the alternative is that it is a fifth item in the plant list རྩྭ / ཤིང / གེལ་པ / ནགས / སྨན, i.e. a plant name I cannot identify. One signal only.",
+        "unsure: p0276 the third aspect of the suffering of illness. The topic phrase is ཡུལ་གྱི་ལོངས་སྤྱོད་ཡིད་དུ་འོང་བ་མི་འདོད་པ ('not wishing for the agreeable enjoyment of objects'), but its own gloss says འདོད་བཞིན་དུ་སྤྱད་དབང་མེད་པ ('though one wishes, one has no power to use them'). Heading and gloss point opposite ways on who does the not-wanting. Rendered as 'Phải chối từ sự thọ dụng khả ý nơi đối cảnh', which keeps the Tibetan's མི་འདོད་པ while letting the gloss stand; a reading closer to the gloss ('không được thọ dụng') would silently overwrite the heading.",
+        "unsure: p0278 ཚིགས་སུ་བཅད་པ་མེད་པ, third aspect of meeting the disliked. Literally 'having no verse/śloka'. Rendered 'không có tiếng khen' on the strength of the text's own immediately following gloss སྟེ་གཏམ་ངན་པས་འཇིགས་པ ('that is, fear of ill report') - Skt. śloka also means 'fame', so this looks like a translation artifact in the Tibetan. The Vietnamese therefore follows the gloss, not the literal words.",
+        "unsure: p0278 རང་ལས་འབྲས་བུ་ལྡན་པས་དབང་ཡང་མེད. Translated 'Vì mang quả của nghiệp riêng mình nên cũng chẳng được tự tại', reading རང་ལས as རང་གི་ལས ('one's own karma'). It can equally be read as rang + las ('from oneself'), giving a different sense. Verse, so no interpretive expansion was added either way.",
+        "unsure: p0277 ནད་ཐིབས in ནད་བརྒྱ་མང་དང་ནད་ཐིབས་སྡུག་བསྔལ་གྱིས. ཐིབས(་པོ) = dense/thick; rendered 'nỗi khổ bệnh dày đặc'. Not verified against any lexicon entry for the compound.",
+        "unsure: p0277 སྡུག་ལ་སྡང་བར་བྱེད in the same verse. Rendered 'khiến sinh lòng ghét bỏ đối với những gì thân yêu' (སྡུག་པ = the dear/beloved). It could also mean the sick person becomes hateful toward dear ones, or - less likely - read སྡུག as 'suffering'. Left deliberately unspecified as to who hates whom.",
+        "unsure: p0278 རྩྭ་ཤིང་འབྱུང་པོའི་ཚོགས་ལ་མེ་དང་མཚུངས, last line of the death verse. Rendered as two items, 'cỏ cây và các loài sinh linh', but it can also be read as one phrase, 'the host of beings that are grasses and trees'. འབྱུང་པོ follows the glossary's provisional 'loài sinh linh', which itself carries a flag (bhūta may mean elemental spirits).",
+        "unsure: p0277 རྩ་འཇིང (see newTerms). 'thân tộc' is inferred from the single parallel at p0243 (གཉེན་ལ་སོགས་པའི་རྩ་འཇིང་ཆེ་བ) and from the position of the item in the standard five-part list, between 'enjoyments' and 'retinue'. No lexicon confirmation.",
+        "unsure: p0279 མངོན་པར་འགྲུབ་པའི་སྡུག་བསྔལ་གྱི་སྣོད vs མངོན་པར་གྲུབ་པ་ལ་བརྟེན་པའི་སྡུག་བསྔལ་གྱི་སྣོད - the first and second of the five. The tense distinction (suffering yet to be produced vs. suffering resting on what is already produced) is carried only by the glosses two sentences later, not by the phrases themselves. I bracketed the supplied '[sẽ]' in the first rather than leave the Vietnamese ambiguous."
+      ],
+      "translatedAt": "2026-08-25",
+      "sourceHash": "81885803b05c",
+      "outputHash": "ea8f8851260c",
+      "outputBytes": 8356,
+      "runId": "wf_9a0a7f2f-18e",
+      "verify": {
+        "verdict": "clean"
+      }
     },
     {
       "id": "c086",
@@ -3166,8 +3350,26 @@
         264,
         266
       ],
-      "status": "pending",
-      "flags": []
+      "status": "translated",
+      "flags": [
+        "unsure: p0284 - འདི་སྔ་མ་རྣམས་སེམས་ཅན་གཅིག་གིས་མ་བྱས་པའི་གྲངས་ལ་སྦྱོར་བ་ནི་དོན་མིན་ཏེ. Two readings of མ་བྱས་པ: (a) 'has acted as mother' — the count of times one being has been one's mother; (b) negation — 'a number NOT produced by a single being'. I took (a), because the two reasons that immediately follow (the sūtra's 'my mother, and that mother's mother' and the root text's མའི་ཐུག་མཐའ) both establish a maternal LINEAGE across different beings, which reading (b) would be arguing for rather than against. Also འདི་སྔ་མ་རྣམས་ has no དང and may itself be a source oddity; rendered '[lời] này cùng các [lời] trước'.",
+        "unsure: p0285 verse - དབད་པ in དམྱལ་བར་འཐག་གཅོད་དབད་པའི་འཁྲུལ་འཁོར. དབད་པ is not a form I can attest; likely a corruption (གཤེག་པ 'split' / འབེད་པ 'pierce' are the shapes that fit). The following gloss assigns the three machines to Chúng Hợp / Hắc Thằng / Viêm Nhiệt, so the third is the hot-hell one. Rendered bracketed as '[xẻ]'; do not treat it as settled.",
+        "unsure: p0285 verse - ཚ་རྒོས་བཟོད་གླགས་ཆུ་ཚན་འཇུག་འཚལ་ལོ. No negative particle is present, yet the sense requires 'no chance of enduring the heat'; the preceding རབ་མེད་པ belongs to the river-name. ཚ་རྒོས is also an unattested form. I supplied the negation in brackets: 'nước sôi nóng dữ [chẳng] chỗ nào kham chịu'.",
+        "unsure: p0284 - the source is internally inconsistent within three lines: རྒྱ་ཤུག་ཚི་གུ / རི་ལུས in the verse vs རྒྱ་ཤུག་གི་ཚིག་གུ / རི་ལུ in the sūtra citation. Left unnormalised in the reading but translated identically in both places (རི་ལུ/རི་ལུས = 'viên' pellet). ཚིག་གུ rendered 'đốt' (a joint/segment of juniper); 'hạt/quả bách xù' (juniper berry) is the other live reading and would change the image, not the argument.",
+        "unsure: p0285 verse - རྣམ་པར་མཛེས་ཚལ་སོན་པར་བརྩེས་ནས་སླར. Parsed as 'having reached the exquisitely beautiful grove and sported there'; བརྩེས could instead be from བརྩེ་བ (to be fond of), and I cannot rule out that རྣམ་པར་མཛེས་ཚལ is a proper name of one of the Trāyastriṃśa parks rather than a description.",
+        "unsure: p0285 verse - རྐང་པའི་རེག་པས་ནེམས་པར་བདེ་བཟོད་པ. Taken as a description of Meru's slopes in the next line (yielding softly and pleasantly underfoot); the Tibetan states no referent, so the attachment is inferred from the line order alone.",
+        "unsure: p0284 Catuḥśataka verse - དེ་ཚེ་གཅིག་ལ་ཡང་རྒྱས་པར། །མཐོང་ནས. Rendered 'ngay nơi một [quả] mà đã thấy rộng lớn dường ấy'; རྒྱས་པར་མཐོང་བ could alternatively mean 'having seen [it] in detail/at length' rather than 'seen to be vast'. The referent of གཅིག (one effect? one link?) is also not stated.",
+        "unsure: p0285 verse - ཚངས་ཉིད་ཆགས་བྲལ་བདེ་བ. ཚངས་ཉིད taken as 'Brahmā himself / Brahmā-hood' (rendered 'chính Phạm thiên'); it could equally be read as the Brahmā realm. No glossary entry for bare ཚངས་པ existed to settle it.",
+        "unsure: p0285-p0286 - the Suhṛllekha-style verses carry a polite/honorific register throughout (བསྟེན་འཚལ་ལོ, འཇུག་འཚལ་ལོ, བགྱིད་འཚལ་ལོ, རབ་བཞེས་ཤིག), addressed to a royal reader. I rendered this as 'ắt phải…' / 'xin hãy…' without adding a Vietnamese addressee pronoun; the Tibetan names no addressee in these lines."
+      ],
+      "translatedAt": "2026-08-25",
+      "sourceHash": "f641750c5b9e",
+      "outputHash": "4b0d2fc037d7",
+      "outputBytes": 8423,
+      "runId": "wf_9a0a7f2f-18e",
+      "verify": {
+        "verdict": "clean"
+      }
     },
     {
       "id": "c088",
@@ -3188,8 +3390,24 @@
         267,
         269
       ],
-      "status": "pending",
-      "flags": []
+      "status": "translated",
+      "flags": [
+        "unsure: ཕོལ་མིག at p0287 - hapax in the whole corpus (ཕོལ་མིག་གམ་འབྲས). Rendered 'nhọt' purely from the pairing with འབྲས and from the simile itself (cool water on it feels pleasant, salt water on it hurts more). No dictionary or second independent signal; the reading is inferred, not established.",
+        "unsure: མཁལ་མའི་ཟུག་གཟེར at p0287 - hapax; rendered 'cơn đau buốt nơi thận'. མཁལ་མ = kidney is secure, but ཟུག་གཟེར spans 'piercing pain', 'colic' and 'thorn/dart' (cf. ཟུག་རྔུ = 'gai nhọn' at p0288 in this same chunk), so the exact image is a guess.",
+        "unsure: འགྱུར་བའི་སྡུག་བསྔལ at p0287 - rendered with the established Sino-Vietnamese 'hoại khổ' (壞苦) so the triad khổ khổ / hoại khổ / hành khổ stays intact, but འགྱུར་བ literally means 'biến đổi' (change), not 'hoại' (destruction). A ruling should confirm the triad rather than a literal 'khổ do biến đổi'.",
+        "unsure: ནམ་ཞིག་པ་ན at p0287 - read as 'khi nào nó hoại đi' (when at some point it disintegrates). The alternative parse taking ནམ་ཞིག as 'at some time' with a separate verb was not adopted; the two readings converge in sense but the syntax is not clean.",
+        "unsure: referent of འདི་ནི at p0288 (འདི་ནི་ལས་དང་ཉོན་མོངས་པ་སྔ་མའི་གཞན་དབང་དུ་གྱུར་ཅིང...) - not stated in the Tibetan. Read as the contaminated neutral feeling just discussed and written '[Cảm thọ] này' with the supplied word bracketed; it could also be read as hành khổ itself.",
+        "unsure: གནས་ངན་ལེན rendered 'thô trọng' (麤重) throughout p0287-p0289 - the established Yogācāra Sino-Vietnamese, appropriate because the passage explicitly follows the Yogācārabhūmi and the Viniścayasaṃgrahaṇī, but not verified against an existing Vietnamese edition of this text.",
+        "unsure: གཏི་མུག་གིས་ནི...མི་གཏོང་བའི་ཕྱིར་ཞུགས་པའོ at p0288 - ཞུགས་པ ('engages/enters') left as 'hoạt động theo cách...'. The Tibetan names no object for what delusion engages in, so none was supplied."
+      ],
+      "translatedAt": "2026-08-25",
+      "sourceHash": "0f3868e945b8",
+      "outputHash": "33c3fe608046",
+      "outputBytes": 6069,
+      "runId": "wf_9a0a7f2f-18e",
+      "verify": {
+        "verdict": "clean"
+      }
     },
     {
       "id": "c089",
@@ -3210,8 +3428,26 @@
         270,
         272
       ],
-      "status": "pending",
-      "flags": []
+      "status": "translated",
+      "flags": [
+        "unsure: སྤ་གོང་བ (p0291 l.54, p0292 l.45, l.47) - rendered 'sự nhụt chí'. The term is rare and I could find no settled Vietnamese equivalent; I translated from the text's own gloss on p0292 (lesser-merit gods see greater gods' superior kāmaguṇa and become སྤ་གོང་བ, then experience great suffering and mental unease), i.e. being cowed/dispirited. If the project owner knows an established Sino-Vietnamese rendering for this member of the desire-god triad, it should override mine.",
+        "unsure: འཆི་འཕོ་བ (p0291-p0292) - rendered 'sự chết chuyển', a literal calque. The Sino-Vietnamese 'tử một' (死沒) for cyuti is more established in Abhidharma register but obscure. A central ruling would be better than my choice, since the term recurs.",
+        "unsure: དེ་ཉིད་ལས at p0292 l.16 ('trong chính [bản văn] ấy'). The verse it introduces is a death-signs verse, and the preceding verse at p0292 l.4-9 is quoted with NO attribution at all; the nearest named text is བཤེས་སྤྲིངས at p0291 l.34. I did NOT name the text, because naming it would resolve an anaphor the Tibetan leaves open.",
+        "unsure: p0290 l.31 says the seven (བདུན) sufferings 'sinh, già, bệnh, chết v.v.' should be known from what was taught earlier, but the earlier section (c084-c085) treats eight sufferings (སྡུག་བསྔལ་བརྒྱད). I translated 'bảy' as written and did not normalise. Whether this is a source error or a deliberate subtraction (the eighth arguably being covered by ཚོལ་འགྲོ just named) I cannot determine from the text.",
+        "unsure: p0291 l.54-55 / p0292 l.0 enumerates the third desire-god suffering with FOUR members (བཅད་པ་དང་དྲལ་བ་དང་གསོད་པ་དང་སྤྱུག་པ - cutting, tearing, killing, banishment), but the sub-topic that opens it at p0292 l.50 names only THREE (བཅད་ཅིང་དྲལ་ལ་གསོད་པ, dropping སྤྱུག་པ). Both translated as written. The discussion is cut off at the chunk boundary, so I cannot see whether banishment is treated below.",
+        "unsure: ཆུ་བོ་ལྟ་བུ་ཉིད་ཡིན་ནོ (p0291 l.11), closing the animal-suffering image in the Sambhāraparikathā verse - rendered literally as 'chính là như dòng sông vậy'. The point of comparison (unceasing flow? being swept along?) is not stated in the Tibetan and I did not supply one.",
+        "unsure: འགྲོ་བ་ཡི་སྒྲིབ་པ in the Suhṛllekha verse (p0291 l.39-41) - rendered 'chướng của loài [ấy]'. The genitive is ambiguous between 'the obscuration belonging to that class of migrator' and 'the obscuration that is being that class of migrator'; the prose gloss below identifies it as རྣམ་སྨིན་གྱི་སྒྲིབ་པ, but I kept the verse uninterpreted rather than importing the commentary's term into the quotation.",
+        "unsure: འདི་ཡི་ at p0291 l.6 (འདི་ཡི་དུད་འགྲོའི་སྡུག་བསྔལ) - rendered 'nơi [cõi] này'. Referent (this world / this human realm) is not fixed by the Tibetan.",
+        "unsure: བདེན་པ་མཐོང་བ rendered 'thấy được chân lý' per the existing provisional glossary entry, but that entry's own note records that བདེན་པ itself has no ruling. Used twice here (verse p0291 l.41 and prose gloss p0291 l.46), so both move together if the ruling changes."
+      ],
+      "translatedAt": "2026-08-25",
+      "sourceHash": "e7ee151b86b7",
+      "outputHash": "4224cae4e26d",
+      "outputBytes": 6290,
+      "runId": "wf_9a0a7f2f-18e",
+      "verify": {
+        "verdict": "clean"
+      }
     },
     {
       "id": "c090",
@@ -3233,8 +3469,23 @@
         273,
         274
       ],
-      "status": "pending",
-      "flags": []
+      "status": "translated",
+      "flags": [
+        "unsure: p0293 verse, འདོད་པའི་འདོད་ཆགས་རིམ་བཏབ་པའི་ནང་གི་མེ. Translated as written - རིམ་བཏབ་པ read as 'laid/piled in layers', hence 'tham ái đối với dục chất chồng lớp lớp'. But རིམས་བཏབ་པ ('stricken by fever') would fit the context better, since the very next citation is about a convalescent eating unsuitable food, and the source elsewhere carries genuine typos. The clean text has རིམ, not རིམས, so the source reading was kept and the alternative is recorded rather than silently adopted.",
+        "unsure: p0293-p0294 verse, line 1-2 གང་ཞིག་གཟུགས་ཅན་གཟུགས་མེད་པའི། །སྡུག་བསྔལ་སྡུག་བསྔལ་ལས་འདས་ཤིང. The genitive པའི sits at the line end and can attach either to the beings ('those of the form and formless [realms], who have transcended khổ khổ') or to the suffering itself ('the khổ khổ of the form and formless'). The second reading is doctrinally odd but is what the syntax most directly gives. Rendered with a bracketed [thuộc] and em-dashes so neither reading is closed off; a definite choice was not made.",
+        "unsure: ཚོགས་ཀྱི་གཏམ rendered *Tư Lương Đàm*, coined from the Tibetan components. Not verified against any existing Vietnamese title for the Sambhāraparikathā, and 'đàm' is uncommon in Vietnamese sūtra/śāstra titles. Needs an owner ruling; if c089 (p0290-0292) cites the same text, the two chunks must be reconciled.",
+        "unsure: p0293 འཁྲུགས་ན in ལྷ་ཆེས་སྟོབས་དང་ལྡན་པ་རྣམས་འཁྲུགས་ན. འཁྲུག་པ covers both 'to quarrel/fight' and 'to be agitated/enraged'. Rendered 'nổi cơn tranh chấp' as the reading that fits the consequence (expelling weaker devaputras), but 'nổi giận' is equally available and the Tibetan does not decide.",
+        "unsure: p0293 རང་གི་གནས་ནས་སྐྲོད་པར་བྱེད་པ - རང་གི་ is not marked for whose abode it is (the expelled devaputras' own, or the powerful gods' own). Rendered 'ra khỏi chỗ ở của mình', which carries the same ambiguity in Vietnamese; no agency was resolved.",
+        "unsure: p0293 འཆི་འཕོ་བ rendered 'chết chuyển', a literal calque. The established Sino-Vietnamese for cyuti in the cyuti/pratisandhi pair would be 'tử một' (殁), but that is opaque to a general reader. Term also appears on p0292, which belongs to c089, so the pair of chunks may diverge until this is fixed."
+      ],
+      "translatedAt": "2026-08-25",
+      "sourceHash": "0853d535b992",
+      "outputHash": "075a2b080d92",
+      "outputBytes": 4336,
+      "runId": "wf_9a0a7f2f-18e",
+      "verify": {
+        "verdict": "clean"
+      }
     },
     {
       "id": "c091",
@@ -3256,8 +3507,28 @@
         275,
         277
       ],
-      "status": "pending",
-      "flags": []
+      "status": "translated",
+      "flags": [
+        "unsure: ཁོང་ཁྲོ་བ (p0295) is the SECOND ROOT AFFLICTION (pratigha) in the canonical list of ten, for which the Vietnamese convention is 'sân'. I used 'phẫn nộ' because glossary.json registers ཁོང་ཁྲོ → phẫn nộ, with a note that 'sân' is deliberately reserved for ཞེ་སྡང. But that entry was set at p0223 for ཁོང་ཁྲོའི་རྒྱུ in a quite different context, and it is only provisional. The collision is live inside THIS chunk: ཞེ་སྡང appears at p0297 ('གཞན་གྱི་ཕྱོགས་ལ་ཞེ་སྡང་འབྱུང'), rendered 'sân hận' per glossary, so the reader now meets 'phẫn nộ' as the root affliction and 'sân hận' as its downstream instance two pages later — arguably backwards. A ruling should settle ཁོང་ཁྲོ་བ / ཞེ་སྡང together, and it will need a retro-sweep.",
+        "unsure: ང་རྒྱལ vs ཁེངས་པ (p0295, p0297). glossary.json assigns 'ngã mạn' to BOTH ང་རྒྱལ and ཁེངས་པ (both provisional; the ང་རྒྱལ entry's own note already records the clash). In this chunk they occur in the same sentence-frame: ང་རྒྱལ་ནི་...སེམས་ཁེངས་པ་སྟེ (p0295) and བདག་ལ་དམིགས་ནས་ཁེངས་པ་ཡང་སྐྱེ (p0297). I kept ང་རྒྱལ = 'ngã mạn' (it is the affliction's name here) and rendered ཁེངས་པ descriptively as 'tâm tự cao' in both places. That departs from the letter of the ཁེངས་པ entry; it needs a ruling.",
+        "unsure: མཚན་ཉིད at p0295 — characteristic or definition. It occurs five times on that page: ཉོན་མོངས་སྤྱིའི་མཚན་ཉིད and སོ་སོའི་མཚན་ཉིད (frame), and three times inside the Abhidharmasamuccaya quotation. The frame uses read most naturally as 'general definition' / 'individual definitions'; the quotation's first use (རབ་ཏུ་མ་ཞི་བའི་མཚན་ཉིད་དུ་འབྱུང) is plainly 'characteristic'. Rather than split one word two ways inside eight lines, I used the glossary headword 'tướng' throughout. decisions.md asks for a flag rather than a silent choice, so: this is flagged, not settled.",
+        "unsure: གཙོ་བོ at p0297. Rendered 'Thắng Tính', i.e. read as the Sāṃkhya pradhāna, because it stands beside དབང་ཕྱུག (Tự Tại Thiên) in a list of non-Buddhist causes of beings — which is the standard pairing. But the Tibetan word alone only means 'the principal one', and the text supplies no gloss. If the reading is wrong, the correct rendering is something plain like 'đấng chủ tể'. Verify before this is fixed in the glossary.",
+        "unsure: གནས་ལུགས → 'thật tánh' (p0297). No glossary entry existed. I avoided 'thật tướng' (collides with མཚན་ཉིད = tướng) and 'bản tánh' (already used for རང་བཞིན in one glossary entry), but 'thật tánh' still sits uncomfortably close to the FIXED རང་བཞིན = 'tự tánh'. Only 11 corpus occurrences, so the cost of changing it later is low — but it should be ruled on rather than inherited.",
+        "unsure: གང་ཟག at p0296 (རྟག་པ་དང་གཅིག་པུའི་གང་ཟག་ནི་མེད་དོ). glossary.json has གང་ཟག = 'hạng người', with an explicit note that it was rendered plainly 'rather than bổ-đặc-già-la; the passage is enumerative, not technical'. Here the use IS technical — the permanent, unitary pudgala denied by hoại tụ kiến — and 'hạng người' would be wrong. I used 'con người'. The glossary needs a second entry (or a fixed-set) covering the technical sense.",
+        "unsure: ཤེས་རབ་ཉོན་མོངས་ཅན rendered 'trí tuệ mang tánh phiền não' five times in a row (p0296-p0297). It is faithful — ཤེས་རབ = trí tuệ is the glossary headword — but it is heavy Vietnamese, and 'trí tuệ' carries a positive charge that the Tibetan phrase is explicitly negating. The compact Sino-Vietnamese 'nhiễm ô tuệ' would read better; I did not use it because it is not licensed anywhere in the glossary. Worth a ruling since the phrase is formulaic and will recur.",
+        "unsure: the verse at the top of p0295 — 'སྲེད་པ་ནི། །ཡོད་ན་སླར་ཡང་འབྱུང་ཕྱིར་རོ།' — does not say WHAT arises again (the Tibetan supplies no subject for འབྱུང). I left the Vietnamese equally unspecified ('nếu có thì lại sinh khởi nữa') rather than supplying '[hữu]' or '[luân hồi]' from the surrounding prose. A reader may find it opaque; that is deliberate.",
+        "unsure: ཕུང་པོ་ལྔའི་རབ་བྱེད → *Ngũ Uẩn Luận* (p0297) is built from the Tibetan components and has NOT been checked against an existing Vietnamese edition. Sole occurrence in the corpus as far as this chunk shows, so nothing else depends on it yet.",
+        "unsure: ཐག་པ་བསྡོགས་པ at p0297, in the rope-and-snake simile. I read བསྡོགས་པ as 'coiled/bundled up' and wrote 'sợi dây thừng cuộn lại'. The reading is not certain — the more familiar form of this simile uses ཐག་པ་ཁྲ་བོ (a mottled rope). It is NOT a decode error: ཐག་པ་བསྡོགས་པ occurs 5× in the corpus (p0103, p0211, p0297, p0800 and elsewhere), so the source is internally consistent and I did not normalise it.",
+        "unsure: source orthography — p0296 writes མ་རིག༌པ and འཇིག༌ལྟས with U+0F0C (the non-breaking tsheg) where an ordinary tsheg is expected. Purely typographic; it changes nothing in the reading, and I did not normalise it. Noted only so a later sweep does not treat it as a new word."
+      ],
+      "translatedAt": "2026-08-25",
+      "sourceHash": "c736b713e183",
+      "outputHash": "5c451c64ecd2",
+      "outputBytes": 6008,
+      "runId": "wf_9a0a7f2f-18e",
+      "verify": {
+        "verdict": "clean"
+      }
     },
     {
       "id": "c092",
@@ -3279,8 +3550,24 @@
         278,
         279
       ],
-      "status": "pending",
-      "flags": []
+      "status": "translated",
+      "flags": [
+        "unsure: p0299 Sūtrālaṃkāra verse line 2, ཉམས་བཅས་རྙེད་པས་དམན་ཞིང་ — the parse is not decisive. ཉམས་བཅས་ may be a separate item ('having deterioration', as translated) or may qualify ཚུལ་ཁྲིམས at the end of line 1 ('giới bị hủy hoại cùng với sự suy tổn'); རྙེད་པས་དམན་ could be 'kém sút về tài lợi' (as translated) or 'thấp kém do những gì thâu được'. Rendered as three coordinated items without committing to a syntactic bracketing.",
+        "unsure: p0299 Sūtrālaṃkāra verse line 4, ཐོབ་དང་མ་ཐོབ་ཉམས་པས — literally 'by the degeneration of the attained and the not-attained'. Translated flatly as 'do suy tổn nơi điều đã đạt và điều chưa đạt'; the usual reading (losing what was gained, and failing to gain what was not) would require supplying a second verb the Tibetan does not write.",
+        "unsure: p0299 ends mid-line inside the last Bodhicaryāvatāra verse — ཕྱིར་ཞིང་སྡུག་བསྔལ་གནོད་པ་ with no finite verb in range. Rendered as 'thì trở lại khổ đau và tổn hại…' without supplying the verb; the completion belongs to the next chunk.",
+        "unsure: འདུ་འཛི at p0298 (third of the six causes) — rendered 'sự tụ hội giao du' on the strength of the text's own gloss (following bad friends), not on the registered འདུ་འཛིའི་གཏམ = 'chuyện tụ hội huyên náo'. The two senses of འདུ་འཛི (noisy bustle / company kept) need one ruling so Phase 5 does not read this as drift.",
+        "unsure: བཤད་པ as the fourth cause at p0298 — rendered 'lời thuyết giảng'. The bare word could also be the act of explaining rather than the teaching heard; the gloss ཆོས་ལོག་པ་མཉན་པ ('listening to wrong dharma') was what settled it, but the list-label itself is bare.",
+        "unsure: p0298 ཕྱོགས་མཚམས་ཀུན་ཏུ་མི་སྙན་པ་འཕེལ་བ — ཕྱོགས་མཚམས is the cardinal-plus-intermediate directions; rendered 'khắp mọi phương và mọi hướng' rather than the Sino-Vietnamese 'bốn phương tám hướng', which would name a count the Tibetan does not give.",
+        "unsure: task instruction conflict — the brief said 'This is NOT part 1 of the section, so do NOT restate the heading', but the sa-bcad heading ཉོན་མོངས་པ་སྐྱེ་བའི་རྒྱུ། physically occurs on p0298 (outline s106 starts here) and chunk c091 ends at p0297, so it was never emitted. Both s106 and s107 headings are therefore included; if the pipeline expects part-2 chunks to omit headings, this needs a reconciliation."
+      ],
+      "translatedAt": "2026-08-25",
+      "sourceHash": "7c7ff0ad3461",
+      "outputHash": "8e081ef1ea90",
+      "outputBytes": 4165,
+      "runId": "wf_9a0a7f2f-18e",
+      "verify": {
+        "verdict": "clean"
+      }
     },
     {
       "id": "c093",
@@ -3303,8 +3590,25 @@
         280,
         282
       ],
-      "status": "pending",
-      "flags": []
+      "status": "translated",
+      "flags": [
+        "unsure: p0301, the Câu-xá citation བསོད་ནམས་འདོད་ཁམས་དགེ་བའི་ལས། །མི་གཡོ་གོང་མ་ལས་སྐྱེས་པའི། ends on a dangling genitive པའི, i.e. the quotation is cut off mid-construction and the line it modifies is not quoted. Rendered literally and closed with an ellipsis ('bất động là cái sinh ra từ [những địa] trên…') rather than completing it from the Kośa. Flagging because the Vietnamese line is therefore syntactically incomplete by design.",
+        "unsure: the section title དེས་ལས་གསོག་པའི་ཚུལ། — the instrumental དེས has no explicit antecedent. Context (the sibling section is ཉོན་མོངས་སྐྱེ་ཚུལ, and p0302's closing sentence has the person under the sway of afflictions as agent) allows either 'by that [affliction]' or 'by that [person]'. Left unresolved as 'Cách thức do đó mà tích tập nghiệp'.",
+        "unsure: p0301, ལས་གཉིས་ཀ་སེམས་པར་བཤད་དོ — 'he explains both karmas as cetanā'. The referent of 'both' could be bodily and verbal karma, or cetanā-karma and cetayitvā-karma. Rendered literally as 'cả hai nghiệp' without choosing.",
+        "unsure: p0301, ཁམས་གོང་མར་ས་གཞན་དུ་སྨིན་རྒྱུའི་ལས། ས་དེ་ལས་གཞན་དུ་མི་སྨིན་པས — read as 'karma that will ripen in a [level] other [than the one where it was created], in the upper realms, does not ripen anywhere other than that level'. The sense would be smoother with ས་གང་དུ ('in whichever level'), and I cannot rule out that ས་གཞན་དུ is what stands in this edition versus a variant reading. Translated as printed.",
+        "unsure: p0302, ཆོས་མཆོག་ཆེན་པོ rendered 'đại đệ nhất pháp'. The recognisable Vietnamese term is 'thế đệ nhất pháp' (世第一法), but that corresponds to འཇིག་རྟེན་པའི་ཆོས་མཆོག and the Tibetan here has no འཇིག་རྟེན་པ, so 'thế' was withheld. A ruling is needed on whether recognisability should win.",
+        "unsure: p0300, མཚན་ཉིད in Gönpawa's four-item list (ཉེས་དམིགས / མཚན་ཉིད / གཉེན་པོ / སྐྱེ་བའི་རྒྱུ) rendered 'tướng' per the glossary headword. Given that the four items track the preceding section structure, 'định nghĩa' is also defensible — this is exactly the case decisions.md says to flag rather than settle silently.",
+        "unsure: p0300 opens by completing c092's last verse line (ཕྱིར་ཞིང་སྡུག་བསྔལ་གནོད་པ་བྱེད). c092 ended '…thì trở lại khổ đau và tổn hại…', so the completion was written as 'mà chúng gây ra' to let the joined Vietnamese sentence parse. This turns the Tibetan predicate ('they cause suffering and harm') into a relative clause; the seam should be checked when c092 and c093 are read together.",
+        "unsure: p0302, the MMK XXVI.10 line མཁས་མིན་དེ་ཉིད་མཐོང་ཕྱིར་རོ read as '[the wise one] is not [a doer], because of seeing suchness', supplying the elided predicate in brackets. An alternative parse takes མཁས་མིན as the subject ('the unwise'), which would reverse the sense; the first reading is required by line 3 and by the Sanskrit's na vidvān, but the Tibetan alone is elliptical."
+      ],
+      "translatedAt": "2026-08-25",
+      "sourceHash": "694300f92dbe",
+      "outputHash": "e1b9d48a4a99",
+      "outputBytes": 6209,
+      "runId": "wf_9a0a7f2f-18e",
+      "verify": {
+        "verdict": "clean"
+      }
     },
     {
       "id": "c094",
@@ -3323,8 +3627,23 @@
         283,
         284
       ],
-      "status": "pending",
-      "flags": []
+      "status": "translated",
+      "flags": [
+        "unsure: རང་དགའ་བ at p0303–p0304 (3×) — rendered 'thuần túy' throughout. No glossary ruling, and two live readings: (a) 'in its own right / unqualified', which is how it pairs with དངོས and with རྗེས་སུ་མཐུན་པ ('not the actual unqualified projecting origin-truth, but concordant with it'), and (b) 'freely, of its own accord, unrestrained', which reads naturally in ཀུན་འབྱུང་རང་དགའ་བར་འགྲོ་བ at p0304. The two converge on a similar Vietnamese here, but the choice was not decisive.",
+        "unsure: ཡང་འབྱུང་བའི་ལུས་དང་ངག་དང་ཡིད་ཀྱིས་ལེགས་པར་སྤྱད་པ at p0304, inside the Nhiếp Quyết Trạch quotation — the genitive ཡང་འབྱུང་བའི་ could attach to ལུས་ངག་ཡིད or to the whole ལེགས་པར་སྤྱད་པ (good conduct that produces renewed existence). Left literal and unresolved ('sự khéo hành trì bằng thân, ngữ và ý thuộc sự sinh khởi trở lại') rather than turned into a claim about what that conduct causes.",
+        "unsure: source spelling མི་ཕྱོགས་བར at p0303 (inside the Nhiếp Quyết Trạch quotation), where the same phrase appears as མི་ཕྱོགས་པ two clauses later on p0304. བར after ས is not the expected suffix form, so this looks like a genuine typo in the edition. Sense is unaffected and it was translated 'không nghiêng về' either way; not normalised, recorded here.",
+        "unsure: ཞིང་གི་མཐུ་ལ་བརྟེན་པ་འགའ་རེ at p0304 — rendered 'nương vào sức mạnh của ruộng', following the glossary's ཞིང = 'ruộng' and c062's 'sức của ruộng'. The referent is very likely the merit-field, but the Tibetan says only ཞིང so no gloss was added, and a reader may not recover it. The glossary's own ཞིང note already asks for a ruling covering both senses.",
+        "unsure: ཀུན་འབྱུང་བའི་བདེན་པ rendered 'tập đế' while bare ཀུན་འབྱུང is kept 'tập khởi' (per c090/c082). Deliberate and it tracks a real difference in the Tibetan, but the same root surfaces two ways inside one chunk; a ruling on བདེན་པ together with ཀུན་འབྱུང would settle it.",
+        "unsure: ཞི་གནས at p0303 rendered 'thiền chỉ' (fixed-set variant for the practice being done, since the clause is བསྒོམ་ན). Only one occurrence in the chunk, so no intra-section stability issue, but the section headword 'tịnh chỉ' would also have been defensible."
+      ],
+      "translatedAt": "2026-08-25",
+      "sourceHash": "7b3cdea83f37",
+      "outputHash": "fc3561bf03ff",
+      "outputBytes": 4170,
+      "runId": "wf_9a0a7f2f-18e",
+      "verify": {
+        "verdict": "clean"
+      }
     },
     {
       "id": "c095",
@@ -3345,8 +3664,23 @@
         285,
         288
       ],
-      "status": "pending",
-      "flags": []
+      "status": "translated",
+      "flags": [
+        "unsure: p0306 ཡ༌ང་བ་མ་སྤངས་པས་འཆི་བ - the third cause of death. The source writes a non-breaking tsheg inside the first word (ཡ༌ང་བ). I read it as ཡ་ང་བ ('dreadful, perilous') and translated 'chết do không đoạn trừ điều nguy hiểm'. Two signals support this and neither is decisive on its own: (a) the non-breaking tsheg is the source's ordinary typesetting device, not a corruption marker - it occurs 1534× in དང༌། and 18× in ་ལ༌ཡང; (b) the near-homograph ཉམ་ང་བ is spelt correctly elsewhere in the corpus (p0236, p0274, p0278, p0339, p0352, p0690), so this is unlikely to be a dropped ཉ. The word occurs nowhere else in the book, so there is no internal check. If it is in fact a defective glyph, the sense ('danger/harm one fails to avoid') would be little changed, but the reading should be confirmed against the page image.",
+        "unsure: p0306 སྨིན་པ་བསྒགས་པ - fifth of the nine causes of untimely death. Translated literally as 'ngăn giữ cái đã chín'. སྨིན་པ = ripened/matured, བསྒགས་པ = blocked/held back, but the Tibetan does not say what is ripened or what is being blocked, and the Vietnamese is correspondingly opaque. The traditional gloss (suppressing a natural urge to eliminate) is NOT in the Tibetan and I did not supply it. Needs a reading, ideally against the sūtra list of nine that the text says it is quoting.",
+        "unsure: p0308 མཛོད་འགྲེལ་ལས། དགེ་མི་དགེའི་སེམས་ནི་རྣམ་པ་གསལ་བས་འཆི་སེམས་འཆད་པར་འགྱུར་བ་དང་མི་མཐུན་པར་གསུངས་སོ། - I read འཆད་པ here as the sense 'be cut off / fade out' (i.e. ཆད་པ), giving 'chẳng tương hợp với sự dứt đoạn của tâm lúc chết'. The other live reading of འཆད་པ is 'to explain/teach', which would yield something quite different. I chose the first because the surrounding paragraph is entirely about the dying mind weakening until only subtle tưởng remains; but this is an inference from context, not from the grammar, and the sentence is the only citation of Câu-xá Thích in the chunk.",
+        "unsure: p0308, chunk end - རྒྱུ་ནི་[A]་དང་[B]་དང༌། [C]་ཏེ་གཉིས་པོ་དེ་ལ་... The Tibetan lists what reads as three items joined by དང and then says 'those two' (གཉིས་པོ). I translated the list as written and kept 'hai điều ấy', treating A+B (craving for a body, and being permeated by delight in prior hí luận) as one member and C (virtuous or non-virtuous karma) as the other. That grouping is my inference and is not marked in the Tibetan. The sentence also breaks across the chunk boundary - བརྟེན་ནས་སོ falls on p0309 - so c096 must open by completing it.",
+        "unsure: བསོད་ནམས་ཀྱི་ལས rendering. glossary.json fixes བསོད་ནམས = 'phúc đức', which would give 'nghiệp phúc đức'. I wrote 'phúc nghiệp' instead, to match translation/c093.md l.59 and c094.md l.11/l.58, which use 'phúc nghiệp' / 'phi phúc nghiệp' for exactly this argument - the sentence I am completing begins in c094. This is deliberate alignment with the immediately adjacent text, not a re-decision, but the two forms now coexist in the corpus and need one ruling.",
+        "unsure: གནད་གཅོད = 'sự cắt đứt yếu huyệt' (3×, p0306-p0307). The established Vietnamese Abhidharma term is the transliterated 'đoạn mạt-ma' (斷末摩, marmaccheda). I chose the descriptive form because the Tibetan itself translates rather than transliterates, and because the corpus has no precedent either way. A central ruling is needed before c096, which continues this section."
+      ],
+      "translatedAt": "2026-08-25",
+      "sourceHash": "fef48e77310c",
+      "outputHash": "2393d8fdaadf",
+      "outputBytes": 8401,
+      "runId": "wf_9a0a7f2f-18e",
+      "verify": {
+        "verdict": "clean"
+      }
     },
     {
       "id": "c096",
@@ -3365,8 +3699,26 @@
         289,
         292
       ],
-      "status": "pending",
-      "flags": []
+      "status": "translated",
+      "flags": [
+        "unsure: བར་དོ vs བར་སྲིད (p0309–p0312) — the source alternates between the two words for one and the same thing, twice within a few lines. Both are rendered 'trung hữu'. Rendering them differently (e.g. trung ấm / trung hữu) would have made p0310–p0311 read as two distinct entities, and the four-hữu enumeration on p0309 forces 'trung hữu' for བར་སྲིད. The Tibetan variation is therefore NOT reproduced in the Vietnamese — a deliberate flattening that a reviewer should confirm.",
+        "unsure: the Kośa verse line སྔོན་དུས་སྲིད་འབྱུང་ཤ་ཚུགས་ཅན (p0309) — rendered 'Mang hình hài của bản hữu sẽ sinh khởi'. It is not certain whether འབྱུང is a relative verb on སྲིད ('the bhava that will arise') or the main verb ('arises, having the form of the pūrvakālabhava'). The sense is the same either way and matches both the prose just above (བར་དོ has the body-form of the destiny it will be born into) and Tsongkhapa's own gloss, but the syntax was not resolved. No subject is stated in the Tibetan line and none was supplied.",
+        "unsure: ཡར་དང་མར་གྱི་མཚམས་མེད་ལ་བར་དོ་མེད་པར་འདོད་པ (p0310) — rendered 'nơi [sự thọ sinh] vô gián lên trên hay xuống dưới'. མཚམས་མེད is read as 'without interval' (immediate rebirth up or down), NOT as ānantarya/the five heinous acts, which glossary.json registers as 'vô gián' / '[tội] vô gián'. The reading is driven by context (the whole paragraph is about which cases lack a bardo), and 'vô gián' was chosen precisely because it preserves the ambiguity of the Tibetan. 'sự thọ sinh' is bracketed as supplied.",
+        "unsure: ཁུ་བ་བསྐ་བ་འབྱུང (p0311) — rendered 'tinh dịch nồng đặc xuất ra'. བསྐ་བ normally means astringent/acrid; what it qualifies about the semen here is not clear, and 'nồng đặc' is a guess at a qualifier, not a verified reading. Flagged rather than dropped.",
+        "unsure: རེ་ལྟར་ཐོགས་ནའང་ཞག་བདུན་དུ་གནས་སོ (p0310) — rendered 'dù có bị trì trệ, [nó] cũng chỉ trụ trong bảy ngày'. རེ་ལྟར is not securely construed; taken as 'at most / however long it is held up'. The seven-day limit itself is unambiguous.",
+        "unsure: the ālaya sentence on p0312 (དེ་ལས་གཞན་པའི་དབང་པོའི་འབྱུང་བ་ཆེན་པོ་ཆ་ཕྲ་བ་དང་འདྲེས་པ་དེ་དང་མཐུན་པའི་ཁུ་ཁྲག་འདུས་པ་དབང་པོ་དང་བཅས་པ་གཞན་འབྱུང་སྟེ). The referents of the two demonstratives (དེ་ལས་གཞན་པ, དེ་དང་མཐུན་པ) are not fixed by the Tibetan; the translation supplies '[khối trước]' and '[đại chủng] ấy' in brackets. A different assignment of the referents is possible and would change what is said to be concordant with what.",
+        "unsure: ཕྱར་བ་ནག་པོ (p0310) — rendered 'tấm dạ đen', taking ཕྱར་བ as a woollen cloth/blanket to parallel སྣམ་བུ་དཀར་པོ two lines later. The parallel with the AK's kṛṣṇaśāṭaka supports it, but ཕྱར་བ was not verified lexically.",
+        "note: no sa-bcad heading falls inside pdf pages 309–312 (outline has s111 at p305 and s112 at p313), so the file carries no Markdown heading. The running enumerations བཞི་པ / ལྔ་པ are the book's own inline numbering of the five sub-topics and are kept as prose ('Thứ năm, …'), not promoted to headings.",
+        "note: the source writes ཕ༌མ༌དངོས (p0311) and ཡན་ལག་མ༌ཚང་བར (p0312) with U+0F0C non-breaking tsheg rather than the ordinary tsheg. Treated as typography, not as a textual variant; nothing was normalised in the reading."
+      ],
+      "translatedAt": "2026-08-25",
+      "sourceHash": "2072d600b2b2",
+      "outputHash": "3d38ee6be63c",
+      "outputBytes": 9095,
+      "runId": "wf_9a0a7f2f-18e",
+      "verify": {
+        "verdict": "clean"
+      }
     },
     {
       "id": "c097",
@@ -3388,8 +3740,24 @@
         293,
         296
       ],
-      "status": "pending",
-      "flags": []
+      "status": "translated",
+      "flags": [
+        "unsure: p0313 བྱ་པ, in the non-restraint list ལུག་གསོད་པའམ་བྱ་པའམ་ཕག་འཚོང (twice on the page). Rendered 'kẻ [làm nghề] gia cầm'. The Tibetan is only 'bird-person' and does not say whether he raises, catches or sells them, so the bracketed word is deliberately vague; the neighbours are explicit (གསོད་པ = giết, འཚོང = bán).",
+        "unsure: p0313 ལྦ་བ་ཅན in དམྱལ་བ་དང་འདྲ་བའི་ཡི་དྭགས་ལྦ་བ་ཅན. Rendered 'ngạ quỷ có bướu' (lba ba = wen/goiter). This is a class-name for a kind of preta and may be a term of art with a settled Vietnamese form; not verified.",
+        "unsure: p0315/p0316 མེར་མེར་པོ, rendered 'phôi'. It is unmistakably the first prenatal stage here (the semen-and-blood into which consciousness first enters), but Tibetan Abhidharma sources disagree on whether མེར་མེར་པོ or ནུར་ནུར་པོ is kalala, so no Sanskrit/Sino-Vietnamese stage-name (kalala / yết-lạt-lam, arbuda / át-bộ-đàm) was asserted. A ruling would let the technical name be restored.",
+        "unsure: p0314 གང་ཟག. Rendered 'bổ-đặc-già-la' in གང་ཟག་གི་བདག་མེད་པ and གང་ཟག་གི་བདག་ཏུ་འཛིན་པ, against the glossary's གང་ཟག = 'hạng người' — whose own note restricts that choice to enumerative, non-technical passages and names 'bổ-đặc-già-la' as the alternative. This passage is the technical pudgalanairātmya, paired with the glossary's ཆོས་བདག་མེད་པ = pháp vô ngã. Needs a ruling.",
+        "unsure: p0316 སྲེད་པ, the eighth link, rendered 'khát ái' to follow the glossary entry (and c094, which uses 'khát ái' for the same word). The conventional Vietnamese name of this link in the twelve-fold list is bare 'ái', and the glossary also carries a second entry སྲེད = 'ái'. The two entries conflict; a ruling should settle whether the limb-name is exempted.",
+        "unsure: the chunk ends mid-phrase at མ་རིག་པའི་འདུས་ཏེ་ (p0316, last words). This is the opening of འདུས་ཏེ་རེག་པ ('contact through conjunction'), but the word རེག་པ falls on p0317, so the fragment was rendered only as 'sự hội hợp của vô minh…' and not completed. The next chunk must pick it up.",
+        "unsure: p0313 མཛོད verse དྲི་དང་གནས་ལ་མངོན་འདོད་གཞན། rendered 'Những [loài] khác thì mong cầu hương và chỗ ở.' གཞན ('the others') is not specified in the verse line itself; the prose immediately after identifies them as the moisture-born and the apparitionally born, but that identification was deliberately left out of the blockquote."
+      ],
+      "translatedAt": "2026-08-25",
+      "sourceHash": "3933413003ef",
+      "outputHash": "d6c103835a09",
+      "outputBytes": 8081,
+      "runId": "wf_9a0a7f2f-18e",
+      "verify": {
+        "verdict": "clean"
+      }
     },
     {
       "id": "c098",
@@ -3410,8 +3778,26 @@
         297,
         300
       ],
-      "status": "pending",
-      "flags": []
+      "status": "translated",
+      "flags": [
+        "unsure: p0318 - the source reads སྲེད་ལེན་དང་སྲེད་པ་མེད་པར་འགྱུར་རོ ('khát ái, thủ và KHÁT ÁI'), repeating སྲེད་པ where the argument requires སྲིད་པ (hữu) — the whole point is that the earlier cause-effect round would then lack the actualizing triad craving/grasping/becoming. Translated as printed with a bracketed note in the body rather than silently corrected. This may be a genuine block-print typo or a decode artefact (ི vs ེ); worth checking the glyph record for p0318.",
+        "unsure: p0317-p0318 - rendering of མངོན་པར་འགྲུབ་པར་བྱེད་པའི་ཡན་ལག / མངོན་པར་གྲུབ་པའི་ཡན་ལག as 'chi năng thành' / 'chi sở thành'. The established Vietnamese (via Xuanzang's Abhidharmasamuccaya, 能生支/所生支) would be 'chi năng sinh' / 'chi sở sinh', but the Tibetan verb is འགྲུབ་པ (thành tựu), not སྐྱེད་པ, and the chunk's own later prose depends on the pair འགྲུབ་བྱེད / གྲུབ་པ staying visibly the same word. A central ruling is needed, because this fourfold grouping recurs.",
+        "unsure: p0318 - inside the A-tỳ-đạt-ma Tập Luận quotation the source names the third category མངོན་པར་འགྲུབ་པར་བྱེད་པའི་ཡན་ལག in the opening list but མངོན་པར་འགྲུབ་པའི་ཡན་ལག in the question that answers it. Both are rendered 'chi năng thành'; the variation is not reproduced in the Vietnamese.",
+        "unsure: p0320 - སཱ་ལུ་ལང་པའི་མདོ. The standard Tibetan title is སཱ་ལུའི་ལྗང་པ (rice sprout); the source has ལང་པ. Translated with the established title *Kinh Đạo Cán* without flagging the spelling in the body.",
+        "unsure: p0320 - རྒ་ཤི་དེ་དག་གི་ཉེས་དམིགས་སུ་གསུངས་སོ. The genitive དེ་དག་གི has no unambiguous antecedent (birth alone, or the actualized limbs generally). Rendered 'lỗi hại của các [chi] ấy', leaving it open; the alternative reading 'lỗi hại của sự sinh' was not chosen.",
+        "unsure: p0317 - ཚོར་བ་ནི་སྐྱེ་བའམ་རྣམ་སྨིན་གྱི་ལོངས་སྤྱོད. Read as 'thọ dụng của sinh hay của quả dị thục', i.e. the genitive governs both members. It could also be read with སྐྱེ་བ as an independent term. The glossary's རྣམ་སྨིན = 'quả dị thục' was used unchanged, which makes the Vietnamese slightly heavy here.",
+        "unsure: p0319 - འདྲེས་པའི་མཚན་ཉིད་ཡིན་ན in the Bổn Địa Phần quotation, rendered 'đã có tướng lẫn vào nhau'. མཚན་ཉིད taken as 'characteristic' (glossary: tướng), not 'definition'; འདྲེས་པ taken as 'mixed/indistinct in nature'. Neither reading is settled by the surrounding text.",
+        "unsure: p0320 - ཁམས་གོང་མ rendered 'các giới trên', following the glossary's ཁམས་གོང་མ་གཉིས = 'hai giới trên'; the source here writes the singular, so the plural 'các' is supplied.",
+        "unsure: p0320 - ཞི་གནས་བསྒོམ་པ rendered 'sự tu thiền chỉ', taking the fixed-set rule 'thiền chỉ where the sense is the practice being done'. It occurs only once in the chunk, so no in-section consistency question arises."
+      ],
+      "translatedAt": "2026-08-25",
+      "sourceHash": "c20b3bed59ef",
+      "outputHash": "d154a81e3538",
+      "outputBytes": 7668,
+      "runId": "wf_9a0a7f2f-18e",
+      "verify": {
+        "verdict": "clean"
+      }
     },
     {
       "id": "c099",
@@ -3434,8 +3820,26 @@
         301,
         304
       ],
-      "status": "pending",
-      "flags": []
+      "status": "translated",
+      "flags": [
+        "unsure: source typo at p0321 - the printed sa-bcad heading reads ཚེ་དུ་ལ་རོགས་པ། but the body two lines later reads གསུམ་པ་ཚེ་དུ་ལ་རྫོགས་པ་ནི།. རོགས is not a word here; རྫོགས (complete) is clearly intended. Translated per the body reading and NOT normalised in the source. (Same page also has བར་མ༌ཆོད་བར for expected བར་མ་ཆོད་པར, with U+0F0C - orthographic variant only, meaning unaffected.)",
+        "unsure: ས་ལུ་ལང་པ (p0323) rendered '*[Kinh] Đạo Cán*' from the Sino-Vietnamese 稻稈經. No existing Vietnamese edition was consulted, and the Tibetan here omits མདོ (present at p0320, which falls in c098 and is not yet translated), so 'Kinh' is bracketed. If c098 fixes a different form, this must be aligned to it - the two are the same title four lines apart across a chunk boundary.",
+        "unsure: ཀུན་འབྱུང split two ways inside this chunk, deliberately but without a ruling. At p0323 the standalone noun (ཀུན་འབྱུང་ལས་དང་ཉོན་མོངས་པའི་དབང་གིས) is 'tập khởi', following c090/c094; at p0324 the truth-pair (སྡུག་བསྔལ་དང་ཀུན་འབྱུང་གཉིས) is 'tập', following c082's heading 'Quán xét qua cửa khổ và tập'. A mechanical Phase 5 sweep will read this as drift.",
+        "unsure: དམ་པ in ཐབས་དམ་པ (p0323) rendered 'chân chính' ('phương tiện chân chính') to follow the glossary's བཤེས་གཉེན་དམ་པ = 'chân chính', deliberately avoiding 'tối thắng' which is reserved for མཆོག (ཐབས་མཆོག, one paragraph earlier at p0322). The Vietnamese reads a little flat; a ruling scoping དམ་པ for non-personal nouns would settle it.",
+        "unsure: གང་ཟག་གི་བདག་མེད (p0321-322) rendered with 'bổ-đặc-già-la', which departs from glossary.json's གང་ཟག = 'hạng người' (provisional). 'hạng người' cannot carry the pudgala-nairātmya idiom, and c039 already uses 'bổ-đặc-già-la' for གང་ཟག inside a quotation. Needs a scoped entry rather than a silent split.",
+        "unsure: སྲེད་པ / སྲེད་ལེན in this chunk rendered 'ái' (and 'ái và thủ'), NOT the glossary's provisional སྲེད་པ = 'khát ái'. Here སྲེད་པ is the eighth of the twelve links and is enumerated beside ལེན་པ and སྲིད་པ (སྲེད་ལེན་སྲིད་པ་གསུམ, p0321), so 'khát ái' would break the countable link-names. The link-name senses are not yet fixed anywhere: c097/c098, which introduce the twelve links, were not on disk when this was written, so 'vô minh / hành / thức / danh sắc / ái / thủ / hữu' here may need aligning to whatever those chunks settle.",
+        "unsure: དྲན་པ་ཕྱོགས་པར་བཞག (p0324, Vinaya citation) rendered 'an trú niệm hướng thẳng'. The usual formula is དྲན་པ་མངོན་དུ་བཞག ('mindfulness set to the fore'); the printed text has only ཕྱོགས་པར་བཞག, with no object. No direction word was supplied, so the Vietnamese trails off where the Tibetan does.",
+        "unsure: རྒྱལ་པོ་ཨུ་ཏྲ་ཡ་ན (p0324) transcribed as 'vua Utrayana' straight from the Tibetan letters, not normalised to Udrāyaṇa/Rudrāyaṇa, and not identified with any established Vietnamese royal name (e.g. Ưu-điền). The story is the painted-image gift, but the Tibetan spelling is what is on the page.",
+        "unsure: heading depth for this chunk is a judgement call. It carries two level-7 sections (s115, s116) that belong to the PREVIOUS division (6.2.3.1.4.2.2, the twelve links) and then opens a level-4 section (s117). Rendered '##' / '##' / '#', so the page begins at '##' before any '#'. The corpus is not consistent here - c083/c090/c091 map the chunk's own top section to '#' regardless of absolute level, while c082/c101 map by absolute level."
+      ],
+      "translatedAt": "2026-08-25",
+      "sourceHash": "97fcbf43a58b",
+      "outputHash": "ff44dc553f1d",
+      "outputBytes": 8480,
+      "runId": "wf_9a0a7f2f-18e",
+      "verify": {
+        "verdict": "clean"
+      }
     },
     {
       "id": "c100",
@@ -3456,8 +3860,26 @@
         305,
         308
       ],
-      "status": "pending",
-      "flags": []
+      "status": "translated",
+      "flags": [
+        "unsure: p0325 སིང་སྐྱུར་ལ་བཏབ་པའི་ཕྱེ་བཞིན་ཁ་ན་ཕར་ཡམ་མེ་བ (Sharawa's simile) - both སིང་སྐྱུར and ཡམ་མེ་བ are hapax legomena in the corpus (grep over source/clean/lamrim.txt: 1 hit each). Only སྐྱུར = 'chua' is secure. Rendered 'như nắm bột rắc lên món sing-kyur [một thức chua], chỉ phơn phớt trên bề mặt'; 'phơn phớt trên bề mặt' is inferred from ཁ་ན ('on the surface') plus the force of the simile, not from a settled reading of ཡམ་མེ་བ.",
+        "unsure: p0326 the source reads བྱང་ཆུབ་དཔའ where the sense plainly requires བྱང་ཆུབ་སེམས་དཔའ (the same sentence's opposing term is ཐེག་དམན, and the very next line writes བྱང་ཆུབ་སེམས་དཔའ་རྣམས in full). Hapax in the corpus - almost certainly a source typo with སེམས་ dropped. Translated 'bồ-tát'; recorded here rather than silently normalised.",
+        "unsure: p0328 ཉེ་དུའམ་སྣག་གི་གཉེན་མཚམས inside the Buddha-quotation carried by Candrakīrti's commentary. སྣག་ in this collocation is a hapax and I could not identify it. Rendered as 'hoặc thân thuộc, hoặc bất kỳ mối liên hệ họ hàng nào' - i.e. ཉེ་དུ and གཉེན་མཚམས are rendered and སྣག་ is left unrendered rather than guessed at (a blood-relation sense would be plausible but is not evidenced).",
+        "unsure: p0327 འགྲོ་བ་མཐའ་དག་གི་རྣམ་པ་ཐམས་ཅད་མཁྱེན་པ་ཉིད་ཀྱི་ནོར་གྱི་ཚོགས་མཐའ་ཡས་པ - the genitive chain does not say whether འགྲོ་བ་མཐའ་དག་གི attaches to the omniscience or to the accumulation of wealth. Rendered 'kho tài bảo vô biên thuộc Nhất Thiết Chủng Trí của hết thảy chúng sinh', which leaves the same attachment open in Vietnamese; deliberately not resolved.",
+        "unsure: p0326 ཡོངས་སུ་འདས་པ་ཆེན་པོ, inside the Kinh Bí Mật Bất Tư Nghì quotation. The Tibetan writes no མྱ་ངན, so it is literally 'the great complete passing-beyond'. Rendered 'đại bát-niết-bàn' because that is the recognisable term for mahāparinirvāṇa, but this supplies a component the quoted Tibetan does not have - a term ruling would be welcome.",
+        "unsure: p0325 ཉེ་བར་ཞི་བ (དེ་རྣམས་ཉེ་བར་ཞི་བ་ལ་ཐོབ་འདོད). glossary.json fixes ཉེ་བར་ཞི་བ as 'cận tịch tĩnh', but that entry is scoped to the ten qualities of a teacher (upaśama). Here the sense is the ordinary pacification of suffering and its origin, so it is rendered 'sự tịch tĩnh của chúng'; ཉེ་བར is not separately rendered.",
+        "unsure: p0325 འབྲིང་གི་ཆོས་སྐོར rendered 'các pháp phần thuộc bậc trung'. ཆོས་སྐོར has no glossary entry and no corpus precedent; 'skor' as a cycle/round of teachings could equally give 'vòng giáo pháp'. Choice made for register, not on evidence.",
+        "unsure: p0327 རྣམ་པ་གཞན་དུ in the Candrakīrti citation - its placement in the clause is not certain (it may qualify the harms, or the manner in which they strike). Rendered 'những tổn hại dưới dạng khác giáng xuống thân và tâm'.",
+        "unsure: the body text numbers this section གསུམ་པ ('thứ ba') while the chunk metadata gives sectionPath 6.2.3.1.6. Translated as printed ('Thứ ba'); the mismatch is between the source's local enumeration and the outline path, not an error in the rendering."
+      ],
+      "translatedAt": "2026-08-25",
+      "sourceHash": "b703298d5007",
+      "outputHash": "fcc7aefafb1d",
+      "outputBytes": 9596,
+      "runId": "wf_9a0a7f2f-18e",
+      "verify": {
+        "verdict": "clean"
+      }
     },
     {
       "id": "c101",
@@ -3478,8 +3900,23 @@
         309,
         310
       ],
-      "status": "pending",
-      "flags": []
+      "status": "translated",
+      "flags": [
+        "unsure: ཉུང་མ་ཕོ་ཤ at p0330 - the third kind of radish the mother offers. ཕོ་ཤ occurs nowhere else in source/clean (checked all 978 pages; only this one hit), and I could find no reading for it that two independent signals support. The sequence around it is གཤེར (fresh/moist) → སྐམ་པོ (dry) → ཕོ་ཤ → བཙོས་འཁེངས (boiled), which suggests a preparation or variety, but that is inference from position only. Left untranslated in the body as '*pho sha* [nghĩa không rõ]', following the c073 precedent for bsnyems pa. Needs a Tibetan-dialect check.",
+        "unsure: རང་བཞིན in the section headword ཐར་པར་བགྲོད་པའི་ལམ་གྱི་རང་བཞིན་གཏན་ལ་དབབ་པ (p0329, twice - the heading and the བཞི་པ line). glossary.json fixes རང་བཞིན = 'tự tánh' (svabhāva), and I used it because the entry is status 'fixed' and must not be re-decided mid-book. But the sense here is the character/nature of a path, not svabhāva in the Madhyamaka sense the fixed entry was decided for, and 'tự tánh của con đường' reads oddly in Vietnamese where 'thể tánh' or 'bản chất' would be natural. This is a section heading of a 25-page division, so the choice propagates to c102-c107. Needs a central ruling on whether the fixed entry admits this non-svabhāva sense.",
+        "unsure: source typo དེ་ཡོ for དེ་ཡང, three occurrences on p0330 (དེ་ཡོ་ཉུང་མ་ཡིན་ཟེར་ལོ, and དེ་ཡོ་སྡུག་བསྔལ་ཡིན in the final sentence). This is the exact typo FINDINGS.md §8.6 records as genuine to the source, and the parallel clauses beside it (དེ་ཡང་འཇིག་རྟེན་ཡིན, twice) confirm the intended word. Translated as 'cũng' on that reading rather than normalised or guessed at differently, but recording it so the reading is visible rather than silent.",
+        "unsure: བདེར་རློམ་སྨོན་པ་ལགས་པར་སྙམ, last line of the Jagatamitra verse at p0329. Rendered 'Vẫn tự cho là an lạc, nghĩ rằng [ấy] là điều đáng mong cầu' - taking བདེར་རློམ as 'presuming [it] to be happiness' and སྨོན་པ་ལགས་པར་སྙམ as 'thinking [it] is something to be aspired to'. An alternative parse makes སྨོན་པ the subject ('we think we are aspirants, presuming this happiness'), which would change who the honorific ལགས་པ attaches to. The verse gives no further context to decide, so no interpretive expansion was added either way.",
+        "unsure: འཇིག་རྟེན་གནས་པ in the Saptakumārikā verse (p0330), rendered 'sự tồn tại của thế gian'. It could equally be read as 'those abiding in the world', i.e. worldly beings, which the parallel third line (འགྲོ་བ་འདི་དག) would support. Kept the non-personal reading because the simile compares it to a moon-reflection wavering, and because the prose gloss that follows expands it as སྣོད་བཅུད་ཀྱི་འཁོར་བ - the saṃsāra of world and beings - rather than beings alone. Not decisive.",
+        "unsure: ཞིང་ཁོ་མ་མགུ་ནས at p0330 - I read ཁོ as the child (he, displeased, says 'that too is a radish'), which is what makes the simile work as Tsongkhapa then applies it. But the mother is the other candidate for the pronoun and the Tibetan does not disambiguate. Translated as the child; flagging rather than presenting it as settled."
+      ],
+      "translatedAt": "2026-08-25",
+      "sourceHash": "ffc6ce6bfd3c",
+      "outputHash": "ef57d96f9c62",
+      "outputBytes": 4882,
+      "runId": "wf_9a0a7f2f-18e",
+      "verify": {
+        "verdict": "clean"
+      }
     },
     {
       "id": "c102",
@@ -3500,8 +3937,23 @@
         311,
         313
       ],
-      "status": "pending",
-      "flags": []
+      "status": "translated",
+      "flags": [
+        "unsure: དཔྱས་མེད at p0333 (Saptakumārikāvadāna verse, line དཔྱས་མེད་ཁྱིམ་ནས་ཁྱིམ་དུ་ནི) — rendered 'chẳng chút chê bai' from དཔྱས་པ = to deride/censure, but it may instead mean 'without selecting/discriminating between houses', which the alms-round context supports just as well. The two readings give different Vietnamese. Not resolved by preference; flagged.",
+        "unsure: ཁྱིམ་པ — glossary.json registers 'hàng cư sĩ' (status provisional), and that entry's own note argues 'hàng tại gia' would be better precisely because ཁྱིམ་པ here is the householder as opposed to the ordained. This chunk is that exact case (ཁྱིམ་པའི་སྐྱོན contrasted with རབ་ཏུ་བྱུང་བའི་ཡོན་ཏན, p0332). I used the registered 'hàng cư sĩ' per the no-re-deciding rule, but 'hàng cư sĩ' sits awkwardly beside 'sống tại gia' (ཁྱིམ་ན་གནས་པ, a different Tibetan phrase) in the same paragraph. Needs the ruling the entry already asks for.",
+        "unsure: ཆོས་ཀྱི་ལས at p0333 rendered 'Nghiệp của Pháp' because ལས is fixed = 'nghiệp'. The sense in this verse is plainly 'the activity/work of Dharma' (contrasted with ཁྱིམ་གྱི་དོན, the household's business), and 'nghiệp' carries doctrinal freight the line does not intend. Kept per the fixed entry rather than silently overriding it.",
+        "unsure: རང་ལོག་མ་བྱུང / རང་ལོག་མི་འོང in Potowa's saying, p0332 — the Tibetan does not name what fails to turn back (the wandering itself, or the person). Rendered agentlessly ('vẫn không tự dứt … cũng sẽ chẳng tự dứt') rather than resolving it.",
+        "note: the Suhṛllekha eight-non-leisures verse is printed twice in the book and the two printings differ slightly — p0111/p0112 has ཀླ་ཀློར་སྐྱེ་བ་གླེན་ཞིང and བརྙེས་ནས, p0331 has ཀླ་ཀློར་སྐྱེ་དང་གླེན་ཞིང and རྙེད་ནས. Meaning is unaffected; I reused c035's existing Vietnamese verbatim so Phase 5 sees one rendering. Recording the source variance so it is not later mistaken for a decode drift.",
+        "note: p0333 prints སློངས་མོ where the standard spelling is སློང་མོ. Translated as written; not normalised."
+      ],
+      "translatedAt": "2026-08-25",
+      "sourceHash": "4b6c22fe9a05",
+      "outputHash": "eed9b7827a7d",
+      "outputBytes": 7134,
+      "runId": "wf_9a0a7f2f-18e",
+      "verify": {
+        "verdict": "clean"
+      }
     },
     {
       "id": "c103",
@@ -3520,8 +3972,25 @@
         314,
         315
       ],
-      "status": "pending",
-      "flags": []
+      "status": "translated",
+      "flags": [
+        "unsure: p0334 ནེ་ཙོ་ལྟར་ལང་བ - the source reads ལང་བ (U+0F63 U+0F44 ...), not ལྗང་བ 'green'. 'mọc lên như vẹt' is not meaningful, and the expected reading is parrot-green dūrvā grass. Translated as printed with the colour word bracketed: 'nơi mọc lên như [sắc] vẹt'. NOT normalised.",
+        "unsure: p0334 སྨན་ལོངས (prose and verse) is probably སྨན་ལྗོངས 'herb valley/meadow'. Related to the flag above: ལྗོངས occurs 0 times and ལྗང 0 times in the whole of source/clean/, which suggests a dropped subjoined ja (U+0F97) rather than two coincidental typos. This is an extraction question, not a translation one - worth a check against the rendered page before Phase 5. Rendered 'bãi cỏ thuốc', which works under either reading.",
+        "unsure: p0335 འདུད་པའི་ལས, the fourth member of the Ugra sūtra's list of monastic acts. Rendered literally 'yết-ma đảnh lễ' as printed. It may be a source error for འདུན་པའི་ལས (chanda - the consent an absent monk sends), which is the member normally listed with saṃghakarman / poṣadha / pravāraṇā. Not normalised, per the rule on genuine typos.",
+        "unsure: p0335 Sharawa's saying - the Tibetan does not say WHO thinks 'a, xuất gia sung sướng thay!' after the well-robed monk walks past the busy householders. It reads most naturally as the householders (whose propensities are thereby planted), but ཨ་རེ་སྐྱིད་སྙམ་ནས has no stated subject. Kept agentless in Vietnamese ('[khiến] khởi lên ý nghĩ...') rather than resolving it.",
+        "unsure: p0335 ཁྱིམ་པ rendered 'người tại gia' / 'vị Bồ-tát tại gia', NOT the glossary's provisional 'hàng cư sĩ'. That entry's own note recommends 'hàng tại gia' because 'cư sĩ' is the conventional Vietnamese for དགེ་བསྙེན (upāsaka), which the glossary renders 'cận sự nam'. Here ཁྱིམ་པ is simply the householder opposed to the ordained, which is the whole point of the section. A ruling is needed; this is a deliberate departure, flagged rather than silent.",
+        "unsure: p0335 ཕས་བུ་གསོས་བྱ་བ་ཡིན in Chekawa's saying - an idiom ('only then is it called the father having raised the son'), presumably meaning the teacher's effort has finally borne fruit. Rendered as the bare image with no explanation added, since the text supplies none.",
+        "unsure: p0335 verse line འཚོ་བའི་འཇིག་རྟེན་གནས་འདྲ་བར - I read གནས as the abiding of the living world, matched against the prose gloss just above (waves' arising-and-perishing ~ one's own body and life). 'གནས' could instead be construed with the preceding clause. Rendered 'sự an trú của thế gian đang sống'.",
+        "unsure: title *Thí Dụ về Bảy Đồng Nữ* (གཞོན་ནུ་མ་བདུན་གྱི་རྟོགས་བརྗོད) is fixed here for the first time, but the same title also appears at p0333, inside c102 (part 1/2 of this same section, translated in this batch). If c102 chose differently the two must be reconciled."
+      ],
+      "translatedAt": "2026-08-25",
+      "sourceHash": "0b459cfbdb1a",
+      "outputHash": "23fda469d0b8",
+      "outputBytes": 4485,
+      "runId": "wf_9a0a7f2f-18e",
+      "verify": {
+        "verdict": "clean"
+      }
     },
     {
       "id": "c104",
@@ -3542,8 +4011,26 @@
         316,
         317
       ],
-      "status": "pending",
-      "flags": []
+      "status": "translated",
+      "flags": [
+        "unsure: ཚུལ་ཁྲིམས་དག་དང་ཤེས་རབ་བསམ་གཏན་གྱིས at p0336 l.5 (Suhṛllekha verse) - དག is ambiguous between the adjective 'pure' and a plural/metrical particle after ཚུལ་ཁྲིམས. Rendered 'giới thanh tịnh'; if དག is only filling the 9-syllable line, the correct reading is bare 'giới'. The following line's དྲི་མེད་པ (of nirvāṇa) makes 'pure' plausible but does not settle it.",
+        "unsure: གནས་བཞི་བདེ་དང་ལྡན་པ at p0337 l.5 - parse is undecided between 'endowed with the bliss OF the four abidings' and 'endowed with the four abidings AND bliss'. Rendered as the former ('hội đủ bốn chỗ an trú an lạc'). The commentary that would settle it explains only the six limbs of ethics before the page ends, so the gloss falls in the next chunk; whoever translates p0338 must check back and align this line.",
+        "unsure: བཞི་པོ་ཡི་ནི་རྣམ་པ་བཞི (p0337 l.5, third line of the Brahmaparipṛcchā verse) is opaque without its commentary - 'the four X of the four' names nothing the chunk supplies. Rendered literally as 'Bốn loại của bốn [pháp] ấy' with [pháp] bracketed. I did NOT supply 'four aspects of the four truths', which is the obvious doctrinal completion and exactly the fabrication the quotation rule forbids.",
+        "unsure: སའི་དངོས་གཞི (p0337 l.1 and l.3, twice) - glossary.json carries TWO conflicting provisional renderings for this same title, 'Bổn Địa Phần' (p0167) and 'phần chính văn của bộ *Địa*' (p0235). I used 'Bổn Địa Phần', which the corpus overwhelmingly prefers (c050 ×3, c051 ×2, c052, c053 ×2, c073 ×2, c074, c075) against a single c072 use of the other form. This is a pre-existing conflict, not a new one; it needs one central ruling plus a sweep of c072.",
+        "unsure: རང་བཞིན in བསླབ་པ་གསུམ་གྱི་རང་བཞིན (p0337 l.5) - glossary.json fixes རང་བཞིན = 'tự tánh' (svabhāva, count 799), so I used it, but here the word is the ordinary 'nature/character of the three trainings', not the technical svabhāva of the emptiness chapters. 'Tự tánh của ba môn học' reads acceptably in Sino-Vietnamese register, but a fixed entry was applied to a non-technical use; the entry may need an exemption note.",
+        "unsure: དྲི་མེད་པ describing nirvāṇa in the Suhṛllekha verse (p0336 l.5) - rendered 'không cấu nhiễm', following the abstract-use side of the split that glossary.json's དྲི་མ entry itself records as UNRULED (abstract 'không cấu nhiễm' vs concrete 'cấu bẩn', with 'vô cấu' noted as the standard compact form). Inside a verse the compact 'vô cấu' may be preferable; I did not decide it.",
+        "unsure: p0337 ends mid-word at མ་སྨད་ (the start of མ་སྨད་པ, 'unreproached'), with the clause's main verb still to come on p0338. I closed with 'thì [chỉ rõ] … không bị chê trách…' rather than guessing the predicate. The next chunk must re-open this sentence.",
+        "unsure: མཉམ་པར་བཞག་པ rendered 'an trú trong định' - no precedent anywhere in translation/, and it appears 22 more times in source/clean, concentrated in the śamatha division. Whatever is chosen here effectively fixes those; 'đẳng dẫn' (等引) is the alternative that would keep samāhita apart from ཏིང་ངེ་འཛིན = định. This should be ruled centrally before the śamatha chunks run.",
+        "unsure: the opening fragment of p0336 is only མཆོག་ཏུ་གསུངས་ལ - the noun རྟེན it completes sits on p0335, outside my range. I supplied '[thân y]' in brackets (per the glossary's རྟེན = 'thân y') so the Vietnamese parses; if c103's closing line already names the noun, the bracket may become redundant."
+      ],
+      "translatedAt": "2026-08-25",
+      "sourceHash": "4609684a2ec3",
+      "outputHash": "49445ca10fd3",
+      "outputBytes": 4455,
+      "runId": "wf_9a0a7f2f-18e",
+      "verify": {
+        "verdict": "clean"
+      }
     },
     {
       "id": "c105",
@@ -3564,8 +4051,27 @@
         318,
         321
       ],
-      "status": "pending",
-      "flags": []
+      "status": "translated",
+      "flags": [
+        "unsure: p0340 verse line དེ་ནི་དེ་ལས་སྡུག་བསྔལ་གཞན་དབང་འཐོབ — parsed as 'chuốc lấy khổ đau và sự lệ thuộc kẻ khác' (སྡུག་བསྔལ + གཞན་དབང as two things obtained). It could equally be read 'chịu những nỗi khổ khác từ đó' (སྡུག་བསྔལ་གཞན = other sufferings) with དབང་འཐོབ as the verb. Not resolvable from the line itself.",
+        "unsure: p0340 སྨིག་ཚལ་བྲེགས་པས་ཨ་མྲའི་ཚལ་ཉམས་བཞིན — rendered 'như vườn xoài lụi tàn vì bụi lau bị phát trụi'. སྨིག་ཚལ taken as a reed/bamboo thicket; the syllable also carries the 'mirage' sense (cf. glossary སྨིག་རྒྱུ = quáng nắng), and the simile's real referent (what small act ruins what large thing) is not stated in the text.",
+        "unsure: p0341 title ཚུལ་ཁྲིམས་ཡང་དག་པར་ལྡན་པའི་མདོ rendered *Kinh Tương Ưng Giới*, following the glossary's ཡང་དག་པར་ལྡན་པའི་ལུང = Tương Ưng A-hàm (samyukta). If ཡང་དག་པར་ལྡན་པ is instead the plain 'rightly endowed with', the title should be *Kinh Đầy Đủ Giới Chân Chánh*. The glossary's own entry for that phrase is marked NOT verified.",
+        "unsure: p0339 title དགེ་སློང་ལ་རབ་ཏུ་གཅེས་པའི་མདོ rendered literally as *Kinh Điều Rất Đáng Quý Trọng Đối Với Tỳ-kheo*; no Vietnamese or Sanskrit equivalent verified.",
+        "unsure: p0339 the text cites དཔུང་བཟང་གིས་ཞུས་པའི་རྒྱུད — explicitly རྒྱུད (tantra), whereas the glossary registers the work as *Kinh Diệu Tý Thỉnh Vấn* (kinh). Rendered here as *Mật tục Diệu Tý Thỉnh Vấn* to follow the Tibetan; a ruling is needed on whether the registered title keeps 'Kinh' in every citation.",
+        "unsure: p0341 རིགས་དང་བྲལ་ཞིང — rendered 'lìa khỏi dòng dõi' (family/birth sense, as in the glossary's རིགས་སྐྱེས་པའི་མི). The registered bare རིགས = 'chủng tánh' (gotra) would give a different claim; the sūtra line supplies no qualifier either way. This is the exact ambiguity already flagged on the རིགས entry.",
+        "unsure: terminology collision inside this chunk — རིགས་པ (p0338, aspect of the truth of the path) and གཏན་ཚིགས (p0341, 'taught together with the reason') both come out as 'chánh lý' because both are so registered. Two distinct Tibetan words are now indistinguishable in Vietnamese within four pages.",
+        "unsure: p0339 ཁས་བླངས་ནས་མ་བསྲུངས་ན and བསླབ་པ་ཁས་བླངས་པ — rendered 'thừa nhận' per the glossary entry ཁས་བླངས་པ = thừa nhận, but that entry was made for the refuge context; here the sense is undertaking/vowing the precepts, where 'thọ nhận' would read more naturally. Wording kept; a ruling is owed.",
+        "unsure: p0338 སྐྱེས་བུ་འབྲིང་གི་ལམ་རང་དགའ་བ་ལ་འཁྲིད་ན — རང་དགའ་བ rendered 'một cách độc lập' (guiding on the middling path as a self-contained course). Idiomatic; could also be read 'theo ý riêng / tùy thích'.",
+        "unsure: the chunk's first paragraph (pre-heading text on p0338) completes a sentence and an enumeration that began on p0337, which lies in c104's page range. The opening clause 'hai điều — đủ nghi quỹ và đủ hành cảnh' is supplied from p0337 so the sentence parses; c104 will translate that clause too, so the two chunks must be reconciled at merge."
+      ],
+      "translatedAt": "2026-08-25",
+      "sourceHash": "3e90afec9942",
+      "outputHash": "842904550822",
+      "outputBytes": 8416,
+      "runId": "wf_9a0a7f2f-18e",
+      "verify": {
+        "verdict": "clean"
+      }
     },
     {
       "id": "c106",
@@ -3584,8 +4090,25 @@
         322,
         325
       ],
-      "status": "pending",
-      "flags": []
+      "status": "translated",
+      "flags": [
+        "unsure: བལྡབ at p0344, in Sharawa's saying (འདུལ་བ་ནས་ཇི་ལྟར་འབྱུང་བ་ལ་བརྟེན་ན་བལྡབ་ཀྱང་མི་དགོས་པ). The verb is not clearly identifiable — most plausibly ལྡབ་པ 'to fold/repeat', hence rendered 'chẳng cần phải lặp lại'; but བསླབ ('to train') is orthographically close and the source is known to carry genuine typos. The sense of the clause is not settled.",
+        "unsure: ཅ་འབྱིད at p0344, twice in Geshé Tönpa's saying (འདུལ་བ་ལ་བརྟེན་ནས་སྔགས་ཅ་འབྱིད). Colloquial Central Tibetan; not in the glossary and not resolvable from the passage alone. Rendered 'gạt bỏ' because the contrast with the following 'Luật là trợ bạn của mật chú' requires a negative verb, but the exact force (reject / refute / dismantle) is a guess constrained only by context.",
+        "unsure: འདུན་མའི་ཞབས at p0345, in Atiśa's account of Vikramaśīla. ཞབས taken as the concluding part of the deliberation ('phần kết của cuộc nghị bàn'), giving 'the closing of the council is conducted by a Vinaya-holder'. ཞབས could instead mean the support/base of the deliberation, which would make the Vinaya-holder its foundation rather than its concluding authority. The two readings differ in what authority is being claimed.",
+        "unsure: where Neusurpa's quotation ends at p0345. The quotation is closed by གསུང་བ་ལྟར་ཡིན་པས ('since it is as he said'), after which the practical instruction beginning སྔར་བཤད་པ་ལྟར reads as Tsongkhapa's own — but that instruction ends with གསུང་ངོ ('he said'), which pulls it back into reported speech. Translated without attributing it to either, closing with a bracketed '[ngài] dạy như vậy'.",
+        "unsure: numeral scale at p0342 (བསྐལ་པ་བྱེ་བ, སངས་རྒྱས་བྱེ་བ་ཁྲག་ཁྲིག). Rendered 'ức kiếp' and 'ức triệu chư Phật' following c016's 'ức triệu' for the same compound, but the corpus is already inconsistent for bare བྱེ་བ: c050/c066 use 'câu-chi', c036/c072 use 'mười triệu'. One ruling is needed; nothing in this chunk settles it.",
+        "unsure: ལས་ཀྱི་ཆོ་ག at p0343 rendered 'nghi quỹ yết-ma'. The Sino-Vietnamese 羯磨 is the established term for karman in the monastic-procedure sense, but the Tibetan writes only ལས ('action'), so 'yết-ma' imports a technical identification the words do not force. A literal 'nghi quỹ của các nghiệp sự' would be safer but obscure.",
+        "unsure: ཁྱིམ་པ used attributively at p0343 (སྔགས་པ་ཁྱིམ་པ). glossary.json registers ཁྱིམ་པ = 'hàng cư sĩ' (provisional, with its own note flagging a collision), which is a noun phrase; 'hành giả mật chú là cư sĩ' keeps that word rather than switching to the more natural 'hành giả mật chú tại gia'. The wording is deliberately awkward to avoid re-deciding a registered term.",
+        "unsure: བྲི་ཀཱ་མ་ལ་ཤཱི་ལ at p0345 is spelt with ཀཱ, whereas glossary.json records the form བྲི་ཀ་མ་ལ་ཤཱི་ལ (plain ཀ) from an earlier chunk, itself already noted there as a variant of Vikramaśīla. Rendered 'Vikramaśīla' in both cases; the orthographic difference is in the source, not introduced here."
+      ],
+      "translatedAt": "2026-08-25",
+      "sourceHash": "ea97e91f921a",
+      "outputHash": "b8f2ca08faef",
+      "outputBytes": 9127,
+      "runId": "wf_9a0a7f2f-18e",
+      "verify": {
+        "verdict": "clean"
+      }
     },
     {
       "id": "c107",
@@ -3604,8 +4127,24 @@
         326,
         329
       ],
-      "status": "pending",
-      "flags": []
+      "status": "translated",
+      "flags": [
+        "unsure: p0347 སྐེ་ཅུ་ཅུ་བྱས་པ in Langri Thangpa's saying — idiom not identified (སྐེ = neck; ཅུ་ཅུ occurs nowhere else in the corpus). Left transliterated in the body as *ske cu cu* [nghĩa không rõ], following c101's *pho sha*.",
+        "unsure: p0346 སོ་ཚིགས་བྱེད in Puchungwa's saying — rendered 'nghiến răng [chống trả]' from སོ = tooth; the compound occurs nowhere else in the corpus and the reading is not decisive.",
+        "unsure: p0346 Bodhicaryāvatāra line ཉོན་མོངས་འཇོམས་བྱེད་མ་གཏོགས་སོ — the མ་གཏོགས construction. Rendered 'thì được trừ ra — [ấy là thứ] diệt trừ phiền não', i.e. the affliction-like resolve that destroys afflictions is exempted. An alternative parse ('except for the destroyer of afflictions') is grammatically open; no interpretive gloss was absorbed from the surrounding commentary.",
+        "unsure: p0346 Bodhicaryāvatāra line ཉོན་མོངས་ཉོན་མོངས་ཤེས་རབ་མིག་གིས་སྤང — the doubled ཉོན་མོངས. Rendered as emphatic repetition ('Phiền não, phiền não —'); it could instead be object + qualifier ('the afflictions are abandoned by the eye of wisdom that knows afflictions').",
+        "unsure: p0347 ཉི་མ་གཅིག་ལ་ལན་དུ་ཕྲད་ཀྱང — ལན་དུ standing alone. Everywhere else in the corpus the idiom is ལན་དུ་མར ('many times'), so this may be the source dropping མར; translated as 'gặp [ngài] mấy lần'. Not normalised, only flagged.",
+        "unsure: p0349 Udānavarga line སྐྱེ་བོ་བྱིས་པ་བསམ་བརླག་ཡིན — rendered 'là hạng phàm phu ấu trĩ, ý nghĩ hư hoại'. Whether བསམ་བརླག is predicated of the fool himself (his purpose is ruined) or transitive (he ruins [others'] purpose) is not settled by the Tibetan.",
+        "note: the chunk ends inside the Jātakamālā verse (ཡིད་ལ་ཆོས་དང་འགལ་ breaks at the page edge). Only the fragment present on p0349 was rendered, marked with ellipses; c108 must complete it."
+      ],
+      "translatedAt": "2026-08-25",
+      "sourceHash": "7b18a9507d6c",
+      "outputHash": "a171cca9b80c",
+      "outputBytes": 9222,
+      "runId": "wf_9a0a7f2f-18e",
+      "verify": {
+        "verdict": "clean"
+      }
     },
     {
       "id": "c108",
@@ -3624,8 +4163,26 @@
         330,
         333
       ],
-      "status": "pending",
-      "flags": []
+      "status": "translated",
+      "flags": [
+        "unsure: p0350 Suhṛllekha verse, first word དབང་ཕྱུག. Taken as a vocative addressing the king ('Thưa đấng Tự Tại'), which is how the Suhṛllekha addresses its recipient throughout and matches the glossary's རིགས་པའི་བདག་ཉིད entry for the same slot at p0098. But the word could instead be read as attaching to what follows, and nothing in the surrounding prose disambiguates it. If the vocative reading is wrong the line's subject changes.",
+        "unsure: p0350 Suhṛllekha verse reads བདེར་གཤེགས་ཀྱི (genitive), not ཀྱིས (instrumental). Kept as genitive — 'con đường độc nhất phải đi của đấng Thiện Thệ' — rather than resolving it into 'được đấng Thiện Thệ chỉ dạy', which would be the instrumental reading and would assert agency the source does not write. Note this may be one of the source's typos (ཀྱི for ཀྱིས); not normalised.",
+        "unsure: p0353 Śiṣyalekha verse, ཁུར་ལ་མི་རྩེག༌ས་ཡིས. The source has U+0F0C (tsheg bstar, the non-breaking delimiter) between རྩེག and ས, which is anomalous here. Read as མི་རྩེག + ས་ཡིས ('by the earth'), which parses and fits འཇིག་རྟེན་འདེགས་པ ('supports the world'); rendered literally as 'đất kia chẳng chồng chất nơi gánh nặng mà nâng đỡ cả thế gian'. The sense of ཁུར་ལ་མི་རྩེག is not certain — it may mean 'is not oppressed by the load' ('chẳng nề hà gánh nặng'), which is a different claim. Left literal rather than smoothed.",
+        "unsure: p0352 heading སྐྱེས་བུ་ཆེན་པོའི་ལམ་གྱི་རིམ་པ་ལ་བློ་སྦྱང་བ། is a real printed heading (own line, blank line after, exactly the p0135 layout) but has NO entry in source/outline.json — the outline flattens everything from p135 to p968 under 6.2.3.1, so none of the three capacity-divisions is an outline section. I set it as '##' by analogy with c042's rendering of the parallel 6.2.3.1 heading. The level is inferred; the PDF is not on this machine, so I could not check its size/centring. This also means chunk c108 straddles a major division boundary that the chunker did not see.",
+        "unsure: མཁས་པ at p0353 (twice: prose 'མཁས་པ་ཞེས་ཀྱང་དེ་ལ་བྱ' and the closing verse 'མཁས་པའང་དེ་དག'). Rendered 'bậc trí'. glossary.json's provisional entry gives nominal མཁས་པ = 'bậc học giả' (paṇḍita, scoped to the ཀུ་ས་ལི contrast at p0106) — but here the word means 'the wise', paired with སྐྱེས་བུ, and 'bậc học giả' (scholar) would misstate it. Followed instead the corpus precedent in translation/c042.md, which renders མཁས་པ་ཡིན in the Catuḥśataka verse as 'bậc trí'. The entry needs the same nominal-sense split it already got for the adjectival sense.",
+        "unsure: p0352 Pāramitāsamāsa verse, ལས་ཀྱི་དམ་པ་གཞན་དོན་དགའ་བོར་ཞིང. Parsed as 'taking benefiting others — the supreme of deeds — as a delight', with the following line as the rhetorical consequence. An alternative parse makes དགའ་བོ a further object rather than a predicate. Rendered on the first reading; the second would not change the doctrinal point but would change the sentence shape.",
+        "unsure: p0353 Śiṣyalekha verse, རླབས་ཆེན་རྟ rendered 'những cỗ ngựa hùng vĩ'. རླབས་ཆེན is literally 'great waves'; as a modifier it conventionally means magnificent/vast, and the sun's horse-team is the referent. Rendered on that reading rather than coining a literal 'ngựa sóng lớn'.",
+        "unsure: p0350 Suhṛllekha verse, བསྲུང་བགྱི. བགྱི is the humble/polite auxiliary; rendered as a neutral exhortation ('hãy dốc sức mà phòng hộ'), which drops the register marker. Vietnamese has no clean way to carry a humilific auxiliary inside a verse line addressed to a king without adding words the Tibetan does not have.",
+        "unsure: the chunk closes mid-line — p0353 ends at མཁས་པའང་དེ་དག and the copula ཡིན opens p0354. I supplied Vietnamese 'là' so the line parses, marked with an ellipsis. c109 begins its section at p0354, so the remainder of this Śiṣyalekha verse and its ཞེས་སོ falls into c109's page range but not into its section — worth checking that it is not dropped at the seam."
+      ],
+      "translatedAt": "2026-08-25",
+      "sourceHash": "d512823657a6",
+      "outputHash": "758bb701136a",
+      "outputBytes": 10305,
+      "runId": "wf_9a0a7f2f-18e",
+      "verify": {
+        "verdict": "clean"
+      }
     },
     {
       "id": "c109",
@@ -3646,8 +4203,29 @@
         334,
         337
       ],
-      "status": "pending",
-      "flags": []
+      "status": "translated",
+      "flags": [
+        "unsure: title collision — the glossary fixes སྡོང་པོ་བཀོད་པ as 'Gaṇḍavyūha' with an explicit note that there is no 'Kinh' prefix (cited at p0357 without མདོ, as at p0078), but the translated corpus reads '*Kinh Gaṇḍavyūha*' in all four existing occurrences (c022 l.30, c023 ll.92/107, c025 l.23). I followed the glossary and wrote '*Gaṇḍavyūha*'. A ruling plus a corpus sweep is needed either way.",
+        "unsure: title collision — the glossary fixes ལག་ན་རྡོ་རྗེ་དབང་བསྐུར་བའི་རྒྱུད as 'Mật tục Quán Đảnh Kim Cang Thủ' (and རྒྱུད་སྡེ = 'bộ mật tục'), but c026 l.46 reads 'Mật điển Quán Đảnh Kim Cang Thủ'. I followed the glossary ('Mật tục'); c026 needs aligning.",
+        "unsure: མཁས་པའི་སྐྱེ་བོ at p0354 (མཁས་པའི་སྐྱེ་བོ་ཀུན་གྱིས་བགྲོད་པའི་ལམ་ཆེན་པོ) rendered 'các bậc học giả' per the glossary's nominal ruling, but the sense here is the one the p0353 verse has just defined — the person who hurries for others' sake, i.e. 'the wise/capable', not a scholar. p0353 is in c108, which is not yet translated; the two chunks must be aligned once it is.",
+        "unsure: གསོས at p0354 rendered 'sự bồi dưỡng'. No glossary entry; the word means restore/heal/nourish and sits beside སྨན = 'thuốc' in the same list, so 'sự hồi phục' or 'phương thuốc bồi bổ' are equally defensible. Also, the Tibetan does not say what is seen/heard/recalled/touched — I kept it agentless ('chỉ do được thấy, được nghe…').",
+        "unsure: བྱང་ཆུབ་སེམས་དཔའ་ཆེན་པོ opening the Vajrapāṇi-tantra quotation (p0356) read as a vocative addressing Vajrapāṇi, on the strength of 'ལག་ན་རྡོ་རྗེ་ཁྱོད་ཀྱིས་...སྨྲས་ཏེ' later in the same sentence. There is no vocative particle; it could instead be the sentence topic. The speaker of that first turn is likewise unnamed by the Tibetan (Mañjuśrī only by inference from the reply), and I left it unattributed.",
+        "unsure: རྒྱ at p0357 (བུ་རྒྱ་དང་ཧོར་ལ་སོགས་པ) rendered 'người Trung Hoa' on the strength of the standard བོད / རྒྱ / ཧོར triad and c002/c005/c007's 'Trung Hoa'. Bare རྒྱ can also mean India (རྒྱ་གར).",
+        "unsure: མཚན་ཉིད at p0356 (སེམས་དེ་མཚན་ཉིད་ཚང་བ་ཞིག་ཡོད་ན) read as 'defining characteristics' and rendered 'tâm ấy đầy đủ các tướng', per the glossary's instruction to flag rather than choose silently between characteristic and definition.",
+        "unsure: རིགས rendered 'chủng tánh' in both places — སངས་རྒྱས་རིགས་སུ་སྐྱེས (p0355, the Bodhicaryāvatāra verse) and བུའི་རིགས་ངེས་པའི་རྒྱུ (p0357, the father/mother analogy) — to keep the text's own parallel visible, and following the glossary's provisional རིགས = chủng tánh. The second is plainly ethnic descent, where 'dòng dõi' would read more naturally; the glossary's own note allows that reading.",
+        "unsure: the Bảo Tánh Luận (Uttaratantra) citation at p0357 is truncated by the source itself — it breaks off at 'སངས་རྒྱས་ཆོས་བསྐྱེད་མ་དང༌།' — and the verse line break falls mid-clause (ཤེས་རབ་ནི ends line 1 but governs line 2). I preserved the enjambment and the trailing 'và…' rather than completing the verse from the known RGV I.34.",
+        "unsure: ནན་ཏན at p0355 rendered 'sự tinh cần' per the glossary entry, whose note says c014's ruling should govern — but c014 contains no occurrence of the term, so nothing has actually been fixed.",
+        "unsure: the chunk ends mid-verse-line — 'གཞན་དག་མེད་ཅེས་བྱ་བར་', completed by 'ངེས' at the top of p0358. I rendered the fragment as 'Chẳng có [đường] nào khác — điều được nói ấy…' and marked the carry-over. Also, the addressee ཁྱོད of that Nāgārjuna verse is identified only on p0358 (as the Prajñāpāramitā); I left it as an unresolved 'Ngài'.",
+        "unsure: both འགྲོ་བ (p0354) and སེམས་ཅན (p0356) occur in this chunk and both come out 'chúng sinh' under the current glossary, so the two Tibetan words are not separable in the Vietnamese. The collision is already recorded in glossary.json but is not resolved."
+      ],
+      "translatedAt": "2026-08-25",
+      "sourceHash": "deb49c81f511",
+      "outputHash": "54e2f80e83b7",
+      "outputBytes": 9270,
+      "runId": "wf_9a0a7f2f-18e",
+      "verify": {
+        "verdict": "clean"
+      }
     },
     {
       "id": "c110",
@@ -3666,8 +4244,24 @@
         338,
         340
       ],
-      "status": "pending",
-      "flags": []
+      "status": "translated",
+      "flags": [
+        "unsure: p0360 ས་བཅད་པ་ཅི་ཡང་མེད་ལ - rendered 'chẳng phạt được khoảnh nào cả', reading ས་བཅད་པ literally inside the mowing simile ('no ground gets cut'). ས་བཅད་པ elsewhere in this book always means a topical outline division, which cannot be the sense here; but no second signal settles the literal reading, and 'cắt được khoảnh đất' is my inference from the surrounding simile rather than from the words alone.",
+        "unsure: p0360 སེམས་འདི་གནད་དུ་ཞིག་སོང་ན - the indefinite particle ཞིག sits between གནད་དུ and སོང, which is not the normal form of this idiom (cf. གནད་དུ་མ་སོང་བར two clauses earlier, and the glossary's གནད་དུ་སོང་བ). Possibly a source typo or a dialectal form; translated as if it read གནད་དུ་སོང་ན and NOT normalised in the text. Should be checked against another edition.",
+        "unsure: p0358 ཆོས་རྒྱུས་ཤིན་ཏུ་ཆུང་བར་གསལ་ལོ - read as 'clearly [his] familiarity with the Dharma is very small' (རྒྱུས = acquaintance). An alternative reading takes རྒྱུས as 'report/hearsay'. No glossary entry; the choice affects only this clause.",
+        "unsure: p0359 Bodhicaryāvatāra verse དེ་འདྲའི་བཤེས་ཀྱང་ག་ལ་ཡོད - བཤེས rendered 'thiện tri thức' to follow the glossary's provisional bare བཤེས → thiện tri thức. In this verse the word is the ordinary 'friend' (bodhicitta as a friend), and 'người bạn' would be the plainer reading; I followed the registered entry rather than re-deciding, but the entry was made for a prose passage about spiritual teachers and may not be meant to reach a verse like this one.",
+        "unsure: p0360 སྒྲིབ་པ་སྦྱོང་བ - rendered 'tịnh trừ các chướng' (obscurations, paired with ཚོགས་སྡུད་པ = tích tập tư lương). glossary.json fixes སྒྲིབ་པ = 'triền cái' (the five nīvaraṇa) from a Śrāvakabhūmi context, which is plainly not the sense here. The existing glossary note already records this collision; a ruling is needed to scope the two senses.",
+        "unsure: p0359 བྱང་ཆུབ་ཀྱི་སེམས་ཁོང་ལ་བརྟེན་ནས་རྙེད་པས - the Tibetan names no subject for རྙེད་པ and no object for འཛིན་པ. Context makes Atiśa the finder and Serlingpa the ཁོང, so both names are supplied in brackets; the clause itself does not say so.",
+        "unsure: p0359 སྐྱེ་རྒྱུ་བྱུང་ན - rendered 'sinh khởi được'. Literally 'if a cause/means of arising occurs'; I did not render རྒྱུ as a separate 'nhân' because the idiom appears to be a single unit, but the more literal 'nếu có được cái nhân để sinh khởi' is possible."
+      ],
+      "translatedAt": "2026-08-25",
+      "sourceHash": "d368ec09907f",
+      "outputHash": "ca9fc479d857",
+      "outputBytes": 7058,
+      "runId": "wf_9a0a7f2f-18e",
+      "verify": {
+        "verdict": "clean"
+      }
     },
     {
       "id": "c111",
@@ -3689,8 +4283,26 @@
         341,
         344
       ],
-      "status": "pending",
-      "flags": []
+      "status": "translated",
+      "flags": [
+        "unsure: དགེ་བཤེས at p0364 (དགེ་བཤེས་ཀྱིས་ཟིན་པ, second of the four causes) rendered 'thiện tri thức', which the glossary's དགེ་བཤེས entry explicitly forbids (it rules 'Geshe', a Tibetan monastic title, to keep it apart from དགེ་བའི་བཤེས་གཉེན). That ruling cannot hold here: this is Asaṅga's Bodhisattvabhūmi list of the four causes, where the word is the ordinary abbreviation of kalyāṇamitra and 'Geshe' would be an anachronism. Flagged rather than silently overridden — the glossary entry needs a scope carve-out.",
+        "unsure: ངོ་ཚ་དང་ཁྲེལ་མེད at p0361 — the negating མེད is written once. Read as distributing over both members ('vô tàm và vô quý'); the alternative literal reading ('hổ thẹn, và không biết thẹn') makes no sense in a list of degenerate-age faults. Recorded because the source may simply be missing a མེད after ངོ་ཚ.",
+        "unsure: འདིར in 'འདིར་དམ་པ་བསྟེན་ཅིང...སྦྱོར་བའི་སྟོབས' (p0364) rendered flatly as 'ở đây'. Contrasted with སྔོན ('trước kia') in the immediately preceding member, it most likely means 'in this present life', but the Tibetan does not say so; left non-committal rather than resolved.",
+        "unsure: མི་སྐྱོ་བ at p0364 rendered 'không nản lòng'. The glossary fixes སྐྱོ་བ = 'nhàm chán', but there the polarity is weariness with saṃsāra as a virtue; here it is being daunted by hardship, so 'không nhàm chán [luân hồi]' would invert the sense. Departure from the glossary, flagged.",
+        "unsure: རྒུད་པ at p0363 (སྲིད་པའི་རྒུད་པ / ཞི་བའི་རྒུད་པ) rendered 'suy vong' per the glossary, but that entry was fixed in a wholly different context (fourth of the four great fears: old age / sickness / death / decline). Here it means the defect or deficiency of the two extremes; 'suy vong' may be too strong.",
+        "unsure: མཚན་ཉིད at p0363 (མཚན་ཉིད་ཡོངས་སུ་རྫོགས་པའི་སེམས་བསྐྱེད) read as 'defining characteristic' → the glossary's 'tướng', not 'định nghĩa'. Flagged per the glossary's standing instruction to decide per occurrence and record.",
+        "unsure: ཡེ་ཤེས in སངས་རྒྱས་ཀྱི་ཡེ་ཤེས (p0361, p0362) rendered 'trí của Phật', following the glossary's ཡེ་ཤེས = 'trí'. That ruling was made to hold ཡེ་ཤེས apart from ཤེས་རབ = 'trí tuệ' in a passage where both occur; ཤེས་རབ does not occur in this chunk, and the idiomatic Vietnamese here would be 'Phật trí' or 'trí tuệ của Phật'.",
+        "unsure: གང་ལ་གནས་པ་དང་ཞུགས་པའི་བྱང་ཆུབ (p0361) has no stated subject. Rendered 'bồ-đề mà [các vị ấy] an trụ nơi đó và đã thâm nhập vào', with the agent bracketed; the Tibetan does not say whether གནས་པ and ཞུགས་པ attach to buddhas and bodhisattvas respectively or to both alike.",
+        "unsure: ཆོག་འཛིན་སྔ་མ (p0363, 'the former holding-to-be-enough') rendered literally as 'cái chấp \"đủ\" nói trước'. From the sentence it refers back to the self-aim variant, but the Tibetan only says 'the former', so the referent was not spelled out."
+      ],
+      "translatedAt": "2026-08-25",
+      "sourceHash": "6b7642941b31",
+      "outputHash": "9c8f26fd1db7",
+      "outputBytes": 9286,
+      "runId": "wf_9a0a7f2f-18e",
+      "verify": {
+        "verdict": "clean"
+      }
     },
     {
       "id": "c112",
@@ -3714,8 +4326,26 @@
         345,
         348
       ],
-      "status": "pending",
-      "flags": []
+      "status": "translated",
+      "flags": [
+        "unsure: གཡམ་ལ་རྒྱུགས at p0365 (བསྐུལ་བ་དང་གཡམ་ལ་རྒྱུགས་དང་སྲོལ་ཀ་སོགས་ཀྱིས་མི་བྱ་བར) - obscure idiom, second and last occurrence in the corpus. Rendered literally 'chạy trên bãi đá lở' with the inline marker c028 already used for the p0086 occurrence. The figurative sense (heedlessly running along with others / following a fad) is inferred only from the two neighbours in the list and is NOT settled. progress.json already carries two conflicting notes on this word from c028; the two chunks should be unified once a dictionary is consulted.",
+        "unsure: གཱ་ཡ་གཽ་རི at p0366 rendered as the bare transcription *Gayāgaurī*. The quoted dialogue is verbatim the Gayāśīrṣa-sūtra's (devaputra asks Mañjuśrī: what is the ārambha of bodhisattva conduct, what is its basis), and གཽ་རི most plausibly transcribes giri = mountain, i.e. Gayāśīrṣa/Gayāgiri = Già-da Sơn Đảnh. I did NOT write that identification into the text because it is not what the Tibetan spells. A ruling is owed: transcription, or the established title.",
+        "unsure: ཤཱ་ར་དྭ་ཏིའི་བུ at p0366 left as 'Śāradvatīputra' rather than the established Vietnamese 'Xá-lợi-phất' / 'Xá-lợi Tử'. The Tibetan is the Śāradvatī- form, not ཤཱ་རིའི་བུ, and I chose to preserve that distinction over readability. If the project prefers established forms for canonical disciples (as it does for འཇམ་དཔལ = Văn-thù), this should be overridden.",
+        "unsure: p0366, 'དེ་ལྟར་དམ་བཅས་པ་དེ་ཡང་ ... སྤྱོད་པ་ལ་འཇུག་པའི་རྟེན་ནོ' - the subject of the final རྟེན་ནོ is not written. I read the topic marked by དེ་ཡང་ (the pledge) as the subject and rendered '[lời thệ nguyện ấy] là chỗ nương của việc thể nhập hạnh'. It could equally be སྙིང་རྗེ (compassion), which is the topic of the whole subsection; that reading would change the argument's shape. The bracket flags the supplied subject but does not resolve the ambiguity.",
+        "unsure: p0366 puts སེམས་ཅན་ཐམས་ཅད and འགྲོ་བ་མ་ལུས་པ in adjacent clauses and both come out 'chúng sinh', per the fixed སེམས་ཅན = chúng sinh and the provisional འགྲོ་བ = chúng sinh. glossary.json already records this collision as an open problem; this chunk makes the two words indistinguishable in one sentence. Same collision again on p0367 (འགྲོ་བའི་དོན་མཛད་པ).",
+        "unsure: Candrakīrti verse, p0368. Line 1 has བརྩེ་ཉིད and line 4 has སྙིང་རྗེ - two different Tibetan words for what is doctrinally one thing. I kept them apart ('lòng từ ái' / 'lòng bi') per the glossary's བརྩེ་བ = lòng từ ái, which is explicitly recorded as distinct from སྙིང་རྗེ = bi. This makes the Vietnamese verse look like it names two qualities where the Sanskrit names one (karuṇā throughout). A ruling is owed on whether བརྩེ་བ collapses to 'lòng bi' inside this verse.",
+        "unsure: Candrakīrti verse, p0368, lines 2-3. འདོད་གྱུར་པ ('is held/accepted to be') sits at the end of line 3 but governs all three predicates (seed / like water / like ripening). To keep one Vietnamese line per shad I placed 'Được thừa nhận' at the head of line 3, so line 2 reads as a bare predicate list. The mapping is faithful word-for-word but the Vietnamese lines do not each stand alone.",
+        "unsure: p0367, the extent of the *Tu Tập Thứ Đệ* quyển đầu quotation. I read the whole block - including the embedded *Thánh Phát Khởi Tín Lực* citation (closed by ཞེའོ) and the concluding 'cội gốc của hết thảy pháp của Phật chính là lòng bi mà thôi' - as one Bhāvanākrama quotation, because the outer ཞེས་སོ comes only at the very end. Formatted as a single blockquote with the sūtra citation nested inline. If the sentences after ཞེའོ are Tsongkhapa's own, the blockquote is one sentence too long.",
+        "unsure: p0367, the Śraddhābalādhāna sentence 'སྙིང་རྗེ་ཆེན་པོ་ནི ... སྐྱེ་བ་མི་ལེན་པ་ཅི་ཡང་མེད་དོ'. Grammatically the subject is great compassion itself, and I kept it that way ('đại bi thì ... không có sự thọ sinh khổ đau nào mà chẳng nhận lấy') rather than supplying '[bồ-tát]' as the one who takes the births. The Vietnamese is consequently a little strained; a bracketed agent would read better but would add what the Tibetan withholds."
+      ],
+      "translatedAt": "2026-08-25",
+      "sourceHash": "a1e284a4a1cc",
+      "outputHash": "c05cc32eda0b",
+      "outputBytes": 7813,
+      "runId": "wf_9a0a7f2f-18e",
+      "verify": {
+        "verdict": "clean"
+      }
     },
     {
       "id": "c113",
@@ -3737,8 +4367,24 @@
         349,
         352
       ],
-      "status": "pending",
-      "flags": []
+      "status": "translated",
+      "flags": [
+        "unsure: ཁྲེལ་ནས at p0369 (དགེ་བཤེས་སྟོན་པས་ཁྲེལ་ནས) — rendered 'lấy làm hổ thẹn' from the primary sense of ཁྲེལ (shame). The context could support either 'embarrassed/appalled at Zhang's dismissive report' or a wry/mocking reaction; the direction of the reaction changes how the following praise reads. Not resolved by preference beyond the dictionary sense.",
+        "unsure: ཆོས་ཀྱི་གནད་མཁྱེན་པ་ཡིན་ནོ། at p0369 — the honorific མཁྱེན་པ gives no subject. Could be Zhang Nachung Tönpa (praised for grasping the point) or Atiśa. Rendered subjectlessly ('Ấy là thấu hiểu yếu điểm của giáo pháp vậy') so no agency is invented.",
+        "unsure: གཉེན་གྱི་མཐར་ཐུག་ནི་མ་ཡིན་པས at p0370 — read as 'because [being merely] a relative is not the ultimate of kinship [hence: mother is]', which is why the three mother-related steps follow. An alternative parse is 'because [meditating on beings as kin] is not the final step'. Rendered with a bracketed [thân hữu] to mark the supplied subject.",
+        "unsure: བཙུན་པ་ཟླ་བ at p0370 — rendered 'tôn giả Candra', literally what the Tibetan says. The conventional identification is Candragomin, but the Tibetan does not give ཙནྡྲ་གཽ་མི here (it does at p0049, which c014 renders 'Candragomin'), so the identification was not silently supplied. A ruling is needed on whether the project resolves it.",
+        "unsure: འོལ་མི་དབྱི in the Mātṛceṭa verse at p0369 — the idiom occurs only twice in the whole corpus. Rendered 'chẳng sánh được dù chỉ đại khái' to match c052's reading of the same construction at p0166; if that earlier reading is wrong, both places move together.",
+        "unsure: བློ་སྦྱང་བ in the three-fold division at p0372 — rendered 'tu tập cái trí …' to match c114, which is already on disk with 'Tu tập cái trí mong cầu lợi ích cho kẻ khác' for the same heading. This diverges from glossary.json's བློ་སྦྱང་བ = 'tu tâm'. Phase 5 should unify the two.",
+        "unsure: བཏང་སྙོམས at p0369 — here it is the ordinary indifference toward a neutral person, not the virtue upekṣā, yet rendered 'tâm xả' (qualified by 'bỏ mặc cho qua' from ཡལ་བར་འདོར་བ) to stay consistent with c114, which uses 'tâm xả' for the same word in its cultivated sense three pages later."
+      ],
+      "translatedAt": "2026-08-25",
+      "sourceHash": "7d37b673e93a",
+      "outputHash": "aff85946b4d3",
+      "outputBytes": 10319,
+      "runId": "wf_9a0a7f2f-18e",
+      "verify": {
+        "verdict": "clean"
+      }
     },
     {
       "id": "c114",
@@ -3761,8 +4407,23 @@
         353,
         354
       ],
-      "status": "pending",
-      "flags": []
+      "status": "translated",
+      "flags": [
+        "unsure: p0374 verse line 4, ཁྱེད་ཅག་ཇི་ལྟར་འདོད་ཆགས་སེམས་ཀྱང་སྐྱེ། — ཁྱེད་ཅག carries no case particle, so it can be the subject ('how do you all still generate a mind of desire?') or the object of attachment ('how could a mind of desire arise toward you?'). The citation context (attachment to relatives) favours the second, but the Tibetan does not say ཁྱེད་ཅག་ལ. Rendered 'Các ngươi, làm sao tâm tham ái lại còn sinh khởi?' to keep it fronted and unresolved; a definite choice would be an interpretive addition.",
+        "unsure: p0374, the extent of the སྒོམ་རིམ་བར་པ citation. Tsongkhapa poses the question (འོ་ན་...ཞེ་ན་གཉིས་ཏེ) himself and only afterwards attributes the answer with ཞེས་སྒོམ་རིམ་བར་པ་ལས་གསུངས་སོ, with no opening quotation marker. I set the two considerations (སེམས་ཅན་གྱི་ངོས་ནས... through ...སེམས་པའོ།) as a blockquote because ཞེས marks them as quoted, but the left boundary is a judgement call — it could equally be Tsongkhapa's own paraphrase reported loosely.",
+        "unsure: the section heading གཞན་དོན་དོན་དུ་གཉེར་བའི་བློ་སྦྱང་བ། conflicts with the glossary's བློ་སྦྱང་བ = 'tu tâm'. Here བློ is qualified (གཞན་དོན་དོན་དུ་གཉེར་བའི་བློ), so the compound is split and 'tu tâm' cannot absorb the qualifier. I followed translation/c082.md's 'cái trí mong cầu giải thoát' for the identical X-དོན་གཉེར-གྱི་བློ construction, giving 'Tu tập cái trí mong cầu lợi ích cho kẻ khác'. 'cái trí' for བློ in the sense of a resolve reads oddly; a central ruling is needed because this word governs the whole chapter (བློ་དེ་སྐྱེ་བ, བློ་དེ་བསྐྱེད་པ, the sibling heading at p0387).",
+        "unsure: p0373, བྱམས་པ་དང་སྙིང་རྗེ rendered 'lòng từ và lòng bi'. The glossary's སྙིང་རྗེ entry permits 'từ bi' where the text pairs it with བྱམས་པ, which is literally this case — but here the two are enumerated as distinct items governed by གང་སྐྱེ་བ་དེ ('whichever of them arises'), so collapsing them to one word would erase the enumeration. Kept split using each term's own fixed rendering.",
+        "unsure: p0374, སྔར་ངེས་མེད་ཀྱི་ཉེས་པའི་སྐབས་སུ་བཤད་པ་ལྟར rendered 'ở phần lỗi của sự bất định'. This back-references the ངེས་པ་མེད་པ member of the six sufferings (p0280/p0287, chunks c086–c087), which are not yet translated, so no fixed Vietnamese exists for that section name. translation/ currently uses both 'bất định' and 'không nhất định' for ངེས་པ་མེད་པ. This must be reconciled once c086 is done.",
+        "unsure: p0373, བླངས་ལ་བསྐྱང་བར་བྱའོ rendered 'phải tiếp nhận mà duy trì'. བསྐྱང་བ (from སྐྱོང་བ) spans 'guard / nurture / carry on', and the idiom here is 'take up and sustain [the practice]'; no glossary ruling exists and the corpus has no precedent for this verb pair."
+      ],
+      "translatedAt": "2026-08-25",
+      "sourceHash": "a7460a153ff8",
+      "outputHash": "9c29019becf9",
+      "outputBytes": 4351,
+      "runId": "wf_9a0a7f2f-18e",
+      "verify": {
+        "verdict": "clean"
+      }
     },
     {
       "id": "c115",
