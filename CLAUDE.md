@@ -94,9 +94,20 @@ node tools/09-render-page.mjs 300 6 2600 2730   # high-zoom crop: page, scale, y
 Chunk tracking during translation (Phase 4):
 
 ```bash
-node tools/32-chunk.mjs next
+node tools/32-chunk.mjs list          # pending / translated / flagged / STALE
+node tools/32-chunk.mjs next          # the next pending chunk
+node tools/32-chunk.mjs show c003     # everything known about one chunk
 node tools/32-chunk.mjs done c003 "unsure: term X"
-node tools/32-chunk.mjs list
+node tools/32-chunk.mjs stale         # chunks whose Tibetan changed after translation
+node tools/32-chunk.mjs reset --stale # send those back to pending to be redone
+```
+
+Rebuild the structural artifacts (only after a repair-table change):
+
+```bash
+node tools/31-outline.mjs      # contents + headings -> source/outline.json (must print 0 problems)
+node tools/33-make-chunks.mjs  # outline -> the 292 chunks (add --write to commit them)
+node tools/34-terms.mjs        # frequency-ranked glossary candidates
 ```
 
 The source PDF is **not in the repo** (copyrighted edition). `tools/11-extract-glyphs.mjs`
@@ -157,6 +168,75 @@ Phase 2 segmentation and all chunking depend on.
 `MonlamUniOuChan4` (titles) shares the body font's CID space and is decoded through the body
 CMap plus the body table — its own CMap is wrong in places where the body one is right.
 
+### The outline is cross-checked, never merely detected
+
+`source/outline.json` (284 sections) is built by `tools/31-outline.mjs` from **two
+independent sources that must agree**:
+
+1. the book's own contents (*dkar chag*, pp. 8–20) — title, nesting depth (indentation),
+   printed page;
+2. the sa-bcad headings printed in the body — the exact PDF page.
+
+Neither is sufficient alone: the contents has depth but only printed page numbers, the
+headings have positions but no depth. The tool **exits non-zero if they disagree**. It
+currently reports 284/284 exact matches and zero unmatched body headings; do not weaken that
+check to make a change pass.
+
+Things that look like bugs and are not:
+
+- **Depth is the *rank* of an indent column, not a fitted grid.** The columns drift ~0.9pt,
+  so rounding onto a least-squares grid silently mis-assigns levels while appearing precise.
+- **Three places where the indentation skips a level are the source's own structure** and are
+  kept as printed (recorded in the outline's `notes`).
+- **One heading is set in the body font** (`དངོས་གཞིའི་ཆོ་ག`, p404). Detect headings by size +
+  centring, never by font name, or that section disappears.
+- **p21 is the one page where content-stream order is not visual order** — the title block is
+  drawn last but printed at the top. 1 page in 978; see FINDINGS §9.5. Handle it in the
+  translation, do not re-sort line blocks globally.
+
+### Translation runs as translate → verify → repair
+
+Phase 4 goes through `.claude/workflows/lamrim-translate.js`, one batch at a time. **Repeat
+this until `node tools/32-chunk.mjs list` reports `pending 0`** — the loop is resumable and
+holds no state in the conversation:
+
+```bash
+node tools/32-chunk.mjs batch 25            # -> {"chunks":[...]}  — the workflow's args verbatim
+# run the `lamrim-translate` workflow with that object as args; note its Run ID
+node tools/35-merge-batch.mjs --run wf_XXXX --write
+```
+
+`--run` reads the workflow's own `journal.jsonl`, so nothing has to be hand-copied out of a
+tool result — which matters, because the return value is far too large to paste back reliably.
+(`<results.json>` still works if you have the object on disk.)
+
+`batch` only ever emits **pending** chunks, so re-running it after a merge yields the next
+group with no bookkeeping. A chunk that fails repair stays pending and simply reappears in a
+later batch.
+
+Batch size is a real trade-off, not a free parameter: ~10 chunks is ~20–30 agents and roughly
+1.2M subagent tokens. Larger batches finish sooner but a glossary ruling discovered in batch
+*n* cannot help the chunks already running inside it.
+
+Three rules hold this together, and all three exist because of a specific failure:
+
+- **Agents write only `translation/<id>.md`.** Everything shared — `glossary.json`,
+  `progress.json` — is merged afterwards in a single process. Concurrent writers lose entries.
+- **A chunk is marked translated only if its fidelity check passed.** The verifier is an
+  independent agent whose whole job is to find fabrication; it must be able to hold work back,
+  or it is decoration. The first batch came back 0/10 clean — 13 fabrications and 27 glossary
+  violations across 10 chunks. That is the check working.
+- **A glossary complaint is not automatically a translator error.** Most of that first batch's
+  27 were *gaps* — the glossary had no ruling for the full form of `ཕ་རོལ་ཕྱིན་པ`, for
+  `བྱམས་པ` as Maitreya-the-person, or for any cited title. The repair stage keeps the wording
+  and returns the missing entry instead of "fixing" correct text.
+
+**Every translated chunk stores `sourceHash`, a hash of the exact Tibetan it was made from.**
+`source/clean/` is a reproducible transform, so it moves whenever a repair table changes — it
+has moved three times. `tools/32-chunk.mjs stale` compares stored against current and finds
+every chunk that was translated from text which no longer exists; `reset --stale` sends them
+back. Without it a repair silently leaves wrong translations behind and nothing reports it.
+
 ### Progress is generated, not maintained
 
 `progress.json` holds editable state (phase, decisions, chunk list). `tools/30-progress.mjs`
@@ -169,6 +249,9 @@ doc cannot drift. Edit `progress.json`, then regenerate — never hand-edit PROG
 Low numbers (01–08) are one-off diagnostics kept for the audit trail; they are not part of the
 running pipeline. Non-numbered files (`decode.mjs`, `pdfcontent.mjs`, `pdffonts.mjs`,
 `tibetan.mjs`, `config.mjs`, `*-repair-table.mjs`) are shared modules.
+
+Phase 2–4 tools: `31` outline, `32` chunk state, `33` chunking, `34` glossary candidates,
+`35` batch merge. `32` and `35` are the only writers of `progress.json`.
 
 `tools/18-crosscheck.mjs` was **built and then discarded** — it compared which words two CIDs
 occur in, which fails because positional font variants are used in *complementary* distribution

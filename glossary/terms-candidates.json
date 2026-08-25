@@ -1,0 +1,5047 @@
+{
+ "generatedBy": "tools/34-terms.mjs",
+ "note": "Tibetan side only. Vietnamese renderings are decided by a person and recorded in glossary/decisions.md. Ranking is a reading aid, not an authority.",
+ "minCount": 25,
+ "maxSyllables": 5,
+ "corpus": {
+  "runs": 22273,
+  "syllables": 302469
+ },
+ "counts": {
+  "candidates": 559,
+  "inSectionTitles": 222
+ },
+ "candidates": [
+  {
+   "term": "ཐམས་ཅད",
+   "syllables": 2,
+   "count": 940,
+   "leftVariety": 158,
+   "rightVariety": 219,
+   "inSectionTitles": true,
+   "score": 58.92
+  },
+  {
+   "term": "སྡུག་བསྔལ",
+   "syllables": 2,
+   "count": 630,
+   "leftVariety": 95,
+   "rightVariety": 150,
+   "inSectionTitles": true,
+   "score": 49.9
+  },
+  {
+   "term": "རང་བཞིན",
+   "syllables": 2,
+   "count": 799,
+   "leftVariety": 96,
+   "rightVariety": 79,
+   "inSectionTitles": true,
+   "score": 49.64
+  },
+  {
+   "term": "བྱེད་པ",
+   "syllables": 2,
+   "count": 545,
+   "leftVariety": 119,
+   "rightVariety": 86,
+   "inSectionTitles": true,
+   "score": 47.71
+  },
+  {
+   "term": "ཏིང་ངེ་འཛིན",
+   "syllables": 3,
+   "count": 309,
+   "leftVariety": 48,
+   "rightVariety": 82,
+   "inSectionTitles": true,
+   "score": 45.5
+  },
+  {
+   "term": "སྐྱེ་བ",
+   "syllables": 2,
+   "count": 393,
+   "leftVariety": 81,
+   "rightVariety": 88,
+   "inSectionTitles": true,
+   "score": 44.63
+  },
+  {
+   "term": "ཆེན་པོ",
+   "syllables": 2,
+   "count": 313,
+   "leftVariety": 81,
+   "rightVariety": 123,
+   "inSectionTitles": true,
+   "score": 42.93
+  },
+  {
+   "term": "འཇིག་རྟེན",
+   "syllables": 2,
+   "count": 350,
+   "leftVariety": 73,
+   "rightVariety": 74,
+   "inSectionTitles": true,
+   "score": 42.73
+  },
+  {
+   "term": "སངས་རྒྱས",
+   "syllables": 2,
+   "count": 352,
+   "leftVariety": 70,
+   "rightVariety": 87,
+   "inSectionTitles": true,
+   "score": 42.35
+  },
+  {
+   "term": "ཉོན་མོངས",
+   "syllables": 2,
+   "count": 398,
+   "leftVariety": 64,
+   "rightVariety": 89,
+   "inSectionTitles": true,
+   "score": 42.32
+  },
+  {
+   "term": "སེམས་ཅན",
+   "syllables": 2,
+   "count": 382,
+   "leftVariety": 64,
+   "rightVariety": 83,
+   "inSectionTitles": true,
+   "score": 42.03
+  },
+  {
+   "term": "ཤེས་རབ",
+   "syllables": 2,
+   "count": 374,
+   "leftVariety": 63,
+   "rightVariety": 84,
+   "inSectionTitles": true,
+   "score": 41.73
+  },
+  {
+   "term": "བྱང་ཆུབ",
+   "syllables": 2,
+   "count": 459,
+   "leftVariety": 81,
+   "rightVariety": 53,
+   "inSectionTitles": true,
+   "score": 41.37
+  },
+  {
+   "term": "འདོད་པ",
+   "syllables": 2,
+   "count": 317,
+   "leftVariety": 67,
+   "rightVariety": 79,
+   "inSectionTitles": true,
+   "score": 41.16
+  },
+  {
+   "term": "དམིགས་པ",
+   "syllables": 2,
+   "count": 346,
+   "leftVariety": 58,
+   "rightVariety": 75,
+   "inSectionTitles": true,
+   "score": 40.36
+  },
+  {
+   "term": "ཞི་གནས",
+   "syllables": 2,
+   "count": 351,
+   "leftVariety": 55,
+   "rightVariety": 68,
+   "inSectionTitles": true,
+   "score": 39.93
+  },
+  {
+   "term": "བྱ་བ",
+   "syllables": 2,
+   "count": 325,
+   "leftVariety": 58,
+   "rightVariety": 82,
+   "inSectionTitles": true,
+   "score": 39.92
+  },
+  {
+   "term": "རང་བཞིན་མེད་པ",
+   "syllables": 4,
+   "count": 114,
+   "leftVariety": 44,
+   "rightVariety": 32,
+   "inSectionTitles": true,
+   "score": 39.39
+  },
+  {
+   "term": "གསུངས་པ",
+   "syllables": 2,
+   "count": 435,
+   "leftVariety": 43,
+   "rightVariety": 44,
+   "inSectionTitles": true,
+   "score": 38.85
+  },
+  {
+   "term": "ཡོན་ཏན",
+   "syllables": 2,
+   "count": 289,
+   "leftVariety": 55,
+   "rightVariety": 104,
+   "inSectionTitles": true,
+   "score": 38.6
+  },
+  {
+   "term": "བསྟན་པ",
+   "syllables": 2,
+   "count": 251,
+   "leftVariety": 71,
+   "rightVariety": 59,
+   "inSectionTitles": true,
+   "score": 38.3
+  },
+  {
+   "term": "བསམ་པ",
+   "syllables": 2,
+   "count": 270,
+   "leftVariety": 55,
+   "rightVariety": 69,
+   "inSectionTitles": true,
+   "score": 38.14
+  },
+  {
+   "term": "བྱང་ཆུབ་ཀྱི་སེམས",
+   "syllables": 4,
+   "count": 88,
+   "leftVariety": 34,
+   "rightVariety": 43,
+   "inSectionTitles": true,
+   "score": 37.89
+  },
+  {
+   "term": "བྱང་ཆུབ་སེམས་དཔའ",
+   "syllables": 4,
+   "count": 110,
+   "leftVariety": 28,
+   "rightVariety": 39,
+   "inSectionTitles": false,
+   "score": 37.59
+  },
+  {
+   "term": "ལྟ་བ",
+   "syllables": 2,
+   "count": 280,
+   "leftVariety": 50,
+   "rightVariety": 84,
+   "inSectionTitles": true,
+   "score": 37.47
+  },
+  {
+   "term": "དངོས་པོ",
+   "syllables": 2,
+   "count": 288,
+   "leftVariety": 48,
+   "rightVariety": 66,
+   "inSectionTitles": true,
+   "score": 37.27
+  },
+  {
+   "term": "ཡོད་པ",
+   "syllables": 2,
+   "count": 262,
+   "leftVariety": 90,
+   "rightVariety": 51,
+   "inSectionTitles": false,
+   "score": 37.22
+  },
+  {
+   "term": "ཚུལ་ཁྲིམས",
+   "syllables": 2,
+   "count": 233,
+   "leftVariety": 51,
+   "rightVariety": 61,
+   "inSectionTitles": true,
+   "score": 36.44
+  },
+  {
+   "term": "ཡན་ལག",
+   "syllables": 2,
+   "count": 226,
+   "leftVariety": 57,
+   "rightVariety": 52,
+   "inSectionTitles": true,
+   "score": 36.41
+  },
+  {
+   "term": "འབྱུང་བ",
+   "syllables": 2,
+   "count": 197,
+   "leftVariety": 57,
+   "rightVariety": 64,
+   "inSectionTitles": true,
+   "score": 36.31
+  },
+  {
+   "term": "རྣམ་པ",
+   "syllables": 2,
+   "count": 240,
+   "leftVariety": 59,
+   "rightVariety": 47,
+   "inSectionTitles": true,
+   "score": 35.87
+  },
+  {
+   "term": "འགྲོ་བ",
+   "syllables": 2,
+   "count": 198,
+   "leftVariety": 54,
+   "rightVariety": 68,
+   "inSectionTitles": true,
+   "score": 35.86
+  },
+  {
+   "term": "དགོས་པ",
+   "syllables": 2,
+   "count": 191,
+   "leftVariety": 87,
+   "rightVariety": 55,
+   "inSectionTitles": true,
+   "score": 35.78
+  },
+  {
+   "term": "འབྲས་བུ",
+   "syllables": 2,
+   "count": 235,
+   "leftVariety": 46,
+   "rightVariety": 89,
+   "inSectionTitles": true,
+   "score": 35.53
+  },
+  {
+   "term": "འགྱུར་བ",
+   "syllables": 2,
+   "count": 261,
+   "leftVariety": 41,
+   "rightVariety": 50,
+   "inSectionTitles": true,
+   "score": 35.13
+  },
+  {
+   "term": "ངེས་པ",
+   "syllables": 2,
+   "count": 259,
+   "leftVariety": 41,
+   "rightVariety": 63,
+   "inSectionTitles": true,
+   "score": 35.08
+  },
+  {
+   "term": "ལྷག་མཐོང",
+   "syllables": 2,
+   "count": 244,
+   "leftVariety": 41,
+   "rightVariety": 63,
+   "inSectionTitles": true,
+   "score": 34.7
+  },
+  {
+   "term": "བདེ་བ",
+   "syllables": 2,
+   "count": 161,
+   "leftVariety": 55,
+   "rightVariety": 60,
+   "inSectionTitles": true,
+   "score": 34.62
+  },
+  {
+   "term": "ཤེས་པ",
+   "syllables": 2,
+   "count": 188,
+   "leftVariety": 48,
+   "rightVariety": 58,
+   "inSectionTitles": false,
+   "score": 34.46
+  },
+  {
+   "term": "སྟོང་པ་ཉིད",
+   "syllables": 3,
+   "count": 110,
+   "leftVariety": 34,
+   "rightVariety": 34,
+   "inSectionTitles": true,
+   "score": 33.98
+  },
+  {
+   "term": "དགེ་བ",
+   "syllables": 2,
+   "count": 176,
+   "leftVariety": 47,
+   "rightVariety": 72,
+   "inSectionTitles": true,
+   "score": 33.84
+  },
+  {
+   "term": "བསྒོམ་པ",
+   "syllables": 2,
+   "count": 159,
+   "leftVariety": 55,
+   "rightVariety": 49,
+   "inSectionTitles": true,
+   "score": 33.54
+  },
+  {
+   "term": "རང་བཞིན་མེད",
+   "syllables": 3,
+   "count": 284,
+   "leftVariety": 65,
+   "rightVariety": 18,
+   "inSectionTitles": true,
+   "score": 33.47
+  },
+  {
+   "term": "ཆེ་བ",
+   "syllables": 2,
+   "count": 159,
+   "leftVariety": 48,
+   "rightVariety": 48,
+   "inSectionTitles": true,
+   "score": 33.36
+  },
+  {
+   "term": "བཤད་པ",
+   "syllables": 2,
+   "count": 244,
+   "leftVariety": 40,
+   "rightVariety": 35,
+   "inSectionTitles": true,
+   "score": 33.23
+  },
+  {
+   "term": "འཛིན་པ",
+   "syllables": 2,
+   "count": 186,
+   "leftVariety": 42,
+   "rightVariety": 66,
+   "inSectionTitles": false,
+   "score": 33.2
+  },
+  {
+   "term": "གྱུར་པ",
+   "syllables": 2,
+   "count": 151,
+   "leftVariety": 49,
+   "rightVariety": 46,
+   "inSectionTitles": false,
+   "score": 32.66
+  },
+  {
+   "term": "ཐ་སྙད",
+   "syllables": 2,
+   "count": 237,
+   "leftVariety": 54,
+   "rightVariety": 33,
+   "inSectionTitles": false,
+   "score": 32.5
+  },
+  {
+   "term": "སྤྱོད་པ",
+   "syllables": 2,
+   "count": 168,
+   "leftVariety": 41,
+   "rightVariety": 51,
+   "inSectionTitles": true,
+   "score": 32.35
+  },
+  {
+   "term": "ལྟ་བུ",
+   "syllables": 2,
+   "count": 165,
+   "leftVariety": 40,
+   "rightVariety": 59,
+   "inSectionTitles": true,
+   "score": 32.02
+  },
+  {
+   "term": "མཚན་ཉིད",
+   "syllables": 2,
+   "count": 196,
+   "leftVariety": 35,
+   "rightVariety": 47,
+   "inSectionTitles": true,
+   "score": 31.9
+  },
+  {
+   "term": "དྲན་པ",
+   "syllables": 2,
+   "count": 155,
+   "leftVariety": 41,
+   "rightVariety": 53,
+   "inSectionTitles": true,
+   "score": 31.84
+  },
+  {
+   "term": "སྨྲ་བ",
+   "syllables": 2,
+   "count": 185,
+   "leftVariety": 36,
+   "rightVariety": 49,
+   "inSectionTitles": true,
+   "score": 31.8
+  },
+  {
+   "term": "གྲུབ་པ",
+   "syllables": 2,
+   "count": 170,
+   "leftVariety": 38,
+   "rightVariety": 48,
+   "inSectionTitles": true,
+   "score": 31.76
+  },
+  {
+   "term": "བྱང་ཆུབ་སེམས་དཔའི",
+   "syllables": 4,
+   "count": 71,
+   "leftVariety": 22,
+   "rightVariety": 26,
+   "inSectionTitles": false,
+   "score": 31.62
+  },
+  {
+   "term": "བྱས་པ",
+   "syllables": 2,
+   "count": 159,
+   "leftVariety": 56,
+   "rightVariety": 39,
+   "inSectionTitles": false,
+   "score": 31.57
+  },
+  {
+   "term": "སློབ་དཔོན",
+   "syllables": 2,
+   "count": 175,
+   "leftVariety": 36,
+   "rightVariety": 46,
+   "inSectionTitles": false,
+   "score": 31.46
+  },
+  {
+   "term": "གཉིས་ཀ",
+   "syllables": 2,
+   "count": 114,
+   "leftVariety": 54,
+   "rightVariety": 49,
+   "inSectionTitles": true,
+   "score": 31.34
+  },
+  {
+   "term": "སྦྱིན་པ",
+   "syllables": 2,
+   "count": 138,
+   "leftVariety": 50,
+   "rightVariety": 42,
+   "inSectionTitles": true,
+   "score": 31.31
+  },
+  {
+   "term": "ཉོན་མོངས་པ",
+   "syllables": 3,
+   "count": 97,
+   "leftVariety": 28,
+   "rightVariety": 33,
+   "inSectionTitles": true,
+   "score": 31.25
+  },
+  {
+   "term": "དམ་པ",
+   "syllables": 2,
+   "count": 128,
+   "leftVariety": 44,
+   "rightVariety": 60,
+   "inSectionTitles": true,
+   "score": 31.21
+  },
+  {
+   "term": "ཡིད་ལ་བྱེད་པ",
+   "syllables": 4,
+   "count": 56,
+   "leftVariety": 25,
+   "rightVariety": 25,
+   "inSectionTitles": false,
+   "score": 31.1
+  },
+  {
+   "term": "བསྐྱེད་པ",
+   "syllables": 2,
+   "count": 162,
+   "leftVariety": 40,
+   "rightVariety": 36,
+   "inSectionTitles": true,
+   "score": 30.99
+  },
+  {
+   "term": "རང་གི་མཚན་ཉིད",
+   "syllables": 4,
+   "count": 83,
+   "leftVariety": 37,
+   "rightVariety": 18,
+   "inSectionTitles": false,
+   "score": 30.65
+  },
+  {
+   "term": "ཞི་གནས་དང་ལྷག་མཐོང",
+   "syllables": 5,
+   "count": 44,
+   "leftVariety": 22,
+   "rightVariety": 19,
+   "inSectionTitles": true,
+   "score": 30.64
+  },
+  {
+   "term": "གནོད་པ",
+   "syllables": 2,
+   "count": 142,
+   "leftVariety": 37,
+   "rightVariety": 50,
+   "inSectionTitles": false,
+   "score": 30.42
+  },
+  {
+   "term": "གནས་པ",
+   "syllables": 2,
+   "count": 122,
+   "leftVariety": 41,
+   "rightVariety": 45,
+   "inSectionTitles": true,
+   "score": 30.33
+  },
+  {
+   "term": "རྟོག་པ",
+   "syllables": 2,
+   "count": 178,
+   "leftVariety": 31,
+   "rightVariety": 61,
+   "inSectionTitles": false,
+   "score": 30.25
+  },
+  {
+   "term": "ཕུང་པོ",
+   "syllables": 2,
+   "count": 119,
+   "leftVariety": 41,
+   "rightVariety": 43,
+   "inSectionTitles": true,
+   "score": 30.17
+  },
+  {
+   "term": "སེམས་ཅན་ཐམས་ཅད",
+   "syllables": 4,
+   "count": 65,
+   "leftVariety": 20,
+   "rightVariety": 25,
+   "inSectionTitles": false,
+   "score": 30.01
+  },
+  {
+   "term": "རང་གི་ངོ་བོས་གྲུབ",
+   "syllables": 5,
+   "count": 142,
+   "leftVariety": 36,
+   "rightVariety": 9,
+   "inSectionTitles": false,
+   "score": 29.94
+  },
+  {
+   "term": "སྟོན་པ",
+   "syllables": 2,
+   "count": 118,
+   "leftVariety": 50,
+   "rightVariety": 40,
+   "inSectionTitles": true,
+   "score": 29.92
+  },
+  {
+   "term": "སེམས་བསྐྱེད",
+   "syllables": 2,
+   "count": 125,
+   "leftVariety": 38,
+   "rightVariety": 39,
+   "inSectionTitles": true,
+   "score": 29.86
+  },
+  {
+   "term": "བདག་མེད",
+   "syllables": 2,
+   "count": 181,
+   "leftVariety": 48,
+   "rightVariety": 29,
+   "inSectionTitles": true,
+   "score": 29.76
+  },
+  {
+   "term": "སྐྱེས་པ",
+   "syllables": 2,
+   "count": 126,
+   "leftVariety": 45,
+   "rightVariety": 37,
+   "inSectionTitles": true,
+   "score": 29.69
+  },
+  {
+   "term": "བརྩོན་འགྲུས",
+   "syllables": 2,
+   "count": 131,
+   "leftVariety": 35,
+   "rightVariety": 38,
+   "inSectionTitles": true,
+   "score": 29.47
+  },
+  {
+   "term": "ཅུང་ཟད",
+   "syllables": 2,
+   "count": 114,
+   "leftVariety": 61,
+   "rightVariety": 38,
+   "inSectionTitles": true,
+   "score": 29.29
+  },
+  {
+   "term": "བསྒྲུབ་པ",
+   "syllables": 2,
+   "count": 132,
+   "leftVariety": 48,
+   "rightVariety": 33,
+   "inSectionTitles": true,
+   "score": 29.02
+  },
+  {
+   "term": "འགོག་པ",
+   "syllables": 2,
+   "count": 125,
+   "leftVariety": 50,
+   "rightVariety": 33,
+   "inSectionTitles": true,
+   "score": 28.7
+  },
+  {
+   "term": "བསོད་ནམས",
+   "syllables": 2,
+   "count": 97,
+   "leftVariety": 39,
+   "rightVariety": 40,
+   "inSectionTitles": false,
+   "score": 28.49
+  },
+  {
+   "term": "བདེན་པ",
+   "syllables": 2,
+   "count": 110,
+   "leftVariety": 35,
+   "rightVariety": 45,
+   "inSectionTitles": false,
+   "score": 28.41
+  },
+  {
+   "term": "ཕ་རོལ",
+   "syllables": 2,
+   "count": 150,
+   "leftVariety": 42,
+   "rightVariety": 28,
+   "inSectionTitles": false,
+   "score": 28.38
+  },
+  {
+   "term": "རང་གི་ངོ་བོས",
+   "syllables": 4,
+   "count": 168,
+   "leftVariety": 41,
+   "rightVariety": 10,
+   "inSectionTitles": false,
+   "score": 28.32
+  },
+  {
+   "term": "ཐོབ་པ",
+   "syllables": 2,
+   "count": 91,
+   "leftVariety": 41,
+   "rightVariety": 40,
+   "inSectionTitles": true,
+   "score": 28.29
+  },
+  {
+   "term": "སྙིང་རྗེ",
+   "syllables": 2,
+   "count": 112,
+   "leftVariety": 34,
+   "rightVariety": 45,
+   "inSectionTitles": true,
+   "score": 28.29
+  },
+  {
+   "term": "རྩ་བ",
+   "syllables": 2,
+   "count": 126,
+   "leftVariety": 31,
+   "rightVariety": 51,
+   "inSectionTitles": true,
+   "score": 28.23
+  },
+  {
+   "term": "བྱུང་བ",
+   "syllables": 2,
+   "count": 115,
+   "leftVariety": 32,
+   "rightVariety": 46,
+   "inSectionTitles": true,
+   "score": 27.96
+  },
+  {
+   "term": "འཇུག་པ",
+   "syllables": 2,
+   "count": 164,
+   "leftVariety": 25,
+   "rightVariety": 39,
+   "inSectionTitles": true,
+   "score": 27.91
+  },
+  {
+   "term": "རིགས་པ",
+   "syllables": 2,
+   "count": 139,
+   "leftVariety": 27,
+   "rightVariety": 39,
+   "inSectionTitles": true,
+   "score": 27.65
+  },
+  {
+   "term": "བྱང་ཆུབ་སེམས",
+   "syllables": 3,
+   "count": 221,
+   "leftVariety": 40,
+   "rightVariety": 12,
+   "inSectionTitles": false,
+   "score": 27.5
+  },
+  {
+   "term": "རིམ་པ",
+   "syllables": 2,
+   "count": 162,
+   "leftVariety": 24,
+   "rightVariety": 42,
+   "inSectionTitles": true,
+   "score": 27.49
+  },
+  {
+   "term": "མང་པོ",
+   "syllables": 2,
+   "count": 88,
+   "leftVariety": 50,
+   "rightVariety": 37,
+   "inSectionTitles": false,
+   "score": 27.48
+  },
+  {
+   "term": "འཁོར་བ",
+   "syllables": 2,
+   "count": 115,
+   "leftVariety": 40,
+   "rightVariety": 30,
+   "inSectionTitles": true,
+   "score": 27.44
+  },
+  {
+   "term": "སྟོང་པ",
+   "syllables": 2,
+   "count": 160,
+   "leftVariety": 44,
+   "rightVariety": 24,
+   "inSectionTitles": true,
+   "score": 27.42
+  },
+  {
+   "term": "སྣང་བ",
+   "syllables": 2,
+   "count": 106,
+   "leftVariety": 31,
+   "rightVariety": 46,
+   "inSectionTitles": false,
+   "score": 27.22
+  },
+  {
+   "term": "ཐོས་པ",
+   "syllables": 2,
+   "count": 84,
+   "leftVariety": 38,
+   "rightVariety": 37,
+   "inSectionTitles": true,
+   "score": 27.2
+  },
+  {
+   "term": "འདྲ་བ",
+   "syllables": 2,
+   "count": 164,
+   "leftVariety": 23,
+   "rightVariety": 52,
+   "inSectionTitles": true,
+   "score": 27.18
+  },
+  {
+   "term": "ཕུན་སུམ་ཚོགས་པ",
+   "syllables": 4,
+   "count": 41,
+   "leftVariety": 23,
+   "rightVariety": 21,
+   "inSectionTitles": true,
+   "score": 27.13
+  },
+  {
+   "term": "སྐྱེས་བུ",
+   "syllables": 2,
+   "count": 114,
+   "leftVariety": 31,
+   "rightVariety": 29,
+   "inSectionTitles": true,
+   "score": 27.11
+  },
+  {
+   "term": "སྡོམ་པ",
+   "syllables": 2,
+   "count": 103,
+   "leftVariety": 31,
+   "rightVariety": 43,
+   "inSectionTitles": false,
+   "score": 27.06
+  },
+  {
+   "term": "ཁ་ན་མ་ཐོ་བ",
+   "syllables": 5,
+   "count": 37,
+   "leftVariety": 18,
+   "rightVariety": 15,
+   "inSectionTitles": false,
+   "score": 26.89
+  },
+  {
+   "term": "བསམ་གཏན",
+   "syllables": 2,
+   "count": 104,
+   "leftVariety": 30,
+   "rightVariety": 31,
+   "inSectionTitles": true,
+   "score": 26.85
+  },
+  {
+   "term": "ཁས་བླངས",
+   "syllables": 2,
+   "count": 130,
+   "leftVariety": 50,
+   "rightVariety": 25,
+   "inSectionTitles": false,
+   "score": 26.64
+  },
+  {
+   "term": "ཤིན་ཏུ་སྦྱངས་པ",
+   "syllables": 4,
+   "count": 60,
+   "leftVariety": 15,
+   "rightVariety": 26,
+   "inSectionTitles": false,
+   "score": 26.61
+  },
+  {
+   "term": "ཡོད་མེད",
+   "syllables": 2,
+   "count": 95,
+   "leftVariety": 31,
+   "rightVariety": 31,
+   "inSectionTitles": true,
+   "score": 26.58
+  },
+  {
+   "term": "ཕ་རོལ་ཏུ་ཕྱིན་པ",
+   "syllables": 5,
+   "count": 38,
+   "leftVariety": 14,
+   "rightVariety": 20,
+   "inSectionTitles": false,
+   "score": 26.4
+  },
+  {
+   "term": "རྟོགས་པ",
+   "syllables": 2,
+   "count": 96,
+   "leftVariety": 30,
+   "rightVariety": 45,
+   "inSectionTitles": true,
+   "score": 26.39
+  },
+  {
+   "term": "གསུང་རབ",
+   "syllables": 2,
+   "count": 88,
+   "leftVariety": 33,
+   "rightVariety": 32,
+   "inSectionTitles": true,
+   "score": 26.38
+  },
+  {
+   "term": "ཉེས་དམིགས",
+   "syllables": 2,
+   "count": 117,
+   "leftVariety": 26,
+   "rightVariety": 36,
+   "inSectionTitles": true,
+   "score": 26.38
+  },
+  {
+   "term": "མཁས་པ",
+   "syllables": 2,
+   "count": 98,
+   "leftVariety": 29,
+   "rightVariety": 37,
+   "inSectionTitles": false,
+   "score": 26.25
+  },
+  {
+   "term": "ནུས་པ",
+   "syllables": 2,
+   "count": 92,
+   "leftVariety": 30,
+   "rightVariety": 38,
+   "inSectionTitles": true,
+   "score": 26.15
+  },
+  {
+   "term": "ལོངས་སྤྱོད",
+   "syllables": 2,
+   "count": 101,
+   "leftVariety": 28,
+   "rightVariety": 52,
+   "inSectionTitles": false,
+   "score": 26.14
+  },
+  {
+   "term": "བྱང་སེམས",
+   "syllables": 2,
+   "count": 118,
+   "leftVariety": 32,
+   "rightVariety": 25,
+   "inSectionTitles": true,
+   "score": 26.11
+  },
+  {
+   "term": "ཉེས་པ",
+   "syllables": 2,
+   "count": 81,
+   "leftVariety": 35,
+   "rightVariety": 32,
+   "inSectionTitles": false,
+   "score": 25.89
+  },
+  {
+   "term": "མཐོང་བ",
+   "syllables": 2,
+   "count": 81,
+   "leftVariety": 37,
+   "rightVariety": 32,
+   "inSectionTitles": true,
+   "score": 25.89
+  },
+  {
+   "term": "ཐོག་མར",
+   "syllables": 2,
+   "count": 80,
+   "leftVariety": 32,
+   "rightVariety": 55,
+   "inSectionTitles": true,
+   "score": 25.82
+  },
+  {
+   "term": "དཔག་ཏུ་མེད་པ",
+   "syllables": 4,
+   "count": 38,
+   "leftVariety": 19,
+   "rightVariety": 29,
+   "inSectionTitles": false,
+   "score": 25.71
+  },
+  {
+   "term": "ཐེག་པ",
+   "syllables": 2,
+   "count": 132,
+   "leftVariety": 34,
+   "rightVariety": 22,
+   "inSectionTitles": true,
+   "score": 25.66
+  },
+  {
+   "term": "དོན་དམ",
+   "syllables": 2,
+   "count": 164,
+   "leftVariety": 37,
+   "rightVariety": 19,
+   "inSectionTitles": true,
+   "score": 25.53
+  },
+  {
+   "term": "སྟོང་ཉིད",
+   "syllables": 2,
+   "count": 86,
+   "leftVariety": 30,
+   "rightVariety": 29,
+   "inSectionTitles": false,
+   "score": 25.5
+  },
+  {
+   "term": "ས་བོན",
+   "syllables": 2,
+   "count": 90,
+   "leftVariety": 28,
+   "rightVariety": 46,
+   "inSectionTitles": false,
+   "score": 25.49
+  },
+  {
+   "term": "རྣལ་འབྱོར",
+   "syllables": 2,
+   "count": 111,
+   "leftVariety": 33,
+   "rightVariety": 24,
+   "inSectionTitles": false,
+   "score": 25.44
+  },
+  {
+   "term": "རྟེན་འབྲེལ",
+   "syllables": 2,
+   "count": 81,
+   "leftVariety": 30,
+   "rightVariety": 37,
+   "inSectionTitles": true,
+   "score": 25.41
+  },
+  {
+   "term": "འཇོག་པ",
+   "syllables": 2,
+   "count": 81,
+   "leftVariety": 30,
+   "rightVariety": 32,
+   "inSectionTitles": false,
+   "score": 25.41
+  },
+  {
+   "term": "ཁས་བླངས་པ",
+   "syllables": 3,
+   "count": 49,
+   "leftVariety": 25,
+   "rightVariety": 24,
+   "inSectionTitles": false,
+   "score": 25.36
+  },
+  {
+   "term": "སེམས་པ",
+   "syllables": 2,
+   "count": 77,
+   "leftVariety": 31,
+   "rightVariety": 35,
+   "inSectionTitles": false,
+   "score": 25.36
+  },
+  {
+   "term": "ཕྱིན་ཅི་ལོག",
+   "syllables": 3,
+   "count": 62,
+   "leftVariety": 26,
+   "rightVariety": 20,
+   "inSectionTitles": false,
+   "score": 25.35
+  },
+  {
+   "term": "རྙེད་པ",
+   "syllables": 2,
+   "count": 83,
+   "leftVariety": 29,
+   "rightVariety": 35,
+   "inSectionTitles": true,
+   "score": 25.3
+  },
+  {
+   "term": "བཟོད་པ",
+   "syllables": 2,
+   "count": 75,
+   "leftVariety": 31,
+   "rightVariety": 35,
+   "inSectionTitles": true,
+   "score": 25.2
+  },
+  {
+   "term": "ཁ་ཅིག",
+   "syllables": 2,
+   "count": 99,
+   "leftVariety": 25,
+   "rightVariety": 41,
+   "inSectionTitles": false,
+   "score": 25.14
+  },
+  {
+   "term": "མངོན་སུམ",
+   "syllables": 2,
+   "count": 104,
+   "leftVariety": 44,
+   "rightVariety": 24,
+   "inSectionTitles": false,
+   "score": 25.09
+  },
+  {
+   "term": "ལྡན་པ",
+   "syllables": 2,
+   "count": 135,
+   "leftVariety": 20,
+   "rightVariety": 45,
+   "inSectionTitles": true,
+   "score": 24.98
+  },
+  {
+   "term": "གཉིས་པ",
+   "syllables": 2,
+   "count": 161,
+   "leftVariety": 18,
+   "rightVariety": 75,
+   "inSectionTitles": true,
+   "score": 24.97
+  },
+  {
+   "term": "འདུ་བྱེད",
+   "syllables": 2,
+   "count": 82,
+   "leftVariety": 30,
+   "rightVariety": 28,
+   "inSectionTitles": false,
+   "score": 24.96
+  },
+  {
+   "term": "བསླབ་པ",
+   "syllables": 2,
+   "count": 105,
+   "leftVariety": 23,
+   "rightVariety": 28,
+   "inSectionTitles": true,
+   "score": 24.81
+  },
+  {
+   "term": "བདག་མེད་པའི་དོན",
+   "syllables": 4,
+   "count": 38,
+   "leftVariety": 24,
+   "rightVariety": 17,
+   "inSectionTitles": false,
+   "score": 24.73
+  },
+  {
+   "term": "སྦྱོར་བ",
+   "syllables": 2,
+   "count": 91,
+   "leftVariety": 25,
+   "rightVariety": 39,
+   "inSectionTitles": true,
+   "score": 24.68
+  },
+  {
+   "term": "འདུ་ཤེས",
+   "syllables": 2,
+   "count": 101,
+   "leftVariety": 23,
+   "rightVariety": 40,
+   "inSectionTitles": true,
+   "score": 24.6
+  },
+  {
+   "term": "དགའ་བ",
+   "syllables": 2,
+   "count": 89,
+   "leftVariety": 25,
+   "rightVariety": 41,
+   "inSectionTitles": false,
+   "score": 24.56
+  },
+  {
+   "term": "ཐེག་པ་ཆེན་པོ",
+   "syllables": 4,
+   "count": 40,
+   "leftVariety": 16,
+   "rightVariety": 16,
+   "inSectionTitles": true,
+   "score": 24.55
+  },
+  {
+   "term": "ཕན་ཡོན",
+   "syllables": 2,
+   "count": 106,
+   "leftVariety": 22,
+   "rightVariety": 35,
+   "inSectionTitles": true,
+   "score": 24.51
+  },
+  {
+   "term": "དབུ་མ་པ",
+   "syllables": 3,
+   "count": 58,
+   "leftVariety": 24,
+   "rightVariety": 19,
+   "inSectionTitles": true,
+   "score": 24.51
+  },
+  {
+   "term": "བདག་ཉིད",
+   "syllables": 2,
+   "count": 70,
+   "leftVariety": 29,
+   "rightVariety": 47,
+   "inSectionTitles": false,
+   "score": 24.32
+  },
+  {
+   "term": "ལྟ་བུའི",
+   "syllables": 2,
+   "count": 109,
+   "leftVariety": 21,
+   "rightVariety": 63,
+   "inSectionTitles": false,
+   "score": 24.28
+  },
+  {
+   "term": "སྙིང་པོ",
+   "syllables": 2,
+   "count": 76,
+   "leftVariety": 27,
+   "rightVariety": 27,
+   "inSectionTitles": true,
+   "score": 24.26
+  },
+  {
+   "term": "འཕགས་པ",
+   "syllables": 2,
+   "count": 83,
+   "leftVariety": 25,
+   "rightVariety": 34,
+   "inSectionTitles": false,
+   "score": 24.18
+  },
+  {
+   "term": "རིག་པ",
+   "syllables": 2,
+   "count": 78,
+   "leftVariety": 26,
+   "rightVariety": 36,
+   "inSectionTitles": false,
+   "score": 24.13
+  },
+  {
+   "term": "བཅོམ་ལྡན་འདས",
+   "syllables": 3,
+   "count": 72,
+   "leftVariety": 15,
+   "rightVariety": 17,
+   "inSectionTitles": false,
+   "score": 23.74
+  },
+  {
+   "term": "སྙམ་པ",
+   "syllables": 2,
+   "count": 69,
+   "leftVariety": 31,
+   "rightVariety": 27,
+   "inSectionTitles": false,
+   "score": 23.72
+  },
+  {
+   "term": "དད་པ",
+   "syllables": 2,
+   "count": 85,
+   "leftVariety": 23,
+   "rightVariety": 47,
+   "inSectionTitles": true,
+   "score": 23.68
+  },
+  {
+   "term": "རྒྱུ་མཚན",
+   "syllables": 2,
+   "count": 113,
+   "leftVariety": 19,
+   "rightVariety": 32,
+   "inSectionTitles": true,
+   "score": 23.66
+  },
+  {
+   "term": "བཟུང་བ",
+   "syllables": 2,
+   "count": 82,
+   "leftVariety": 24,
+   "rightVariety": 23,
+   "inSectionTitles": true,
+   "score": 23.49
+  },
+  {
+   "term": "རང་བཞིན་གྱིས་སྟོང",
+   "syllables": 4,
+   "count": 50,
+   "leftVariety": 26,
+   "rightVariety": 12,
+   "inSectionTitles": false,
+   "score": 23.33
+  },
+  {
+   "term": "རང་བཞིན་ཡོད",
+   "syllables": 3,
+   "count": 114,
+   "leftVariety": 31,
+   "rightVariety": 11,
+   "inSectionTitles": false,
+   "score": 23.28
+  },
+  {
+   "term": "གཟུགས་བརྙན",
+   "syllables": 2,
+   "count": 70,
+   "leftVariety": 25,
+   "rightVariety": 28,
+   "inSectionTitles": false,
+   "score": 23.25
+  },
+  {
+   "term": "ཚོགས་པ",
+   "syllables": 2,
+   "count": 89,
+   "leftVariety": 21,
+   "rightVariety": 40,
+   "inSectionTitles": true,
+   "score": 23.23
+  },
+  {
+   "term": "སྡིག་པ",
+   "syllables": 2,
+   "count": 68,
+   "leftVariety": 25,
+   "rightVariety": 40,
+   "inSectionTitles": false,
+   "score": 23.09
+  },
+  {
+   "term": "བྱིང་རྒོད",
+   "syllables": 2,
+   "count": 76,
+   "leftVariety": 23,
+   "rightVariety": 26,
+   "inSectionTitles": false,
+   "score": 23.08
+  },
+  {
+   "term": "མཛད་པ",
+   "syllables": 2,
+   "count": 56,
+   "leftVariety": 38,
+   "rightVariety": 29,
+   "inSectionTitles": true,
+   "score": 23.04
+  },
+  {
+   "term": "དགོངས་པ",
+   "syllables": 2,
+   "count": 71,
+   "leftVariety": 24,
+   "rightVariety": 36,
+   "inSectionTitles": true,
+   "score": 23.03
+  },
+  {
+   "term": "ཁོ་བོ་ཅག",
+   "syllables": 3,
+   "count": 57,
+   "leftVariety": 16,
+   "rightVariety": 17,
+   "inSectionTitles": false,
+   "score": 22.98
+  },
+  {
+   "term": "འགའ་ཞིག",
+   "syllables": 2,
+   "count": 55,
+   "leftVariety": 32,
+   "rightVariety": 29,
+   "inSectionTitles": false,
+   "score": 22.94
+  },
+  {
+   "term": "རྒྱུ་འབྲས",
+   "syllables": 2,
+   "count": 65,
+   "leftVariety": 25,
+   "rightVariety": 29,
+   "inSectionTitles": true,
+   "score": 22.84
+  },
+  {
+   "term": "དེའི་ཚེ",
+   "syllables": 2,
+   "count": 103,
+   "leftVariety": 18,
+   "rightVariety": 60,
+   "inSectionTitles": false,
+   "score": 22.77
+  },
+  {
+   "term": "ཆོས་ཅན",
+   "syllables": 2,
+   "count": 67,
+   "leftVariety": 24,
+   "rightVariety": 28,
+   "inSectionTitles": true,
+   "score": 22.72
+  },
+  {
+   "term": "ཐ་དད",
+   "syllables": 2,
+   "count": 80,
+   "leftVariety": 24,
+   "rightVariety": 21,
+   "inSectionTitles": true,
+   "score": 22.68
+  },
+  {
+   "term": "ཆེན་པོའི",
+   "syllables": 2,
+   "count": 80,
+   "leftVariety": 21,
+   "rightVariety": 49,
+   "inSectionTitles": false,
+   "score": 22.68
+  },
+  {
+   "term": "དཀའ་བ",
+   "syllables": 2,
+   "count": 57,
+   "leftVariety": 27,
+   "rightVariety": 30,
+   "inSectionTitles": true,
+   "score": 22.65
+  },
+  {
+   "term": "སྤོང་བ",
+   "syllables": 2,
+   "count": 70,
+   "leftVariety": 39,
+   "rightVariety": 23,
+   "inSectionTitles": true,
+   "score": 22.65
+  },
+  {
+   "term": "བརྗོད་པ",
+   "syllables": 2,
+   "count": 62,
+   "leftVariety": 25,
+   "rightVariety": 29,
+   "inSectionTitles": true,
+   "score": 22.58
+  },
+  {
+   "term": "འཆི་བ",
+   "syllables": 2,
+   "count": 73,
+   "leftVariety": 27,
+   "rightVariety": 22,
+   "inSectionTitles": true,
+   "score": 22.55
+  },
+  {
+   "term": "སྔར་བཤད་པ",
+   "syllables": 3,
+   "count": 98,
+   "leftVariety": 30,
+   "rightVariety": 11,
+   "inSectionTitles": false,
+   "score": 22.54
+  },
+  {
+   "term": "ཐ་སྙད་པའི་ཤེས་པ",
+   "syllables": 5,
+   "count": 27,
+   "leftVariety": 18,
+   "rightVariety": 12,
+   "inSectionTitles": false,
+   "score": 22.52
+  },
+  {
+   "term": "གདམས་ངག",
+   "syllables": 2,
+   "count": 58,
+   "leftVariety": 26,
+   "rightVariety": 28,
+   "inSectionTitles": true,
+   "score": 22.49
+  },
+  {
+   "term": "མཆོད་པ",
+   "syllables": 2,
+   "count": 68,
+   "leftVariety": 23,
+   "rightVariety": 34,
+   "inSectionTitles": false,
+   "score": 22.49
+  },
+  {
+   "term": "འཇིགས་པ",
+   "syllables": 2,
+   "count": 53,
+   "leftVariety": 29,
+   "rightVariety": 28,
+   "inSectionTitles": false,
+   "score": 22.49
+  },
+  {
+   "term": "ཡོད་པར་འཛིན་པ",
+   "syllables": 4,
+   "count": 29,
+   "leftVariety": 18,
+   "rightVariety": 16,
+   "inSectionTitles": false,
+   "score": 22.41
+  },
+  {
+   "term": "ཡུན་རིང",
+   "syllables": 2,
+   "count": 63,
+   "leftVariety": 41,
+   "rightVariety": 24,
+   "inSectionTitles": false,
+   "score": 22.38
+  },
+  {
+   "term": "ལེན་པ",
+   "syllables": 2,
+   "count": 70,
+   "leftVariety": 22,
+   "rightVariety": 32,
+   "inSectionTitles": true,
+   "score": 22.32
+  },
+  {
+   "term": "ཐར་པ",
+   "syllables": 2,
+   "count": 69,
+   "leftVariety": 27,
+   "rightVariety": 22,
+   "inSectionTitles": true,
+   "score": 22.25
+  },
+  {
+   "term": "ཤེས་བཞིན",
+   "syllables": 2,
+   "count": 78,
+   "leftVariety": 20,
+   "rightVariety": 31,
+   "inSectionTitles": false,
+   "score": 22.19
+  },
+  {
+   "term": "རང་རྒྱུད",
+   "syllables": 2,
+   "count": 67,
+   "leftVariety": 22,
+   "rightVariety": 25,
+   "inSectionTitles": true,
+   "score": 22.09
+  },
+  {
+   "term": "ཕར་ཕྱིན",
+   "syllables": 2,
+   "count": 89,
+   "leftVariety": 19,
+   "rightVariety": 18,
+   "inSectionTitles": true,
+   "score": 22.06
+  },
+  {
+   "term": "ཆགས་པ",
+   "syllables": 2,
+   "count": 62,
+   "leftVariety": 23,
+   "rightVariety": 28,
+   "inSectionTitles": false,
+   "score": 22
+  },
+  {
+   "term": "སྣ་ཚོགས",
+   "syllables": 2,
+   "count": 53,
+   "leftVariety": 26,
+   "rightVariety": 27,
+   "inSectionTitles": false,
+   "score": 21.99
+  },
+  {
+   "term": "ཆོས་ཐམས་ཅད",
+   "syllables": 3,
+   "count": 44,
+   "leftVariety": 17,
+   "rightVariety": 22,
+   "inSectionTitles": false,
+   "score": 21.98
+  },
+  {
+   "term": "བཞག་པ",
+   "syllables": 2,
+   "count": 73,
+   "leftVariety": 20,
+   "rightVariety": 26,
+   "inSectionTitles": true,
+   "score": 21.85
+  },
+  {
+   "term": "ཆུང་ངུ",
+   "syllables": 2,
+   "count": 57,
+   "leftVariety": 25,
+   "rightVariety": 24,
+   "inSectionTitles": true,
+   "score": 21.84
+  },
+  {
+   "term": "ཁས་ལེན",
+   "syllables": 2,
+   "count": 68,
+   "leftVariety": 35,
+   "rightVariety": 21,
+   "inSectionTitles": false,
+   "score": 21.84
+  },
+  {
+   "term": "གཉེན་པོ",
+   "syllables": 2,
+   "count": 57,
+   "leftVariety": 24,
+   "rightVariety": 32,
+   "inSectionTitles": false,
+   "score": 21.84
+  },
+  {
+   "term": "ཁྱད་པར་ཅན",
+   "syllables": 3,
+   "count": 35,
+   "leftVariety": 23,
+   "rightVariety": 20,
+   "inSectionTitles": true,
+   "score": 21.83
+  },
+  {
+   "term": "དགག་བྱ",
+   "syllables": 2,
+   "count": 77,
+   "leftVariety": 19,
+   "rightVariety": 21,
+   "inSectionTitles": true,
+   "score": 21.74
+  },
+  {
+   "term": "དཀོན་མཆོག",
+   "syllables": 2,
+   "count": 71,
+   "leftVariety": 27,
+   "rightVariety": 20,
+   "inSectionTitles": false,
+   "score": 21.71
+  },
+  {
+   "term": "མྱོང་བ",
+   "syllables": 2,
+   "count": 55,
+   "leftVariety": 24,
+   "rightVariety": 30,
+   "inSectionTitles": false,
+   "score": 21.65
+  },
+  {
+   "term": "བཤེས་གཉེན",
+   "syllables": 2,
+   "count": 80,
+   "leftVariety": 18,
+   "rightVariety": 33,
+   "inSectionTitles": true,
+   "score": 21.53
+  },
+  {
+   "term": "འགལ་བ",
+   "syllables": 2,
+   "count": 60,
+   "leftVariety": 22,
+   "rightVariety": 32,
+   "inSectionTitles": false,
+   "score": 21.51
+  },
+  {
+   "term": "མིན་པ",
+   "syllables": 2,
+   "count": 56,
+   "leftVariety": 23,
+   "rightVariety": 29,
+   "inSectionTitles": false,
+   "score": 21.46
+  },
+  {
+   "term": "མཐའ་ཡས་པ",
+   "syllables": 3,
+   "count": 40,
+   "leftVariety": 17,
+   "rightVariety": 21,
+   "inSectionTitles": false,
+   "score": 21.43
+  },
+  {
+   "term": "ཡེ་ཤེས",
+   "syllables": 2,
+   "count": 72,
+   "leftVariety": 19,
+   "rightVariety": 36,
+   "inSectionTitles": false,
+   "score": 21.41
+  },
+  {
+   "term": "ཡོད་པ་མ་ཡིན",
+   "syllables": 4,
+   "count": 48,
+   "leftVariety": 26,
+   "rightVariety": 10,
+   "inSectionTitles": false,
+   "score": 21.39
+  },
+  {
+   "term": "རུང་བ",
+   "syllables": 2,
+   "count": 104,
+   "leftVariety": 15,
+   "rightVariety": 33,
+   "inSectionTitles": true,
+   "score": 21.38
+  },
+  {
+   "term": "འདོད་ཆགས",
+   "syllables": 2,
+   "count": 58,
+   "leftVariety": 22,
+   "rightVariety": 27,
+   "inSectionTitles": false,
+   "score": 21.34
+  },
+  {
+   "term": "མྱ་ངན",
+   "syllables": 2,
+   "count": 70,
+   "leftVariety": 33,
+   "rightVariety": 19,
+   "inSectionTitles": false,
+   "score": 21.27
+  },
+  {
+   "term": "བཟང་པོ",
+   "syllables": 2,
+   "count": 41,
+   "leftVariety": 29,
+   "rightVariety": 31,
+   "inSectionTitles": false,
+   "score": 21.26
+  },
+  {
+   "term": "ལམ་གྱི་རིམ་པ",
+   "syllables": 4,
+   "count": 34,
+   "leftVariety": 12,
+   "rightVariety": 16,
+   "inSectionTitles": true,
+   "score": 21.03
+  },
+  {
+   "term": "རང་གི་དོན",
+   "syllables": 3,
+   "count": 34,
+   "leftVariety": 19,
+   "rightVariety": 18,
+   "inSectionTitles": true,
+   "score": 20.89
+  },
+  {
+   "term": "དགེ་བའི་བཤེས་གཉེན",
+   "syllables": 4,
+   "count": 33,
+   "leftVariety": 12,
+   "rightVariety": 16,
+   "inSectionTitles": true,
+   "score": 20.85
+  },
+  {
+   "term": "སྒྲིབ་པ",
+   "syllables": 2,
+   "count": 60,
+   "leftVariety": 20,
+   "rightVariety": 29,
+   "inSectionTitles": true,
+   "score": 20.85
+  },
+  {
+   "term": "དཔྱད་པ",
+   "syllables": 2,
+   "count": 64,
+   "leftVariety": 19,
+   "rightVariety": 21,
+   "inSectionTitles": false,
+   "score": 20.82
+  },
+  {
+   "term": "བྱམས་པ",
+   "syllables": 2,
+   "count": 67,
+   "leftVariety": 21,
+   "rightVariety": 18,
+   "inSectionTitles": false,
+   "score": 20.66
+  },
+  {
+   "term": "བྱ་དགོས",
+   "syllables": 2,
+   "count": 73,
+   "leftVariety": 32,
+   "rightVariety": 17,
+   "inSectionTitles": false,
+   "score": 20.66
+  },
+  {
+   "term": "དཔྱད་སྒོམ",
+   "syllables": 2,
+   "count": 50,
+   "leftVariety": 22,
+   "rightVariety": 23,
+   "inSectionTitles": true,
+   "score": 20.56
+  },
+  {
+   "term": "དགག་པ",
+   "syllables": 2,
+   "count": 71,
+   "leftVariety": 19,
+   "rightVariety": 17,
+   "inSectionTitles": true,
+   "score": 20.53
+  },
+  {
+   "term": "མཐའ་ཡས",
+   "syllables": 2,
+   "count": 70,
+   "leftVariety": 24,
+   "rightVariety": 17,
+   "inSectionTitles": false,
+   "score": 20.46
+  },
+  {
+   "term": "བཏགས་པ",
+   "syllables": 2,
+   "count": 49,
+   "leftVariety": 22,
+   "rightVariety": 23,
+   "inSectionTitles": false,
+   "score": 20.45
+  },
+  {
+   "term": "དོན་དམ་པ",
+   "syllables": 3,
+   "count": 36,
+   "leftVariety": 16,
+   "rightVariety": 22,
+   "inSectionTitles": false,
+   "score": 20.37
+  },
+  {
+   "term": "གནོད་བྱེད",
+   "syllables": 2,
+   "count": 58,
+   "leftVariety": 19,
+   "rightVariety": 26,
+   "inSectionTitles": true,
+   "score": 20.32
+  },
+  {
+   "term": "རྒྱལ་པོ",
+   "syllables": 2,
+   "count": 58,
+   "leftVariety": 19,
+   "rightVariety": 26,
+   "inSectionTitles": false,
+   "score": 20.32
+  },
+  {
+   "term": "མན་ངག",
+   "syllables": 2,
+   "count": 54,
+   "leftVariety": 20,
+   "rightVariety": 23,
+   "inSectionTitles": true,
+   "score": 20.31
+  },
+  {
+   "term": "ཟླ་བ",
+   "syllables": 2,
+   "count": 62,
+   "leftVariety": 18,
+   "rightVariety": 24,
+   "inSectionTitles": false,
+   "score": 20.28
+  },
+  {
+   "term": "སེམས་བསྐྱེད་པ",
+   "syllables": 3,
+   "count": 35,
+   "leftVariety": 16,
+   "rightVariety": 20,
+   "inSectionTitles": true,
+   "score": 20.21
+  },
+  {
+   "term": "གཞན་གྱི་དོན",
+   "syllables": 3,
+   "count": 38,
+   "leftVariety": 15,
+   "rightVariety": 23,
+   "inSectionTitles": false,
+   "score": 20.19
+  },
+  {
+   "term": "འགྲེལ་པ",
+   "syllables": 2,
+   "count": 72,
+   "leftVariety": 19,
+   "rightVariety": 16,
+   "inSectionTitles": false,
+   "score": 20.16
+  },
+  {
+   "term": "བསྡུས་པ",
+   "syllables": 2,
+   "count": 56,
+   "leftVariety": 21,
+   "rightVariety": 19,
+   "inSectionTitles": false,
+   "score": 20.15
+  },
+  {
+   "term": "ཧ་ཅང",
+   "syllables": 2,
+   "count": 49,
+   "leftVariety": 21,
+   "rightVariety": 30,
+   "inSectionTitles": true,
+   "score": 20.14
+  },
+  {
+   "term": "ཚོར་བ",
+   "syllables": 2,
+   "count": 52,
+   "leftVariety": 20,
+   "rightVariety": 22,
+   "inSectionTitles": false,
+   "score": 20.12
+  },
+  {
+   "term": "དབང་པོ",
+   "syllables": 2,
+   "count": 55,
+   "leftVariety": 19,
+   "rightVariety": 34,
+   "inSectionTitles": false,
+   "score": 20.06
+  },
+  {
+   "term": "རང་དབང",
+   "syllables": 2,
+   "count": 55,
+   "leftVariety": 25,
+   "rightVariety": 19,
+   "inSectionTitles": false,
+   "score": 20.06
+  },
+  {
+   "term": "གསུམ་པ",
+   "syllables": 2,
+   "count": 85,
+   "leftVariety": 14,
+   "rightVariety": 42,
+   "inSectionTitles": true,
+   "score": 19.93
+  },
+  {
+   "term": "བསླབ་བྱ",
+   "syllables": 2,
+   "count": 68,
+   "leftVariety": 16,
+   "rightVariety": 23,
+   "inSectionTitles": true,
+   "score": 19.89
+  },
+  {
+   "term": "དངོས་པོ་ཐམས་ཅད",
+   "syllables": 4,
+   "count": 28,
+   "leftVariety": 17,
+   "rightVariety": 12,
+   "inSectionTitles": false,
+   "score": 19.87
+  },
+  {
+   "term": "སྐྱེ་བོ",
+   "syllables": 2,
+   "count": 49,
+   "leftVariety": 20,
+   "rightVariety": 25,
+   "inSectionTitles": false,
+   "score": 19.82
+  },
+  {
+   "term": "ཞི་བ",
+   "syllables": 2,
+   "count": 46,
+   "leftVariety": 21,
+   "rightVariety": 23,
+   "inSectionTitles": true,
+   "score": 19.82
+  },
+  {
+   "term": "གཏི་མུག",
+   "syllables": 2,
+   "count": 49,
+   "leftVariety": 20,
+   "rightVariety": 32,
+   "inSectionTitles": false,
+   "score": 19.82
+  },
+  {
+   "term": "གྲགས་པ",
+   "syllables": 2,
+   "count": 48,
+   "leftVariety": 20,
+   "rightVariety": 26,
+   "inSectionTitles": false,
+   "score": 19.72
+  },
+  {
+   "term": "ལྟ་བུར",
+   "syllables": 2,
+   "count": 60,
+   "leftVariety": 17,
+   "rightVariety": 31,
+   "inSectionTitles": true,
+   "score": 19.72
+  },
+  {
+   "term": "རང་ཉིད",
+   "syllables": 2,
+   "count": 48,
+   "leftVariety": 20,
+   "rightVariety": 35,
+   "inSectionTitles": false,
+   "score": 19.72
+  },
+  {
+   "term": "མདོ་སྡེ",
+   "syllables": 2,
+   "count": 47,
+   "leftVariety": 25,
+   "rightVariety": 20,
+   "inSectionTitles": false,
+   "score": 19.61
+  },
+  {
+   "term": "རྫོགས་པ",
+   "syllables": 2,
+   "count": 50,
+   "leftVariety": 19,
+   "rightVariety": 23,
+   "inSectionTitles": false,
+   "score": 19.58
+  },
+  {
+   "term": "ང་རྒྱལ",
+   "syllables": 2,
+   "count": 50,
+   "leftVariety": 19,
+   "rightVariety": 32,
+   "inSectionTitles": false,
+   "score": 19.58
+  },
+  {
+   "term": "མྱུ་གུ",
+   "syllables": 2,
+   "count": 50,
+   "leftVariety": 24,
+   "rightVariety": 19,
+   "inSectionTitles": false,
+   "score": 19.58
+  },
+  {
+   "term": "གཏོང་བ",
+   "syllables": 2,
+   "count": 53,
+   "leftVariety": 21,
+   "rightVariety": 18,
+   "inSectionTitles": false,
+   "score": 19.51
+  },
+  {
+   "term": "ཐེག་ཆེན",
+   "syllables": 2,
+   "count": 62,
+   "leftVariety": 26,
+   "rightVariety": 16,
+   "inSectionTitles": true,
+   "score": 19.45
+  },
+  {
+   "term": "རྣལ་འབྱོར་པ",
+   "syllables": 3,
+   "count": 36,
+   "leftVariety": 14,
+   "rightVariety": 16,
+   "inSectionTitles": false,
+   "score": 19.39
+  },
+  {
+   "term": "བྱིང་བ",
+   "syllables": 2,
+   "count": 45,
+   "leftVariety": 20,
+   "rightVariety": 23,
+   "inSectionTitles": false,
+   "score": 19.39
+  },
+  {
+   "term": "ངན་པ",
+   "syllables": 2,
+   "count": 40,
+   "leftVariety": 22,
+   "rightVariety": 24,
+   "inSectionTitles": false,
+   "score": 19.38
+  },
+  {
+   "term": "གཏན་ཚིགས",
+   "syllables": 2,
+   "count": 42,
+   "leftVariety": 23,
+   "rightVariety": 21,
+   "inSectionTitles": true,
+   "score": 19.35
+  },
+  {
+   "term": "རང་བཞིན་ཡོད་མེད",
+   "syllables": 4,
+   "count": 39,
+   "leftVariety": 17,
+   "rightVariety": 9,
+   "inSectionTitles": false,
+   "score": 19.32
+  },
+  {
+   "term": "དམ་བཅའ",
+   "syllables": 2,
+   "count": 47,
+   "leftVariety": 24,
+   "rightVariety": 19,
+   "inSectionTitles": false,
+   "score": 19.27
+  },
+  {
+   "term": "རྣམ་སྨིན",
+   "syllables": 2,
+   "count": 46,
+   "leftVariety": 19,
+   "rightVariety": 23,
+   "inSectionTitles": false,
+   "score": 19.16
+  },
+  {
+   "term": "ཕྱིན་དྲུག",
+   "syllables": 2,
+   "count": 49,
+   "leftVariety": 22,
+   "rightVariety": 18,
+   "inSectionTitles": true,
+   "score": 19.12
+  },
+  {
+   "term": "བྱེད་པ་ཡིན",
+   "syllables": 3,
+   "count": 48,
+   "leftVariety": 18,
+   "rightVariety": 11,
+   "inSectionTitles": false,
+   "score": 19.03
+  },
+  {
+   "term": "མཐར་ཐུག",
+   "syllables": 2,
+   "count": 56,
+   "leftVariety": 19,
+   "rightVariety": 16,
+   "inSectionTitles": false,
+   "score": 18.97
+  },
+  {
+   "term": "རྣམ་པ་ཐམས་ཅད",
+   "syllables": 4,
+   "count": 58,
+   "leftVariety": 23,
+   "rightVariety": 7,
+   "inSectionTitles": false,
+   "score": 18.96
+  },
+  {
+   "term": "ཡོ་བྱད",
+   "syllables": 2,
+   "count": 39,
+   "leftVariety": 21,
+   "rightVariety": 25,
+   "inSectionTitles": false,
+   "score": 18.96
+  },
+  {
+   "term": "སོང་བ",
+   "syllables": 2,
+   "count": 47,
+   "leftVariety": 18,
+   "rightVariety": 21,
+   "inSectionTitles": true,
+   "score": 18.92
+  },
+  {
+   "term": "བསྟེན་པ",
+   "syllables": 2,
+   "count": 50,
+   "leftVariety": 24,
+   "rightVariety": 17,
+   "inSectionTitles": true,
+   "score": 18.84
+  },
+  {
+   "term": "བཀོད་པ",
+   "syllables": 2,
+   "count": 40,
+   "leftVariety": 20,
+   "rightVariety": 21,
+   "inSectionTitles": true,
+   "score": 18.79
+  },
+  {
+   "term": "སྐྱེ་བར་འགྱུར",
+   "syllables": 3,
+   "count": 40,
+   "leftVariety": 21,
+   "rightVariety": 12,
+   "inSectionTitles": false,
+   "score": 18.79
+  },
+  {
+   "term": "རང་བཞིན་ཡོད་པ",
+   "syllables": 4,
+   "count": 26,
+   "leftVariety": 13,
+   "rightVariety": 11,
+   "inSectionTitles": false,
+   "score": 18.75
+  },
+  {
+   "term": "ཡིད་ལ་བྱེད",
+   "syllables": 3,
+   "count": 81,
+   "leftVariety": 35,
+   "rightVariety": 8,
+   "inSectionTitles": false,
+   "score": 18.73
+  },
+  {
+   "term": "དོན་མེད",
+   "syllables": 2,
+   "count": 53,
+   "leftVariety": 24,
+   "rightVariety": 16,
+   "inSectionTitles": false,
+   "score": 18.71
+  },
+  {
+   "term": "ལྟུང་བ",
+   "syllables": 2,
+   "count": 42,
+   "leftVariety": 19,
+   "rightVariety": 26,
+   "inSectionTitles": false,
+   "score": 18.71
+  },
+  {
+   "term": "འབའ་ཞིག",
+   "syllables": 2,
+   "count": 35,
+   "leftVariety": 22,
+   "rightVariety": 24,
+   "inSectionTitles": false,
+   "score": 18.68
+  },
+  {
+   "term": "འགྲུབ་པ",
+   "syllables": 2,
+   "count": 44,
+   "leftVariety": 25,
+   "rightVariety": 18,
+   "inSectionTitles": true,
+   "score": 18.59
+  },
+  {
+   "term": "ཉེས་སྤྱོད",
+   "syllables": 2,
+   "count": 36,
+   "leftVariety": 21,
+   "rightVariety": 22,
+   "inSectionTitles": true,
+   "score": 18.55
+  },
+  {
+   "term": "གཉིས་ཀའི",
+   "syllables": 2,
+   "count": 36,
+   "leftVariety": 24,
+   "rightVariety": 21,
+   "inSectionTitles": false,
+   "score": 18.55
+  },
+  {
+   "term": "ཐུན་མོང",
+   "syllables": 2,
+   "count": 114,
+   "leftVariety": 36,
+   "rightVariety": 10,
+   "inSectionTitles": true,
+   "score": 18.54
+  },
+  {
+   "term": "ཞུགས་པ",
+   "syllables": 2,
+   "count": 47,
+   "leftVariety": 17,
+   "rightVariety": 25,
+   "inSectionTitles": false,
+   "score": 18.54
+  },
+  {
+   "term": "བསྐལ་པ",
+   "syllables": 2,
+   "count": 51,
+   "leftVariety": 16,
+   "rightVariety": 17,
+   "inSectionTitles": false,
+   "score": 18.53
+  },
+  {
+   "term": "སུན་འབྱིན",
+   "syllables": 2,
+   "count": 62,
+   "leftVariety": 28,
+   "rightVariety": 14,
+   "inSectionTitles": true,
+   "score": 18.52
+  },
+  {
+   "term": "ཡིད་བྱེད",
+   "syllables": 2,
+   "count": 46,
+   "leftVariety": 17,
+   "rightVariety": 25,
+   "inSectionTitles": false,
+   "score": 18.44
+  },
+  {
+   "term": "གཅོད་པ",
+   "syllables": 2,
+   "count": 37,
+   "leftVariety": 20,
+   "rightVariety": 20,
+   "inSectionTitles": false,
+   "score": 18.39
+  },
+  {
+   "term": "ཐུན་མོང་བ",
+   "syllables": 3,
+   "count": 32,
+   "leftVariety": 17,
+   "rightVariety": 13,
+   "inSectionTitles": true,
+   "score": 18.22
+  },
+  {
+   "term": "སྲིད་པ",
+   "syllables": 2,
+   "count": 38,
+   "leftVariety": 19,
+   "rightVariety": 23,
+   "inSectionTitles": false,
+   "score": 18.21
+  },
+  {
+   "term": "དངོས་པོར་སྨྲ་བ",
+   "syllables": 4,
+   "count": 27,
+   "leftVariety": 14,
+   "rightVariety": 10,
+   "inSectionTitles": false,
+   "score": 18.21
+  },
+  {
+   "term": "སྒོམ་རིམ",
+   "syllables": 2,
+   "count": 74,
+   "leftVariety": 15,
+   "rightVariety": 12,
+   "inSectionTitles": false,
+   "score": 18.18
+  },
+  {
+   "term": "སྤྱད་པ",
+   "syllables": 2,
+   "count": 43,
+   "leftVariety": 17,
+   "rightVariety": 19,
+   "inSectionTitles": false,
+   "score": 18.12
+  },
+  {
+   "term": "དབུ་མའི",
+   "syllables": 2,
+   "count": 56,
+   "leftVariety": 28,
+   "rightVariety": 14,
+   "inSectionTitles": true,
+   "score": 18.06
+  },
+  {
+   "term": "ལུས་དང་སེམས",
+   "syllables": 3,
+   "count": 39,
+   "leftVariety": 26,
+   "rightVariety": 11,
+   "inSectionTitles": false,
+   "score": 18.01
+  },
+  {
+   "term": "སྒྲུབ་བྱེད",
+   "syllables": 2,
+   "count": 39,
+   "leftVariety": 22,
+   "rightVariety": 18,
+   "inSectionTitles": false,
+   "score": 18
+  },
+  {
+   "term": "བུམ་པ",
+   "syllables": 2,
+   "count": 42,
+   "leftVariety": 18,
+   "rightVariety": 17,
+   "inSectionTitles": false,
+   "score": 18
+  },
+  {
+   "term": "ཤིན་སྦྱངས",
+   "syllables": 2,
+   "count": 34,
+   "leftVariety": 22,
+   "rightVariety": 20,
+   "inSectionTitles": false,
+   "score": 17.96
+  },
+  {
+   "term": "སྐྱོན་མེད",
+   "syllables": 2,
+   "count": 45,
+   "leftVariety": 16,
+   "rightVariety": 20,
+   "inSectionTitles": true,
+   "score": 17.94
+  },
+  {
+   "term": "རྒྱལ་བ",
+   "syllables": 2,
+   "count": 36,
+   "leftVariety": 19,
+   "rightVariety": 22,
+   "inSectionTitles": true,
+   "score": 17.94
+  },
+  {
+   "term": "བལྟ་བ",
+   "syllables": 2,
+   "count": 49,
+   "leftVariety": 15,
+   "rightVariety": 25,
+   "inSectionTitles": false,
+   "score": 17.92
+  },
+  {
+   "term": "ངན་འགྲོར",
+   "syllables": 2,
+   "count": 49,
+   "leftVariety": 23,
+   "rightVariety": 15,
+   "inSectionTitles": false,
+   "score": 17.92
+  },
+  {
+   "term": "ཚད་མས",
+   "syllables": 2,
+   "count": 54,
+   "leftVariety": 23,
+   "rightVariety": 14,
+   "inSectionTitles": true,
+   "score": 17.9
+  },
+  {
+   "term": "ཐལ་འགྱུར",
+   "syllables": 2,
+   "count": 38,
+   "leftVariety": 18,
+   "rightVariety": 19,
+   "inSectionTitles": false,
+   "score": 17.87
+  },
+  {
+   "term": "སྐད་ཅིག",
+   "syllables": 2,
+   "count": 44,
+   "leftVariety": 22,
+   "rightVariety": 16,
+   "inSectionTitles": false,
+   "score": 17.84
+  },
+  {
+   "term": "སྨྲས་པ",
+   "syllables": 2,
+   "count": 53,
+   "leftVariety": 20,
+   "rightVariety": 14,
+   "inSectionTitles": false,
+   "score": 17.81
+  },
+  {
+   "term": "གཙོ་བོ",
+   "syllables": 2,
+   "count": 39,
+   "leftVariety": 17,
+   "rightVariety": 21,
+   "inSectionTitles": false,
+   "score": 17.65
+  },
+  {
+   "term": "རྩོལ་བ",
+   "syllables": 2,
+   "count": 34,
+   "leftVariety": 20,
+   "rightVariety": 19,
+   "inSectionTitles": false,
+   "score": 17.65
+  },
+  {
+   "term": "འབྱོར་པ",
+   "syllables": 2,
+   "count": 51,
+   "leftVariety": 14,
+   "rightVariety": 23,
+   "inSectionTitles": false,
+   "score": 17.64
+  },
+  {
+   "term": "དགེ་འདུན",
+   "syllables": 2,
+   "count": 51,
+   "leftVariety": 14,
+   "rightVariety": 21,
+   "inSectionTitles": false,
+   "score": 17.64
+  },
+  {
+   "term": "གྲུབ་པ་ཡིན",
+   "syllables": 3,
+   "count": 28,
+   "leftVariety": 13,
+   "rightVariety": 15,
+   "inSectionTitles": false,
+   "score": 17.52
+  },
+  {
+   "term": "བཏང་སྙོམས",
+   "syllables": 2,
+   "count": 38,
+   "leftVariety": 18,
+   "rightVariety": 17,
+   "inSectionTitles": false,
+   "score": 17.52
+  },
+  {
+   "term": "བསགས་པ",
+   "syllables": 2,
+   "count": 31,
+   "leftVariety": 20,
+   "rightVariety": 21,
+   "inSectionTitles": false,
+   "score": 17.49
+  },
+  {
+   "term": "ལྡོག་པ",
+   "syllables": 2,
+   "count": 35,
+   "leftVariety": 18,
+   "rightVariety": 21,
+   "inSectionTitles": false,
+   "score": 17.47
+  },
+  {
+   "term": "གོམས་པ",
+   "syllables": 2,
+   "count": 37,
+   "leftVariety": 17,
+   "rightVariety": 27,
+   "inSectionTitles": true,
+   "score": 17.39
+  },
+  {
+   "term": "ཡོངས་སུ་རྫོགས",
+   "syllables": 3,
+   "count": 59,
+   "leftVariety": 31,
+   "rightVariety": 8,
+   "inSectionTitles": false,
+   "score": 17.38
+  },
+  {
+   "term": "ཁོ་ནར",
+   "syllables": 2,
+   "count": 48,
+   "leftVariety": 14,
+   "rightVariety": 30,
+   "inSectionTitles": true,
+   "score": 17.37
+  },
+  {
+   "term": "ཉམས་ལེན",
+   "syllables": 2,
+   "count": 47,
+   "leftVariety": 23,
+   "rightVariety": 14,
+   "inSectionTitles": false,
+   "score": 17.27
+  },
+  {
+   "term": "ཤུགས་དྲག",
+   "syllables": 2,
+   "count": 39,
+   "leftVariety": 18,
+   "rightVariety": 16,
+   "inSectionTitles": false,
+   "score": 17.27
+  },
+  {
+   "term": "དངོས་པོར",
+   "syllables": 2,
+   "count": 52,
+   "leftVariety": 25,
+   "rightVariety": 13,
+   "inSectionTitles": false,
+   "score": 17.23
+  },
+  {
+   "term": "ཤེས་པར་བྱ",
+   "syllables": 3,
+   "count": 38,
+   "leftVariety": 25,
+   "rightVariety": 10,
+   "inSectionTitles": false,
+   "score": 17.17
+  },
+  {
+   "term": "རིན་པོ་ཆེ",
+   "syllables": 3,
+   "count": 26,
+   "leftVariety": 13,
+   "rightVariety": 17,
+   "inSectionTitles": false,
+   "score": 17.13
+  },
+  {
+   "term": "ཆེན་པོར",
+   "syllables": 2,
+   "count": 35,
+   "leftVariety": 18,
+   "rightVariety": 17,
+   "inSectionTitles": false,
+   "score": 17.12
+  },
+  {
+   "term": "བླངས་པ",
+   "syllables": 2,
+   "count": 66,
+   "leftVariety": 11,
+   "rightVariety": 30,
+   "inSectionTitles": false,
+   "score": 17.08
+  },
+  {
+   "term": "རྗེས་སུ་དྲན",
+   "syllables": 3,
+   "count": 32,
+   "leftVariety": 17,
+   "rightVariety": 11,
+   "inSectionTitles": true,
+   "score": 17.04
+  },
+  {
+   "term": "འདྲ་བ་ཞིག",
+   "syllables": 3,
+   "count": 37,
+   "leftVariety": 10,
+   "rightVariety": 23,
+   "inSectionTitles": false,
+   "score": 17.04
+  },
+  {
+   "term": "བྱེ་བྲག",
+   "syllables": 2,
+   "count": 37,
+   "leftVariety": 19,
+   "rightVariety": 16,
+   "inSectionTitles": true,
+   "score": 17.02
+  },
+  {
+   "term": "དགེ་སློང",
+   "syllables": 2,
+   "count": 40,
+   "leftVariety": 15,
+   "rightVariety": 19,
+   "inSectionTitles": false,
+   "score": 16.98
+  },
+  {
+   "term": "སྡུག་པ",
+   "syllables": 2,
+   "count": 34,
+   "leftVariety": 17,
+   "rightVariety": 18,
+   "inSectionTitles": false,
+   "score": 16.98
+  },
+  {
+   "term": "ཉན་ཐོས",
+   "syllables": 2,
+   "count": 49,
+   "leftVariety": 17,
+   "rightVariety": 13,
+   "inSectionTitles": false,
+   "score": 16.97
+  },
+  {
+   "term": "དཔག་ཏུ་མེད",
+   "syllables": 3,
+   "count": 53,
+   "leftVariety": 23,
+   "rightVariety": 8,
+   "inSectionTitles": false,
+   "score": 16.92
+  },
+  {
+   "term": "འཆད་པ",
+   "syllables": 2,
+   "count": 36,
+   "leftVariety": 18,
+   "rightVariety": 16,
+   "inSectionTitles": false,
+   "score": 16.89
+  },
+  {
+   "term": "ཆོས་ཉིད",
+   "syllables": 2,
+   "count": 36,
+   "leftVariety": 16,
+   "rightVariety": 18,
+   "inSectionTitles": false,
+   "score": 16.89
+  },
+  {
+   "term": "ཉིད་ཡིན",
+   "syllables": 2,
+   "count": 48,
+   "leftVariety": 18,
+   "rightVariety": 13,
+   "inSectionTitles": false,
+   "score": 16.88
+  },
+  {
+   "term": "སྦྱོང་བ",
+   "syllables": 2,
+   "count": 39,
+   "leftVariety": 15,
+   "rightVariety": 17,
+   "inSectionTitles": true,
+   "score": 16.87
+  },
+  {
+   "term": "མཐུན་པ",
+   "syllables": 2,
+   "count": 43,
+   "leftVariety": 14,
+   "rightVariety": 27,
+   "inSectionTitles": false,
+   "score": 16.87
+  },
+  {
+   "term": "འཛིན་སྟངས",
+   "syllables": 2,
+   "count": 43,
+   "leftVariety": 14,
+   "rightVariety": 20,
+   "inSectionTitles": false,
+   "score": 16.87
+  },
+  {
+   "term": "བདེ་འགྲོ",
+   "syllables": 2,
+   "count": 31,
+   "leftVariety": 20,
+   "rightVariety": 18,
+   "inSectionTitles": false,
+   "score": 16.87
+  },
+  {
+   "term": "གསུང་བ",
+   "syllables": 2,
+   "count": 54,
+   "leftVariety": 33,
+   "rightVariety": 12,
+   "inSectionTitles": false,
+   "score": 16.85
+  },
+  {
+   "term": "འཐད་པ",
+   "syllables": 2,
+   "count": 33,
+   "leftVariety": 20,
+   "rightVariety": 17,
+   "inSectionTitles": true,
+   "score": 16.84
+  },
+  {
+   "term": "བཅས་པ",
+   "syllables": 2,
+   "count": 62,
+   "leftVariety": 11,
+   "rightVariety": 33,
+   "inSectionTitles": false,
+   "score": 16.82
+  },
+  {
+   "term": "སློང་བ",
+   "syllables": 2,
+   "count": 47,
+   "leftVariety": 27,
+   "rightVariety": 13,
+   "inSectionTitles": false,
+   "score": 16.79
+  },
+  {
+   "term": "བྱིས་པ",
+   "syllables": 2,
+   "count": 38,
+   "leftVariety": 15,
+   "rightVariety": 26,
+   "inSectionTitles": false,
+   "score": 16.75
+  },
+  {
+   "term": "སྦྱངས་པ",
+   "syllables": 2,
+   "count": 72,
+   "leftVariety": 10,
+   "rightVariety": 31,
+   "inSectionTitles": true,
+   "score": 16.74
+  },
+  {
+   "term": "སྡུག་བསྔལ་བ",
+   "syllables": 3,
+   "count": 30,
+   "leftVariety": 13,
+   "rightVariety": 11,
+   "inSectionTitles": true,
+   "score": 16.72
+  },
+  {
+   "term": "འདོགས་པ",
+   "syllables": 2,
+   "count": 41,
+   "leftVariety": 14,
+   "rightVariety": 22,
+   "inSectionTitles": false,
+   "score": 16.66
+  },
+  {
+   "term": "རྒོད་པ",
+   "syllables": 2,
+   "count": 41,
+   "leftVariety": 14,
+   "rightVariety": 22,
+   "inSectionTitles": false,
+   "score": 16.66
+  },
+  {
+   "term": "གཏན་ལ་ཕབ",
+   "syllables": 3,
+   "count": 40,
+   "leftVariety": 15,
+   "rightVariety": 9,
+   "inSectionTitles": false,
+   "score": 16.62
+  },
+  {
+   "term": "ཟིན་པ",
+   "syllables": 2,
+   "count": 34,
+   "leftVariety": 23,
+   "rightVariety": 16,
+   "inSectionTitles": true,
+   "score": 16.62
+  },
+  {
+   "term": "ཁྱབ་པ",
+   "syllables": 2,
+   "count": 34,
+   "leftVariety": 16,
+   "rightVariety": 21,
+   "inSectionTitles": false,
+   "score": 16.62
+  },
+  {
+   "term": "སྒྲུབ་པ",
+   "syllables": 2,
+   "count": 31,
+   "leftVariety": 18,
+   "rightVariety": 17,
+   "inSectionTitles": true,
+   "score": 16.54
+  },
+  {
+   "term": "དགོངས་འགྲེལ",
+   "syllables": 2,
+   "count": 50,
+   "leftVariety": 19,
+   "rightVariety": 12,
+   "inSectionTitles": false,
+   "score": 16.53
+  },
+  {
+   "term": "ཞེ་སྡང",
+   "syllables": 2,
+   "count": 50,
+   "leftVariety": 12,
+   "rightVariety": 28,
+   "inSectionTitles": false,
+   "score": 16.53
+  },
+  {
+   "term": "ཆོ་ག",
+   "syllables": 2,
+   "count": 36,
+   "leftVariety": 15,
+   "rightVariety": 20,
+   "inSectionTitles": true,
+   "score": 16.5
+  },
+  {
+   "term": "བརྩོན་པ",
+   "syllables": 2,
+   "count": 33,
+   "leftVariety": 16,
+   "rightVariety": 22,
+   "inSectionTitles": false,
+   "score": 16.48
+  },
+  {
+   "term": "གྲུབ་པའི་རང་བཞིན",
+   "syllables": 4,
+   "count": 71,
+   "leftVariety": 5,
+   "rightVariety": 29,
+   "inSectionTitles": false,
+   "score": 16.47
+  },
+  {
+   "term": "ཐག་པ",
+   "syllables": 2,
+   "count": 67,
+   "leftVariety": 13,
+   "rightVariety": 10,
+   "inSectionTitles": false,
+   "score": 16.46
+  },
+  {
+   "term": "དམ་པའི་ཆོས",
+   "syllables": 3,
+   "count": 28,
+   "leftVariety": 11,
+   "rightVariety": 16,
+   "inSectionTitles": false,
+   "score": 16.38
+  },
+  {
+   "term": "ཕན་ཚུན",
+   "syllables": 2,
+   "count": 30,
+   "leftVariety": 17,
+   "rightVariety": 18,
+   "inSectionTitles": false,
+   "score": 16.38
+  },
+  {
+   "term": "རྨི་ལམ",
+   "syllables": 2,
+   "count": 35,
+   "leftVariety": 15,
+   "rightVariety": 19,
+   "inSectionTitles": false,
+   "score": 16.37
+  },
+  {
+   "term": "རྣམ་ཤེས",
+   "syllables": 2,
+   "count": 35,
+   "leftVariety": 15,
+   "rightVariety": 19,
+   "inSectionTitles": false,
+   "score": 16.37
+  },
+  {
+   "term": "དྲག་པོ",
+   "syllables": 2,
+   "count": 32,
+   "leftVariety": 16,
+   "rightVariety": 18,
+   "inSectionTitles": false,
+   "score": 16.34
+  },
+  {
+   "term": "ལོག་པ",
+   "syllables": 2,
+   "count": 32,
+   "leftVariety": 16,
+   "rightVariety": 19,
+   "inSectionTitles": false,
+   "score": 16.34
+  },
+  {
+   "term": "ཕུན་སུམ་ཚོགས",
+   "syllables": 3,
+   "count": 60,
+   "leftVariety": 32,
+   "rightVariety": 7,
+   "inSectionTitles": true,
+   "score": 16.33
+  },
+  {
+   "term": "འོང་བ",
+   "syllables": 2,
+   "count": 47,
+   "leftVariety": 12,
+   "rightVariety": 26,
+   "inSectionTitles": false,
+   "score": 16.26
+  },
+  {
+   "term": "ཕྱི་མའི",
+   "syllables": 2,
+   "count": 34,
+   "leftVariety": 15,
+   "rightVariety": 17,
+   "inSectionTitles": false,
+   "score": 16.23
+  },
+  {
+   "term": "གསལ་བ",
+   "syllables": 2,
+   "count": 34,
+   "leftVariety": 20,
+   "rightVariety": 15,
+   "inSectionTitles": true,
+   "score": 16.23
+  },
+  {
+   "term": "བརྒྱུད་པ",
+   "syllables": 2,
+   "count": 29,
+   "leftVariety": 17,
+   "rightVariety": 18,
+   "inSectionTitles": false,
+   "score": 16.22
+  },
+  {
+   "term": "ཟེར་བ",
+   "syllables": 2,
+   "count": 37,
+   "leftVariety": 17,
+   "rightVariety": 14,
+   "inSectionTitles": false,
+   "score": 16.2
+  },
+  {
+   "term": "གནས་ངན་ལེན",
+   "syllables": 3,
+   "count": 27,
+   "leftVariety": 11,
+   "rightVariety": 14,
+   "inSectionTitles": false,
+   "score": 16.2
+  },
+  {
+   "term": "གཙོ་བོར",
+   "syllables": 2,
+   "count": 31,
+   "leftVariety": 16,
+   "rightVariety": 20,
+   "inSectionTitles": false,
+   "score": 16.19
+  },
+  {
+   "term": "ཚང་བ",
+   "syllables": 2,
+   "count": 31,
+   "leftVariety": 16,
+   "rightVariety": 17,
+   "inSectionTitles": false,
+   "score": 16.19
+  },
+  {
+   "term": "ཕྱིན་ཅི་མ་ལོག",
+   "syllables": 4,
+   "count": 43,
+   "leftVariety": 25,
+   "rightVariety": 6,
+   "inSectionTitles": false,
+   "score": 16.17
+  },
+  {
+   "term": "དོན་དུ་གཉེར",
+   "syllables": 3,
+   "count": 36,
+   "leftVariety": 21,
+   "rightVariety": 9,
+   "inSectionTitles": true,
+   "score": 16.14
+  },
+  {
+   "term": "འདུལ་བ",
+   "syllables": 2,
+   "count": 33,
+   "leftVariety": 20,
+   "rightVariety": 15,
+   "inSectionTitles": false,
+   "score": 16.1
+  },
+  {
+   "term": "མོས་པ",
+   "syllables": 2,
+   "count": 33,
+   "leftVariety": 15,
+   "rightVariety": 23,
+   "inSectionTitles": false,
+   "score": 16.1
+  },
+  {
+   "term": "རྒྱ་མཚོ",
+   "syllables": 2,
+   "count": 28,
+   "leftVariety": 17,
+   "rightVariety": 17,
+   "inSectionTitles": false,
+   "score": 16.05
+  },
+  {
+   "term": "ཆེན་པོས",
+   "syllables": 2,
+   "count": 44,
+   "leftVariety": 12,
+   "rightVariety": 33,
+   "inSectionTitles": false,
+   "score": 15.99
+  },
+  {
+   "term": "སྐྱབས་འགྲོ",
+   "syllables": 2,
+   "count": 35,
+   "leftVariety": 14,
+   "rightVariety": 19,
+   "inSectionTitles": true,
+   "score": 15.95
+  },
+  {
+   "term": "སྐྱོང་ཚུལ",
+   "syllables": 2,
+   "count": 35,
+   "leftVariety": 14,
+   "rightVariety": 22,
+   "inSectionTitles": true,
+   "score": 15.95
+  },
+  {
+   "term": "དགོས་པ་ཡིན",
+   "syllables": 3,
+   "count": 34,
+   "leftVariety": 27,
+   "rightVariety": 9,
+   "inSectionTitles": false,
+   "score": 15.88
+  },
+  {
+   "term": "དོན་གཉེར",
+   "syllables": 2,
+   "count": 34,
+   "leftVariety": 14,
+   "rightVariety": 18,
+   "inSectionTitles": true,
+   "score": 15.82
+  },
+  {
+   "term": "རྐང་པ",
+   "syllables": 2,
+   "count": 25,
+   "leftVariety": 18,
+   "rightVariety": 18,
+   "inSectionTitles": false,
+   "score": 15.82
+  },
+  {
+   "term": "དཀོན་མཆོག་གསུམ",
+   "syllables": 3,
+   "count": 25,
+   "leftVariety": 12,
+   "rightVariety": 11,
+   "inSectionTitles": false,
+   "score": 15.82
+  },
+  {
+   "term": "རང་གི་ལུགས",
+   "syllables": 3,
+   "count": 28,
+   "leftVariety": 17,
+   "rightVariety": 10,
+   "inSectionTitles": true,
+   "score": 15.73
+  },
+  {
+   "term": "རྣམ་པར་བཞག",
+   "syllables": 3,
+   "count": 28,
+   "leftVariety": 14,
+   "rightVariety": 10,
+   "inSectionTitles": false,
+   "score": 15.73
+  },
+  {
+   "term": "བཀག་པ",
+   "syllables": 2,
+   "count": 33,
+   "leftVariety": 19,
+   "rightVariety": 14,
+   "inSectionTitles": true,
+   "score": 15.69
+  },
+  {
+   "term": "ཕྱི་རོལ",
+   "syllables": 2,
+   "count": 46,
+   "leftVariety": 22,
+   "rightVariety": 11,
+   "inSectionTitles": false,
+   "score": 15.61
+  },
+  {
+   "term": "ངེས་པ་རྙེད",
+   "syllables": 3,
+   "count": 32,
+   "leftVariety": 10,
+   "rightVariety": 9,
+   "inSectionTitles": false,
+   "score": 15.61
+  },
+  {
+   "term": "རབ་བྱེད",
+   "syllables": 2,
+   "count": 40,
+   "leftVariety": 12,
+   "rightVariety": 13,
+   "inSectionTitles": false,
+   "score": 15.58
+  },
+  {
+   "term": "གོམས་པར་བྱས",
+   "syllables": 3,
+   "count": 27,
+   "leftVariety": 12,
+   "rightVariety": 10,
+   "inSectionTitles": false,
+   "score": 15.56
+  },
+  {
+   "term": "འཕེལ་བ",
+   "syllables": 2,
+   "count": 27,
+   "leftVariety": 22,
+   "rightVariety": 16,
+   "inSectionTitles": true,
+   "score": 15.53
+  },
+  {
+   "term": "སྲེད་པ",
+   "syllables": 2,
+   "count": 29,
+   "leftVariety": 15,
+   "rightVariety": 20,
+   "inSectionTitles": false,
+   "score": 15.5
+  },
+  {
+   "term": "དབང་མེད",
+   "syllables": 2,
+   "count": 35,
+   "leftVariety": 13,
+   "rightVariety": 15,
+   "inSectionTitles": false,
+   "score": 15.5
+  },
+  {
+   "term": "ཕྱི་རྒོལ",
+   "syllables": 2,
+   "count": 35,
+   "leftVariety": 16,
+   "rightVariety": 13,
+   "inSectionTitles": false,
+   "score": 15.5
+  },
+  {
+   "term": "སློབ་པ",
+   "syllables": 2,
+   "count": 39,
+   "leftVariety": 12,
+   "rightVariety": 19,
+   "inSectionTitles": true,
+   "score": 15.48
+  },
+  {
+   "term": "བསྡུ་བ",
+   "syllables": 2,
+   "count": 52,
+   "leftVariety": 14,
+   "rightVariety": 10,
+   "inSectionTitles": true,
+   "score": 15.47
+  },
+  {
+   "term": "ཆུང་བ",
+   "syllables": 2,
+   "count": 31,
+   "leftVariety": 17,
+   "rightVariety": 14,
+   "inSectionTitles": false,
+   "score": 15.41
+  },
+  {
+   "term": "བཞེད་པ",
+   "syllables": 2,
+   "count": 34,
+   "leftVariety": 20,
+   "rightVariety": 13,
+   "inSectionTitles": false,
+   "score": 15.38
+  },
+  {
+   "term": "དམྱལ་བ",
+   "syllables": 2,
+   "count": 38,
+   "leftVariety": 12,
+   "rightVariety": 26,
+   "inSectionTitles": true,
+   "score": 15.37
+  },
+  {
+   "term": "ངན་འགྲོ",
+   "syllables": 2,
+   "count": 26,
+   "leftVariety": 17,
+   "rightVariety": 16,
+   "inSectionTitles": false,
+   "score": 15.36
+  },
+  {
+   "term": "ཉན་པ",
+   "syllables": 2,
+   "count": 28,
+   "leftVariety": 17,
+   "rightVariety": 15,
+   "inSectionTitles": true,
+   "score": 15.34
+  },
+  {
+   "term": "རབ་ཏུ་བྱུང",
+   "syllables": 3,
+   "count": 30,
+   "leftVariety": 16,
+   "rightVariety": 9,
+   "inSectionTitles": false,
+   "score": 15.32
+  },
+  {
+   "term": "སྔར་བཤད",
+   "syllables": 2,
+   "count": 151,
+   "leftVariety": 34,
+   "rightVariety": 6,
+   "inSectionTitles": false,
+   "score": 15.28
+  },
+  {
+   "term": "བསྒོམ་པར་བྱ",
+   "syllables": 3,
+   "count": 29,
+   "leftVariety": 21,
+   "rightVariety": 9,
+   "inSectionTitles": false,
+   "score": 15.17
+  },
+  {
+   "term": "གཞན་ཞིག",
+   "syllables": 2,
+   "count": 25,
+   "leftVariety": 18,
+   "rightVariety": 16,
+   "inSectionTitles": false,
+   "score": 15.17
+  },
+  {
+   "term": "འབྱིན་པ",
+   "syllables": 2,
+   "count": 41,
+   "leftVariety": 11,
+   "rightVariety": 25,
+   "inSectionTitles": false,
+   "score": 15.14
+  },
+  {
+   "term": "རང་བཞིན་མེད་པར་རྟོགས",
+   "syllables": 5,
+   "count": 30,
+   "leftVariety": 16,
+   "rightVariety": 5,
+   "inSectionTitles": false,
+   "score": 15.05
+  },
+  {
+   "term": "རྣམ་གཞག",
+   "syllables": 2,
+   "count": 40,
+   "leftVariety": 11,
+   "rightVariety": 18,
+   "inSectionTitles": true,
+   "score": 15.04
+  },
+  {
+   "term": "ཚད་མས་གྲུབ",
+   "syllables": 3,
+   "count": 28,
+   "leftVariety": 16,
+   "rightVariety": 9,
+   "inSectionTitles": true,
+   "score": 15.01
+  },
+  {
+   "term": "བཅད་པ",
+   "syllables": 2,
+   "count": 26,
+   "leftVariety": 15,
+   "rightVariety": 16,
+   "inSectionTitles": false,
+   "score": 15
+  },
+  {
+   "term": "གཞན་དོན",
+   "syllables": 2,
+   "count": 31,
+   "leftVariety": 13,
+   "rightVariety": 21,
+   "inSectionTitles": true,
+   "score": 14.97
+  },
+  {
+   "term": "འཇོག་སྒོམ",
+   "syllables": 2,
+   "count": 31,
+   "leftVariety": 13,
+   "rightVariety": 15,
+   "inSectionTitles": true,
+   "score": 14.97
+  },
+  {
+   "term": "གཉེན་པོར",
+   "syllables": 2,
+   "count": 31,
+   "leftVariety": 13,
+   "rightVariety": 16,
+   "inSectionTitles": false,
+   "score": 14.97
+  },
+  {
+   "term": "ཞུམ་པ",
+   "syllables": 2,
+   "count": 28,
+   "leftVariety": 16,
+   "rightVariety": 14,
+   "inSectionTitles": false,
+   "score": 14.95
+  },
+  {
+   "term": "ཕྲ་མོ",
+   "syllables": 2,
+   "count": 30,
+   "leftVariety": 17,
+   "rightVariety": 13,
+   "inSectionTitles": false,
+   "score": 14.83
+  },
+  {
+   "term": "འབྱེད་པ",
+   "syllables": 2,
+   "count": 30,
+   "leftVariety": 13,
+   "rightVariety": 15,
+   "inSectionTitles": false,
+   "score": 14.83
+  },
+  {
+   "term": "དགེ་རྩ",
+   "syllables": 2,
+   "count": 25,
+   "leftVariety": 18,
+   "rightVariety": 15,
+   "inSectionTitles": false,
+   "score": 14.82
+  },
+  {
+   "term": "བརྟན་པ",
+   "syllables": 2,
+   "count": 27,
+   "leftVariety": 14,
+   "rightVariety": 19,
+   "inSectionTitles": false,
+   "score": 14.79
+  },
+  {
+   "term": "སྐྱོ་བ",
+   "syllables": 2,
+   "count": 27,
+   "leftVariety": 16,
+   "rightVariety": 14,
+   "inSectionTitles": false,
+   "score": 14.79
+  },
+  {
+   "term": "སྤྲོས་པ",
+   "syllables": 2,
+   "count": 27,
+   "leftVariety": 21,
+   "rightVariety": 14,
+   "inSectionTitles": false,
+   "score": 14.79
+  },
+  {
+   "term": "རྗེས་དཔག",
+   "syllables": 2,
+   "count": 27,
+   "leftVariety": 14,
+   "rightVariety": 21,
+   "inSectionTitles": false,
+   "score": 14.79
+  },
+  {
+   "term": "གུས་པ",
+   "syllables": 2,
+   "count": 33,
+   "leftVariety": 12,
+   "rightVariety": 16,
+   "inSectionTitles": true,
+   "score": 14.77
+  },
+  {
+   "term": "ཤིན་ཏུ་ཆེ",
+   "syllables": 3,
+   "count": 26,
+   "leftVariety": 19,
+   "rightVariety": 9,
+   "inSectionTitles": false,
+   "score": 14.68
+  },
+  {
+   "term": "ཉམས་པ",
+   "syllables": 2,
+   "count": 29,
+   "leftVariety": 16,
+   "rightVariety": 13,
+   "inSectionTitles": true,
+   "score": 14.68
+  },
+  {
+   "term": "གནས་སྐབས",
+   "syllables": 2,
+   "count": 32,
+   "leftVariety": 15,
+   "rightVariety": 12,
+   "inSectionTitles": false,
+   "score": 14.64
+  },
+  {
+   "term": "ཤིན་ཏུ་གསལ",
+   "syllables": 3,
+   "count": 31,
+   "leftVariety": 16,
+   "rightVariety": 8,
+   "inSectionTitles": false,
+   "score": 14.64
+  },
+  {
+   "term": "གཏན་ལ་དབབ་པ",
+   "syllables": 4,
+   "count": 30,
+   "leftVariety": 11,
+   "rightVariety": 6,
+   "inSectionTitles": true,
+   "score": 14.63
+  },
+  {
+   "term": "ཀླུ་སྒྲུབ",
+   "syllables": 2,
+   "count": 42,
+   "leftVariety": 10,
+   "rightVariety": 10,
+   "inSectionTitles": true,
+   "score": 14.63
+  },
+  {
+   "term": "ངན་སོང",
+   "syllables": 2,
+   "count": 26,
+   "leftVariety": 14,
+   "rightVariety": 14,
+   "inSectionTitles": false,
+   "score": 14.62
+  },
+  {
+   "term": "བསྟོད་པ",
+   "syllables": 2,
+   "count": 36,
+   "leftVariety": 11,
+   "rightVariety": 12,
+   "inSectionTitles": false,
+   "score": 14.61
+  },
+  {
+   "term": "དྲངས་པ",
+   "syllables": 2,
+   "count": 50,
+   "leftVariety": 23,
+   "rightVariety": 9,
+   "inSectionTitles": false,
+   "score": 14.61
+  },
+  {
+   "term": "འབད་པ",
+   "syllables": 2,
+   "count": 31,
+   "leftVariety": 12,
+   "rightVariety": 12,
+   "inSectionTitles": false,
+   "score": 14.51
+  },
+  {
+   "term": "གནོད་པ་བྱེད",
+   "syllables": 3,
+   "count": 25,
+   "leftVariety": 14,
+   "rightVariety": 9,
+   "inSectionTitles": false,
+   "score": 14.5
+  },
+  {
+   "term": "རྩེ་གཅིག",
+   "syllables": 2,
+   "count": 60,
+   "leftVariety": 17,
+   "rightVariety": 8,
+   "inSectionTitles": false,
+   "score": 14.47
+  },
+  {
+   "term": "སྤྱོད་ལམ",
+   "syllables": 2,
+   "count": 25,
+   "leftVariety": 16,
+   "rightVariety": 14,
+   "inSectionTitles": true,
+   "score": 14.44
+  },
+  {
+   "term": "བཞི་པོ",
+   "syllables": 2,
+   "count": 25,
+   "leftVariety": 14,
+   "rightVariety": 16,
+   "inSectionTitles": false,
+   "score": 14.44
+  },
+  {
+   "term": "འདས་པ",
+   "syllables": 2,
+   "count": 40,
+   "leftVariety": 10,
+   "rightVariety": 24,
+   "inSectionTitles": false,
+   "score": 14.44
+  },
+  {
+   "term": "ཚུལ་བཞིན",
+   "syllables": 2,
+   "count": 47,
+   "leftVariety": 23,
+   "rightVariety": 9,
+   "inSectionTitles": false,
+   "score": 14.38
+  },
+  {
+   "term": "ཟང་ཟིང",
+   "syllables": 2,
+   "count": 27,
+   "leftVariety": 15,
+   "rightVariety": 13,
+   "inSectionTitles": false,
+   "score": 14.37
+  },
+  {
+   "term": "གཞན་དབང",
+   "syllables": 2,
+   "count": 27,
+   "leftVariety": 18,
+   "rightVariety": 13,
+   "inSectionTitles": false,
+   "score": 14.37
+  },
+  {
+   "term": "སྐྱེ་བ་མེད",
+   "syllables": 3,
+   "count": 29,
+   "leftVariety": 14,
+   "rightVariety": 8,
+   "inSectionTitles": false,
+   "score": 14.35
+  },
+  {
+   "term": "གཏན་ལ་འབེབས",
+   "syllables": 3,
+   "count": 36,
+   "leftVariety": 18,
+   "rightVariety": 7,
+   "inSectionTitles": true,
+   "score": 14.3
+  },
+  {
+   "term": "ངོས་བཟུང",
+   "syllables": 2,
+   "count": 45,
+   "leftVariety": 18,
+   "rightVariety": 9,
+   "inSectionTitles": true,
+   "score": 14.22
+  },
+  {
+   "term": "རྒྱལ་སྲས",
+   "syllables": 2,
+   "count": 29,
+   "leftVariety": 12,
+   "rightVariety": 15,
+   "inSectionTitles": true,
+   "score": 14.22
+  },
+  {
+   "term": "དེའི་དོན",
+   "syllables": 2,
+   "count": 29,
+   "leftVariety": 12,
+   "rightVariety": 20,
+   "inSectionTitles": false,
+   "score": 14.22
+  },
+  {
+   "term": "བསྲུང་བ",
+   "syllables": 2,
+   "count": 26,
+   "leftVariety": 13,
+   "rightVariety": 14,
+   "inSectionTitles": true,
+   "score": 14.21
+  },
+  {
+   "term": "ཁོ་བོ",
+   "syllables": 2,
+   "count": 73,
+   "leftVariety": 21,
+   "rightVariety": 7,
+   "inSectionTitles": false,
+   "score": 14.19
+  },
+  {
+   "term": "ཕྱིན་པ",
+   "syllables": 2,
+   "count": 55,
+   "leftVariety": 8,
+   "rightVariety": 23,
+   "inSectionTitles": true,
+   "score": 14.17
+  },
+  {
+   "term": "རིན་ཆེན",
+   "syllables": 2,
+   "count": 28,
+   "leftVariety": 12,
+   "rightVariety": 18,
+   "inSectionTitles": false,
+   "score": 14.08
+  },
+  {
+   "term": "རྩོད་པ",
+   "syllables": 2,
+   "count": 28,
+   "leftVariety": 12,
+   "rightVariety": 15,
+   "inSectionTitles": true,
+   "score": 14.08
+  },
+  {
+   "term": "ཞི་ལྷག",
+   "syllables": 2,
+   "count": 43,
+   "leftVariety": 18,
+   "rightVariety": 9,
+   "inSectionTitles": true,
+   "score": 14.05
+  },
+  {
+   "term": "དོན་བྱེད",
+   "syllables": 2,
+   "count": 36,
+   "leftVariety": 19,
+   "rightVariety": 10,
+   "inSectionTitles": false,
+   "score": 14.03
+  },
+  {
+   "term": "རྟག་པ",
+   "syllables": 2,
+   "count": 51,
+   "leftVariety": 8,
+   "rightVariety": 20,
+   "inSectionTitles": false,
+   "score": 13.9
+  },
+  {
+   "term": "རྗེས་སུ་མཐུན",
+   "syllables": 3,
+   "count": 44,
+   "leftVariety": 13,
+   "rightVariety": 6,
+   "inSectionTitles": false,
+   "score": 13.9
+  },
+  {
+   "term": "བཞི་པ",
+   "syllables": 2,
+   "count": 41,
+   "leftVariety": 9,
+   "rightVariety": 21,
+   "inSectionTitles": false,
+   "score": 13.87
+  },
+  {
+   "term": "གལ་ཆེ",
+   "syllables": 2,
+   "count": 40,
+   "leftVariety": 18,
+   "rightVariety": 9,
+   "inSectionTitles": false,
+   "score": 13.78
+  },
+  {
+   "term": "དབང་ཕྱུག",
+   "syllables": 2,
+   "count": 26,
+   "leftVariety": 12,
+   "rightVariety": 15,
+   "inSectionTitles": false,
+   "score": 13.76
+  },
+  {
+   "term": "ད་དུང",
+   "syllables": 2,
+   "count": 26,
+   "leftVariety": 12,
+   "rightVariety": 20,
+   "inSectionTitles": false,
+   "score": 13.76
+  },
+  {
+   "term": "སྨིན་པ",
+   "syllables": 2,
+   "count": 33,
+   "leftVariety": 10,
+   "rightVariety": 24,
+   "inSectionTitles": false,
+   "score": 13.69
+  },
+  {
+   "term": "དངོས་པོའི",
+   "syllables": 2,
+   "count": 33,
+   "leftVariety": 18,
+   "rightVariety": 10,
+   "inSectionTitles": false,
+   "score": 13.69
+  },
+  {
+   "term": "སྦྱང་བ",
+   "syllables": 2,
+   "count": 48,
+   "leftVariety": 13,
+   "rightVariety": 8,
+   "inSectionTitles": true,
+   "score": 13.68
+  },
+  {
+   "term": "གསོག་པ",
+   "syllables": 2,
+   "count": 25,
+   "leftVariety": 12,
+   "rightVariety": 13,
+   "inSectionTitles": true,
+   "score": 13.6
+  },
+  {
+   "term": "ཚད་མར",
+   "syllables": 2,
+   "count": 25,
+   "leftVariety": 12,
+   "rightVariety": 14,
+   "inSectionTitles": false,
+   "score": 13.6
+  },
+  {
+   "term": "གདམས་པ",
+   "syllables": 2,
+   "count": 28,
+   "leftVariety": 11,
+   "rightVariety": 17,
+   "inSectionTitles": true,
+   "score": 13.58
+  },
+  {
+   "term": "ཚོལ་བ",
+   "syllables": 2,
+   "count": 28,
+   "leftVariety": 18,
+   "rightVariety": 11,
+   "inSectionTitles": false,
+   "score": 13.58
+  },
+  {
+   "term": "ཤེས་པར་བྱས",
+   "syllables": 3,
+   "count": 39,
+   "leftVariety": 20,
+   "rightVariety": 6,
+   "inSectionTitles": false,
+   "score": 13.46
+  },
+  {
+   "term": "ཚིག་གསལ",
+   "syllables": 2,
+   "count": 45,
+   "leftVariety": 13,
+   "rightVariety": 8,
+   "inSectionTitles": false,
+   "score": 13.46
+  },
+  {
+   "term": "གྲུབ་མཐའ",
+   "syllables": 2,
+   "count": 27,
+   "leftVariety": 18,
+   "rightVariety": 11,
+   "inSectionTitles": false,
+   "score": 13.44
+  },
+  {
+   "term": "ངེས་དོན",
+   "syllables": 2,
+   "count": 36,
+   "leftVariety": 20,
+   "rightVariety": 9,
+   "inSectionTitles": true,
+   "score": 13.39
+  },
+  {
+   "term": "ཞུས་པ",
+   "syllables": 2,
+   "count": 44,
+   "leftVariety": 10,
+   "rightVariety": 8,
+   "inSectionTitles": false,
+   "score": 13.38
+  },
+  {
+   "term": "འདུན་པ",
+   "syllables": 2,
+   "count": 26,
+   "leftVariety": 16,
+   "rightVariety": 11,
+   "inSectionTitles": false,
+   "score": 13.28
+  },
+  {
+   "term": "སྤངས་པ",
+   "syllables": 2,
+   "count": 26,
+   "leftVariety": 16,
+   "rightVariety": 11,
+   "inSectionTitles": false,
+   "score": 13.28
+  },
+  {
+   "term": "དུད་འགྲོ",
+   "syllables": 2,
+   "count": 26,
+   "leftVariety": 11,
+   "rightVariety": 17,
+   "inSectionTitles": true,
+   "score": 13.28
+  },
+  {
+   "term": "རྒྱུ་རྐྱེན",
+   "syllables": 2,
+   "count": 26,
+   "leftVariety": 11,
+   "rightVariety": 11,
+   "inSectionTitles": false,
+   "score": 13.28
+  },
+  {
+   "term": "རང་ལུགས",
+   "syllables": 2,
+   "count": 35,
+   "leftVariety": 16,
+   "rightVariety": 9,
+   "inSectionTitles": true,
+   "score": 13.28
+  },
+  {
+   "term": "གཏན་ལ་དབབ",
+   "syllables": 3,
+   "count": 37,
+   "leftVariety": 15,
+   "rightVariety": 6,
+   "inSectionTitles": true,
+   "score": 13.26
+  },
+  {
+   "term": "གཉིས་ཡོད",
+   "syllables": 2,
+   "count": 29,
+   "leftVariety": 17,
+   "rightVariety": 10,
+   "inSectionTitles": false,
+   "score": 13.18
+  },
+  {
+   "term": "ཕ་རོལ་ཏུ་ཕྱིན",
+   "syllables": 4,
+   "count": 52,
+   "leftVariety": 19,
+   "rightVariety": 4,
+   "inSectionTitles": false,
+   "score": 13.15
+  },
+  {
+   "term": "མཉམ་པར་བཞག",
+   "syllables": 3,
+   "count": 27,
+   "leftVariety": 11,
+   "rightVariety": 7,
+   "inSectionTitles": false,
+   "score": 13.15
+  },
+  {
+   "term": "ཐུན་མོང་མ་ཡིན",
+   "syllables": 4,
+   "count": 30,
+   "leftVariety": 18,
+   "rightVariety": 5,
+   "inSectionTitles": false,
+   "score": 13.14
+  },
+  {
+   "term": "ཕྱག་འཚལ",
+   "syllables": 2,
+   "count": 25,
+   "leftVariety": 12,
+   "rightVariety": 11,
+   "inSectionTitles": false,
+   "score": 13.12
+  },
+  {
+   "term": "བློ་གྲོས",
+   "syllables": 2,
+   "count": 25,
+   "leftVariety": 13,
+   "rightVariety": 11,
+   "inSectionTitles": false,
+   "score": 13.12
+  },
+  {
+   "term": "ཡུལ་ཅན",
+   "syllables": 2,
+   "count": 25,
+   "leftVariety": 11,
+   "rightVariety": 14,
+   "inSectionTitles": false,
+   "score": 13.12
+  },
+  {
+   "term": "སྡུད་པ",
+   "syllables": 2,
+   "count": 28,
+   "leftVariety": 14,
+   "rightVariety": 10,
+   "inSectionTitles": true,
+   "score": 13.04
+  },
+  {
+   "term": "དགེ་བཤེས",
+   "syllables": 2,
+   "count": 28,
+   "leftVariety": 10,
+   "rightVariety": 16,
+   "inSectionTitles": false,
+   "score": 13.04
+  },
+  {
+   "term": "ངོས་བཟུང་བ",
+   "syllables": 3,
+   "count": 34,
+   "leftVariety": 13,
+   "rightVariety": 6,
+   "inSectionTitles": true,
+   "score": 12.95
+  },
+  {
+   "term": "སྒྲོ་འདོགས",
+   "syllables": 2,
+   "count": 39,
+   "leftVariety": 14,
+   "rightVariety": 8,
+   "inSectionTitles": false,
+   "score": 12.95
+  },
+  {
+   "term": "འཇིག་རྟེན་ལས་འདས",
+   "syllables": 4,
+   "count": 28,
+   "leftVariety": 11,
+   "rightVariety": 5,
+   "inSectionTitles": false,
+   "score": 12.87
+  },
+  {
+   "term": "སྤྱོད་འཇུག",
+   "syllables": 2,
+   "count": 68,
+   "leftVariety": 10,
+   "rightVariety": 6,
+   "inSectionTitles": false,
+   "score": 12.85
+  },
+  {
+   "term": "སེམས་རྩེ་གཅིག",
+   "syllables": 3,
+   "count": 33,
+   "leftVariety": 17,
+   "rightVariety": 6,
+   "inSectionTitles": false,
+   "score": 12.84
+  },
+  {
+   "term": "རིང་བ",
+   "syllables": 2,
+   "count": 31,
+   "leftVariety": 9,
+   "rightVariety": 16,
+   "inSectionTitles": false,
+   "score": 12.83
+  },
+  {
+   "term": "རྙེད་དཀའ",
+   "syllables": 2,
+   "count": 26,
+   "leftVariety": 14,
+   "rightVariety": 10,
+   "inSectionTitles": true,
+   "score": 12.75
+  },
+  {
+   "term": "ལྟ་ཅི་སྨོས",
+   "syllables": 3,
+   "count": 32,
+   "leftVariety": 13,
+   "rightVariety": 6,
+   "inSectionTitles": false,
+   "score": 12.73
+  },
+  {
+   "term": "མྱ་ངན་ལས་འདས",
+   "syllables": 4,
+   "count": 27,
+   "leftVariety": 16,
+   "rightVariety": 5,
+   "inSectionTitles": false,
+   "score": 12.73
+  },
+  {
+   "term": "རྣམ་པར་འབྱེད",
+   "syllables": 3,
+   "count": 32,
+   "leftVariety": 17,
+   "rightVariety": 6,
+   "inSectionTitles": false,
+   "score": 12.73
+  },
+  {
+   "term": "ལྕི་བ",
+   "syllables": 2,
+   "count": 30,
+   "leftVariety": 15,
+   "rightVariety": 9,
+   "inSectionTitles": false,
+   "score": 12.7
+  },
+  {
+   "term": "སྐྱེ་མཆེད",
+   "syllables": 2,
+   "count": 30,
+   "leftVariety": 9,
+   "rightVariety": 13,
+   "inSectionTitles": false,
+   "score": 12.7
+  },
+  {
+   "term": "བཅུ་གཉིས",
+   "syllables": 2,
+   "count": 36,
+   "leftVariety": 8,
+   "rightVariety": 12,
+   "inSectionTitles": true,
+   "score": 12.67
+  },
+  {
+   "term": "བཀའ་སྩལ",
+   "syllables": 2,
+   "count": 36,
+   "leftVariety": 14,
+   "rightVariety": 8,
+   "inSectionTitles": false,
+   "score": 12.67
+  },
+  {
+   "term": "སྙམ་དུ་བསམས",
+   "syllables": 3,
+   "count": 31,
+   "leftVariety": 19,
+   "rightVariety": 6,
+   "inSectionTitles": false,
+   "score": 12.61
+  },
+  {
+   "term": "ངན་འགྲོའི",
+   "syllables": 2,
+   "count": 29,
+   "leftVariety": 14,
+   "rightVariety": 9,
+   "inSectionTitles": false,
+   "score": 12.58
+  },
+  {
+   "term": "ཐོགས་མེད",
+   "syllables": 2,
+   "count": 35,
+   "leftVariety": 8,
+   "rightVariety": 11,
+   "inSectionTitles": false,
+   "score": 12.57
+  },
+  {
+   "term": "དཔྱོད་པའི་རིགས",
+   "syllables": 3,
+   "count": 45,
+   "leftVariety": 10,
+   "rightVariety": 5,
+   "inSectionTitles": false,
+   "score": 12.56
+  },
+  {
+   "term": "རྩེ་གཅིག་པ",
+   "syllables": 3,
+   "count": 29,
+   "leftVariety": 6,
+   "rightVariety": 17,
+   "inSectionTitles": false,
+   "score": 12.37
+  },
+  {
+   "term": "རྣམ་པར་དཔྱད",
+   "syllables": 3,
+   "count": 29,
+   "leftVariety": 12,
+   "rightVariety": 6,
+   "inSectionTitles": false,
+   "score": 12.37
+  },
+  {
+   "term": "ཇོ་བོ",
+   "syllables": 2,
+   "count": 33,
+   "leftVariety": 8,
+   "rightVariety": 9,
+   "inSectionTitles": false,
+   "score": 12.36
+  },
+  {
+   "term": "ཡོད་པར་འཛིན",
+   "syllables": 3,
+   "count": 42,
+   "leftVariety": 23,
+   "rightVariety": 5,
+   "inSectionTitles": false,
+   "score": 12.33
+  },
+  {
+   "term": "བཅོམ་པ",
+   "syllables": 2,
+   "count": 27,
+   "leftVariety": 9,
+   "rightVariety": 17,
+   "inSectionTitles": false,
+   "score": 12.31
+  },
+  {
+   "term": "ཆོས་ཀྱི་བདག",
+   "syllables": 3,
+   "count": 28,
+   "leftVariety": 16,
+   "rightVariety": 6,
+   "inSectionTitles": true,
+   "score": 12.24
+  },
+  {
+   "term": "རྒྱུན་རིང",
+   "syllables": 2,
+   "count": 26,
+   "leftVariety": 9,
+   "rightVariety": 9,
+   "inSectionTitles": false,
+   "score": 12.17
+  },
+  {
+   "term": "འདོད་དགོས",
+   "syllables": 2,
+   "count": 26,
+   "leftVariety": 11,
+   "rightVariety": 9,
+   "inSectionTitles": false,
+   "score": 12.17
+  },
+  {
+   "term": "དངོས་པོ་མེད",
+   "syllables": 3,
+   "count": 27,
+   "leftVariety": 15,
+   "rightVariety": 6,
+   "inSectionTitles": false,
+   "score": 12.11
+  },
+  {
+   "term": "བསྒྲུབ་དགོས",
+   "syllables": 2,
+   "count": 25,
+   "leftVariety": 20,
+   "rightVariety": 9,
+   "inSectionTitles": true,
+   "score": 12.02
+  },
+  {
+   "term": "སྦྱར་བ",
+   "syllables": 2,
+   "count": 25,
+   "leftVariety": 9,
+   "rightVariety": 13,
+   "inSectionTitles": true,
+   "score": 12.02
+  },
+  {
+   "term": "སྐབས་སུ་བཤད",
+   "syllables": 3,
+   "count": 26,
+   "leftVariety": 8,
+   "rightVariety": 6,
+   "inSectionTitles": false,
+   "score": 11.97
+  },
+  {
+   "term": "ཐེག་པ་ཆེན",
+   "syllables": 3,
+   "count": 67,
+   "leftVariety": 23,
+   "rightVariety": 4,
+   "inSectionTitles": true,
+   "score": 11.95
+  },
+  {
+   "term": "རྟེན་ཅིང་འབྲེལ་པར་འབྱུང",
+   "syllables": 5,
+   "count": 50,
+   "leftVariety": 24,
+   "rightVariety": 3,
+   "inSectionTitles": false,
+   "score": 11.82
+  },
+  {
+   "term": "གསལ་བར་གསུངས",
+   "syllables": 3,
+   "count": 25,
+   "leftVariety": 10,
+   "rightVariety": 6,
+   "inSectionTitles": false,
+   "score": 11.82
+  },
+  {
+   "term": "རང་བཞིན་འགོག",
+   "syllables": 3,
+   "count": 25,
+   "leftVariety": 10,
+   "rightVariety": 6,
+   "inSectionTitles": false,
+   "score": 11.82
+  },
+  {
+   "term": "ཤེར་ཕྱིན",
+   "syllables": 2,
+   "count": 28,
+   "leftVariety": 11,
+   "rightVariety": 8,
+   "inSectionTitles": false,
+   "score": 11.78
+  },
+  {
+   "term": "དོན་ཡིན",
+   "syllables": 2,
+   "count": 28,
+   "leftVariety": 8,
+   "rightVariety": 11,
+   "inSectionTitles": false,
+   "score": 11.78
+  },
+  {
+   "term": "ཐ་སྙད་པའི་ཤེས",
+   "syllables": 4,
+   "count": 34,
+   "leftVariety": 21,
+   "rightVariety": 4,
+   "inSectionTitles": false,
+   "score": 11.73
+  },
+  {
+   "term": "བཤད་ཟིན",
+   "syllables": 2,
+   "count": 33,
+   "leftVariety": 12,
+   "rightVariety": 7,
+   "inSectionTitles": false,
+   "score": 11.57
+  },
+  {
+   "term": "འཚང་རྒྱ",
+   "syllables": 2,
+   "count": 33,
+   "leftVariety": 16,
+   "rightVariety": 7,
+   "inSectionTitles": false,
+   "score": 11.57
+  },
+  {
+   "term": "དངོས་གཞི",
+   "syllables": 2,
+   "count": 26,
+   "leftVariety": 8,
+   "rightVariety": 10,
+   "inSectionTitles": true,
+   "score": 11.52
+  },
+  {
+   "term": "བྲལ་བ",
+   "syllables": 2,
+   "count": 43,
+   "leftVariety": 6,
+   "rightVariety": 23,
+   "inSectionTitles": true,
+   "score": 11.46
+  },
+  {
+   "term": "སྟེར་བ",
+   "syllables": 2,
+   "count": 32,
+   "leftVariety": 15,
+   "rightVariety": 7,
+   "inSectionTitles": false,
+   "score": 11.46
+  },
+  {
+   "term": "ཉན་ས",
+   "syllables": 2,
+   "count": 43,
+   "leftVariety": 14,
+   "rightVariety": 6,
+   "inSectionTitles": false,
+   "score": 11.46
+  },
+  {
+   "term": "ལོག་རྟོག",
+   "syllables": 2,
+   "count": 25,
+   "leftVariety": 8,
+   "rightVariety": 13,
+   "inSectionTitles": true,
+   "score": 11.38
+  },
+  {
+   "term": "ཆེ་ཆུང",
+   "syllables": 2,
+   "count": 25,
+   "leftVariety": 8,
+   "rightVariety": 15,
+   "inSectionTitles": false,
+   "score": 11.38
+  },
+  {
+   "term": "ཤས་ཆེ",
+   "syllables": 2,
+   "count": 30,
+   "leftVariety": 18,
+   "rightVariety": 7,
+   "inSectionTitles": false,
+   "score": 11.25
+  },
+  {
+   "term": "བརྟེན་པ",
+   "syllables": 2,
+   "count": 39,
+   "leftVariety": 6,
+   "rightVariety": 20,
+   "inSectionTitles": false,
+   "score": 11.16
+  },
+  {
+   "term": "དབང་པོའི",
+   "syllables": 2,
+   "count": 28,
+   "leftVariety": 15,
+   "rightVariety": 7,
+   "inSectionTitles": false,
+   "score": 11.02
+  },
+  {
+   "term": "བྱའོ་སྙམ",
+   "syllables": 2,
+   "count": 37,
+   "leftVariety": 9,
+   "rightVariety": 6,
+   "inSectionTitles": false,
+   "score": 11
+  },
+  {
+   "term": "སྐྱབས་སུ་འགྲོ",
+   "syllables": 3,
+   "count": 28,
+   "leftVariety": 12,
+   "rightVariety": 5,
+   "inSectionTitles": true,
+   "score": 10.99
+  },
+  {
+   "term": "ཡིད་དུ་འོང",
+   "syllables": 3,
+   "count": 28,
+   "leftVariety": 21,
+   "rightVariety": 5,
+   "inSectionTitles": false,
+   "score": 10.99
+  },
+  {
+   "term": "ཉེ་བར་ལེན",
+   "syllables": 3,
+   "count": 27,
+   "leftVariety": 13,
+   "rightVariety": 5,
+   "inSectionTitles": false,
+   "score": 10.87
+  },
+  {
+   "term": "ཉིད་མེད",
+   "syllables": 2,
+   "count": 35,
+   "leftVariety": 6,
+   "rightVariety": 8,
+   "inSectionTitles": false,
+   "score": 10.83
+  },
+  {
+   "term": "ཁོ་ན་ཉིད",
+   "syllables": 3,
+   "count": 120,
+   "leftVariety": 3,
+   "rightVariety": 32,
+   "inSectionTitles": true,
+   "score": 10.78
+  },
+  {
+   "term": "རྒྱ་ཆེ",
+   "syllables": 2,
+   "count": 26,
+   "leftVariety": 17,
+   "rightVariety": 7,
+   "inSectionTitles": false,
+   "score": 10.78
+  },
+  {
+   "term": "རིང་པོར",
+   "syllables": 2,
+   "count": 25,
+   "leftVariety": 7,
+   "rightVariety": 19,
+   "inSectionTitles": false,
+   "score": 10.65
+  },
+  {
+   "term": "མངོན་པར་འདུ",
+   "syllables": 3,
+   "count": 25,
+   "leftVariety": 13,
+   "rightVariety": 5,
+   "inSectionTitles": false,
+   "score": 10.62
+  },
+  {
+   "term": "སེམས་དམིགས་པ",
+   "syllables": 3,
+   "count": 41,
+   "leftVariety": 16,
+   "rightVariety": 4,
+   "inSectionTitles": true,
+   "score": 10.55
+  },
+  {
+   "term": "བུ་ཆུང",
+   "syllables": 2,
+   "count": 30,
+   "leftVariety": 8,
+   "rightVariety": 6,
+   "inSectionTitles": true,
+   "score": 10.36
+  },
+  {
+   "term": "དངོས་པོར་སྨྲ",
+   "syllables": 3,
+   "count": 38,
+   "leftVariety": 18,
+   "rightVariety": 4,
+   "inSectionTitles": false,
+   "score": 10.34
+  },
+  {
+   "term": "རྣམ་པ་ཅན",
+   "syllables": 3,
+   "count": 35,
+   "leftVariety": 4,
+   "rightVariety": 8,
+   "inSectionTitles": true,
+   "score": 10.1
+  },
+  {
+   "term": "བསླབ་བཏུས",
+   "syllables": 2,
+   "count": 27,
+   "leftVariety": 10,
+   "rightVariety": 6,
+   "inSectionTitles": false,
+   "score": 10.04
+  },
+  {
+   "term": "མདོ་སྡེའི",
+   "syllables": 2,
+   "count": 27,
+   "leftVariety": 9,
+   "rightVariety": 6,
+   "inSectionTitles": false,
+   "score": 10.04
+  },
+  {
+   "term": "བཞི་བརྒྱ་པའི་འགྲེལ་པ",
+   "syllables": 5,
+   "count": 27,
+   "leftVariety": 6,
+   "rightVariety": 3,
+   "inSectionTitles": false,
+   "score": 9.96
+  },
+  {
+   "term": "སྙིང་རྗེ་ཆེན",
+   "syllables": 3,
+   "count": 32,
+   "leftVariety": 15,
+   "rightVariety": 4,
+   "inSectionTitles": false,
+   "score": 9.85
+  },
+  {
+   "term": "ལམ་སྒྲོན",
+   "syllables": 2,
+   "count": 25,
+   "leftVariety": 6,
+   "rightVariety": 7,
+   "inSectionTitles": false,
+   "score": 9.8
+  },
+  {
+   "term": "ཐོབ་འདོད",
+   "syllables": 2,
+   "count": 25,
+   "leftVariety": 6,
+   "rightVariety": 16,
+   "inSectionTitles": false,
+   "score": 9.8
+  },
+  {
+   "term": "རྣམ་པར་རྟོག",
+   "syllables": 3,
+   "count": 31,
+   "leftVariety": 17,
+   "rightVariety": 4,
+   "inSectionTitles": false,
+   "score": 9.76
+  },
+  {
+   "term": "མིན་ནོ",
+   "syllables": 2,
+   "count": 59,
+   "leftVariety": 15,
+   "rightVariety": 4,
+   "inSectionTitles": false,
+   "score": 9.61
+  },
+  {
+   "term": "བྱེད་པའོ",
+   "syllables": 2,
+   "count": 58,
+   "leftVariety": 20,
+   "rightVariety": 4,
+   "inSectionTitles": false,
+   "score": 9.57
+  },
+  {
+   "term": "བཞི་བརྒྱ",
+   "syllables": 2,
+   "count": 55,
+   "leftVariety": 8,
+   "rightVariety": 4,
+   "inSectionTitles": false,
+   "score": 9.44
+  },
+  {
+   "term": "སྐུར་པ",
+   "syllables": 2,
+   "count": 31,
+   "leftVariety": 5,
+   "rightVariety": 8,
+   "inSectionTitles": false,
+   "score": 9.4
+  },
+  {
+   "term": "ལྷག་མཐོང་བསྒོམ",
+   "syllables": 3,
+   "count": 25,
+   "leftVariety": 13,
+   "rightVariety": 4,
+   "inSectionTitles": true,
+   "score": 9.15
+  },
+  {
+   "term": "པོའི་ཆོས",
+   "syllables": 2,
+   "count": 25,
+   "leftVariety": 5,
+   "rightVariety": 12,
+   "inSectionTitles": true,
+   "score": 8.81
+  },
+  {
+   "term": "ཉིད་རྟོགས",
+   "syllables": 2,
+   "count": 25,
+   "leftVariety": 5,
+   "rightVariety": 6,
+   "inSectionTitles": false,
+   "score": 8.81
+  },
+  {
+   "term": "བྱམས་པ་དང་སྙིང",
+   "syllables": 4,
+   "count": 27,
+   "leftVariety": 15,
+   "rightVariety": 3,
+   "inSectionTitles": false,
+   "score": 8.69
+  },
+  {
+   "term": "གཏོགས་པ",
+   "syllables": 2,
+   "count": 35,
+   "leftVariety": 4,
+   "rightVariety": 26,
+   "inSectionTitles": true,
+   "score": 8.38
+  },
+  {
+   "term": "བཞིན་ནོ",
+   "syllables": 2,
+   "count": 78,
+   "leftVariety": 16,
+   "rightVariety": 3,
+   "inSectionTitles": false,
+   "score": 8.14
+  },
+  {
+   "term": "འདྲ་ཞིག",
+   "syllables": 2,
+   "count": 31,
+   "leftVariety": 4,
+   "rightVariety": 18,
+   "inSectionTitles": false,
+   "score": 8.09
+  },
+  {
+   "term": "བླ་ན་མེད",
+   "syllables": 3,
+   "count": 32,
+   "leftVariety": 20,
+   "rightVariety": 3,
+   "inSectionTitles": false,
+   "score": 7.81
+  },
+  {
+   "term": "རང་རང",
+   "syllables": 2,
+   "count": 26,
+   "leftVariety": 19,
+   "rightVariety": 4,
+   "inSectionTitles": false,
+   "score": 7.68
+  },
+  {
+   "term": "ཟླ་བ་གྲགས",
+   "syllables": 3,
+   "count": 29,
+   "leftVariety": 9,
+   "rightVariety": 3,
+   "inSectionTitles": false,
+   "score": 7.58
+  },
+  {
+   "term": "སྡུག་བསྔལ་བསམ",
+   "syllables": 3,
+   "count": 26,
+   "leftVariety": 7,
+   "rightVariety": 3,
+   "inSectionTitles": true,
+   "score": 7.34
+  },
+  {
+   "term": "རིན་པོ",
+   "syllables": 2,
+   "count": 43,
+   "leftVariety": 16,
+   "rightVariety": 3,
+   "inSectionTitles": false,
+   "score": 7.02
+  },
+  {
+   "term": "བདེ་བླག",
+   "syllables": 2,
+   "count": 31,
+   "leftVariety": 18,
+   "rightVariety": 3,
+   "inSectionTitles": true,
+   "score": 6.41
+  },
+  {
+   "term": "བཤེས་སྤྲིངས",
+   "syllables": 2,
+   "count": 31,
+   "leftVariety": 3,
+   "rightVariety": 3,
+   "inSectionTitles": false,
+   "score": 6.41
+  },
+  {
+   "term": "བྱང་ས",
+   "syllables": 2,
+   "count": 26,
+   "leftVariety": 8,
+   "rightVariety": 3,
+   "inSectionTitles": true,
+   "score": 6.08
+  },
+  {
+   "term": "སའི་དངོས",
+   "syllables": 2,
+   "count": 25,
+   "leftVariety": 10,
+   "rightVariety": 3,
+   "inSectionTitles": false,
+   "score": 6.01
+  }
+ ]
+}

@@ -286,3 +286,100 @@ are left unrepaired where no signal was decisive; each keeps a shipped value tha
 valid Tibetan syllable. The word-probe sweep still lists 13 "suspects", all verified as
 probe false positives (`ང`, `པ`, `མོང` from `ཉོན་མོངས`, `རོ`, `རོགས` are themselves
 common words).
+
+> Phase 2 later reduced this to **two** unresolved secondary CIDs and **11** sweep suspects.
+> See §9.
+
+---
+
+## 9. Phase 2 — what building the outline turned up
+
+Phase 2 built the sa-bcad outline (`tools/31-outline.mjs`) from **two independent sources
+that have to agree**:
+
+1. the book's own contents (*dkar chag*, pp. 8–20, Sarchung@9) — gives title, nesting
+   depth (indentation) and printed page;
+2. the sa-bcad headings printed in the body (Sarchen@12) — gives the exact PDF page.
+
+**Result: 284/284 contents entries match a printed heading exactly, and no printed heading
+in the body is missing from the contents.**
+
+### 9.1 The cross-check found three more defective CIDs
+
+Requiring the two sources to agree turned the book into a **parallel corpus of the same
+titles typeset in two different fonts**. Where the fonts disagreed, one of them was wrong.
+
+| CID | was | is | How it was settled |
+|---|---|---|---|
+| **524** | `ག` | **`གྲ`** | 13 headings whose contents twin reads `གྲ`; and the PDF's own Sarchung CMap maps 524 → `གྲ` |
+| **502** | `ར` | **`རྡ`** | `རྡོ་རྗེའི་ཐེག་པ` (Vajrayāna); rendered beside CID 344 (plain `ར`) — 344 is one tier, 502 is a two-tier stack |
+| **519** | `ཀ` | **`ཀྲ`** | body font writes `ཇི་ལྟར་བཀྲི་བའི་` ×3 and `བཀྲི` ×10, `བཀྱི` ×0 |
+
+CID 524 is the same trap as CID 214 in the body font, and yielded to the same move: **the
+PDF contains a second, correct CMap for the same CID space**, because Sarchen and Sarchung
+share it. Sarchung's ToUnicode gives `གྲ` for all 15 of its uses; Sarchen's gives bare `ག`
+for all 14 of its own.
+
+### 9.2 The lexicon was blind to all three
+
+This is the §8.5 trap again, and worth restating because it is the failure mode that
+survives automated checking:
+
+- `འགོ`, `གོ`, `བགོད`, `གངས`, `འགེལ` are **all valid syllables**, so CID 524 scored
+  **29/29 under either value**. Score alone would have ratified the wrong reading.
+- `རོ` is a word (taste), so 502 scored clean too.
+- The lexicon lists **both** `བཀྲི` and `བཀྱི`, which is exactly why 519 had been parked in
+  `UNRESOLVED` with the note "neither is a standard word". That note was decided from the
+  lexicon alone; the body-font corpus settles it in one line.
+
+No visual evidence is claimed for 519: `ྲ` and `ྱ` are the pair §7 proved indistinguishable
+by eye, so it rests on corpus evidence only.
+
+### 9.3 Depth is a rank, not a grid
+
+The contents' indentation looks like a 2.87pt arithmetic grid, and a least-squares fit
+lands every entry within 0.74pt of a grid point — apparently comfortable against the 1.44pt
+ambiguity threshold. It is a trap: the columns actually **drift by ~0.9pt**, so the fit
+absorbs the drift by stretching the step, and the level assignment near the drift is the
+fit's opinion rather than a measurement.
+
+Depth is therefore taken as the **rank of the indent column** an entry sits in. The 20
+columns are separated by at least 1.84pt against a within-column spread of ~1.2pt, so the
+assignment needs no arithmetic model at all.
+
+### 9.4 Kept as printed, not normalised
+
+- **Three places where the indentation skips a level.** Two are the source running a parent
+  and its first child onto one line (e.g. `སྦྱོར་བའི་ཆོ་ག་སྐྱབས་འགྲོ་ཁྱད་པར་ཅན་བྱ་བ།`); one is
+  a level the edition simply does not print. Recorded in `source/outline.json` `notes`.
+- **One heading is set in the body font**, not the heading font: `དངོས་གཞིའི་ཆོ་ག` on p404,
+  MonlamUniOuChan2@12. Detecting headings by font name alone silently loses it, so
+  detection keys on **size + centring** instead.
+- Headings and contents entries can both **wrap onto a second line**; a contents line with
+  no dotted leader is a continuation, not an entry.
+- The contents' own page numbers use the **same font as the folios** and, for the last entry
+  on a page, sit below the body band — the mirror image of the folio bug in §8.4. They are
+  separated by y-band, not by font.
+
+### 9.5 One page where stream order is not visual order (p21)
+
+§8.1 established that **content-stream order is reading order**, verified on 978/978 pages by
+`tools/21`. That check proves no glyph is reordered, lost or duplicated *within* the stream.
+It does not check that separate text **blocks** are drawn in visual order — and on exactly one
+page they are not.
+
+On **p21**, the first folio of the root text, the full title is set in MonlamUniOuChan4@16 at
+the top of the page (y 453→393) but is drawn **last** in the content stream, so
+`source/clean/p0021.txt` lists it after the homage verses.
+
+Swept across the whole book — every page tested for whether line y decreases monotonically
+down the stream — this is **1 page in 978**, and it is the only page carrying a display-font
+title block over body text:
+
+| pages whose line blocks are out of visual order | 1 / 978 (p21, +378.5pt jump) |
+|---|---|
+
+Deliberately **not** fixed in `tools/16`: reordering line blocks by y would risk the
+multi-column contents pages for the sake of one page, against a pipeline whose ordering is
+otherwise verified exactly. The translation of chunk c004 restores the title to its printed
+position and records the reason in its front matter.

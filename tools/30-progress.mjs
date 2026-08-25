@@ -30,11 +30,20 @@ const facts = {
   chunksTotal: state.chunks.length,
   chunksTranslated: state.chunks.filter(c => c.status === 'translated' || c.status === 'reviewed').length,
   chunksReviewed: state.chunks.filter(c => c.status === 'reviewed').length,
+  chunksDraft: state.chunks.filter(c => c.status === 'draft').length,
   translationFiles: countFiles('translation', '.md'),
   glossaryTerms: (() => {
     const p = path.join(ROOT, 'glossary', 'glossary.json');
     if (!fs.existsSync(p)) return 0;
-    try { const g = JSON.parse(fs.readFileSync(p, 'utf8')); return Array.isArray(g) ? g.length : Object.keys(g).length; }
+    try {
+      const g = JSON.parse(fs.readFileSync(p, 'utf8'));
+      return Array.isArray(g) ? g.length : (Array.isArray(g.terms) ? g.terms.length : Object.keys(g).length);
+    } catch { return 0; }
+  })(),
+  glossaryOpen: (() => {
+    const p = path.join(ROOT, 'glossary', 'glossary.json');
+    if (!fs.existsSync(p)) return 0;
+    try { return (JSON.parse(fs.readFileSync(p, 'utf8')).terms || []).filter(t => t.status === 'open').length; }
     catch { return 0; }
   })(),
   outline: exists('source/outline.json'),
@@ -137,7 +146,7 @@ L.push(`| Repair entries (body font) | ${facts.repairBody} |`);
 L.push(`| Repair entries (secondary fonts) | ${facts.repairSecondary} |`);
 L.push(`| CIDs deliberately left unrepaired | ${facts.unresolved} |`);
 L.push(`| sa-bcad outline built | ${facts.outline ? 'yes' : 'no'} |`);
-L.push(`| Glossary terms | ${facts.glossaryTerms} |`);
+L.push(`| Glossary terms | ${facts.glossaryTerms}${facts.glossaryOpen ? ` (**${facts.glossaryOpen} still \`open\`** — settle before translating)` : ''} |`);
 L.push(`| Translation files written | ${facts.translationFiles} |`);
 L.push('');
 
@@ -148,6 +157,12 @@ L.push(`Translated: ${bar(facts.chunksTranslated, facts.chunksTotal)}`);
 L.push('');
 L.push(`Reviewed:   ${bar(facts.chunksReviewed, facts.chunksTotal)}`);
 L.push('');
+if (facts.chunksDraft) {
+  L.push(`**${facts.chunksDraft} chunk(s) are \`draft\`** — a translation file exists but no fidelity check was ever`);
+  L.push('recorded for it, so it does not count as done. They are queued again automatically.');
+  L.push('Run `node tools/32-chunk.mjs doctor` for the full reconciliation.');
+  L.push('');
+}
 if (!facts.chunksTotal) {
   L.push('_Chunks are created in Phase 2 from the sa-bcad outline; nothing to track yet._');
 } else {
@@ -175,7 +190,7 @@ if (checkResults) {
     'Genitive agreement': '~99.9%',
     'Illegal Tibetan stacks': '59 (all Sanskrit)',
     'Lexicon vs repair table': 'no disagreement',
-    'Dropped-stack sweep': '13 (all probe false positives)',
+    'Dropped-stack sweep': '11 (all probe false positives)',
   };
   for (const c of checkResults) L.push(`| ${c.name} | ${c.result} | ${expect[c.name] ?? ''} |`);
 } else {
@@ -208,6 +223,7 @@ L.push('| `FINDINGS.md` | Extraction diagnosis + every repair decision and its e
 L.push('| `progress.json` | **Editable state.** Source of truth for this file |');
 L.push('| `source/raw/glyphs/` | Per-glyph audit trail. **Never edit** |');
 L.push('| `source/clean/` | Repaired Tibetan, per page + whole book |');
+L.push('| `source/outline.json` | The sa-bcad outline: 284 sections, depth, page ranges |');
 L.push('| `tools/repair-table.mjs` | Body-font CID fixes, each with its evidence |');
 L.push('| `tools/secondary-repair-table.mjs` | Heading/front-matter font fixes |');
 L.push('| `tools/decode.mjs` | **Single decoder** used by every tool — keep it that way |');
@@ -215,6 +231,22 @@ L.push('| `data/monlam-lexicon.txt` | 367k-entry Tibetan lexicon (Apache-2.0) |'
 L.push('| `glossary/` | bo→vi terminology + decisions log |');
 L.push('| `translation/` | The deliverable |');
 L.push('| `qa/` | Rendered pages, glyph sheets, check output |');
+L.push('');
+
+L.push('## Continuing on another machine');
+L.push('');
+L.push('Everything needed to carry on translating is in the repo. The 116 MB glyph trail and the');
+L.push('PDF are only needed to *re-extract*, not to translate.');
+L.push('');
+L.push('```');
+L.push('git clone <repo> && cd lamrim_translation && npm install');
+L.push('node tools/32-chunk.mjs doctor      # reconcile progress.json against translation/');
+L.push('node tools/32-chunk.mjs batch 25    # -> args for the lamrim-translate workflow');
+L.push('```');
+L.push('');
+L.push('Run `doctor` first. Each chunk records the hash of the Tibetan it was made from and the');
+L.push('hash of the file it produced, so a half-finished batch, a hand-edited file, or a');
+L.push('translation whose source moved under it are all detected rather than assumed away.');
 L.push('');
 
 L.push('## Rebuilding from scratch');

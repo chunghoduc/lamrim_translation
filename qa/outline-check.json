@@ -1,0 +1,10 @@
+{
+ "ranAt": "2026-08-24T08:47:40.056Z",
+ "matched": 284,
+ "entries": 284,
+ "unmatchedInBody": [],
+ "problems": [],
+ "notes": [
+  "3 place(s) where the printed indentation skips a level (the source's own structure, kept as printed):"
+ ]
+}
