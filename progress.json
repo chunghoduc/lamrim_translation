@@ -1505,10 +1505,12 @@
         112
       ],
       "status": "draft",
-      "flags": [],
-      "sourceHash": "2ba6585af274",
-      "outputHash": "a2a1840cfeeb",
-      "outputBytes": 6855
+      "flags": [
+        "unsure: p0131 l.1 Madhyamakavatara verse, ngang pa'i rgyal po de ni skye bo'i ngang pa yis // mdun du bdar nas — the ergative yis is not resolved into an agency claim; rendered positionally ('duoc ngong nguoi doi dat o phia truoc') because the next pada already supplies the motive force (dge ba'i rlung gi shugs stobs kyis). Reading undecided: 'placed at the head by' vs 'leading/in front of'. Also p0130 l.3 prints sangs rgyas KYIS yon tan gyi rgya mtsho chen po (ergative, not genitive kyi); translated as a genitive per rgyal ba'i yon tan rgya mtsho in the verse cited immediately after, source spelling not normalised, noted inline."
+      ],
+      "outputHash": "d9ab1fca2727",
+      "outputBytes": 8270,
+      "translatedAt": "2026-08-25"
     },
     {
       "id": "c042",
@@ -1960,7 +1962,9 @@
         171
       ],
       "status": "draft",
-      "flags": [],
+      "flags": [
+        "unsure: p0191 l.11 འོ་བརྒྱལ་སར་མི་བཞག་པ - འོ་བརྒྱལ lit. exhaustion/weariness; rendered \"noi nhoc nhan\", sense of the phrase not established"
+      ],
       "sourceHash": "cb20006d4001",
       "outputHash": "2cf63c526314",
       "outputBytes": 5683

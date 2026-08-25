@@ -13,6 +13,76 @@ the current phase and the next action. Do not trust any status claim that is not
 
 ---
 
+## Resuming — read this before running anything
+
+This is a long project worked across machines and sessions. Nothing about its state lives in
+a conversation: it is all in `progress.json`, `glossary/`, `translation/` and `source/`.
+
+```bash
+npm install                          # node_modules is not committed
+node tools/32-chunk.mjs doctor       # reconcile progress.json against translation/ on disk
+node tools/32-chunk.mjs list         # what is done, what is flagged, what is next
+```
+
+**Run `doctor` before anything else.** A batch that was interrupted leaves translation files
+that no merge ever recorded. Those are marked `draft` and re-queued; they have NOT passed the
+fidelity check and must never be counted as finished. `doctor --fix` records them.
+
+### The PDF is usually absent, and that is fine
+
+The source PDF and `source/raw/` (116 MB) are **not in the repo**. The translation phase does
+not need them — `source/clean/` (the repaired Tibetan) and `source/outline.json` are committed.
+
+> **`node tools/30-progress.mjs --verify` will report all five health checks as `FAILED`
+> when the PDF is missing.** Every check reads `source/raw/glyphs/`. This is **not** a
+> regression and there is nothing to debug: the checks validate *extraction*, which is
+> finished and frozen. Do not "fix" anything in response. Restore the PDF to the project root
+> and run `node tools/11-extract-glyphs.mjs` only if you actually need to re-extract.
+
+| Need the PDF / `source/raw/` | Work fine without it |
+|---|---|
+| `30-progress.mjs --verify` (all 5 checks) | `32-chunk.mjs` — all commands |
+| `31-outline.mjs`, `16-build-text.mjs` | `33-make-chunks.mjs`, `34-terms.mjs`, `35-merge-batch.mjs` |
+| `09/20` render + compare | the whole translate → verify → repair loop |
+
+### What each chunk status means
+
+| Status | Meaning | What to do |
+|---|---|---|
+| `pending` | never attempted | translate it |
+| `draft` | file written, **no fidelity check recorded** | re-run it; do not trust it |
+| `translated` | passed verification (or repair resolved it) | leave alone |
+| `reviewed` | Phase 5 sign-off | leave alone |
+
+Each record also carries `sourceHash` (the Tibetan it was made from) and `outputHash` (the
+file it produced), which is how `doctor` detects work that has drifted from its source or been
+edited by hand. `reset <id | --stale | --flagged>` sends work back to `pending`.
+
+### How to resume the work itself
+
+Repeat until `list` reports `pending 0` and `draft 0` — see *Translation runs as
+translate → verify → repair* below for what the batch actually does and why:
+
+```bash
+node tools/32-chunk.mjs batch 25            # -> {"chunks":[...]}
+# run the `lamrim-translate` workflow with that object as its args
+node tools/35-merge-batch.mjs --run wf_XXXX --write
+```
+
+Then re-run `batch` for the next group. Nothing needs to be carried between sessions.
+
+**Do not translate chunks by hand in the main session while a batch is running** — the merge
+writes `progress.json` wholesale, and concurrent edits are lost.
+
+**Only the merge may mark a chunk done.** Subagents are told to write their own
+`translation/<id>.md` and nothing else. Twice, agents ran `32-chunk.mjs done` on themselves
+and marked their own work `translated`, which skips the fidelity check entirely — the one
+thing standing between a fluent invention and the deliverable. A chunk in the `translated`
+state with no `verify` field was self-marked; demote it to `draft` and let it go through
+properly. The workflow prompt now forbids this explicitly.
+
+---
+
 ## Correctness is the only criterion that matters
 
 This is a canonical Buddhist text. A fluent translation that misrepresents the source is
@@ -55,10 +125,13 @@ by preference.
 
 There is no build or lint step. The "tests" are correctness checks over the corpus.
 
+Every one of them reads `source/raw/glyphs/`, so they all report `FAILED` on a machine without
+the PDF. See *Resuming* above before concluding anything is broken.
+
 ```bash
 npm install
 
-# Status + re-run every health check (this is the test suite)
+# Status + re-run every health check (this is the test suite; needs the PDF)
 node tools/30-progress.mjs --verify
 
 # Regenerate PROGRESS.md only (fast, no checks)
