@@ -160,14 +160,14 @@ for (const c of state.chunks) {
     continue;                       // stays pending
   }
   if (!ok.includes(c.id)) continue;
-  const f = path.join(ROOT, 'translation', `${c.id}.md`);
+  const outFile = path.join(ROOT, 'translation', `${c.id}.md`);
   c.status = 'translated';
   c.translatedAt = new Date().toISOString().slice(0, 10);
   c.sourceHash = sourceHash(c);     // so tools/32 can spot it going stale after a repair
   // Provenance of the deliverable itself, so another machine can tell whether the file it
   // has is the file this record describes.
-  c.outputHash = crypto.createHash('sha1').update(fs.readFileSync(f, 'utf8'), 'utf8').digest('hex').slice(0, 12);
-  c.outputBytes = fs.statSync(f).size;
+  c.outputHash = crypto.createHash('sha1').update(fs.readFileSync(outFile, 'utf8'), 'utf8').digest('hex').slice(0, 12);
+  c.outputBytes = fs.statSync(outFile).size;
   if (runId) c.runId = runId;
   c.verify = { verdict: 'clean' };
   const f = flagsBy.get(c.id) || [];
