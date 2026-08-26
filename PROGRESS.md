@@ -49,7 +49,7 @@ node tools/30-progress.mjs --verify
 | CIDs deliberately left unrepaired | 10 |
 | sa-bcad outline built | yes |
 | Glossary terms | 2096 |
-| Translation files written | 112 |
+| Translation files written | 152 |
 
 ## Translation progress
 
@@ -57,7 +57,11 @@ Translated: `#########...............` 112/292 (38.4%)
 
 Reviewed:   `........................` 0/292 (0.0%)
 
-Next chunk: **c076 — ལས་འབྲས་བསམས་ནས་འཇུག་ལྡོག་བྱ་ཚུལ་སྤྱིར་བསྟན་པ།**
+**40 chunk(s) are `draft`** — a translation file exists but no fidelity check was ever
+recorded for it, so it does not count as done. They are queued again automatically.
+Run `node tools/32-chunk.mjs doctor` for the full reconciliation.
+
+Next chunk: **c153 — བཟོད་པའི་ཕར་ཕྱིན་ལ་བསླབ་ཚུལ།**
 
 **100 chunk(s) carry unresolved flags** — these must be settled before Phase 5 signs off:
 - `c002` — unsure: སྟག་རྩེའི་སྒྲུབ་མཆོད rendered 'đại lễ tu cúng Taktsé' - Taktsé read as a place name; could be a rite name
