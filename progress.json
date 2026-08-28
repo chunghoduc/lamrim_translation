@@ -153,8 +153,8 @@
       ],
       "translatedAt": "2026-08-24",
       "sourceHash": "feaa78bca0d9",
-      "outputHash": "24094604b715",
-      "outputBytes": 4991
+      "outputHash": "c443f4d49f31",
+      "outputBytes": 4997
     },
     {
       "id": "c005",
@@ -183,8 +183,8 @@
       ],
       "translatedAt": "2026-08-24",
       "sourceHash": "08b4f0f76ee0",
-      "outputHash": "b2aaca7c9c58",
-      "outputBytes": 6184
+      "outputHash": "4466a8299d7c",
+      "outputBytes": 6188
     },
     {
       "id": "c006",
@@ -239,8 +239,8 @@
       },
       "translatedAt": "2026-08-24",
       "sourceHash": "ee536fad6c39",
-      "outputHash": "66ebda0fbfaf",
-      "outputBytes": 6744
+      "outputHash": "8d0722d578db",
+      "outputBytes": 6729
     },
     {
       "id": "c008",
@@ -268,8 +268,8 @@
       },
       "translatedAt": "2026-08-24",
       "sourceHash": "5f582cd33684",
-      "outputHash": "98dd692ed7ad",
-      "outputBytes": 4579
+      "outputHash": "e80775bb5540",
+      "outputBytes": 4618
     },
     {
       "id": "c009",
@@ -297,8 +297,8 @@
       },
       "translatedAt": "2026-08-24",
       "sourceHash": "dc0faed5e8a3",
-      "outputHash": "0ec17008ffaa",
-      "outputBytes": 9109
+      "outputHash": "46357b0ad532",
+      "outputBytes": 9122
     },
     {
       "id": "c010",
@@ -355,8 +355,8 @@
       },
       "translatedAt": "2026-08-24",
       "sourceHash": "179ca57b78e5",
-      "outputHash": "80706ce026db",
-      "outputBytes": 5001
+      "outputHash": "9c89ba1e4139",
+      "outputBytes": 5007
     },
     {
       "id": "c012",
@@ -387,8 +387,8 @@
       },
       "translatedAt": "2026-08-24",
       "sourceHash": "cb3c3a5bfc71",
-      "outputHash": "87a12fa3b650",
-      "outputBytes": 6343
+      "outputHash": "d56757079d89",
+      "outputBytes": 6362
     },
     {
       "id": "c013",
@@ -418,8 +418,8 @@
       },
       "translatedAt": "2026-08-24",
       "sourceHash": "b0c8348b1351",
-      "outputHash": "1d473eaaf1db",
-      "outputBytes": 4428
+      "outputHash": "f8d6bfd7c219",
+      "outputBytes": 4441
     },
     {
       "id": "c014",
@@ -516,8 +516,8 @@
       "verify": {
         "verdict": "clean"
       },
-      "outputHash": "968314de3b2b",
-      "outputBytes": 6107
+      "outputHash": "ed5ea3b8d64c",
+      "outputBytes": 6113
     },
     {
       "id": "c017",
@@ -599,8 +599,8 @@
       "verify": {
         "verdict": "clean"
       },
-      "outputHash": "58a228fe6a79",
-      "outputBytes": 4438
+      "outputHash": "feb34c4e062e",
+      "outputBytes": 4463
     },
     {
       "id": "c019",
@@ -720,8 +720,8 @@
       "verify": {
         "verdict": "clean"
       },
-      "outputHash": "70f7a05d3b1f",
-      "outputBytes": 5049
+      "outputHash": "df54d1aa82a2",
+      "outputBytes": 5062
     },
     {
       "id": "c022",
@@ -768,8 +768,8 @@
       "verify": {
         "verdict": "clean"
       },
-      "outputHash": "ec21dee65f26",
-      "outputBytes": 8691
+      "outputHash": "092d015fbf02",
+      "outputBytes": 8710
     },
     {
       "id": "c023",
@@ -967,8 +967,8 @@
       "verify": {
         "verdict": "clean"
       },
-      "outputHash": "0cff56896d3a",
-      "outputBytes": 4597
+      "outputHash": "f1c90e9efdba",
+      "outputBytes": 4603
     },
     {
       "id": "c028",
@@ -1007,8 +1007,8 @@
       "verify": {
         "verdict": "clean"
       },
-      "outputHash": "6fba343d68ad",
-      "outputBytes": 8605
+      "outputHash": "f30fd459195f",
+      "outputBytes": 8618
     },
     {
       "id": "c029",
@@ -1047,8 +1047,8 @@
       "verify": {
         "verdict": "clean"
       },
-      "outputHash": "7b024730d0c8",
-      "outputBytes": 8798
+      "outputHash": "9c1ee4c54d7a",
+      "outputBytes": 8810
     },
     {
       "id": "c030",
@@ -1084,8 +1084,8 @@
       "verify": {
         "verdict": "clean"
       },
-      "outputHash": "9b18fb206ad8",
-      "outputBytes": 9097
+      "outputHash": "888a6022c008",
+      "outputBytes": 9123
     },
     {
       "id": "c031",
@@ -1231,8 +1231,8 @@
       "verify": {
         "verdict": "clean"
       },
-      "outputHash": "fc1dd8d16438",
-      "outputBytes": 5453
+      "outputHash": "ce8e613e4b04",
+      "outputBytes": 5466
     },
     {
       "id": "c035",
@@ -1273,8 +1273,8 @@
       "verify": {
         "verdict": "clean"
       },
-      "outputHash": "f661e348f026",
-      "outputBytes": 6442
+      "outputHash": "ad6370aaa558",
+      "outputBytes": 6481
     },
     {
       "id": "c036",
@@ -1444,8 +1444,8 @@
       "verify": {
         "verdict": "clean"
       },
-      "outputHash": "cb67cf5cc3b4",
-      "outputBytes": 8172
+      "outputHash": "2e69c32735e9",
+      "outputBytes": 8242
     },
     {
       "id": "c040",
@@ -1484,8 +1484,8 @@
       "verify": {
         "verdict": "clean"
       },
-      "outputHash": "d58bfc2a80a4",
-      "outputBytes": 9078
+      "outputHash": "a008d4c6b3d8",
+      "outputBytes": 9117
     },
     {
       "id": "c041",
@@ -1567,8 +1567,8 @@
       ],
       "translatedAt": "2026-08-25",
       "sourceHash": "bdf49625ebfa",
-      "outputHash": "96fb1ebfd740",
-      "outputBytes": 7823,
+      "outputHash": "d6c91ac2e8ec",
+      "outputBytes": 7849,
       "runId": "wf_9a0a7f2f-18e",
       "verify": {
         "verdict": "clean"
@@ -1612,8 +1612,8 @@
         "unsure: p0137 བརྒྱ་ལ rendered 'Dù cho ... đi nữa'. The idiom is literally 'in a hundred [cases]' and is standardly concessive ('even if, supposing'), but there is no glossary entry and I did not verify it against another occurrence in the corpus."
       ],
       "sourceHash": "279c4a54d353",
-      "outputHash": "9cb619aabcec",
-      "outputBytes": 4415,
+      "outputHash": "4488368bf41f",
+      "outputBytes": 4454,
       "translatedAt": "2026-08-25",
       "runId": "wf_5ea24cb8-3fd",
       "verify": {
@@ -1654,8 +1654,8 @@
         "unsure: རྙེད་བཀུར rendered 'lợi dưỡng và cung kính' per decisions.md §5, but glossary.json's entry for the same headword reads 'lợi dưỡng cung kính' (no 'và'). Followed decisions.md; the two records should be reconciled."
       ],
       "sourceHash": "e3eb94c75e0a",
-      "outputHash": "ebe3d60f9188",
-      "outputBytes": 8899,
+      "outputHash": "4c9b94e57cb8",
+      "outputBytes": 8912,
       "translatedAt": "2026-08-25",
       "runId": "wf_5ea24cb8-3fd",
       "verify": {
@@ -1814,8 +1814,8 @@
         "unsure: heading levels. The chunk contains two sa-bcad headings at different outline depths: s064 (level 8, the last root of the previous section, p0152) and s065 (level 6, the chunk's own section, p0155). s064 was given ### and s065 #, so the depth difference stays visible; if the project's convention is that the chunk's own section is always # and everything else is ##, this needs adjusting."
       ],
       "sourceHash": "a3d7ff3b5d8f",
-      "outputHash": "1cb39bb177b9",
-      "outputBytes": 9377,
+      "outputHash": "e321be2a96f0",
+      "outputBytes": 9390,
       "translatedAt": "2026-08-25",
       "runId": "wf_5ea24cb8-3fd",
       "verify": {
@@ -1856,8 +1856,8 @@
         "note (not an error): the chunk opens mid-sentence inside c048's last sentence (p0155 ends ...སྡུག་བསྔལ་གྱི་མཚོར་ལྷུང་བའི་ཚུལ་བསམས་ན་ནི་) and ends mid-word (p0159 ends གནོད་པ་མང་པོ་སྣ་, continuing as སྣ་ཚོགས on p0160). Both boundaries are marked in the file. c048 has not been translated yet, so the wording of the protasis I complete could not be checked against it."
       ],
       "sourceHash": "b626a6c74ba0",
-      "outputHash": "1901ebd43f0f",
-      "outputBytes": 7627,
+      "outputHash": "e7b389a20f59",
+      "outputBytes": 7653,
       "translatedAt": "2026-08-25",
       "runId": "wf_5ea24cb8-3fd",
       "verify": {
@@ -2095,8 +2095,8 @@
         "unsure: p0177 has `ཐུགས་རྗེ་ཆེན་པོ` twice (the third reason, and the མདོར་ན summary) while p0178 — the next chunk — has `སྙིང་རྗེ་ཆེན་པོ` in the same argument. I rendered `ཐུགས་རྗེ་ཆེན་པོ` as 'đại bi', matching the glossary's provisional `སྙིང་རྗེ་ཆེན་པོ` = 'đại bi'. That is almost certainly right (ཐུགས་རྗེ is the honorific of སྙིང་རྗེ), but it makes the honorific/non-honorific distinction invisible in Vietnamese, and no entry records the decision."
       ],
       "sourceHash": "45b89bba3357",
-      "outputHash": "38770063d47c",
-      "outputBytes": 6158,
+      "outputHash": "53e0bfe0922c",
+      "outputBytes": 6197,
       "translatedAt": "2026-08-25",
       "runId": "wf_5ea24cb8-3fd",
       "verify": {
@@ -2139,8 +2139,8 @@
         "unsure: chunk boundary — p0178 opens with the tail of section 6.2.3.1.1.2.1.2 (སུ་འོས་སོ། plus a full paragraph and a Varṇārhavarṇa quotation) before the s073 heading arrives at the foot of the page, even though progress.json marks c056 startsAtHeading:true. I translated the whole page range as instructed; if c055 also renders p0178's opening the two chunks will overlap."
       ],
       "sourceHash": "d4569d4a3adb",
-      "outputHash": "b5a2f95a5be3",
-      "outputBytes": 8866,
+      "outputHash": "2a7dec3b9f7d",
+      "outputBytes": 8879,
       "translatedAt": "2026-08-25",
       "runId": "wf_5ea24cb8-3fd",
       "verify": {
@@ -2264,8 +2264,8 @@
         "unsure: register split in the existing corpus — 'chân chánh' appears 13× and 'chân chính' 8× across translation/. This chunk uses 'chân chính' (northern house style, per houseStyle in glossary.json) for ཡང་དག་ and དམ་པ་ in adjectival position. If the project prefers 'chân chánh', a corpus sweep is needed; the house-style rules currently name only sinh/sanh and phúc/phước."
       ],
       "sourceHash": "cb20006d4001",
-      "outputHash": "15236d6a6cc3",
-      "outputBytes": 5668,
+      "outputHash": "870d431e7bc4",
+      "outputBytes": 5713,
       "translatedAt": "2026-08-25",
       "runId": "wf_5ea24cb8-3fd",
       "verify": {
@@ -2342,8 +2342,8 @@
       ],
       "translatedAt": "2026-08-25",
       "sourceHash": "0bdf8c56008a",
-      "outputHash": "0c90ce75a9d2",
-      "outputBytes": 7768,
+      "outputHash": "b669450e6215",
+      "outputBytes": 7781,
       "runId": "wf_9a0a7f2f-18e",
       "verify": {
         "verdict": "clean"
@@ -2384,8 +2384,8 @@
         "unsure: p0201 ཕུལ་གྱིས་བཅལ་བར་གཞལ་མི་ནུས — ཕུལ is a small volume measure; rendered 'đấu nhỏ'. The specific size is not asserted, and no Vietnamese unit is claimed to be equivalent."
       ],
       "sourceHash": "f2acf960f217",
-      "outputHash": "fc2031c4c05f",
-      "outputBytes": 8924,
+      "outputHash": "5075304750da",
+      "outputBytes": 8937,
       "translatedAt": "2026-08-25",
       "runId": "wf_5ea24cb8-3fd",
       "verify": {
@@ -2506,8 +2506,8 @@
         "unsure: the chunk boundary falls inside line 3 of the Udānavarga verse (དེ་བཞིན་གཤེགས་པ་སྟོན་པ་སྟེ།), which c064 ends with as 'Đức Như Lai…'. This chunk completes it as '…là bậc chỉ bày,'. The two halves must be joined at Phase 5 or the verse will read as five lines instead of four."
       ],
       "sourceHash": "4b53c52d5b43",
-      "outputHash": "c6dd75fd39f6",
-      "outputBytes": 6806,
+      "outputHash": "6282c61dc21e",
+      "outputBytes": 6824,
       "translatedAt": "2026-08-25",
       "runId": "wf_5ea24cb8-3fd",
       "verify": {
@@ -2577,8 +2577,8 @@
         "unsure: chunk c066 (p0210-211), which immediately precedes this one and introduces ལས་མ་བྱས་པ་དང་མི་ཕྲད་པ and ལས་བྱས་པ་ཆུད་མི་ཟ་བ, is not yet translated. The opening verse here completes a Jātakamālā line begun on p0211, and the two topic labels are first rendered here. If c066 is translated later with different wording the two will disagree."
       ],
       "sourceHash": "0b55e5c0501a",
-      "outputHash": "43fe8605d03f",
-      "outputBytes": 8919,
+      "outputHash": "4fc8c5199a7d",
+      "outputBytes": 8971,
       "translatedAt": "2026-08-25",
       "runId": "wf_5ea24cb8-3fd",
       "verify": {
@@ -2615,8 +2615,8 @@
       ],
       "translatedAt": "2026-08-25",
       "sourceHash": "b7eecbb77637",
-      "outputHash": "d02e8735fc5d",
-      "outputBytes": 9220,
+      "outputHash": "4f285c343073",
+      "outputBytes": 9233,
       "runId": "wf_9a0a7f2f-18e",
       "verify": {
         "verdict": "clean"
@@ -2654,8 +2654,8 @@
         "unsure: consistency risk with c067 and c068. Neither was on disk when this was translated, so the whole fourfold frame (གཞི = cơ sở, བསམ་པ = ý lạc, སྦྱོར་བ = gia hành, མཐར་ཐུག = cứu cánh), the names of the ten non-virtues, and 'lời tạp uế' for ངག་བཀྱལ་པ (adopted from c074, written concurrently) are precedents set here rather than followed. Parts 1-2 of this same section may have chosen differently."
       ],
       "sourceHash": "64e730149054",
-      "outputHash": "b7ad30d48013",
-      "outputBytes": 8149,
+      "outputHash": "c3b1fd5eac6e",
+      "outputBytes": 8188,
       "translatedAt": "2026-08-25",
       "runId": "wf_5ea24cb8-3fd",
       "verify": {
@@ -2692,8 +2692,8 @@
         "note: no sa-bcad heading falls in pages 224-227 (source/outline.json has no section between p0207 and p0232), so the outline announcements 'གཉིས་པ་ལྕི་ཡང་བསྟན་པ་ལ་གཉིས།' and 'དང་པོ་ནི་ལྔ་ལས།' are rendered as running prose ('Thứ hai...', 'Thứ nhất...') rather than as Markdown headings."
       ],
       "sourceHash": "5520121688b5",
-      "outputHash": "9a8427a026d3",
-      "outputBytes": 7895,
+      "outputHash": "09c54348df17",
+      "outputBytes": 7947,
       "translatedAt": "2026-08-25",
       "runId": "wf_5ea24cb8-3fd",
       "verify": {
@@ -2830,8 +2830,8 @@
         "source oddity (not normalised): p0237 spells སྐམ༌ས and སྡིག་པ་ཅན་གྱི༌ས་གཞི with U+0F0C (tsheg-bstar) where a plain tsheg is expected. Read as སྐམ་ས and གྱི་ས; no change made to the source."
       ],
       "sourceHash": "066d8139cf5e",
-      "outputHash": "5086148e1ee7",
-      "outputBytes": 8617,
+      "outputHash": "51af44114d4f",
+      "outputBytes": 8656,
       "translatedAt": "2026-08-25",
       "runId": "wf_5ea24cb8-3fd",
       "verify": {
@@ -2866,8 +2866,8 @@
         "unsure: the chunk's opening sentence (གཅིག་འཕེན་གྱི་དུ་མ་མི་འཕེན་ལ།…བཤད་དོ།) begins on p0239, inside c073. Its subject — who or what does the 'giảng' — is carried by the ཞེས་ལས་ construction there, so I supplied a bracketed '[luận ấy]' referring to the Câu-xá verse just quoted. The bracketed subject must be checked against c073's rendering."
       ],
       "sourceHash": "7a6e3b512e2c",
-      "outputHash": "0e52222eacbf",
-      "outputBytes": 4421,
+      "outputHash": "aef9ac0923d1",
+      "outputBytes": 4434,
       "translatedAt": "2026-08-25",
       "runId": "wf_5ea24cb8-3fd",
       "verify": {
@@ -2909,8 +2909,8 @@
         "unsure: Kośa verse at p0242, སྔ་མ་སྔ་མ་རྣམ་སྨིན་འགྱུར — rendered 'cái trước, cái trước sẽ dị thục'. I take 'earlier' to mean earlier in the list just enumerated (heavy → proximate → habituated → done-first), which is what the surrounding prose sets out, but the verse itself does not say so and I have not added a gloss."
       ],
       "sourceHash": "f4dabf416854",
-      "outputHash": "5f4b720af3c9",
-      "outputBytes": 9331,
+      "outputHash": "3fa670228313",
+      "outputBytes": 9344,
       "translatedAt": "2026-08-25",
       "runId": "wf_5ea24cb8-3fd",
       "verify": {
@@ -3156,8 +3156,8 @@
       ],
       "translatedAt": "2026-08-25",
       "sourceHash": "4d1db657d0d5",
-      "outputHash": "292213a7653e",
-      "outputBytes": 4643,
+      "outputHash": "09c6226162f7",
+      "outputBytes": 4656,
       "runId": "wf_9a0a7f2f-18e",
       "verify": {
         "verdict": "clean"
@@ -3199,8 +3199,8 @@
       ],
       "translatedAt": "2026-08-25",
       "sourceHash": "1c9c1153f553",
-      "outputHash": "e2d56ce2f8b0",
-      "outputBytes": 8650,
+      "outputHash": "907727e6bc0e",
+      "outputBytes": 8702,
       "runId": "wf_9a0a7f2f-18e",
       "verify": {
         "verdict": "clean"
@@ -3240,8 +3240,8 @@
       ],
       "translatedAt": "2026-08-25",
       "sourceHash": "843f31e8fc99",
-      "outputHash": "9221415c2094",
-      "outputBytes": 8054,
+      "outputHash": "b331c2c99fdf",
+      "outputBytes": 8086,
       "runId": "wf_9a0a7f2f-18e",
       "verify": {
         "verdict": "clean"
@@ -3324,8 +3324,8 @@
       ],
       "translatedAt": "2026-08-25",
       "sourceHash": "81885803b05c",
-      "outputHash": "ba1fe5a200b0",
-      "outputBytes": 8356,
+      "outputHash": "3df1d475b807",
+      "outputBytes": 8421,
       "runId": "wf_9a0a7f2f-18e",
       "verify": {
         "verdict": "clean"
@@ -3519,8 +3519,8 @@
       ],
       "translatedAt": "2026-08-25",
       "sourceHash": "0853d535b992",
-      "outputHash": "65eaaccff794",
-      "outputBytes": 4336,
+      "outputHash": "9353e5c89887",
+      "outputBytes": 4327,
       "runId": "wf_9a0a7f2f-18e",
       "verify": {
         "verdict": "clean"
@@ -3562,8 +3562,8 @@
       ],
       "translatedAt": "2026-08-25",
       "sourceHash": "c736b713e183",
-      "outputHash": "08ac03ec3d41",
-      "outputBytes": 6004,
+      "outputHash": "44a18821748a",
+      "outputBytes": 6017,
       "runId": "wf_9a0a7f2f-18e",
       "verify": {
         "verdict": "clean"
@@ -3642,8 +3642,8 @@
       ],
       "translatedAt": "2026-08-25",
       "sourceHash": "694300f92dbe",
-      "outputHash": "99cc912a8785",
-      "outputBytes": 6207,
+      "outputHash": "a5f9b6648640",
+      "outputBytes": 6272,
       "runId": "wf_9a0a7f2f-18e",
       "verify": {
         "verdict": "clean"
@@ -3677,8 +3677,8 @@
       ],
       "translatedAt": "2026-08-25",
       "sourceHash": "7b3cdea83f37",
-      "outputHash": "b8c750152415",
-      "outputBytes": 4160,
+      "outputHash": "61e6b12fbd91",
+      "outputBytes": 4199,
       "runId": "wf_9a0a7f2f-18e",
       "verify": {
         "verdict": "clean"
@@ -3714,8 +3714,8 @@
       ],
       "translatedAt": "2026-08-25",
       "sourceHash": "fef48e77310c",
-      "outputHash": "8087341ffbdb",
-      "outputBytes": 8401,
+      "outputHash": "61da9e2be2dd",
+      "outputBytes": 8414,
       "runId": "wf_9a0a7f2f-18e",
       "verify": {
         "verdict": "clean"
@@ -3791,8 +3791,8 @@
       ],
       "translatedAt": "2026-08-25",
       "sourceHash": "3933413003ef",
-      "outputHash": "40b5c3c04619",
-      "outputBytes": 8081,
+      "outputHash": "080ef1dfcbbe",
+      "outputBytes": 8120,
       "runId": "wf_9a0a7f2f-18e",
       "verify": {
         "verdict": "clean"
@@ -3873,8 +3873,8 @@
       ],
       "translatedAt": "2026-08-25",
       "sourceHash": "97fcbf43a58b",
-      "outputHash": "fba1f946418e",
-      "outputBytes": 8456,
+      "outputHash": "21fea44b6a98",
+      "outputBytes": 8462,
       "runId": "wf_9a0a7f2f-18e",
       "verify": {
         "verdict": "clean"
@@ -3987,8 +3987,8 @@
       ],
       "translatedAt": "2026-08-25",
       "sourceHash": "4b6c22fe9a05",
-      "outputHash": "161b566cc1d4",
-      "outputBytes": 7134,
+      "outputHash": "cb30fad91d93",
+      "outputBytes": 7147,
       "runId": "wf_9a0a7f2f-18e",
       "verify": {
         "verdict": "clean"
@@ -4064,8 +4064,8 @@
       ],
       "translatedAt": "2026-08-25",
       "sourceHash": "4609684a2ec3",
-      "outputHash": "ef21c8e9a423",
-      "outputBytes": 4455,
+      "outputHash": "52e65e467c37",
+      "outputBytes": 4468,
       "runId": "wf_9a0a7f2f-18e",
       "verify": {
         "verdict": "clean"
@@ -4259,8 +4259,8 @@
       ],
       "translatedAt": "2026-08-25",
       "sourceHash": "deb49c81f511",
-      "outputHash": "350cd485d78f",
-      "outputBytes": 9242,
+      "outputHash": "eb6b2c783077",
+      "outputBytes": 9248,
       "runId": "wf_9a0a7f2f-18e",
       "verify": {
         "verdict": "clean"
@@ -4336,8 +4336,8 @@
       ],
       "translatedAt": "2026-08-25",
       "sourceHash": "6b7642941b31",
-      "outputHash": "1556822077d1",
-      "outputBytes": 9286,
+      "outputHash": "21a415726b45",
+      "outputBytes": 9299,
       "runId": "wf_9a0a7f2f-18e",
       "verify": {
         "verdict": "clean"
@@ -4379,8 +4379,8 @@
       ],
       "translatedAt": "2026-08-25",
       "sourceHash": "a1e284a4a1cc",
-      "outputHash": "fd1c75a26a3e",
-      "outputBytes": 7775,
+      "outputHash": "f61770ad5dc2",
+      "outputBytes": 7801,
       "runId": "wf_9a0a7f2f-18e",
       "verify": {
         "verdict": "clean"
@@ -4418,8 +4418,8 @@
       ],
       "translatedAt": "2026-08-25",
       "sourceHash": "7d37b673e93a",
-      "outputHash": "048285398e4a",
-      "outputBytes": 10305,
+      "outputHash": "b57dc6dca622",
+      "outputBytes": 10318,
       "runId": "wf_9a0a7f2f-18e",
       "verify": {
         "verdict": "clean"
@@ -4457,8 +4457,8 @@
       ],
       "translatedAt": "2026-08-25",
       "sourceHash": "a7460a153ff8",
-      "outputHash": "957ec2f56c9a",
-      "outputBytes": 4343,
+      "outputHash": "a3cdc6a28502",
+      "outputBytes": 4369,
       "runId": "wf_9a0a7f2f-18e",
       "verify": {
         "verdict": "clean"
@@ -4770,8 +4770,8 @@
         "note (not an error): the enumeration at p0399 names the third sub-topic ཇི་ལྟར་བླང་བའི་ཆོ་ག while the heading printed on p0400 for the same sub-topic reads ཇི་ལྟར་ལེན་པའི་ཆོ་ག (བླང / ལེན). The source's own variation; both are rendered 'nghi quỹ thọ nhận như thế nào' and the variation is not visible in Vietnamese. Recorded rather than normalised."
       ],
       "sourceHash": "f7f94f41c882",
-      "outputHash": "bc549d769ef6",
-      "outputBytes": 7556,
+      "outputHash": "25a18de1f39c",
+      "outputBytes": 7608,
       "translatedAt": "2026-08-28",
       "runId": "wf_a77da773-838",
       "verify": {
@@ -4891,8 +4891,8 @@
         "unsure: p0408 the source writes བྱང་ས༌ལས with U+0F0C (delimiter tsheg) rather than the ordinary tsheg. Purely orthographic, no effect on the reading ('trong *Bồ-tát Địa*'); recorded per the do-not-normalise rule."
       ],
       "sourceHash": "52722edaf157",
-      "outputHash": "43c3b75b7420",
-      "outputBytes": 8505,
+      "outputHash": "4c9ed2c5869f",
+      "outputBytes": 8531,
       "translatedAt": "2026-08-28",
       "runId": "wf_a77da773-838",
       "verify": {
@@ -5079,8 +5079,8 @@
         "unsure: p0422 `གསུང་སྒྲོས་ལ་གཞི་བླངས་པའི་བཤད་པ` rendered 'lời giảng lấy ngữ lục [của ngài] làm cơ sở', using the glossary's provisional གསུང་སྒྲོས = 'ngữ lục'. That entry was fixed at p0059 for a named collection of Potowa's sayings; here the word is generic (Atiśa's oral remarks as opposed to his writing), where 'lời truyền khẩu' would read more naturally. Followed the glossary rather than re-deciding, but the entry may need a scope note."
       ],
       "sourceHash": "1d725cc9b528",
-      "outputHash": "9b55d68ae7b1",
-      "outputBytes": 5132,
+      "outputHash": "6b4e2d30b250",
+      "outputBytes": 5138,
       "translatedAt": "2026-08-28",
       "runId": "wf_a77da773-838",
       "verify": {
@@ -5335,8 +5335,8 @@
         "unsure: བསླབ་པ vs བསླབ་བྱ vs བསླབ་པའི་གཞི all occur densely in this chunk and are rendered 'môn học' / 'các điều cần học' / 'học xứ' per their three separate provisional glossary entries. The section headings therefore read 'các môn học' where the body immediately below reads 'các điều cần học' for what is arguably the same referent. Faithful to the glossary, but the three-way split reads oddly here and may want a ruling."
       ],
       "sourceHash": "7c53746f8a04",
-      "outputHash": "8ede98115b5a",
-      "outputBytes": 6216,
+      "outputHash": "24474533c2ea",
+      "outputBytes": 6253,
       "translatedAt": "2026-08-28",
       "runId": "wf_a77da773-838",
       "verify": {
@@ -5410,8 +5410,8 @@
         "unsure: p0451 གཞིའི་གནས in སངས་རྒྱས་ཀྱི་ཆོས་ཐམས་ཅད་འགྲུབ་པའི་གཞིའི་གནས་ཀྱི་གྲངས་ངེས - rendered 'chỗ nền tảng'. Only the label survives in this chunk; its explanation falls entirely in the next chunk, so the rendering is provisional and should be reconciled with c140."
       ],
       "sourceHash": "b45fc3d85dcd",
-      "outputHash": "63f31cc72241",
-      "outputBytes": 6972,
+      "outputHash": "06ddf26a4a6e",
+      "outputBytes": 7011,
       "translatedAt": "2026-08-28",
       "runId": "wf_95c4a00b-155",
       "verify": {
@@ -5489,8 +5489,8 @@
         "unsure: p0456 བྱིན་པས་དེ་དག་ཡོད་པའི་གཏེར་དུ་འགྲོ → 'Do đem cho, chúng đi vào kho tàng hiện hữu'. ཡོད་པའི་གཏེར is rendered literally ('a treasury of what exists'); the intended contrast with the preceding line's མེད་འགྱུར ('become non-existent') suggests 'a treasure that endures', but I did not supply that, since the Tibetan does not."
       ],
       "sourceHash": "bb951e2d46f2",
-      "outputHash": "341a772b8bca",
-      "outputBytes": 8674,
+      "outputHash": "31e5983e87d9",
+      "outputBytes": 8710,
       "translatedAt": "2026-08-28",
       "runId": "wf_95c4a00b-155",
       "verify": {
@@ -5563,8 +5563,8 @@
         "unsure: p0461 ཐབས་མཁས་པ་དམ་པ rendered 'phương tiện thiện xảo tối thắng'. The glossary's ཐབས་མཁས་པ entry records unresolved word-order drift ('phương tiện thiện xảo' vs c039's 'thiện xảo phương tiện'); I used the registered head form. Not a new problem, but this chunk adds another site to the pending sweep."
       ],
       "sourceHash": "a81c1a6859c2",
-      "outputHash": "74ee914d7c20",
-      "outputBytes": 8770,
+      "outputHash": "805e157f16c2",
+      "outputBytes": 8812,
       "translatedAt": "2026-08-28",
       "runId": "wf_95c4a00b-155",
       "verify": {
@@ -5640,8 +5640,8 @@
         "unsure: translation/c145.md already existed as an UNVERIFIED batch-5 draft. I did not read past its first 20 lines and translated independently from the Tibetan; the file is now fully overwritten. If the intent was to repair the draft rather than replace it, this differs."
       ],
       "sourceHash": "2c3de6ef4c03",
-      "outputHash": "1822d0361efd",
-      "outputBytes": 9814,
+      "outputHash": "f8a0a11cb71f",
+      "outputBytes": 9838,
       "translatedAt": "2026-08-28",
       "runId": "wf_95c4a00b-155",
       "verify": {
@@ -5718,8 +5718,8 @@
         "unsure: ལྐུགས་པ at p0477 — literally 'mute/dumb'. Rendered 'ngu độn' on the figurative reading (left ignorant through having given away one's own copy). The literal reading 'câm' is not impossible."
       ],
       "sourceHash": "07a93c82223f",
-      "outputHash": "76e7887c3e91",
-      "outputBytes": 9937,
+      "outputHash": "57050c7165e6",
+      "outputBytes": 9950,
       "translatedAt": "2026-08-28",
       "runId": "wf_95c4a00b-155",
       "verify": {
@@ -5792,8 +5792,8 @@
         "unsure: ཚུལ་ཁྲིམས་ལ་གསུམ་དུ་ཡོད་མོད་ཀྱི at p0484 is translated as printed ('Giới tuy có ba loại'), with no gloss of what the three are. The three (སྡོམ་པའི་ཚུལ་ཁྲིམས and its two companions) are known doctrine but the source does not name them here, and naming them would be filling a gap from knowledge of Buddhism."
       ],
       "sourceHash": "9acc9c492ea3",
-      "outputHash": "930e529ee953",
-      "outputBytes": 9134,
+      "outputHash": "4582580017bd",
+      "outputBytes": 9146,
       "translatedAt": "2026-08-28",
       "runId": "wf_95c4a00b-155",
       "verify": {
@@ -5828,8 +5828,8 @@
         "note: the four repeated citations introduced by དེ་ཉིད་ལས on p0487-p0488 are rendered 'Cũng trong bản ấy có nói', continuing c149's chain of quotations from ཕར་ཕྱིན་བསྡུས་པ = *Ba-la-mật Tập*, which p0490 names explicitly again. The Tibetan says only 'from that very [text]'; the referent is carried over from c149, not stated in this chunk."
       ],
       "sourceHash": "8b6664de23c2",
-      "outputHash": "cf7e01dc8ab3",
-      "outputBytes": 9096,
+      "outputHash": "65287b04a953",
+      "outputBytes": 9109,
       "translatedAt": "2026-08-28",
       "runId": "wf_95c4a00b-155",
       "verify": {
@@ -5866,8 +5866,8 @@
         "unsure: p0493, `མཐུ་ལྡན་རྣམས་ཀྱི་རྒྱན་གྱི་དམ་པ` in the verse ('món trang sức tối thượng của những bậc có uy lực') versus its prose gloss `གནོད་བྱེད་མཐུ་ཆུང་ངུ་ལའང་བཟོད་པས་ཡིད་འཕྲོག་པའི་རྒྱན` ('do nhẫn chịu ngay cả với kẻ gây hại có sức lực nhỏ bé'). The verse's `མཐུ་ལྡན` (the powerful ones who are patient) and the gloss's `མཐུ་ཆུང་ངུ` (the weak harm-doer) point in opposite directions; I translated each as written and did not harmonise them."
       ],
       "sourceHash": "064a832e772e",
-      "outputHash": "13094a887c8a",
-      "outputBytes": 9050,
+      "outputHash": "bea34490ecff",
+      "outputBytes": 9063,
       "translatedAt": "2026-08-28",
       "runId": "wf_95c4a00b-155",
       "verify": {
@@ -5940,8 +5940,8 @@
       ],
       "translatedAt": "2026-08-28",
       "sourceHash": "7a1d3020bd45",
-      "outputHash": "23b79cbab6a6",
-      "outputBytes": 8744,
+      "outputHash": "7baba3995ecb",
+      "outputBytes": 8809,
       "runId": "wf_95c4a00b-155",
       "verify": {
         "verdict": "clean"
@@ -6014,8 +6014,8 @@
       ],
       "translatedAt": "2026-08-28",
       "sourceHash": "6e559319cf54",
-      "outputHash": "450215e6a8ab",
-      "outputBytes": 10074,
+      "outputHash": "bd3e9f19e97a",
+      "outputBytes": 10087,
       "runId": "wf_95c4a00b-155",
       "verify": {
         "verdict": "clean"
@@ -6125,8 +6125,8 @@
       ],
       "translatedAt": "2026-08-28",
       "sourceHash": "5a14b75add85",
-      "outputHash": "587e1a17aa3d",
-      "outputBytes": 6893,
+      "outputHash": "98fe7a51872f",
+      "outputBytes": 6906,
       "runId": "wf_95c4a00b-155",
       "verify": {
         "verdict": "clean"
@@ -6164,8 +6164,8 @@
       ],
       "translatedAt": "2026-08-28",
       "sourceHash": "461add616429",
-      "outputHash": "8d5ea2af423e",
-      "outputBytes": 8076,
+      "outputHash": "79f66d38f5c8",
+      "outputBytes": 8108,
       "runId": "wf_95c4a00b-155",
       "verify": {
         "verdict": "clean"
@@ -6204,8 +6204,8 @@
       ],
       "translatedAt": "2026-08-28",
       "sourceHash": "4a2593eeecfc",
-      "outputHash": "6799ac07d388",
-      "outputBytes": 9284,
+      "outputHash": "026609803397",
+      "outputBytes": 9349,
       "runId": "wf_95c4a00b-155",
       "verify": {
         "verdict": "clean"
@@ -6275,8 +6275,8 @@
       ],
       "translatedAt": "2026-08-28",
       "sourceHash": "02f1396d6712",
-      "outputHash": "36a273847f45",
-      "outputBytes": 9293,
+      "outputHash": "7f6a46a94688",
+      "outputBytes": 9306,
       "runId": "wf_95c4a00b-155",
       "verify": {
         "verdict": "clean"
@@ -6421,8 +6421,8 @@
         "note: translation/c166.md already existed as an UNVERIFIED draft from batch 5. I retranslated the pages from the Tibetan rather than editing it, then compared. Three substantive changes resulted: 'tội lỗi' -> 'lỗi lầm' for ཉེས་པ (glossary.json's ཉེས་པ entry explicitly rules 'tội lỗi' out for the bare term); 'sự tinh cần' -> 'sự tinh tấn' for བརྩོན་པ (aligned to the registered བརྩོན་པ = tinh tấn); and 'các thiện [căn]' -> 'những điều thiện' for དགེ་བ་བསགས་པ་རྣམས (the bracketed 'căn' supplied a མུལ/རྩ་བ the Tibetan does not have). The final sentence was also re-bracketed per the ཕྱི་མར་ཡང flag above."
       ],
       "sourceHash": "ceafc7c09230",
-      "outputHash": "bca95c226413",
-      "outputBytes": 4374,
+      "outputHash": "1785aed8f741",
+      "outputBytes": 4367,
       "translatedAt": "2026-08-28",
       "runId": "wf_d5557f4e-b29",
       "verify": {
@@ -6461,8 +6461,8 @@
         "unsure: p0555 verse line 2, the phrase སྐྱེ་བོ་མ་རབས belongs syntactically to pāda 4 (…ཡིད་ལ་ཇི་ལྟར་འགྲུབ) but had to be moved up into the Vietnamese line 2 for the two genitive modifiers to attach. One line per shad is preserved; the content is displaced by two lines."
       ],
       "sourceHash": "06942bfbf4c6",
-      "outputHash": "9d7281d8644f",
-      "outputBytes": 9048,
+      "outputHash": "4967d3101351",
+      "outputBytes": 9054,
       "translatedAt": "2026-08-28",
       "runId": "wf_d5557f4e-b29",
       "verify": {
@@ -6534,8 +6534,8 @@
         "unsure: p0562 བསྟན་པ་ལ་ཕན་པ་དང༌། སྒྲུབ་པ་བྱེད་པ་གཉིས་སོ་སོར་འཛིན་པ. The two quoted slogans were re-ordered in Vietnamese so each attaches to its member of the pair; the Tibetan states the pair after the slogans. No content added, but the mapping of 'སངས་རྒྱས་ཀྱི་བསྟན་པ་ལ་ཐོས་པ་དགོས' onto 'benefiting the teaching' is inferred from the structure of the sentence rather than stated."
       ],
       "sourceHash": "c6150310ccf1",
-      "outputHash": "d275f51f3651",
-      "outputBytes": 10064,
+      "outputHash": "bed6559edb09",
+      "outputBytes": 10077,
       "translatedAt": "2026-08-28",
       "runId": "wf_d5557f4e-b29",
       "verify": {
@@ -6570,8 +6570,8 @@
         "unsure: p0565 - ཡེ་ཤེས་ཀྱི་ཚོགས་ཆེན་པོ་གོང་ན་མེད་པ rendered 'tư lương trí lớn lao vô thượng', following the glossary's ཡེ་ཤེས་ཀྱི་ཚོགས = 'tư lương trí'. That entry itself flags that the usual Vietnamese is 'tư lương trí tuệ'; here ཤེས་རབ ('trí tuệ') occurs in the very same sentence, which is exactly the collision the existing ruling was made to avoid, so 'trí' is kept."
       ],
       "sourceHash": "98d695f73327",
-      "outputHash": "bb8546791810",
-      "outputBytes": 4699,
+      "outputHash": "a43d6705b13c",
+      "outputBytes": 4712,
       "translatedAt": "2026-08-28",
       "runId": "wf_d5557f4e-b29",
       "verify": {
@@ -6610,8 +6610,8 @@
         "unsure: at ...དོན་མཐུན་པ་དགོས་པའི་ཕྱིར་ཏེ། the verse follows directly, with only the closing ཞེས་སོ marking it as a citation and no named source. I supplied 'Bởi có nói:' to introduce the blockquote; the attribution word 'nói' rests on ཞེས་སོ alone, and no source title is supplied (the Tibetan names none — it is presumably the same Sūtrālaṃkāra, but I did not assert that)."
       ],
       "sourceHash": "487b6242cabb",
-      "outputHash": "a56c67c22d29",
-      "outputBytes": 4622,
+      "outputHash": "72bf341d0685",
+      "outputBytes": 4628,
       "translatedAt": "2026-08-28",
       "runId": "wf_d5557f4e-b29",
       "verify": {
@@ -6650,8 +6650,8 @@
         "unsure: `སྒྲིབ་པ` at p0569 (twice) rendered 'chướng', not the glossary's bare སྒྲིབ་པ = 'triền cái'. The context is the immature continuum purified so it may take rebirth in a thiện thú, i.e. the āvaraṇa sense, which glossary.json already records as an unscoped second sense needing its own entry. Same call as c115 made at p0360."
       ],
       "sourceHash": "9da153a026d6",
-      "outputHash": "a07e629f6735",
-      "outputBytes": 6777,
+      "outputHash": "944c70dd750c",
+      "outputBytes": 6790,
       "translatedAt": "2026-08-28",
       "runId": "wf_d5557f4e-b29",
       "verify": {
@@ -6724,8 +6724,8 @@
         "unsure: p0574, ཐེག་པ་གསུམ་གྱི་ཡོན་ཏན within a passage whose surrounding sentences all say ཐེག་པ་ཆེ་ཆུང (greater and lesser vehicles) and, on p0575, ཐེག་པ་གཉིས (two vehicles). I translated each literally as printed — 'ba thừa', 'các thừa lớn và nhỏ', 'hai thừa' — rather than harmonising them. The variation is the source's own."
       ],
       "sourceHash": "d93369e5de7c",
-      "outputHash": "d1374aef28f4",
-      "outputBytes": 6557,
+      "outputHash": "63e4123edb7f",
+      "outputBytes": 6563,
       "translatedAt": "2026-08-28",
       "runId": "wf_d5557f4e-b29",
       "verify": {
@@ -6761,8 +6761,8 @@
         "unsure: p0576 གསལ་བའི་དབྱེ་བ་མཐའ་ཡས་པ rendered 'vô biên các phân loại đã được nêu rõ [ấy]' — reading གསལ་བ as 'set out clearly [in the scriptures just quoted]'. It could instead qualify what the seeker cannot do (i.e. 'cannot investigate the limitless divisions clearly'). The bracket marks the supplement; no other reading was forced onto the text."
       ],
       "sourceHash": "92e077b60b70",
-      "outputHash": "e452e95a3b94",
-      "outputBytes": 6427,
+      "outputHash": "a2dabebf1eba",
+      "outputBytes": 6414,
       "translatedAt": "2026-08-28",
       "runId": "wf_d5557f4e-b29",
       "verify": {
@@ -6953,8 +6953,8 @@
       ],
       "translatedAt": "2026-08-28",
       "sourceHash": "f35179ac4e5d",
-      "outputHash": "a2340cb5ca0e",
-      "outputBytes": 7816,
+      "outputHash": "1a1d0c4fb425",
+      "outputBytes": 7833,
       "runId": "wf_d5557f4e-b29",
       "verify": {
         "verdict": "clean"
@@ -6993,8 +6993,8 @@
       ],
       "translatedAt": "2026-08-28",
       "sourceHash": "7acec0204fab",
-      "outputHash": "df30d33fd6f5",
-      "outputBytes": 8867,
+      "outputHash": "ecd4765631ff",
+      "outputBytes": 8885,
       "runId": "wf_d5557f4e-b29",
       "verify": {
         "verdict": "clean"
@@ -7032,8 +7032,8 @@
       ],
       "translatedAt": "2026-08-28",
       "sourceHash": "200d4a486c5d",
-      "outputHash": "2b92bcd6d252",
-      "outputBytes": 7188,
+      "outputHash": "aaadce7ec2af",
+      "outputBytes": 7253,
       "runId": "wf_d5557f4e-b29",
       "verify": {
         "verdict": "clean"
@@ -7109,8 +7109,8 @@
       ],
       "translatedAt": "2026-08-28",
       "sourceHash": "f8521ad75cce",
-      "outputHash": "3ccceae7547f",
-      "outputBytes": 8168,
+      "outputHash": "0bd8bc575559",
+      "outputBytes": 8246,
       "runId": "wf_d5557f4e-b29",
       "verify": {
         "verdict": "clean"
@@ -7183,8 +7183,8 @@
       ],
       "translatedAt": "2026-08-28",
       "sourceHash": "6dff7eab52a8",
-      "outputHash": "928806db213c",
-      "outputBytes": 9654,
+      "outputHash": "aabc72022dbc",
+      "outputBytes": 9667,
       "runId": "wf_d5557f4e-b29",
       "verify": {
         "verdict": "clean"

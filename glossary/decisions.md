@@ -94,3 +94,37 @@ translator's note is needed.
 - **Reference, do not copy.** The existing Vietnamese *Bồ Đề Đạo Thứ Đệ Quảng Luận* and the
   Snow Lion English translation may be consulted to *check* a choice. The translation itself
   is made from the Tibetan.
+
+## §6 — Sa-bcad enumerations must be complete Vietnamese sentences
+
+*Decided 2026-08-28, by the user, from the reading of c180 p0592.*
+
+The Tibetan sa-bcad writes `X ལ་གསུམ།` — literally "X has three" — with no classifier,
+because Tibetan does not need one. Rendered word-for-word this gives *"Cách tu học có ba"*,
+which in Vietnamese is **cụt**. It must be complete:
+
+> Cách thức tu học riêng từng phần **gồm có ba cách**: …
+
+The classifier is chosen from **what is actually being enumerated**, not by preference: if
+the items are themselves `cách …`, it is `cách`; otherwise `phần`. Over the corpus that is
+14 `cách` against 149 `phần`. `tools/38-sabcad-style.mjs` applies this and is idempotent.
+
+Within such a sentence the **items** are lightened from `cách thức …` to `cách …`, while the
+sentence's subject and the section heading keep `cách thức`. Tibetan repeats `ཚུལ` once per
+item without strain because it is a light nominaliser; `cách thức` is a heavy two-syllable
+noun and three of them in one sentence is what made the passage read badly.
+
+Not changed, deliberately: headings of the form *"Cách thức tu học tịnh chỉ, tức thể tánh
+của tĩnh lự"*. The trailing appositive attaches to the nearest noun phrase, which is the
+right one (`tịnh chỉ`), so these are correct as they stand.
+
+## §7 — `ཟུང་དུ་འབྲེལ་བ` is *song vận*, never *song vận hợp nhất*
+
+*Decided 2026-08-28, by the user.*
+
+`ཟུང་དུ་འབྲེལ་བ` (yuganaddha) is two things **yoked as a pair**, each still itself. 雙運
+*song vận* already carries the whole word. *hợp nhất* is not merely redundant — it means
+merging into one, and asserts something the Tibetan does not say. Where śamatha and
+vipaśyanā are in union that distinction carries doctrine: they are conjoined, not fused.
+
+Four occurrences were corrected. The glossary entry is updated accordingly.

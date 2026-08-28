@@ -1865,10 +1865,10 @@
     {
       "bo": "ཟུང་དུ་འབྲེལ་བ",
       "skt": "yuganaddha",
-      "vi": "song vận hợp nhất",
-      "status": "provisional",
+      "vi": "song vận",
+      "status": "fixed",
       "kind": "term",
-      "note": "zhi lhag zung du 'brel ba = 'sự song vận hợp nhất của chỉ và quán'",
+      "note": "yuganaddha: two yoked as a PAIR, each still itself. 雙運 song vận carries the whole word. \"hợp nhất\" is NOT licensed - it means merging into one and asserts what the Tibetan does not say; at śamatha-vipaśyanā union that distinction carries doctrine. Decided by the user 2026-08-28, decisions.md §7.",
       "firstSeen": "batch"
     },
     {
