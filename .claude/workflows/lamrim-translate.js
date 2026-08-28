@@ -90,7 +90,11 @@ WORSE than no translation, because the error is invisible to the reader.
   never as the thing being rendered. The source is the Tibetan.
 - Do NOT normalise the source. It has genuine typos. Translate what is there and flag it.
 
-GLOSSARY - binding. Read glossary/glossary.json and glossary/decisions.md BEFORE translating.
+GLOSSARY - binding. Read YOUR CHUNK'S VIEW, glossary/by-chunk/<your id>.md, plus
+glossary/decisions.md, BEFORE translating. That view carries every fixed and fixed-set ruling
+plus every term whose Tibetan occurs in your pages. Do NOT read glossary.json: it is 1.3 MB,
+reading it costs ~300k tokens, and it holds nothing that can bind your pages which your view
+does not already contain. A term absent from your view is a GAP - report it in newTerms.
 - status "fixed": use exactly that Vietnamese, every time.
 - status "fixed-set": use ONLY a form from that entry's viVariants, per its note.
 - HOUSE STYLE is northern: "sinh" not "sanh", "phuc duc" not "phuoc duc", everywhere.
@@ -146,7 +150,8 @@ YOUR CHUNK: ${c.id}   pdf pages ${c.pages[0]}-${c.pages[1]}
   path    : ${c.sectionPath || '(none)'}
   ${c.part ? `part    : ${c.part} - a split WE made, not the book's.` : ''}
 
-STEPS: read the glossary files and translation/c005.md; read your pages (${pagesOf(c)});
+STEPS: read glossary/by-chunk/${c.id}.md, glossary/decisions.md and translation/c005.md;
+read your pages (${pagesOf(c)});
 ALSO read the page before your range for context only, since sentences run across page and
 chunk boundaries; translate ONLY your range; write the file; return newTerms and flags.
 
@@ -167,7 +172,9 @@ that is exactly what you are hunting.
 Read, from ${ROOT}:
   - Tibetan source : ${pagesOf(c)}
   - Vietnamese     : translation/${c.id}.md
-  - glossary/glossary.json and glossary/decisions.md
+  - glossary/by-chunk/${c.id}.md and glossary/decisions.md - this chunk's glossary view.
+    Do NOT read glossary.json (1.3 MB); the view already holds every ruling that can bind
+    these pages. A term absent from it is a GAP, not a translator error - say so.
 
 Report three lists:
 1. fabrications - Vietnamese that cannot be traced to specific Tibetan on those pages.
@@ -199,7 +206,8 @@ A fidelity check REJECTED your project's translation of chunk ${r.c.id}. Repair 
 Read, from ${ROOT}:
   - Tibetan source : ${pagesOf(r.c)}
   - Vietnamese     : translation/${r.c.id}.md
-  - glossary/glossary.json and glossary/decisions.md
+  - glossary/by-chunk/${r.c.id}.md and glossary/decisions.md - this chunk's glossary view.
+    Do NOT read glossary.json (1.3 MB). A term absent from the view is a GAP.
 ${list('FABRICATIONS - content not in the Tibetan. Remove or correct every one', r.v.fabrications)}
 ${list('OMISSIONS - Tibetan with no Vietnamese counterpart. Supply every one', r.v.omissions)}
 ${list('GLOSSARY - each is EITHER a wrong rendering OR a missing ruling. Decide which', r.v.glossaryViolations)}

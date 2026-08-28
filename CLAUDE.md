@@ -65,6 +65,7 @@ translate → verify → repair* below for what the batch actually does and why:
 
 ```bash
 node tools/32-chunk.mjs batch 25            # -> {"chunks":[...]}
+node tools/37-chunk-glossary.mjs --batch .wf.json   # per-chunk glossary views (see below)
 # run the `lamrim-translate` workflow with that object as its args
 node tools/35-merge-batch.mjs --run wf_XXXX --write
 ```
@@ -274,10 +275,41 @@ this until `node tools/32-chunk.mjs list` reports `pending 0`** — the loop is 
 holds no state in the conversation:
 
 ```bash
-node tools/32-chunk.mjs batch 25            # -> {"chunks":[...]}  — the workflow's args verbatim
+node tools/32-chunk.mjs batch 25 > .wf.json          # the workflow's args verbatim
+node tools/37-chunk-glossary.mjs --batch .wf.json    # MUST run after every merge
 # run the `lamrim-translate` workflow with that object as args; note its Run ID
 node tools/35-merge-batch.mjs --run wf_XXXX --write
 ```
+
+### Agents read a per-chunk glossary, never `glossary.json`
+
+`glossary.json` passed **1.3 MB / 2867 terms** at batch 7 — about 300k tokens — and it grew
+53 → 1394 → 2096 → 2486 → 2867 across seven batches. Every agent in a batch was reading it,
+75 of them, and the cost rises every round while the fraction any one chunk needs falls.
+
+`tools/37-chunk-glossary.mjs` cuts `glossary/by-chunk/<id>.md`: every `fixed` / `fixed-set`
+ruling, the six house-style entries, and every term whose Tibetan **occurs in that chunk's
+pages**. ~33 KB instead of 1108 KB — **34× less per agent**, and it no longer grows with the
+glossary, only with the chunk's own vocabulary.
+
+Two things make this safe rather than merely cheap:
+
+- **Matching is plain substring over the Tibetan**, so it over-includes. A ruling the agent
+  did not need costs a few hundred bytes; a ruling it needed and did not see is a glossary
+  violation. Err toward including.
+- **Binding rulings are never filtered.** All 60 `fixed`/`fixed-set` entries are in every
+  view whether or not the word occurs, because they carry prohibitions (`ཆོས` → *chánh pháp*
+  is **not** licensed) that bind wherever the term appears.
+
+The views are **derived and gitignored**. They are cut from `glossary.json`, which stays the
+single source of truth — regenerate after every merge or agents translate against stale
+rulings. A term absent from a view is a *gap*, and the workflow tells agents to report it in
+`newTerms` rather than assume the wording is free.
+
+`node tools/37-chunk-glossary.mjs --report` audits the glossary itself: headwords recorded
+twice, and headwords carrying several different Vietnamese renderings. It resolves nothing —
+one headword with two renderings may be a real sense split (`མཁས་པ` as *scholar* vs as
+*wise-in-contrast-to-foolish*) or plain drift, and only a reader of the passages can tell.
 
 `--run` reads the workflow's own `journal.jsonl`, so nothing has to be hand-copied out of a
 tool result — which matters, because the return value is far too large to paste back reliably.
