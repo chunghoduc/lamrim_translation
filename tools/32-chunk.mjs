@@ -129,6 +129,20 @@ switch (cmd) {
     break;
   }
 
+  // Re-record outputHash for files whose BYTES changed but whose translation did not - the
+  // reflow in tools/36 is the case this exists for. Deliberately separate from `done`, which
+  // would also flip status and stamp a translatedAt: re-formatting is not re-translating, and
+  // it must never promote a draft. Verify the change really was cosmetic before running this;
+  // clearing the EDITED warning is the whole point of the warning.
+  case 'restamp': {
+    const ids = rest.filter(a => !a.startsWith('--'));
+    const targets = state.chunks.filter(c => hasFile(c) && isEdited(c) && (!ids.length || ids.includes(c.id)));
+    for (const c of targets) { c.outputHash = outputHash(c); c.outputBytes = fs.statSync(outPath(c)).size; }
+    save();
+    console.log(`re-stamped ${targets.length} chunk(s)${targets.length ? ': ' + targets.map(c => c.id).join(' ') : ''}`);
+    break;
+  }
+
   // Reconcile progress.json against what is actually on disk. This is the command to run
   // FIRST on a machine that did not produce the work - after a clone, or after a batch was
   // interrupted. Nothing about the project's state lives outside the repo, but a workflow

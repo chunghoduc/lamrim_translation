@@ -49,7 +49,7 @@ node tools/30-progress.mjs --verify
 | CIDs deliberately left unrepaired | 10 |
 | sa-bcad outline built | yes |
 | Glossary terms | 2486 |
-| Translation files written | 152 |
+| Translation files written | 162 |
 
 ## Translation progress
 

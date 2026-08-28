@@ -136,6 +136,10 @@ Body rules:
 - If the chunk opens mid-sentence, begin "*(...tiep theo:)*" and complete it.
 - If it ends mid-sentence, close with "*(tiep sang chunk sau.)*".
 - Translation only. No Tibetan in the body.
+- Do NOT hard-wrap prose. One paragraph is ONE line, however long; let the reader's editor
+  wrap it. A newline inside a prose paragraph chops the sentence in the raw file, splits
+  bracketed supplied words across lines, and breaks phrase search. The ONLY line breaks
+  inside a paragraph are verse padas, one per shad-delimited Tibetan line.
 
 YOUR CHUNK: ${c.id}   pdf pages ${c.pages[0]}-${c.pages[1]}
   section : ${c.section}
