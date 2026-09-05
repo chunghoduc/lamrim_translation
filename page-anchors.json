@@ -611,8 +611,10 @@
       "kind": "internal",
       "boTail": "་སྐྱོན་རྟོག་པ་བྱུང་བའི་ཚེ་ནའང་བཤགས་བསྡམ་ལ་འབད་པར་བྱའོ། །དེ་ལྟར་བྱས་ན་རིམ་གྱིས་མཐུ་ཆུང་ངུར་",
       "boHead": "འགྱུར་རོ། །ཡང་ཚུལ་ཁྲིམས་སམ་མང་དུ་ཐོས་པའམ་དད་པ་ལ་སོགས་པའི་ཡོན་ཏན་ཡོད་པ་རྣམས་ལ་བློས་དེའི་ཕྱོ",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "Lại nữa, đối với những vị có công đức như giới",
+      "placedBy": "align",
+      "note": "p72 mở bằng động từ 'gyur ro khép câu trước"
     },
     {
       "pdf": 73,
@@ -621,8 +623,10 @@
       "kind": "internal",
       "boTail": "ཞེ་ས་དང་རིམ་གྲོ་བསྐྱེད་དེ་དེ་ལ་བརྟེན་ནས་བྱང་ཆུབ་ཀྱི་ཚོགས་མ་རྫོགས་པ་ནི་རྫོགས་པར་འགྱུར། ཉོན་",
       "boHead": "མོངས་པ་མ་སྤངས་པ་ནི་སྤོང་བར་འགྱུར་སྙམ་སྟེ་དགའ་བ་དང་རངས་པ་འཐོབ་ཅིང་། དགེ་བའི་ཆོས་ལ་དེ་དང་མཐུ",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "phiền não chưa đoạn trừ sẽ được đoạn trừ",
+      "placedBy": "align",
+      "note": "nyon | mongs (phiền não) bị ngắt đôi giữa hai trang"
     },
     {
       "pdf": 74,
@@ -631,8 +635,10 @@
       "kind": "internal",
       "boTail": "ངས་པ་འགྲོལ་བྱེད་དང་། བདག་ཡུན་རིང་པོར་ནད་ཀྱིས་ཉམ་ཐག་པའི་སྨན་པ་དང་། བདག་འདོད་ཆགས་ལ་སོགས་པའི་",
       "boHead": "མེས་ཀུན་ཏུ་འབར་བ་ཞི་བར་བྱེད་པའི་ཆར་སྤྲིན་གྱི་འདུ་ཤེས་བསྐྱེད་དོ། །ཞེས་པ་དང༌། སྡོང་པོ་བཀོད་པ",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "đám mây mưa làm lắng dịu tôi",
+      "placedBy": "align",
+      "note": "tiếng Việt đảo: \"kẻ đang bị lửa tham dục v.v.\" thuộc cuối p73 nhưng đứng sau dấu"
     },
     {
       "pdf": 75,
@@ -649,8 +655,10 @@
       "kind": "internal",
       "boTail": "གྲོ་དང༌། །སྒྲུབ་པའི་སྒོ་ནས་བཤེས་གཉེན་བསྟེན་པར་བྱ། །ཞེས་དང༌། བརྟན་པ་ཇི་སྐད་བསྟན་པ་བསྒྲུབ་པ་",
       "boHead": "དེས། །དེ་ཡི་སེམས་ནི་ཡང་དག་མགུ་བར་བྱེད། །ཅེས་གསུངས་སོ། །དེ་ལ་དང་པོ་ནི། ལྔ་བཅུ་པ་ལས། རང་གི་ད",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "Tâm của vị ấy được khiến cho hoan hỷ chân thật.",
+      "placedBy": "align",
+      "note": "khớp gần đúng chữ: p75 khép ở bsgrub pa"
     },
     {
       "pdf": 77,
@@ -659,8 +667,10 @@
       "kind": "internal",
       "boTail": "། །ཞེས་གསུངས་པའི་ཕྱིར་རོ།། གལ་ཏེ་བླ་མའི་བཀའ་བཞིན་དུ་བསྒྲུབ་དགོས་ན་བླ་མ་དེ་བསྟེན་ན་མི་རིགས་",
       "boHead": "པའི་ལམ་དུ་འཁྲིད་པ་དང་སྡོམ་པ་གསུམ་དང་འགལ་བའི་བྱ་བ་ལ་སྦྱོར་བར་བྱེད་ན་དེ་ལྟར་བྱའམ་ཞེ་ན། དེ་ལ་",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "dẫn dắt vào con đường phi lý",
+      "placedBy": "align",
+      "note": "mi rigs (phi lý) khép p76; tiếng Việt đặt tính từ sau danh từ nên hai chữ ấy rơi sau dấu"
     },
     {
       "pdf": 78,
@@ -677,8 +687,10 @@
       "kind": "internal",
       "boTail": "།ཞེས་དང༌། རིགས་ཀྱི་བུ་དགེ་བའི་བཤེས་གཉེན་གྱིས་རྗེས་སུ་བསྟན་པ་ལ་ཞུགས་པའི་བྱང་ཆུབ་སེམས་དཔའ་ལ་",
       "boHead": "སངས་རྒྱས་བཅོམ་ལྡན་འདས་རྣམས་ཐུགས་མཉེས་པར་འགྱུར་རོ། །དགེ་བའི་བཤེས་གཉེན་གྱི་ཚིག་དང་མི་འགལ་བར་",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "chư Phật Thế Tôn sinh lòng hoan hỷ.",
+      "placedBy": "align",
+      "note": "khớp đúng chữ"
     },
     {
       "pdf": 80,
@@ -695,8 +707,10 @@
       "kind": "internal",
       "boTail": "་མར་ངན་འགྲོའི་སྡུག་བསྔལ་དཔག་ཏུ་མེད་པ་དུས་དཔག་ཏུ་མེད་པར་མྱོང་བར་འགྱུར་ཏེ། ལག་ན་རྡོ་རྗེ་དབང་",
       "boHead": "བསྐུར་བའི་རྒྱུད་ལས། བཅོམ་ལྡན་འདས། གང་དག་སློབ་དཔོན་ལ་བརྙས་པར་བགྱིད་པ་དེ་དག་གི་རྣམ་པར་སྨིན་པ",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "Trong *Mật điển Quán Đảnh Kim Cang Thủ* có nói:",
+      "placedBy": "align",
+      "note": "tên mật điển bị ngắt giữa: lag na rdo rje dbang khép p80, bskur ba'i rgyud mở p81"
     },
     {
       "pdf": 82,
@@ -705,8 +719,10 @@
       "kind": "internal",
       "boTail": "ེ་བར་འགྱུར། །ཞེས་གསུངས་སོ།། གཞན་ཡང་ཡོན་ཏན་མ་སྐྱེས་པ་རྣམས་མི་སྐྱེ་ཞིང་སྐྱེས་པ་རྣམས་ཀྱང་ཉམས་",
       "boHead": "ནས་འགྲོ་སྟེ། ད་ལྟར་གྱི་སངས་རྒྱས་མངོན་སུམ་པའི་ཏིང་ངེ་འཛིན་ལས། གལ་ཏེ་དེས་དེ་ལ་མནར་སེམས་སམ་ཐ་",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "rồi mất đi. Trong *Hiện Tại Chư Phật",
+      "placedBy": "align",
+      "note": "khớp đúng chữ: nyams | nas 'gro (thoái thất rồi mất đi) bị ngắt đôi"
     },
     {
       "pdf": 83,
@@ -723,8 +739,10 @@
       "kind": "internal",
       "boTail": "པར་གྱོང་འབྱུང་བས། བཤེས་གཉེན་བསྟེན་པའི་ཆོས་སྐོར་འདི་རྣམས་ནི་གང་ལས་ཀྱང་གལ་ཆེ་བ་གཏན་གྱི་འདུན་",
       "boHead": "མའི་རྩ་བར་སྣང་བས། རགས་རིམ་ཞིག་དྲི་མ་མེད་པའི་གསུང་རབ་དང་དགོངས་འགྲེལ་ནས་དྲངས་ཏེ་གོ་སླ་ལ་ཡིད་",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "nên [ở đây] đã trích dẫn từ thánh giáo vô cấu",
+      "placedBy": "align",
+      "note": "gtan gyi 'dun | ma bị ngắt đôi; \"là cội gốc\" (rtsa ba) thuộc p84 nhưng đứng trước dấu"
     },
     {
       "pdf": 85,
@@ -741,8 +759,10 @@
       "kind": "internal",
       "boTail": "ལ་ཕྱག་འཚལ་བའི་ཡན་ལག་ལ་སྒོ་གསུམ་བསྡོམས་པའི་ཕྱག་ནི། ཇི་སྙེད་སུ་དག་ཅེས་པའི་ཚིགས་བཅད་གཅིག་སྟེ།",
       "boHead": "འཇིག་རྟེན་གྱི་ཁམས་ཕྱོགས་རེ་བ་དང་དུས་རེ་རེའི་སངས་རྒྱས་མ་ཡིན་གྱི། ཕྱོགས་བཅུ་ག་ན་བཞུགས་པ་དང་ས",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "[nghĩa là] không phải chư Phật của riêng một phương",
+      "placedBy": "align",
+      "note": "khớp đúng chữ"
     },
     {
       "pdf": 87,
@@ -751,8 +771,10 @@
       "kind": "internal",
       "boTail": "ཏན་གྱི་བསྔགས་པ་ཟད་མི་ཤེས་པ་རྣམས་ལུས་རེ་རེ་ལ་མགོ་བོ་དཔག་ཏུ་མེད་པ་དང་མགོ་རེ་རེ་ལ་ལྕེ་དཔག་ཏུ་",
       "boHead": "མེད་པར་སྤྲུལ་བར་གསུངས་པ་ལྟར་བྱས་ནས་སྙན་པའི་དབྱངས་ཀྱིས་བརྗོད་པའོ། །འདིར་དབྱངས་ནི་བསྟོད་པ་ཡི",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "rồi dùng âm thanh êm dịu mà tuyên nói",
+      "placedBy": "align",
+      "note": "tiếng Việt đảo mạnh: \"hãy làm đúng như đã dạy\" thuộc p87 nhưng đứng đầu câu, trước dấu"
     },
     {
       "pdf": 88,
@@ -761,8 +783,10 @@
       "kind": "internal",
       "boTail": "་རྟེན་པའི་མཆོད་པ་ཡིན་པས། འདིར་ནི་བྱང་ཆུབ་སེམས་དཔའ་ལ་སོགས་པ་མཐུ་ཅན་རྣམས་ཀྱིས་བཟང་དགུ་སྤྲུལ་",
       "boHead": "པའོ། །ཚིག་རྐང་པ་ཐ་མ་གཉིས་ནི་གོང་མ་དེ་གཉིས་མ་ཚང་བ་ཐམས་ཅད་ལ་སྦྱར་ཏེ་ཕྱག་དང་མཆོད་པ་རྣམས་ཀྱི་ཀ",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "Hai câu kệ cuối thì được ghép vào",
+      "placedBy": "align",
+      "note": "p88 mở bằng trợ từ pa'o khép câu trước"
     },
     {
       "pdf": 89,
@@ -779,8 +803,10 @@
       "kind": "internal",
       "boTail": "ཤེས་གཉེན་ལ་གུས་པ་ནས་བདག་མེད་པའི་དེ་ཁོ་ན་ཉིད་རྟོགས་པའི་བར་གྱི་ཕྱིན་ཅི་མ་ལོག་པའི་བློ་སྣ་ཐམས་",
       "boHead": "ཅད་བདེ་བླག་ཏུ་སྐྱེ་བ་དང༌། ཕྱི་དང་ནང་གི་བར་ཆད་ཐམས་ཅད་ཉེ་བར་ཞི་བར་བྱིན་གྱིས་བརླབ་ཏུ་གསོལ། ཞེ",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "dễ dàng sinh khởi; và cho hết thảy chướng ngại",
+      "placedBy": "align",
+      "note": "thams | cad bị ngắt đôi"
     },
     {
       "pdf": 91,
@@ -789,8 +815,10 @@
       "kind": "internal",
       "boTail": "་ཞིག་བཏང་ལ། ཇི་ལྟར་ངེས་པར་བྱས་པ་དེ་ལས་ལྷག་ཆད་མེད་པར་དྲན་ཤེས་བཞིན་དང་ལྡན་པར་བསྐྱང་བར་བྱའོ།།",
       "boHead": "སྐབས་འདིའི་སྐྱོང་ཚུལ་ནི། དང་པོར་བསྟེན་པའི་ཕན་ཡོན་སངས་རྒྱས་མྱུར་དུ་འཐོབ་པ་སོགས་དང༌། མ་བསྟེན",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "Cách duy trì trong trường hợp này:",
+      "placedBy": "align",
+      "note": "khớp đúng chữ"
     },
     {
       "pdf": 92,
@@ -799,8 +827,10 @@
       "kind": "internal",
       "boTail": "རྨུགས་སོགས་ཞི་བར་འགྱུར་རོ།། ཐུན་མཚམས་ལ་ཇི་ལྟར་བྱ་བ་ནི། སྤྱིར་ཕྱག་དང་བསྐོར་བ་དང་ཁ་ཏོན་སོགས་",
       "boHead": "དུ་མ་ཞིག་ཡོད་ཀྱང་འདིར་སྐབས་སུ་བབ་པའི་གཙོ་བོ་ནི། ཐུན་གྱི་ངོ་བོ་ལ་འབད་ནས་ཐུན་བཏང་བའི་མཚམས་སུ",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "nhưng điều chính yếu thích hợp ở đây là",
+      "placedBy": "align",
+      "note": "du ma zhig yod (có nhiều) mở p92 nhưng tiếng Việt đưa lên trước danh sách"
     },
     {
       "pdf": 93,
@@ -817,8 +847,10 @@
       "kind": "internal",
       "boTail": "་བའི་ཅུང་ཟད་བལྟས་པ་དང༌། བློ་སྔོན་དུ་བཏང་ནས་མཐོང་བའི་རྣམ་པར་བལྟས་པའོ། །ཡན་ལག་དང་ཉིང་ལག་ཐམས་",
       "boHead": "ཅད་ཀྱི་ལས་ནི། ཡན་ལག་དང་ཉིང་ལག་བརྐྱང་བ་དང་བསྐུམ་པའོ། །ཆོས་གོས་དང་ལྷུང་བཟེད་ཀྱི་ལས་ནི། ཆོས་ག",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "là: duỗi ra và co lại các chi lớn",
+      "placedBy": "align",
+      "note": "thams | cad bị ngắt đôi; \"Nghiệp của\" (las ni) thuộc p94 nhưng tiếng Việt đặt đầu câu"
     },
     {
       "pdf": 95,
@@ -827,8 +859,10 @@
       "kind": "internal",
       "boTail": "བར་བཞག་ཅིང་བག་ཡོད་པར་སྤྱོད་ལ། དེ་གཉིས་ཀྱིས་ཟིན་པས་རྣམ་པ་གང་གིས་བརྟག་པར་བྱ་བ་དང་ཚུལ་ཇི་ལྟར་",
       "boHead": "བརྟག་པར་བྱ་བའི་རྣམ་པ་དེས་ཚུལ་དེ་ལྟར་རྟོག་པར་བྱེད་ཅིང་ཤེས་པར་བྱེད་པའོ། །དེ་ཡང་རྣམ་པ་བཞི་སྟེ",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "thì dùng chính hành tướng ấy mà nhận biết",
+      "placedBy": "align",
+      "note": "khớp gần đúng chữ"
     },
     {
       "pdf": 96,
@@ -837,8 +871,10 @@
       "kind": "internal",
       "boTail": "་པ་འདི་དང་འདི་བྱེད་དོ་ཞེས་ཐམས་ཅད་ལ་ཤེས་བཞིན་འཇོག་པའོ། །དེ་ལྟར་བྱས་ན་ཚེ་འདིར་ཡང་ལྟུང་བས་མི་",
       "boHead": "གོས་པ་དང་ཤི་ནས་ཀྱང་ངན་སོང་དུ་མི་ལྟུང་བ་དང་ལམ་གྱི་རྟོགས་པ་མ་ཐོབ་པ་ཐོབ་པར་བྱ་བའི་རྒྱུའི་ཚོགས",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "làm nhiễm ô, sau khi chết cũng không rơi vào ác đạo",
+      "placedBy": "align",
+      "note": "khớp đúng chữ: mi | gos pa bị ngắt đôi"
     },
     {
       "pdf": 97,
@@ -855,8 +891,10 @@
       "kind": "internal",
       "boTail": "་བྱའོ། །སྦྱིན་པ་པོ་དང་སྦྱིན་བདག་པགས་པ་དང་ཤ་ཁྲག་བཙིར་ཏེ་འབྲས་བུ་ཁྱད་པར་ཅན་འདོད་ནས་སྦྱིན་པར་",
       "boHead": "བྱེད་པ་དེ་དག་གིས་བྱ་བ་བྱས་པ་དེ་ཡང་འབྲས་བུ་ཆེན་པོར་འགྱུར་བར་བྱའོ་སྙམ་དུ་བསམས་ལ་དེ་ནས་ལོངས་ས",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "[hãy] nghĩ rằng",
+      "placedBy": "align",
+      "note": "sbyin par | byed pa bị ngắt đôi"
     },
     {
       "pdf": 99,
@@ -865,8 +903,10 @@
       "kind": "internal",
       "boTail": "། །དེ་ཇི་ལྟར་བྱ་བ་ནི། ཉིན་མོ་དང་མཚན་མོ་ལ་ཆ་གསུམ་དུ་བྱས་པའི་ཆ་སྟོད་ལ་དགེ་བའི་བྱ་བས་དུས་འདའ་",
       "boHead": "བར་བྱས་ནས་ཆ་བར་པ་ལ་བབ་པའི་ཚེ་ཉལ་བར་བྱ་སྟེ། གཉིད་ཀྱིས་རྒྱས་པར་བྱ་བའི་འབྱུང་བ་རྣམས་གཉིད་ཀྱིས",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "đến khi phần giữa tới thì nên ngủ",
+      "placedBy": "align",
+      "note": "khớp đúng chữ: 'da' | bar byas nas bị ngắt đôi"
     },
     {
       "pdf": 100,
@@ -875,8 +915,10 @@
       "kind": "internal",
       "boTail": "་པ་ནི། ཆོས་དགེ་བ་དོན་དང་ལྡན་པ་མཉན་པ་དང་བསམས་པ་དང་བསྒོམས་པ་ལས་བྱུང་བའི་དྲན་པ་གཉིད་དུ་མ་སོང་",
       "boHead": "གི་བར་དུ་རྗེས་སུ་འབྲང་བར་བསྟེན་པའོ། །དེས་ནི་གཉིད་ལོག་པའི་ཚེ་ཡང་མ་ལོག་པ་དང་འདྲ་བར་ཆོས་དེ་དག",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "Do đó, ngay cả lúc ngủ cũng giống như lúc không ngủ",
+      "placedBy": "align",
+      "note": "\"cho niệm ấy đi theo mãi\" thuộc p100 nhưng tiếng Việt đặt trước mệnh đề thời gian"
     },
     {
       "pdf": 101,
@@ -893,8 +935,10 @@
       "kind": "internal",
       "boTail": "ལ་བ༌ན་ཡང་དང་ཡང་དུ་འདྲིས་པར་བྱེད་པ་ལ་སྒོམ་པ་ཞེས་ཟེར་བས་ཡང་ཡང་དཔྱད་ཀྱིན་བསྒོམ་པ་དང་མི་དཔྱོད་",
       "boHead": "པའི་འཇོག་སྒོམ་གཉིས་ཀ་དགོས་ཏེ། ཐོས་བསམ་གྱིས་གཏན་ལ་ཕབ་པ་དེ་ལ་མི་དཔྱོད་པར་འཇོག་པ་དང༌། སོ་སོར་",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "vừa tu theo lối an trụ không quán sát.",
+      "placedBy": "align",
+      "note": "mi dpyod | pa'i bị ngắt đôi; \"cả hai đều cần\" thuộc p102 nhưng tiếng Việt đưa lên đầu câu"
     },
     {
       "pdf": 103,
@@ -903,8 +947,10 @@
       "kind": "internal",
       "boTail": "ད་ཅིག་བསྒོམ་ན་ནི་དཀྱུ༌ས་གཞན་དུ་བསྟན་ནས་རྒྱུག་ས་གཞན་དུ་བྱེད་པ་ལྟར། དེ་ལྟར་གསུངས་པ་དེ་འབྲེལ་",
       "boHead": "མེད་དུ་འགྱུར་ཞིང་ཤེས་རབ་གསུམ་རིམ་གྱིས་སྐྱེ་བའི་ཚུལ་གསུང་རབ་སྤྱིའི་རྣམ་གཞག་ཀྱང་ལེགས་པར་བཤིག",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "và cách trình bày chung của thánh giáo",
+      "placedBy": "align",
+      "note": "'brel | med bị ngắt đôi"
     },
     {
       "pdf": 104,
@@ -913,8 +959,10 @@
       "kind": "internal",
       "boTail": "ལམ་ཞེས་པར་བསྒྱུར་ལ། རེས་འགའ་ནི་མངོན་རྟོགས་རྒྱན་ལས། མཐོང་དང་གོམས་པའི་ལམ་དག་ལ། །ཞེས་གསུངས་པ་",
       "boHead": "ལྟར་གོམས་པར་བསྒྱུར་ཏེ་སྒོམ་པ་དང་གོམས་པ་གཉིས་དོན་གཅིག་གོ། གཞན་ཡང་རྗེ་བཙུན་བྱམས་པས། ངེས་འབྱེ",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "— cho nên \"tu\" và \"thuần thục\"",
+      "placedBy": "align",
+      "note": "khớp đúng chữ: p103 khép ở zhes gsungs pa"
     },
     {
       "pdf": 105,
@@ -941,8 +989,10 @@
       "kind": "internal",
       "boTail": "གས་པ་ལ་ཡོན་ཏན་གྱི་ཁྱད་པར་མང་པོ་ཤེས་ནས་དེ་ལ་བརྟེན་པའི་དད་པའང་མང་པོར་འཕེལ་བ་དང་འཁོར་བའི་ཉེས་",
       "boHead": "དམིགས་དུ་མ་ཁོང་དུ་ཆུད་ནས་ཡིད་འབྱུང་ཞིང་སྐྱོ་བ་མང་བ་དང་ཐར་པའི་ཕན་ཡོན་ཡང་སྒོ་དུ་མ་ནས་མཐོང་བས",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "do lãnh hội được nhiều tai hại của luân hồi",
+      "placedBy": "align",
+      "note": "nyes | dmigs (tai hại) bị ngắt đôi"
     },
     {
       "pdf": 108,
@@ -951,8 +1001,10 @@
       "kind": "internal",
       "boTail": "གས་ཤིང་ཡང་དང་ཡང་དུ་ཆུར་བཀྲུས་ན་དྲི་མ་དང་སྙིགས་མ་ཐམས་ཅད་སྦྱངས་ཏེ་ཤིན་ཏུ་མཉེན་ཞིང་ལས་སུ་རུང་",
       "boHead": "བར་འགྱུར་བས། དེ་ནས་རྣ་རྒྱན་ལ་སོགས་པའི་རྒྱན་ཆ་ཅི་འདོད་འདོད་དུ་བསྒྱུར་བས་ཆོག་པ་བཞིན་དུ། སྔོན",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "rồi sau đó có thể uốn nắn thành bất cứ món trang sức",
+      "placedBy": "align",
+      "note": "khớp đúng chữ: rung | bar 'gyur bị ngắt đôi"
     },
     {
       "pdf": 109,
@@ -969,8 +1021,10 @@
       "kind": "internal",
       "boTail": "གས་པའི་སེམས་གཡེང་བ་ཡིན་པས་དེའི་གཉེན་པོ་ལ་སྐྱོ་ཤས་བསྔགས་པར་གཞུང་དུ་མ་ནས་གསུངས་པའི་ཕྱིར་རོ།།",
       "boHead": "དེས་ན་བཤེས་གཉེན་ལ་དད་པ་སྦྱོང་བ་ནས་འཇུག་སེམས་སྦྱོང་བ་མན་ཆད་ལ་ཇི་ཙམ་དུ་མང་དུ་བསྒོམས་པ་དེ་ཙམ་",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "Do đó, từ việc tu lòng tin nơi thiện tri thức",
+      "placedBy": "align",
+      "note": "khớp đúng chữ"
     },
     {
       "pdf": 111,
