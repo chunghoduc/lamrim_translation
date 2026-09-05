@@ -14843,3 +14843,100 @@ Nguyện [bộ này] cũng có đủ năng lực làm cho giáo pháp quý báu 
 > Đều được tự tại nơi kho tàng châu ngọc quyết định thắng!
 
 Như vậy — nhắm đến nhiều điều tốt lành trước mắt và lâu dài, chẳng hạn việc truyền thống của đấng Dẫn Đạo Thích-ca Sư Tử, bậc chỉ bày con đường bất hại và tịch tĩnh, được hưng thịnh qua mọi cửa trên khắp cõi rộng lớn của Diêm-phù-đề — [lời nguyện này] do sa-môn dòng Thích-ca, người thuyết Pháp, Ngawang Losang Tenzin Gyatso soạn, làm lời nguyện hồi hướng điều thiện có thể áp dụng cho bất kỳ bản thánh giáo nào thuộc các tông nghĩa nội đạo không phân biệt bộ phái, đã được khắc in cũng như sẽ được khắc in.
+
+
+---
+
+# Phụ lục
+
+*Phần này do công cụ sinh ra từ dữ liệu của dự án; mọi con số đều được đo, không gõ tay.*
+
+## A. Quy ước trong bản dịch
+
+- **`[ ]` — chữ trong ngoặc vuông** là do người dịch bổ sung để câu tiếng Việt đọc được.
+  Tạng văn **không có** những chữ ấy. Đây là quy ước quan trọng nhất của bản dịch: người đọc
+  luôn phân biệt được đâu là lời bản văn, đâu là chỗ tiếng Việt buộc phải thêm.
+- **Đoạn thụt lề (`>`)** là kinh, luận được trích dẫn. Kệ tụng giữ mỗi dòng một *pāda*
+  đúng theo cách ngắt của Tạng văn.
+- **`*(tồn nghi: …)*`** là chỗ người dịch không quyết được — xem mục B.
+- **Chính tả theo phương ngữ Bắc**: *sinh* (không *sanh*), *phúc đức* (không *phước đức*).
+- Trang 8–20 của bản gốc là **mục lục** (*dkar chag*) nên không dịch; toàn bộ 965 trang
+  chính văn còn lại đều có mặt.
+
+## B. Về các ghi chú tồn nghi
+
+Nguyên tắc của dự án: **thà nêu nghi vấn còn hơn đoán cho trơn tru**. Một bản dịch trôi
+chảy mà sai lệch với bản gốc thì tệ hơn là không dịch, vì cái sai trở nên vô hình đối với
+người đọc. Cho nên chỗ nào Tạng văn không quyết được, người dịch phải nói ra chứ không được
+san bằng.
+
+- **7** ghi chú nằm ngay trong chính văn, dạng `*(tồn nghi: …)*`.
+- **2276** ghi chú khác được lưu theo từng đoạn, trải trên **280/292** đoạn.
+  Chúng **chưa** được đưa vào bản đọc này.
+
+Cách tra ghi chú của một đoạn:
+
+```
+node tools/32-chunk.mjs show c123
+```
+
+Toàn bộ danh sách nằm trong `progress.json` và được tóm tắt trong `PROGRESS.md`.
+
+## C. Về bảng thuật ngữ
+
+**Bảng thuật ngữ không in kèm trong bản dịch này.** Nó là một tập dữ liệu sống, còn đang
+được bổ sung và sửa đổi; in kèm sẽ đóng băng một trạng thái nhất thời và mâu thuẫn với
+chính nó sau vài lần cập nhật. Nguồn chuẩn duy nhất:
+
+| Tệp | Nội dung |
+|---|---|
+| `glossary/glossary.json` | **4737** mục: Tạng ngữ, Phạn ngữ, tiếng Việt, và lý do chọn |
+| `glossary/decisions.md` | Các quyết định về thuật ngữ và văn phong, kèm lập luận |
+
+Trong đó **61** mục có trạng thái `fixed` / `fixed-set` — bắt buộc, không được dịch
+khác; **4676** mục còn ở trạng thái `provisional` — đã dùng nhất quán nhưng chưa chốt.
+
+Tra một chữ Tạng ngữ:
+
+```
+node -e "JSON.parse(require('fs').readFileSync('glossary/glossary.json','utf8')).terms.filter(t=>t.bo.includes(process.argv[1])).forEach(t=>console.log(t.bo,'->',t.vi,'['+t.status+']',t.note||''))" ཆོས
+```
+
+Kiểm tra tính nhất quán của chính bảng thuật ngữ:
+
+```
+node tools/37-chunk-glossary.mjs --report
+```
+
+## D. Nguồn và cách làm
+
+Bản gốc: *Byang chub lam rim chen mo*, ấn bản Sera Jey Rigzod Chenmo, 978 trang. Dịch
+**trực tiếp từ Tạng văn cổ điển**; các bản Anh ngữ và Việt ngữ đã có chỉ được tham khảo để
+*đối chiếu* một lựa chọn thuật ngữ, không bao giờ là thứ được đem ra dịch.
+
+Chữ Tạng dùng để dịch không lấy thẳng từ PDF: bảng ToUnicode của phông trong bản gốc bị lỗi,
+làm rơi mất các phụ âm ghép dưới (`གྱི` bị đọc thành `གི`). Chữ đã được phục hồi ở mức
+mã glyph, mỗi chỗ sửa đều cần **hai bằng chứng độc lập đồng thuận**; chỗ nào không đủ bằng
+chứng thì để nguyên chứ không đoán. Chi tiết trong `FINDINGS.md`.
+
+Mỗi đoạn trong 292 đoạn đều đi qua ba bước: **dịch → kiểm chứng đối chiếu
+Tạng văn → sửa**. Người kiểm chứng là một tác nhân độc lập, có quyền bác bỏ.
+
+## E. Những điều bản dịch này **chưa** có
+
+Phần này được ghi ra một cách có chủ ý. Đây là bản thảo đầy đủ, **chưa phải bản dịch hoàn
+chỉnh**.
+
+1. **Chưa có lần đọc lại độc lập sau khi sửa.** Người kiểm chứng bác gần như toàn bộ các
+   đoạn và nêu ra lỗi; người sửa đã sửa rồi **tự khai là xong**. Không có ai kiểm lại lời
+   tự khai ấy. Đây là thiếu sót lớn nhất.
+2. **2276 ghi chú tồn nghi chưa được giải quyết.**
+3. **204 mục từ hiện có nhiều cách dịch khác nhau** trong bảng thuật ngữ. Một số
+   là tách nghĩa có thật, một số là trôi dạt — chỉ người đọc kỹ từng đoạn mới phân định được.
+4. **5 đoạn (c001, c002, c003, c004, c005) không có bản ghi kiểm chứng nào** — chúng được dịch tay
+   trước khi quy trình kiểm chứng ra đời.
+5. **Cấp tiêu đề (`#`, `##`, …) không phản ánh độ sâu thật của sa-bcad.** Cấu trúc gốc sâu
+   tới 19 tầng trong khi Markdown chỉ có 6, và mỗi đoạn được dịch độc lập nên tự chọn cấp
+   riêng. Muốn tra cấu trúc chính xác, dùng `source/outline.json` (284 mục, có đường dẫn
+   phân cấp đầy đủ).
+6. **Chưa qua Phase 5** — chưa có lần rà soát và ký duyệt sau cùng.
