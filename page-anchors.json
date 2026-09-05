@@ -19,8 +19,9 @@
       "kind": "internal",
       "boTail": "ུབ་ལམ་རིམ་ཆེན་མོ། མཛད་པ་པོ། རྗེ་བློ་བཟང་གྲགས་པ། སེར་བྱེས་རིག་མཛོད་ཆེན་མོའི་རྩོམ་སྒྲིག་ཁང་།",
       "boHead": "༄༅། །རྒྱལ་བའི་གསུང་རབ་ཐམས་ཅད་ཀྱི་སྙིང་པོའི་གནད་བསྡུས་ཏེ་གཏན་ལ་ཕབ་པ་བྱང་ཆུབ་ལམ་རིམ་ ཆེན་མོ་",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "༄༅། Nơi đây tôn trí bộ luận",
+      "placedBy": "align"
     },
     {
       "pdf": 3,
@@ -29,8 +30,10 @@
       "kind": "internal",
       "boTail": "་བྱ་བ་བཞུགས་སོ། ། མཛད་པ་པོ། རྗེ་བློ་བཟང་གྲགས་པ། སེར་བྱེས་རིག་མཛོད་ཆེན་མོའི་རྩོམ་སྒྲིག་ཁང་།",
       "boHead": "སེར་བྱེས་རིག་མཛོད་དེབ་སྤྱིའི་ཨང་། SJRB-0045 སེར་བྱེས་རིག་མཛོད་རྩོམ་སྒྲིག་ཁང་གིས་འཕྲུལ་དེབ་",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "**Số hiệu sách của Sera Jey Rigzod:**",
+      "placedBy": "align",
+      "note": "tiêu đề \"Thông tin xuất bản\" là do người dịch thêm, không có trong Tạng văn, nên dấu trang đặt sau tiêu đề"
     },
     {
       "pdf": 4,
@@ -55,8 +58,9 @@
       "kind": "internal",
       "boTail": "ད་ལ། དེའི་པར་གཞི་མི་འདྲ་བ་གཞན་ཡང་ལག་སོན་བྱུང་ན་པར་གཞི་གཞན་དག་ལའང་གང་ནུས་ཤིག་སྡུར་བཞིན་ཡོད།",
       "boHead": "མ་ཕྱིར་ཡིག་ནོར་མངོན་གསལ་ཅན་བྱུང་ན་བཅོས་ཏེ་མཆན་གྱིས་གསལ་བཤད་བྱས་ཡོད་ལ། མ་ཕྱི་དང་པར་གཞི་སོ་ས",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "Nếu trong bản gốc có lỗi chữ rõ ràng",
+      "placedBy": "align"
     },
     {
       "pdf": 7,
@@ -65,8 +69,10 @@
       "kind": "internal",
       "boTail": "ནི་མ་ཕྱིའི་ཡིག་ནོར་བསྒབ་དེ་ཉིད་ཞུ་སྒྲིག་པས་བསྒྲུབས་སུ་བཅོས་ཡོད་པ་མཚོན་བྱེད་དུ་གོ་དགོས། ཡང་",
       "boHead": "གཞུང་དེའི་ཐད་ཀྱི་སྐུ་འབུམ་པར་མའི་ལྡེབ་གྲངས་༡༠༣མདུན་ངོས། ཡིག་ཕྲེང་༦པ་ན། བླ་བྲང་པར་མའི་ལྡེབ་",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "phải hiểu rằng ở chỗ tương ứng của bản văn ấy",
+      "placedBy": "align",
+      "note": "yang (Lại nữa) còn thuộc cuối p6"
     },
     {
       "pdf": 21,
@@ -83,8 +89,9 @@
       "kind": "internal",
       "boTail": "རབ་ཐམས་ཅད་ཀྱི་སྙིང་པོའི་གནད་བསྡུས་ཏེ་གཏན་ལ་ཕབ་པ་བྱང་ཆུབ་ལམ་རིམ་ ཆེན་མོ་ཞེས་བྱ་བ་བཞུགས་སོ།།",
       "boHead": "ཀླུ་སྒྲུབ་ཐོགས་མེད་ཅེས་ནི་ས་གསུམ་ན། ། ཡོངས་སུ་གྲགས་པའི་ཞབས་ལ་བདག་ཕྱག་འཚལ། །ཤིང་རྟ་ཆེན་པོ་ག",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "Danh xưng Long Thọ và Vô Trước lừng lẫy khắp ba cõi",
+      "placedBy": "align"
     },
     {
       "pdf": 23,
@@ -93,8 +100,9 @@
       "kind": "internal",
       "boTail": "ལམ་དང་བྲལ་མཐོང་ནས། །ཤིང་རྟ་ཆེན་པོའི་ལམ་འདི་བཤད་པ་ལ། ། བདག་གི་ཡིད་ནི་ཀུན་ནས་སྤྲོ་བར་གྱུར། །",
       "boHead": "གང་དག་ཕྱོགས་འཛིན་མུན་པས་མ་བསྒྲིབས་ལ། ། ལེགས་ཉེས་འབྱེད་པའི་བློ་ཡི་མཐུ་ལྡན་ཞིང༌། ། དལ་བའི་རྟ",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "Những ai không bị bóng tối của thiên chấp che lấp,",
+      "placedBy": "align"
     },
     {
       "pdf": 24,
@@ -111,8 +119,10 @@
       "kind": "internal",
       "boTail": "ོ་ལ། །བཙུན་མོ་ལྔ་ཡོད་སྲས་ནི་དགུ། །སྲས་ཀྱི་ཐུ་བོ་བསོད་ནམས་དཔལ། །ད་ལྟའི་དུས་ན་མཁས་པ་ཆེ། །དྷ་",
       "boHead": "ན་ཤྲི་ཞེས་བྱ་བར་གྲགས། །ཆུང་བ་དཔལ་གྱི་སྙིང་པོ་ནི། །དགེ་སློང་བིརྱཱ་ཙནྡྲ་ཡིན། །འབྲིང་པོ་ཟླ་བའ",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "Nổi danh là Dhanaśrī.",
+      "placedBy": "align",
+      "note": "trang ngắt giữa chữ: âm tiết dha- còn ở cuối p24, -nashri mở p25"
     },
     {
       "pdf": 26,
@@ -121,8 +131,10 @@
       "kind": "internal",
       "boTail": "་ཆད་ལ་དངོས་གྲུབ་བརྙེས་པའི་བླ་མ་དུ་མའི་སྤྱན་སྔར་རྡོ་རྗེའི་ཐེག་པ་ལ་སྦྱངས་པས་གཞུང་དང་གདམས་ངག་",
       "boHead": "མ་ལུས་པ་ལ་མཁས་པར་གྱུར་ཏེ། གསང་སྔགས་ལ་ང་ཉིད་མཁས་སོ་སྙམ་དུ་དགོངས་པ་བྱུང་བ་ན། ཌཱ་ཀི་མ་རྣམས་ཀྱ",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "nên trở nên tinh thông không sót một bản văn",
+      "placedBy": "align",
+      "note": "gzhung dang gdams ngag (bản văn / lời giáo huấn) còn thuộc cuối p25; tiếng Việt đảo trật tự nên nằm sau dấu"
     },
     {
       "pdf": 27,
@@ -139,8 +151,10 @@
       "kind": "internal",
       "boTail": "་གྱི་བྱང་ཆུབ་ཀྱི་སེམས་སྦྱོང་བའི་གདམས་པ་མང་པོ་དང༌། ཁྱད་པར་དུ་གསེར་གླིང་པ་བསྟེན་ནས་རྗེ་བཙུན་",
       "boHead": "བྱམས་པ་དང་འཇམ་པའི་དབྱངས་ནས་ཐོགས་མེད་དང་ཞི་བ་ལྷ་ལ་བརྒྱུད་པའི་གདམས་པ་མཆོག་ལ་རིང་དུ་སྦྱངས་པ་ལ",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "Di-lặc và đức Diệu Âm xuống đến ngài Vô Trước",
+      "placedBy": "align",
+      "note": "rje btsun (đức Chí Tôn) là chữ cuối p27; p28 mở bằng byams pa"
     },
     {
       "pdf": 29,
@@ -157,8 +171,10 @@
       "kind": "internal",
       "boTail": "འི་ཕོ་བྲང་དུ་མུ་སྟེགས་ཀྱི་སྨྲ་བ་ངན་པ་ལན་གསུམ་དུ་ཆོས་ཀྱིས་ཕམ་པར་མཛད་ནས་སངས་རྒྱས་ཀྱི་བསྟན་པ་",
       "boHead": "བཟུང་ཞིང༌། རང་གི་སྡེ་པ་གོང་འོག་གི་བསྟན་པ་ལ༌ཡང་མ་རྟོགས་པ་དང་ལོག་པར་རྟོག་པ་དང་ཐེ་ཚོམ་གྱི་དྲི",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "Ngài cũng đã trừ sạch những cấu uế xấu ác",
+      "placedBy": "align",
+      "note": "bzung (hộ trì) mở p30 nhưng tiếng Việt đặt trước tân ngữ; dấu lùi tới cuối câu để chỉ lệch một chữ"
     },
     {
       "pdf": 31,
@@ -167,8 +183,10 @@
       "kind": "internal",
       "boTail": "བྱང་ཆུབ་ལམ་གྱི་སྒྲོན་མ་མཛད་པ་ལ་སོགས་པའི་སྒོ་ནས་བསྟན་པ་རྒྱས་པར་མཛད་དེ། དེ་ཡང་མངའ་རིས་སུ་ལོ་",
       "boHead": "གསུམ། སྙེ་ཐང་དུ་ལོ་དགུ། དབུས་གཙང་གཞན་དུ་ལོ་ལྔའི་བར་དུ་སྐལ་བ་དང་ལྡན་པ་རྣམས་ལ་མདོ་སྔགས་ཀྱི་ག",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "chín năm tại Nyethang",
+      "placedBy": "align",
+      "note": "gsum (ba) là chữ đầu p31, tiếng Việt gộp trong cụm \"ba năm tại Ngari\" nên dấu đặt ngay sau cụm ấy"
     },
     {
       "pdf": 32,

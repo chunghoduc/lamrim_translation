@@ -23,6 +23,20 @@
 // resolving it by preference. So those are located by reading, one chunk at a time, and this
 // file is the ledger that makes "gradually, but it must be finished" a countable statement.
 //
+// WHERE THE MARKER GOES WHEN THE TURN FALLS INSIDE A CLAUSE, which is the usual case. The
+// page break is a fact about the Tibetan, and Tibetan and Vietnamese do not order a clause
+// the same way, so the break often lands where Vietnamese has no seam - p25 begins in the
+// middle of the name Dhanashri, p30 begins at the verb of a sentence whose object closed
+// p29. The rule is: put the marker at the nearer of the two available boundaries - the one
+// that misattributes LESS text - and record in `note` what crossed. That is the honest
+// statement. Splitting a Vietnamese word to make the marker look exact would be precision
+// theatre; silently shifting it a sentence without saying so would be worse.
+//
+// ONE PAGE IS SPECIAL. On pdf p21 the content stream is not visual order (the title block is
+// drawn last but printed at the top - FINDINGS 9.5), so `boTail` for p21 is the title, not
+// the page's last visual line. Only p22's anchor is affected, and only through boTail, which
+// is context; boHead is taken from p22's own file and is unaffected.
+//
 // THE MARKER IS NEVER STORED IN THE TRANSLATION. What is stored is a LOCATOR: an exact,
 // unique substring of the chunk file, meaning "page N begins immediately before this text".
 // tools/39 inserts the markers at assembly time. Two things follow, and both matter:
