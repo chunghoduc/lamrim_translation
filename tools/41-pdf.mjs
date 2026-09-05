@@ -99,7 +99,14 @@ function render(md) {
     while (i < lines.length && lines[i].trim() && !/^\s*[>#|`]/.test(lines[i])
            && !/^\s*([-*+]\s|\d+[.)]\s)/.test(lines[i]) && !/^\s*(---|\*\*\*|___)\s*$/.test(lines[i]))
       buf.push(lines[i++]);
-    out.push(`<p>${inline(buf.join(' '))}</p>`);
+    // Not all verse is in a blockquote. c004's homage stanzas are plain lines, and joining
+    // them printed four padas as one running prose sentence in the first PDF. Same test
+    // tools/36 uses to tell a hand-broken run from a machine-wrapped one: if every line sits
+    // well short of the wrap column, the breaks are the author's and must survive.
+    const handBroken = buf.length > 1 && buf.every(x => [...x].length < 76);
+    out.push(handBroken
+      ? `<p class="verse">${buf.map(x => inline(x)).join('<br>')}</p>`
+      : `<p>${inline(buf.join(' '))}</p>`);
   }
   return out.join('\n');
 }
@@ -132,7 +139,7 @@ blockquote { margin: .9em 0 .9em 1.4em; padding-left: 1em; border-left: 2px soli
              color: #262626; break-inside: avoid-page; }
 blockquote p { margin: 0 0 .5em; }
 /* Verse: one pada per line, never justified - justification stretches short lines apart. */
-blockquote p.verse { text-align: left; text-indent: -1.2em; padding-left: 1.2em;
+p.verse { text-align: left; text-indent: -1.2em; padding-left: 1.2em;
              line-height: 1.45; }
 em { font-style: italic; }
 /* The front matter carries the edition's apparatus criticus in Tibetan (variant readings
