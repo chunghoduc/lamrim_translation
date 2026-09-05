@@ -203,8 +203,10 @@
       "kind": "internal",
       "boTail": "བ་ཐོབ་པའི་བླ་མ་བཅུ་གཉིས་ཡོད་པར་གྲགས་ཤིང་གཞན་ཡང་མང་ངོ་། །རིག་པའི་གནས་ལྔ་ལ་མཁས་པ་ནི་བཤད་ཟིན་",
       "boHead": "ཏོ། །དེའི་ཕྱིར་སློབ་དཔོན་འདིས་རྒྱལ་བའི་དགོངས་པ་ལེགས་པར་གཏན་ལ་འབེབས་ནུས་སོ།། དེ་ལྟ་བུའི་སློ",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "Do vậy, vị A-xà-lê này có đủ năng lực khéo xác lập",
+      "placedBy": "align",
+      "note": "p33 mở bằng trợ từ -to của \"bshad zin to\" (đã giảng rồi); chỉ chữ \"rồi\" lệch về p32"
     },
     {
       "pdf": 34,
@@ -221,8 +223,10 @@
       "kind": "internal",
       "boTail": "སྐྱེད་པར་འདོད་པ་ཡིས། །རྟག་ཏུ་འཁྲུལ་པ་མེད་པར་ནི། །མཁས་རྣམས་རབ་ཏུ་འཇུག་པ་ཡིན། །ཞེས་དང་། རྣམ་",
       "boHead": "འགྲེལ་ལས་ཀྱང༌། ཐབས་བྱུང་དེ་རྒྱུ་ལོག་གྱུར་པ། །དེ་འཆད་པ་ནི་དཀའ་བ་ཡིན། །ཞེས་གསུངས་ཏེ། རང་གིས་",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "*Thích Lượng Luận* cũng nói:",
+      "placedBy": "align",
+      "note": "tên luận bị ngắt giữa: rnam ở cuối p34, 'grel mở p35"
     },
     {
       "pdf": 36,
@@ -231,8 +235,10 @@
       "kind": "internal",
       "boTail": "ཕྱོགས་རེ་ཟད་པ་དང་ཡོན་ཏན་ཕྱོགས་རེ་རྫོགས་པ་མིན་གྱི། སྐྱོན་གྱི་རིགས་ཐམས་ཅད་ཟད་ཅིང་ཡོན་ཏན་གྱི་",
       "boHead": "རིགས་མཐའ་དག་རྫོགས་པ་ཡིན་ལ། དེ་བསྒྲུབ་པའི་ཐེག་པ་ཆེན་པོ་ཡང་སྐྱོན་མཐའ་དག་འགོག་ཅིང་ཡོན་ཏན་མཐའ་",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "viên mãn trọn vẹn mọi loại công đức",
+      "placedBy": "align",
+      "note": "yon tan gyi (công đức) là chữ cuối p35; tiếng Việt đảo trật tự nên \"công đức\" rơi sau dấu"
     },
     {
       "pdf": 37,
@@ -241,8 +247,10 @@
       "kind": "internal",
       "boTail": "ད་ཡིན་ཞིང་། སྡོམ་པ་བཟུང་བ་ནི་ཚུལ་ཁྲིམས་གསུམ་ལ་སོགས་པའི་བྱང་ཆུབ་སེམས་དཔའི་བསླབ་པ་ལ་སློབ་པར་",
       "boHead": "ཁས་བླངས་པ་ཡིན་པས། སེམས་བསྐྱེད་ནས་བསླབ་པ་ལ་སློབ་པར་ཁས་བླངས་པ་བཞིན་དུ་སློབ་པ་ལས་གཞན་པའི་ལམ་ཕ",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "Vì ngoài việc phát tâm rồi tu học các điều học",
+      "placedBy": "align",
+      "note": "khas blangs pa (cam kết) mở p37 nhưng tiếng Việt đặt trước tân ngữ; dấu lùi tới đầu câu sau"
     },
     {
       "pdf": 38,
@@ -259,8 +267,10 @@
       "kind": "internal",
       "boTail": "སྟན་པ་ཐམས་ཅད་འགལ་མེད་དུ་རྟོགས་པའི་ཆེ་བ་དང་ལྡན་ནོ།། གསུང་རབ་ཐམས་ཅད་གདམས་ངག་ཏུ་འཆར་བའི་ཆེ་བ།",
       "boHead": "གསུང་རབ་ཐམས་ཅད་གདམས་ངག་ཏུ་འཆར་བ་ནི། སྤྱིར་ཐར་པ་འདོད་པ་རྣམས་ལ་འཕྲལ་དང་ཡུན་གྱི་ཕན་བདེ་ཐམས་ཅད",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "Về việc hết thảy thánh giáo hiện ra thành lời giáo huấn.",
+      "placedBy": "align",
+      "note": "chính xác: tiêu đề sa-bcad khép p38, p39 mở ngay ở câu này"
     },
     {
       "pdf": 40,
@@ -269,8 +279,10 @@
       "kind": "internal",
       "boTail": "་པོའི་དོན་སྟོན་པའི་མན་ངག་ཟུར་དུ་ཡོད་པར་གོ་ནས་དམ་པའི་ཆོས་རང་ལ་བཤད་པ་དང་བསྒྲུབ་པའི་ཆོས་ལོགས་",
       "boHead": "ལོགས་པ་གཉིས་ཡོད་པར་འཛིན་པ་ནི། དྲི་མ་མེད་པའི་མདོ་རྒྱུད་དང་དྲི་མ་མེད་པའི་དགོངས་འགྲེལ་གྱི་བསྟ",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "Phải biết rằng chấp như thế là cản trở việc phát khởi",
+      "placedBy": "align",
+      "note": "logs (tách) bị ngắt đôi giữa hai trang; tiếng Việt đảo mạnh nên dấu đặt ở đầu câu kế cho lệch ít nhất"
     },
     {
       "pdf": 41,
@@ -307,8 +319,10 @@
       "kind": "internal",
       "boTail": "ྱང་ཆུབ་སེམས་དཔའ་རྣམས་ཀྱི་བསླབ་པ་མ་ཡིན་ནོ་ཞེས་ཟེར་ན་ཆོས་སྤོང་བ་ཡིན་ནོ། །ཞེས་གསུངས་སོ། །ཆོས་",
       "boHead": "སྤངས་ན་དེའི་ཉེས་པ་ཤིན་ཏུ་ལྕི་བ་ནི། ཏིང་ངེ་འཛིན་རྒྱལ་པོ་ལས། གང་གིས་འཛམ་བུའི་གླིང་འདིར་ནི། །",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "Còn tội của việc khước bỏ pháp thì hết sức nặng nề.",
+      "placedBy": "align",
+      "note": "chos (pháp) là chữ cuối p43, spangs mở p44"
     },
     {
       "pdf": 45,
@@ -317,8 +331,10 @@
       "kind": "internal",
       "boTail": "ུལ་དངོས་སོ། ། ཆོས་ཐོས་པའི་ཕན་ཡོན་བསམ་པ། དང་པོ་ནི། ཐོས་པའི་ཚོམས་ལས། ཐོས་པས་ཆོས་རྣམས་ཤེས་པར་",
       "boHead": "འགྱུར། །ཐོས་པས་སྡིག་ལས་ལྡོག་པར་བྱེད། །ཐོས་པས་དོན་མ་ཡིན་པ་སྤོང༌། །ཐོས་པས་མྱ་ངན་འདས་པ་འཐོབ། ",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "Nhờ nghe mà quay lưng với điều ác,",
+      "placedBy": "align",
+      "note": "p45 mở bằng động từ 'gyur khép câu kệ thứ nhất"
     },
     {
       "pdf": 46,
@@ -335,8 +351,10 @@
       "kind": "internal",
       "boTail": "ྱ་བ་ནི། ཚུལ་ཁྲིམས་ཉམས་པ་དང་རིགས་དམའ་བ་དང་བྱད་ངན་པ་དང་ཚིག་འབྲུ་ངན་པ་དང་ཚིག་རྩུབ་ཅིང་མི་སྙན་",
       "boHead": "པར་སྨྲ་བས་འདི་ལ་མི་མཉན་ནོ་སྙམ་པ་འདོར་བའོ། །སྐྱེས་པའི་རབས་ལས་ཀྱང༌། རབ་ཏུ་དམའ་བའི་སྟན་ལ་འདུག",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "Trong *Bổn Sinh* cũng có nói:",
+      "placedBy": "align",
+      "note": "mệnh đề \"dứt bỏ ý nghĩ ta sẽ không nghe vị này\" thuộc p47 nhưng tiếng Việt đưa lên đầu câu; dấu đặt cuối câu cho lệch ít nhất"
     },
     {
       "pdf": 48,
@@ -353,8 +371,10 @@
       "kind": "internal",
       "boTail": "ལྡན་མཁས་པས་ང་རྒྱལ་ངེས་བཅོམ་སྟེ། །ནད་པའི་ཚོགས་ཀྱིས་གསོ་ཕྱིར་སྨན་པ་བསྟེན་པ་ལྟར། །གཡེལ་བ་མེད་",
       "boHead": "པར་དགེ་བའི་བཤེས་གཉེན་བསྟེན་པར་བྱ། །ཞེས་གསུངས་པའི་ཕྱིར་རོ། །རྗེས་སུ་བསྟན་པ་ལ་སྨན་གྱི་འདུ་ཤེ",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "Hãy nương tựa thiện tri thức, không chút biếng trễ.",
+      "placedBy": "align",
+      "note": "g.yel ba med (không chút biếng trễ) khép p48; tiếng Việt đặt cụm ấy ở cuối dòng kệ"
     },
     {
       "pdf": 50,
@@ -363,8 +383,10 @@
       "kind": "internal",
       "boTail": "ས་གསུངས་པ་ལྟར་རོ། །དེ་ལྟར་ན་རང་ལ་ནད་པ་ལྟ་བུའི་འདུ་ཤེས་ཤིན་ཏུ་གལ་ཆེ་སྟེ། དེ་ཡོད་ན་གཞན་རྣམས་",
       "boHead": "ཀྱང་འབྱུང་ལ། དེ་ཚིག་ཙམ་དུ་སོང་ན་ཉོན་མོངས་པ་བསལ་བའི་ཕྱིར་དུ་གདམས་པའི་དོན་མི་བསྒྲུབ་པར་ཉན་པ་",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "cũng sẽ khởi lên;",
+      "placedBy": "align",
+      "note": "khớp gần như đúng chữ: p49 khép ở \"các tưởng còn lại\", p50 mở ở \"cũng sẽ khởi lên\""
     },
     {
       "pdf": 51,
@@ -381,8 +403,10 @@
       "kind": "internal",
       "boTail": "ས་དང༌། གར་ལ་བལྟ་བའི་ཁྲོད་ན་འདུག་པ་ཞིག །དཔའ་བོ་གཞན་གྱི་ཡོན་ཏན་བརྗོད་པ་བཞིན། །བདག་ཉིད་ནན་ཏན་",
       "boHead": "ཉམས་པར་འགྱུར་བ་སྟེ། །སྨྲ་ལ་དགའ་བའི་ཉེས་པ་འདི་དག་གོ །ཞེས་དང༌། བུ་རམ་ཤིང་ཤུན་སྙིང་པོ་ཅི་ཡང་མ",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "thì suy thoái",
+      "placedBy": "align",
+      "note": "khớp đúng chữ: p51 khép ở nan tan (sự tinh cần), p52 mở ở nyams par 'gyur ba"
     },
     {
       "pdf": 53,
@@ -399,8 +423,10 @@
       "kind": "internal",
       "boTail": "པའི་ཤེས་རབ་རྗེས་སུ་རྟོགས་པར་འགྱུར་བ་དང༌། འདོད་ཆགས་ཆུང་བར་འགྱུར་བ་དང༌། ཞེ་སྡང་ཆུང་བར་འགྱུར་",
       "boHead": "བ་དང༌། གཏི་མུག་ཆུང་བར་འགྱུར་བ་དང༌། བདུད་ཀྱིས་དེ་ལ་གླགས་མི་རྙེད་པར་འགྱུར་བ་དང༌། སངས་རྒྱས་བཅ",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "si mê trở nên ít",
+      "placedBy": "align",
+      "note": "p54 mở bằng \"ba dang\" khép mục \"sân hận trở nên ít\"; chỉ lệch một trợ từ"
     },
     {
       "pdf": 55,
@@ -409,8 +435,10 @@
       "kind": "internal",
       "boTail": "པ་ལ། བསམ་པ་ནི། བློ་གྲོས་རྒྱ་མཚོས་ཞུས་པ་ལས་གསུངས་པའི་འདུ་ཤེས་ལྔ་བཞག་སྟེ། རང་ལ་སྨན་པ་དང་ཆོས་",
       "boHead": "ལ་སྨན་དང་ཆོས་ཉན་པ་ལ་ནད་པ་དང་དེ་བཞིན་གཤེགས་པ་ལ་སྐྱེས་བུ་དམ་པ་དང་ཆོས་ཀྱི་ཚུལ་ལ་རིང་དུ་གནས་པའ",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "khởi tưởng thuốc, nơi những người nghe pháp",
+      "placedBy": "align",
+      "note": "khớp đúng chữ: p54 khép ở chos (pháp), p55 mở ở la sman"
     },
     {
       "pdf": 56,
@@ -427,8 +455,10 @@
       "kind": "internal",
       "boTail": "རོ། །ངན་པ་དང་བཟང་པོ་ཡང་དེ་བཞིན་ནོ། །མདུན་དུ་འགྲོ་བ་ལ་ཕྱི་ནས་འགྲོ་ཞིང་མི་བཤད་པར་རོ། །ལམ་ནས་",
       "boHead": "འགྲོ་བ་ལ་ལམ་གྱི་འགྲམ་ནས་འགྲོ་ཞིང་མི་བཤད་པར་རོ། །མགོ་བོ་གཡོགས་པ་དང་བརྫེས་པ་དང༌གཟར་བ་དང་གཉའ་",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "[mình] đi bên lề đường mà giảng thì không được.",
+      "placedBy": "align",
+      "note": "khớp đúng chữ: p56 khép ở lam nas (trên đường)"
     },
     {
       "pdf": 58,
@@ -445,8 +475,10 @@
       "kind": "internal",
       "boTail": "་པའི་ཕྱིར་ཅུང་ཟད་སྤྲོས་ཏེ་བཤད་པ། དང་པོ་ནི། སྙིང་པོ་ངེས་པར་བསྡུ་བ་ལས། རིགས་ལ་གནས་པའི་གང་ཟག་",
       "boHead": "དེས། །བཤེས་གཉེན་དམ་པ་བསྟེན་བྱས་ལ། །ཞེས་དང༌། པོ་ཏོ་བའི་གསུང་སྒྲོས་དོལ་པས་བསྒྲིགས་པ་ལས་ཀྱང༌།",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "Sau khi nương tựa thiện tri thức chân chính,",
+      "placedBy": "align",
+      "note": "p59 mở bằng des (ấy) khép dòng kệ thứ nhất; chỉ lệch một chữ"
     },
     {
       "pdf": 60,
@@ -463,8 +495,10 @@
       "kind": "internal",
       "boTail": "འདུལ་བ་ལྟར། དབང་པོ་ལོག་པའི་ཡུལ་གྱི་རྗེས་སུ་འབྲང་བ་རྟ་དམུ་རྒོད་ལྟ་བུ་བྱ་བ་མ་ཡིན་པ་ལ་འཇུག་ན་",
       "boHead": "ཚར་གཅོད་ཅིང༌། འབད་པ་དུ་མས་བྱ་བར་འོས་པའི་ཕྱོགས་ལ་འཇུག་པར་བྱེད་པའི་ཚུལ་ཁྲིམས་ལ་བསླབས་པས་སེམས",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "[giới] chế phục nó; và bằng nhiều nỗ lực",
+      "placedBy": "align",
+      "note": "khớp đúng chữ"
     },
     {
       "pdf": 62,
@@ -473,8 +507,10 @@
       "kind": "internal",
       "boTail": "་པ་ཐོབ་འགྱུར་བ། །དེ་ཕྱིར་བདག་པས་གཙོར་གྱུར་བསྟེན་པར་བྱ། །ཚུལ་ཁྲིམས་ཉེ་བར་ཞི་བ་དང༌། །ཤེས་རབ་",
       "boHead": "ཆེས་མཆོག་ལྡན་པ་ཡི། །གཙོ་བོ་གང་ཡིན་དེ་བསྟེན་ན། །གཙོ་བོ་བས་ཀྱང་ཆེས་གཙོར་འགྱུར། །ཞེས་གསུངས་པའ",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "tối thắng hơn hết — vị nào đầy đủ",
+      "placedBy": "align",
+      "note": "khớp đúng chữ: shes rab (trí tuệ) khép p61"
     },
     {
       "pdf": 63,
@@ -491,8 +527,10 @@
       "kind": "internal",
       "boTail": "ྲིམས་བསྔགས་པས་འཚོ་བ་དག །ཕྱི་མའི་དུས་ན་འབྱུང་འགྱུར་ཏེ། །དེ་དག་ལ་ནི་ཚུལ་ཁྲིམས་མེད། །ཅེས་ལྷག་",
       "boHead": "མ་གསུམ་ལ༌ཡང་དེ་དང་འདྲ་བར་གསུངས་པའི་ཕྱིར་རོ།། དེ་ལྟར་རྣམ་གྲོལ་བསྒྲུབ་པའི་བླ་མ་ནི་གཏན་གྱི་འད",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "Và cũng dạy như vậy đối với ba điều",
+      "placedBy": "align",
+      "note": "lhag (còn lại) bị ngắt: lhag khép p63, ma gsum mở p64"
     },
     {
       "pdf": 65,
@@ -509,8 +547,10 @@
       "kind": "internal",
       "boTail": "ང་ཆུབ་སེམས་དཔའི་སོ་སོར་ཐར་པ་ལས། རང་གི་འདོད་པ་བཏང་སྟེ་མཁན་པོ་དང་སློབ་དཔོན་གྱི་གཞུང་ལ་རབ་ཏུ་",
       "boHead": "གནས་པ་དང་གུས་པར་བྱའོ། །ཞེས་གསུངས་པའི་ཕྱིར་རོ། །དེ་ཙམ་གྱིས་ཆོག་གམ་སྙམ་ན་གཟུ་བོར་གནས་ཀྱང་ལེག",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "và hãy cung kính.",
+      "placedBy": "align",
+      "note": "rab tu | gnas pa (an trụ vững chắc) bị ngắt đôi; dấu đặt ngay sau cụm ấy"
     },
     {
       "pdf": 67,
@@ -527,8 +567,10 @@
       "kind": "internal",
       "boTail": "ངས་པ་དེ་བྱ་བ་ལ་རང་དབང་དུ་མི་འཇུག་གི་ཕའི་ངོར་བལྟ་ཞིང་དེའི་དབང་དུ་བཏང་ནས་ངག་བཞིན་བྱེད་པ་ལྟར།",
       "boHead": "དགེ་བའི་བཤེས་གཉེན་གྱི་ངོར་བལྟ་བའོ། །ད་ལྟར་གྱི་སངས་རྒྱས་མངོན་སུམ་པའི་ཏིང་ངེ་འཛིན་ལས་ཀྱང༌། ད",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "[người học trò] trông theo ý của thiện tri thức.",
+      "placedBy": "align",
+      "note": "khớp đúng chữ; \"cũng vậy\" (lta bur) khép p67"
     },
     {
       "pdf": 69,
@@ -537,8 +579,10 @@
       "kind": "internal",
       "boTail": "ི་སེམས་ནི། ངན་ལས་ཐམས་ཅད་ཉམས་སུ་བླང་བ་ལ༌ཡང་ཡི་མི་འཕྲིག་པར་བསྒྲུབ་པ་སྟེ། གཙང་དུ་ལོ་པཎ་ཀུན་ལ་",
       "boHead": "གནས་རྫབ་གསེབ་ཅིག་བྱུང་བས་སྟོན་པས་ན་བཟའ་ཐམས་ཅད་གསིལ་ནས་རྫབ་རྣམས་ཕྱགས་ཏེ་ག༌ནས་བྱུང་ཆ་མེད་པར་",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "lại nhằm phải một vũng bùn lầy",
+      "placedBy": "align",
+      "note": "gnas (chỗ trú) là chữ đầu p69, tiếng Việt đặt trước cụm định ngữ"
     },
     {
       "pdf": 70,
@@ -547,8 +591,10 @@
       "kind": "internal",
       "boTail": "གསུངས་སོ། །གྲུ་ལྟ་བུའི་སེམས་ནི། བླ་མའི་བྱ་བ་ལ་ཇི་ཙམ་ཞུགས་ཀྱང་འགྲོ་ཞིང་འོང་བས་མི་སྐྱོ་བའོ།།",
       "boHead": "གཉིས་པ་རྩ་བ་དད་པ་སྦྱང་བ་ནི། དཀོན་མཆོག་ཏ་ལ་ལའི་གཟུངས་ལས། དད་པ་སྔོན་འགྲོ་མ་ལྟར་བསྐྱེད་པ་སྟེ།",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "Thứ hai, tu luyện lòng tin vốn là cội gốc.",
+      "placedBy": "align",
+      "note": "khớp đúng chữ"
     },
     {
       "pdf": 71,
