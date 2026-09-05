@@ -57,7 +57,11 @@ Translated: `#################.......` 211/292 (72.3%)
 
 Reviewed:   `........................` 0/292 (0.0%)
 
-Next chunk: **c198 — ཞི་གནས་གྲུབ་པ་དང་མ་གྲུབ་པའི་ས་མཚམས་བསྟན་པ།**
+**1 chunk(s) are `draft`** — a translation file exists but no fidelity check was ever
+recorded for it, so it does not count as done. They are queued again automatically.
+Run `node tools/32-chunk.mjs doctor` for the full reconciliation.
+
+Next chunk: **c213 — དབུ་མ་པའི་ཁྱད་ཆོས་ངོས་བཟུང་བ།**
 
 **199 chunk(s) carry unresolved flags** — these must be settled before Phase 5 signs off:
 - `c002` — unsure: སྟག་རྩེའི་སྒྲུབ་མཆོད rendered 'đại lễ tu cúng Taktsé' - Taktsé read as a place name; could be a rite name

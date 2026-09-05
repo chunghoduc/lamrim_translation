@@ -7620,7 +7620,7 @@
         642,
         645
       ],
-      "status": "pending",
+      "status": "draft",
       "flags": [],
       "verify": {
         "verdict": "needs-fix",
@@ -7638,7 +7638,10 @@
           "GAP, not a translator error: `སྐལ་བ` (p0662 l.1, `སྦྱོར་བའི་སྐལ་བ་ཡོད་ཅིང་ནུས་པ`) -> \"có duyên phần\". No entry in the view. Wording KEPT; needs a ruling.",
           "Not a violation, recorded so it is not re-flagged: `ཞི་ལྷག` -> \"chỉ quán\" (p0665 l.1) stands in the same paragraph as `ལྷག་མཐོང` -> \"thắng quán\" and `ཞི་གནས` -> \"tịnh chỉ\". decisions.md §1's \"never tịnh chỉ beside bare quán\" bars mixing registers for ONE term; these are two different Tibetan terms, and the view's `ཞི་ལྷག` entry (line 418-419) already resolves this exact collocation permissively. No southern spellings (sanh/phuoc) occur anywhere in the file."
         ]
-      }
+      },
+      "sourceHash": "c7ea807bd706",
+      "outputHash": "31da4aa08f8e",
+      "outputBytes": 8344
     },
     {
       "id": "c199",
