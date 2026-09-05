@@ -22,7 +22,10 @@ const BOOK = path.join(ROOT, 'lamrim-vi.md');
 // including it makes the tool report its own documentation as defects.
 const whole = fs.readFileSync(BOOK, 'utf8').replace(/\r\n/g, '\n');
 const cut = whole.indexOf('\n# Phụ lục\n');
-const text = cut > 0 ? whole.slice(0, cut) : whole;
+// Drop the 【N】 page markers before checking. They are apparatus that tools/39 adds at
+// assembly, not translated text: left in, a marker standing on its own line above a heading
+// reads to the hanging-paragraph check as a clause cut off, and the tool reports itself.
+const text = (cut > 0 ? whole.slice(0, cut) : whole).replace(/【\*?\d+】\n*/g, '');
 const lines = text.split('\n');
 const state = JSON.parse(fs.readFileSync(path.join(ROOT, 'progress.json'), 'utf8'));
 const glossary = JSON.parse(fs.readFileSync(path.join(ROOT, 'glossary', 'glossary.json'), 'utf8'));
