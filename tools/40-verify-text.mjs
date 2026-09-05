@@ -17,7 +17,12 @@ import path from 'node:path';
 import { ROOT } from './config.mjs';
 
 const BOOK = path.join(ROOT, 'lamrim-vi.md');
-const text = fs.readFileSync(BOOK, 'utf8').replace(/\r\n/g, '\n');
+// Check the TRANSLATION only. The generated appendix quotes "sanh"/"phước" as examples of
+// spellings the house style forbids, and its prose ends paragraphs the way prose does - so
+// including it makes the tool report its own documentation as defects.
+const whole = fs.readFileSync(BOOK, 'utf8').replace(/\r\n/g, '\n');
+const cut = whole.indexOf('\n# Phụ lục\n');
+const text = cut > 0 ? whole.slice(0, cut) : whole;
 const lines = text.split('\n');
 const state = JSON.parse(fs.readFileSync(path.join(ROOT, 'progress.json'), 'utf8'));
 const glossary = JSON.parse(fs.readFileSync(path.join(ROOT, 'glossary', 'glossary.json'), 'utf8'));
