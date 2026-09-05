@@ -24,7 +24,7 @@ data/monlam-lexicon-LICENSE.txt
 
 # Batch hand-off files between `tools/32-chunk.mjs batch` and the translation
 # workflow. Transient: the durable record is progress.json + glossary.json.
-.wf-*.json
+.wf*.json
 
 # --- standard ----------------------------------------------------------------
 node_modules/
