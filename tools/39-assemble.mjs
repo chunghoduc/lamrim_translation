@@ -38,6 +38,53 @@ if (!WRITE && !process.argv.includes('--check')) {
 const state = JSON.parse(fs.readFileSync(path.join(ROOT, 'progress.json'), 'utf8'));
 const chunks = state.chunks.slice().sort((a, b) => a.id.localeCompare(b.id));
 
+// PAGE MARKERS. Where each page of the Sera Jey edition begins, from tools/43-pages.mjs.
+// They are injected HERE and stored nowhere in translation/*.md, so the chunk files keep
+// their hashes and the verse ledger does not go stale. A marker whose locator no longer
+// matches its chunk is reported, never approximated — see the header of tools/43.
+const ANCHORS = path.join(ROOT, 'page-anchors.json');
+const anchors = fs.existsSync(ANCHORS) ? JSON.parse(fs.readFileSync(ANCHORS, 'utf8')).anchors : [];
+// Unnumbered front matter (pdf 1–7) carries no folio in the original either, so it gets the
+// pdf page behind an asterisk rather than a folio number this edition does not print.
+const label = a => (a.printed === null || a.printed === undefined) ? `【*${a.pdf}】` : `【${a.printed}】`;
+const marks = { placed: 0, skipped: [] };
+// The page markers are the one thing this assembly ADDS to the text. The stutter check and
+// the content check both remove them again, so those still compare translation against
+// translation — otherwise every marker would read as inserted text and prove nothing.
+const MARK_G = /【\*?\d+】/g;
+
+// Put a marker at `at` without breaking the block it lands in. A heading takes the marker on
+// its own line above it; a quoted line takes it after the "> ", or the quotation would be
+// split in two; everything else takes it inline, which is what a mid-sentence page turn is.
+function inject(body, at, mark) {
+  const nl = body.lastIndexOf('\n', at - 1) + 1;
+  if (nl === at) {
+    const end = body.indexOf('\n', at);
+    const line = body.slice(at, end === -1 ? undefined : end);
+    if (/^\s*#/.test(line)) return body.slice(0, at) + mark + '\n\n' + body.slice(at);
+    const q = line.match(/^(\s*>\s?)/);
+    if (q) return body.slice(0, at + q[1].length) + mark + body.slice(at + q[1].length);
+    const b = line.match(/^(\s*(?:[-*+]|\d+[.)])\s+)/);
+    if (b) return body.slice(0, at + b[1].length) + mark + body.slice(at + b[1].length);
+  }
+  return body.slice(0, at) + mark + body.slice(at);
+}
+
+// Every placed anchor for one chunk, applied back to front so earlier offsets stay valid.
+function markPages(id, body) {
+  const mine = anchors.filter(a => a.chunk === id && a.status !== 'pending')
+    .sort((x, y) => x.pdf - y.pdf);
+  const points = [];
+  for (const a of mine) {
+    if (a.kind === 'chunk-start') { points.push({ a, at: 0 }); continue; }
+    const n = body.split(a.locator).length - 1;
+    if (n !== 1) { marks.skipped.push(`p${a.pdf} (${id}): locator ${n === 0 ? 'not found' : 'not unique'}`); continue; }
+    points.push({ a, at: body.indexOf(a.locator) });
+  }
+  for (const p of points.sort((x, y) => y.at - x.at)) { body = inject(body, p.at, label(p.a)); marks.placed++; }
+  return body;
+}
+
 // "*(tiếp sang chunk sau.)*" / "*(tiếp sang c044.)*" and the one file that words it as
 // "*(Câu cuối tiếp tục sang trang sau — xem c005.)*". Missing that variant would have left
 // the marker sitting in the finished text.
@@ -78,7 +125,7 @@ const overlaps = [];
 // Longest suffix of `prev` that is also a prefix of `next`, ignoring whitespace and the
 // quote markers. Only reported above a length where coincidence is implausible.
 function overlap(prev, next) {
-  const norm = s => s.replace(/^\s*>\s?/gm, '').replace(/\s+/g, ' ').trim();
+  const norm = s => s.replace(/^\s*>\s?/gm, '').replace(MARK_G, '').replace(/\s+/g, ' ').trim();
   const a = norm(prev), b = norm(next);
   const max = Math.min(a.length, b.length, 300);
   for (let n = max; n >= 25; n--) if (a.slice(-n) === b.slice(0, n)) return b.slice(0, n);
@@ -102,6 +149,7 @@ for (let i = 0; i < chunks.length; i++) {
   const hasClose = CLOSE.test(t);
   if (hasClose) t = t.replace(CLOSE, '');
   t = t.trim();
+  t = markPages(c.id, t);
 
   // Pairing check: a fragment must be answered on both sides, or the join is a guess.
   if (hasOpen && !prevOpen) anomalies.push(`${c.id}: opens as a continuation but ${chunks[i - 1]?.id || '(none)'} did not close as one`);
@@ -139,6 +187,7 @@ function appendix() {
   for (const t of g.terms) { const h = headOf(t); if (!h) continue; if (!byHead.has(h)) byHead.set(h, new Set()); byHead.get(h).add(t.viVariants ? t.viVariants.join('|') : t.vi); }
   const conflicting = [...byHead.values()].filter(v => v.size > 1).length;
   const noVerify = state.chunks.filter(c => c.status === 'translated' && !c.verify).map(c => c.id);
+  const placedNow = anchors.filter(a => a.status !== 'pending').length;
 
   return `
 
@@ -153,6 +202,14 @@ function appendix() {
 - **\`[ ]\` — chữ trong ngoặc vuông** là do người dịch bổ sung để câu tiếng Việt đọc được.
   Tạng văn **không có** những chữ ấy. Đây là quy ước quan trọng nhất của bản dịch: người đọc
   luôn phân biệt được đâu là lời bản văn, đâu là chỗ tiếng Việt buộc phải thêm.
+- **\`【22】\` — số trang của bản gốc.** Dấu này đặt đúng tại chỗ **trang 22 của ấn bản Sera
+  Jey bắt đầu**; chữ đứng sau dấu là chữ đầu trang ấy. Vì trang trong Tạng văn thường sang
+  trang giữa câu, dấu nằm ngay giữa câu tiếng Việt là bình thường — đó chính là chỗ ngắt
+  thật. Số trong dấu là **số trang in trên sách**; \`【*5】\` là các trang bìa và trang bản
+  quyền (bản gốc không đánh số), lấy theo số trang PDF.
+  Hiện đã đánh dấu **${placedNow}/${anchors.length}** trang: ${anchors.filter(a => a.kind === 'chunk-start').length} chỗ suy ra được chính xác từ ranh giới đoạn dịch,
+  ${anchors.filter(a => a.status === 'placed').length} chỗ được đối chiếu Tạng văn để định vị. Chỗ chưa đánh dấu thì **bỏ trống**
+  chứ không ước lượng — xem \`node tools/43-pages.mjs list\`.
 - **Đoạn thụt lề (\`>\`)** là kinh, luận được trích dẫn. Kệ tụng giữ mỗi dòng một *pāda*
   đúng theo cách ngắt của Tạng văn.
 - **\`*(tồn nghi: …)*\`** là chỗ người dịch không quyết được — xem mục B.
@@ -249,6 +306,8 @@ console.log(`anomalies        : ${anomalies.length}`);
 for (const a of anomalies) console.log(`  !! ${a}`);
 console.log(`welds that stutter: ${overlaps.length}   (the second chunk restates instead of continuing)`);
 for (const o of overlaps) console.log(`  !! ${o}`);
+console.log(`page markers     : ${marks.placed} placed${marks.skipped.length ? `, ${marks.skipped.length} SKIPPED` : ''}`);
+for (const s of marks.skipped.slice(0, 10)) console.log(`  !! ${s}`);
 console.log(`output size      : ${(body.length / 1024).toFixed(0)} KB, ${body.split('\n').length} lines`);
 
 // Independent sweep for leftovers. Deliberately keyed on the WORDS, not on the regexes that
@@ -267,7 +326,7 @@ const raw = chunks.map(c => {
 // Words only. Quote markers and the continuation ellipses are formatting that the assembly
 // deliberately changes, so they are normalised away here; anything else that differs means
 // text was actually lost or duplicated.
-const strip = s => s.replace(OPEN_G, '').replace(CLOSE_G, '')
+const strip = s => s.replace(OPEN_G, '').replace(CLOSE_G, '').replace(MARK_G, '')
   .replace(/^\s*>\s?/gm, '').replace(/…/g, '').replace(/\s+/g, ' ').trim();
 const OPEN_G = /\*\(\s*[….]*\s*tiếp theo[^)]*\)\*\s*[….]*\s*/g;
 const CLOSE_G = /\*\([^)]*(?:tiếp sang|tiếp tục sang)[^)]*\)\*/g;
