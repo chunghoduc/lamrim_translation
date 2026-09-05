@@ -48,18 +48,18 @@ node tools/30-progress.mjs --verify
 | Repair entries (secondary fonts) | 19 |
 | CIDs deliberately left unrepaired | 10 |
 | sa-bcad outline built | yes |
-| Glossary terms | 4628 |
-| Translation files written | 286 |
+| Glossary terms | 4737 |
+| Translation files written | 292 |
 
 ## Translation progress
 
-Translated: `########################` 286/292 (97.9%)
+Translated: `########################` 292/292 (100.0%)
 
 Reviewed:   `........................` 0/292 (0.0%)
 
-Next chunk: **c287 — བསྒོམས་པས་ལྷག་མཐོང་གྲུབ་པའི་ཚད།**
+Next chunk: **none pending**
 
-**274 chunk(s) carry unresolved flags** — these must be settled before Phase 5 signs off:
+**280 chunk(s) carry unresolved flags** — these must be settled before Phase 5 signs off:
 - `c002` — unsure: སྟག་རྩེའི་སྒྲུབ་མཆོད rendered 'đại lễ tu cúng Taktsé' - Taktsé read as a place name; could be a rite name
 - `c004` — unsure: source spells Vikramasila as བྲི་ཀཱ་མ་ལ་ཤཱི་ལ (bri-), not the usual བི་ཀྲ་མ་ཤཱི་ལ - translated as Vikramasila, oddity noted
 - `c005` — unsure: རྒྱ་ནག་སྟོང་ཁུན་རྒྱལ་པོ - Tongkhun taken as a Chinese ruler's name, transliterated; unsure: བྱིན་ལེན rendered 'phép thọ nhận thức ăn' from Vinaya context
