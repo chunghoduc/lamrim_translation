@@ -1615,8 +1615,10 @@
       "kind": "internal",
       "boTail": "བ་དེ་བཞིན་དུ་པདྨ་ལྟར་གས་པ་ཆེན་པོ་གཅིག་ཡིན་ནོ། །ཞེས་གསུངས་པས། ཚེ་དེ་ཙམ་གྱི་བར་དུ་མྱོང་ངོ་།།",
       "boHead": "ཉི་ཚེ་བའི་དམྱལ་བ་ནི། ཚ་དམྱལ་དང་གྲང་དམྱལ་གྱི་ཉེ་འཁོར་ན་ཡོད་ལ། མིའི་ཡུལ་ན༌ཡང་ཡོད་པར་སའི་དངོས",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "Địa ngục biệt phần thì nằm nơi vùng cận biên",
+      "placedBy": "align",
+      "note": "khớp đúng chữ"
     },
     {
       "pdf": 166,
@@ -1633,8 +1635,10 @@
       "kind": "internal",
       "boTail": "གྲོ་རྣམས་མཐུ་ཆེ་བས་ཆུང་བ་རྣམས་གསོད་པ་དང༌། ལྷ་དང་མིའི་ཡོ་བྱད་དུ་གྱུར་ཏེ་རང་ལ་རང་དབང་མེད་པར་",
       "boHead": "གཞན་གྱི་དབང་དུ་གྱུར་པས་གསོད་པ་དང་བརྡེག་པ་དང་གནོད་པ་བྱེད་ལ། ལྷ་དང་མི་དང་ལྷན་ཅིག་རྒྱུ་བས་གནས",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "mà rơi vào quyền lực của kẻ khác",
+      "placedBy": "align",
+      "note": "khớp đúng chữ"
     },
     {
       "pdf": 168,
@@ -1651,8 +1655,10 @@
       "kind": "internal",
       "boTail": " །ཟས་སྐོམ་ལ་སྒྲིབ་པ་ཡོད་པ་ནི། མེ་ལྕེའི་ཕྲེང་བ་ཅན་ཞེས་བྱ་བས་ནི་ཟོས་པ་དང་འཐུངས་པ་ཐམས་ཅད་མེར་",
       "boHead": "འབར་ནས་འཚིག་པར་འགྱུར་ལ། ལན་ལིན་ཟ་བ་ཞེས་བྱ་བས་ནི། བཤང་གཅི་ཟ་ཞིང་འཐུང་བ་མི་གཙང་ཞིང་མནམ་ལ་དྲི",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "mà thiêu đốt; còn loài gọi là",
+      "placedBy": "align",
+      "note": "mer | 'bar bị ngắt đôi; \"bốc cháy\" thuộc p169 nhưng tiếng Việt đặt trước \"thành lửa\""
     },
     {
       "pdf": 170,
@@ -1661,8 +1667,10 @@
       "kind": "internal",
       "boTail": "ུས་སུ་ནི། །ཟླ་བའང་ཚ་ལ་དགུན་ནི་ཉི་མའང་གྲང༌། །ལོན་ཤིང་འབྲས་བུ་མེད་འགྱུར་འདི་དག་གིས། །བལྟས་པ་",
       "boHead": "ཙམ་གྱིས་ཀླུང་ཡང་སྐེམས་པར་འགྱུར། །ཞེས་སོ། །དེ་ལ་ཚིགས་བཅད་དང་པོས་ནི་སྤྱི་དང་ལྷག་མ་རྣམས་ཀྱིས་",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "đến thôi mà cả sông ngòi cũng khô cạn.",
+      "placedBy": "align",
+      "note": "bltas pa | tsam gyis bị ngắt đôi; chỉ chữ \"Chỉ\" lệch về p169"
     },
     {
       "pdf": 171,
@@ -1671,8 +1679,10 @@
       "kind": "internal",
       "boTail": "ྱུར། །འདི་ནི་དེར་གནས་ཆར་སྤྲིན་ལྡང་བར་འདོད་ན་ཡང༌། །སྤྲིན་ལས་ལྕགས་མདའི་ཆར་པ་དུད་འཐུལ་མདག་མར་",
       "boHead": "བཅས། །ཚྭ་ཚྭ་རྡོ་རྗེའི་ཕ་བོང་རྣམས་འཕྲོ་གསེར་མདོག་ལྟ་བུ་ཡི། །གློག་ཕྲེང་དམར་སེར་འགྱུ་བ་ལུས་ལ་",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "[tsha-tsha] cùng những tảng đá kim cang",
+      "placedBy": "align",
+      "note": "bcas (kèm) mở p171, khép dòng kệ trước"
     },
     {
       "pdf": 172,
@@ -1689,8 +1699,10 @@
       "kind": "internal",
       "boTail": "ཟ་བར་མི་བྱེད་ལ། ཟས་ཟོས་ཟིན་པའི་འོག་ཏུ་དྲན་ན་ནི་སྐྱུག་པར་བྱེད་དོ། །ཡང་ཉིན་མོ་སྤྱོད་པའི་གནས་",
       "boHead": "གཞན་ཞིག་ཏུ་ཁྲིད་ནས་ཕྱོགས་གཅིག་ཏུ་ལྷ་དག་སྤྲུལ་པའི་པི་ཝང་ལ་སོགས་པའི་སྒྲ་ཐོས་ནས་བལྟར་ཕྱིན་པ་ད",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "khác. Ở một phía, nghe tiếng đàn tỳ-bà",
+      "placedBy": "align",
+      "note": "đặt đúng ranh giới chữ gnas | gzhan (nơi | khác)"
     },
     {
       "pdf": 174,
@@ -1699,8 +1711,10 @@
       "kind": "internal",
       "boTail": "ྱེ་ཚུལ་ཤིན་ཏུ་གསལ་ལ། བློ་ཚོད་ཀྱང་བསམ་པ་དེ་འདྲ་བ༌ཞིག་མ་སྐྱེས་པའི་བར་དུ་རྒྱུན་ལྡན་དུ་འབད་ནས་",
       "boHead": "བསྒོམ་དགོས་སོ།། སྣེའུ་ཟུར་པའི་ཞལ་ནས་ཀྱང༌། དེ་དག་ཏུ་སྐྱེ་བའི་རྒྱུ་སྔར་བྱས་སམ་མ་བྱས། ད་ལྟ་བྱ",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "Ngài Neusurpa cũng dạy rằng",
+      "placedBy": "align",
+      "note": "p174 mở bằng bsgom dgos so (phải tu tập) khép câu trước"
     },
     {
       "pdf": 175,
@@ -1717,8 +1731,10 @@
       "kind": "internal",
       "boTail": "་སྣང་སྟོན་པ་ལྟར། །དེ་བཞིན་སངས་རྒྱས་མཐུ་ཡིས་བརྒྱ་ལམ་ན། །འཇིག་རྟེན་བསོད་ནམས་བློ་གྲོས་ཐང་འགའ་",
       "boHead": "འབྱུང༌། །དེ་ལྟས་དགེ་བ་ཉམ་ཆུང་ཉིད་ལ་རྟག །སྡིག་པ་སྟོབས་ཆེན་ཤིན་ཏུ་མི་བཟད་པ། །ཞེས་གསུངས་པ་ལྟར",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "Bởi thế, điều thiện thì luôn luôn yếu ớt,",
+      "placedBy": "align",
+      "note": "'byung (khởi lên) mở p176, khép dòng kệ trước"
     },
     {
       "pdf": 177,
@@ -1727,8 +1743,10 @@
       "kind": "internal",
       "boTail": "་དང་སྐྱབས་མ་ཡིན་པ་འབྱེད་པའི་བློ་ཞིག་ཡོད་ན་ནི་བསླུ་བ་མེད་པའི་སྐྱབས་སངས་རྒྱས་བཅོམ་ལྡན་འདས་ལ་",
       "boHead": "སྐྱབས་སུ་འགྲོ་བར་རིགས་སོ། །དེས་ནི་ཆོས་དང་དགེ་འདུན་དཀོན་མཆོག་ཀྱང་མཚོན་པ་ཡིན་ཏེ། སྐྱབས་འགྲོ་",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "— là điều chính đáng. Điều ấy cũng biểu thị",
+      "placedBy": "align",
+      "note": "skyabs su 'gro (quy y) mở p177 nhưng tiếng Việt đặt động từ trước tân ngữ"
     },
     {
       "pdf": 178,
@@ -1745,8 +1763,10 @@
       "kind": "internal",
       "boTail": "ག་མ་ཚང་བས། །བྱིས་པ་རྣམས་ནི་སྡུག་བསྔལ་སྟེ། །ཞེས་གསུངས་སོ།། ཇི་ཙམ་གྱིས་སྐྱབས་སུ་སོང་བའི་ཚུལ།",
       "boHead": "ཇི་ཙམ་གྱིས་སྐྱབས་སུ་སོང་བའི་ཚུལ་ནི། བསྡུ་བ་ནས་གསུངས་པ་བཞི་སྟེ། ཡོན་ཏན་ཤེས་པ་དང༌། ཁྱད་པར་ཤེ",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "Cách thức quy y bằng bao nhiêu điều: có bốn điều",
+      "placedBy": "align",
+      "note": "khớp đúng chữ: tiêu đề sa-bcad khép p178"
     },
     {
       "pdf": 180,
@@ -1755,8 +1775,10 @@
       "kind": "internal",
       "boTail": "ར་པ། །འཁོར་བས་སྐྲག་པའི་མི་རྣམས་ལ། །ཕྱག་གིས་དབུགས་འབྱིན་མཛད་པ་ལགས། །ཐུབ་ཁྱོད་གཤེགས་པར་གྱུར་",
       "boHead": "པའི་ཚེ། །ཞབས་གཉིས་དཔལ་གྱི་པདྨ་འདྲས། །ས་གཞི་འདི་ནི་བྲིས་གྱུར་པ། །པདྨ་ཅན་གྱིས་ཇི་ལྟར་མཛེས། །",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "Hai bàn chân tựa hoa sen cát tường",
+      "placedBy": "align",
+      "note": "gyur | pa'i tshe bị ngắt đôi"
     },
     {
       "pdf": 181,
@@ -1765,8 +1787,10 @@
       "kind": "internal",
       "boTail": "ི་མི་སླུ་བ། །ནོངས་མི་མངའ་ཕྱིར་རྗེས་སུ་མཐུན། །ལེགས་པར་སྦྱར་བས་གོ་སླ་སྟེ། །ཁྱོད་ཀྱི་གསུང་ནི་",
       "boHead": "ལེགས་གསུང་ལྡན། །རེ་ཞིག་དང་པོར་ཁྱོད་ཀྱི་གསུང༌། །ཉན་པ་རྣམས་ཀྱི་ཡིད་འཕྲོག་མཛད། །དེ་ནས་ཡིད་ལ་བ",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "đầy đủ sự khéo giảng.",
+      "placedBy": "align",
+      "note": "khớp đúng chữ"
     },
     {
       "pdf": 182,
@@ -1783,8 +1807,10 @@
       "kind": "internal",
       "boTail": "ང་དང་ཐུགས་ཀྱི་འཕྲིན་ལས་ལྷུན་གྱིས་གྲུབ་པ་དང༌། རྒྱུན་མི་འཆད་པ་གཉིས་ཀྱིས་སེམས་ཅན་ཐམས་ཅད་ལ་ཕན་",
       "boHead": "འདོགས་པར་མཛད་པའོ། །དེ་ཡང་གདུལ་བྱའི་ངོས་ནས་བཀྲིར་རུང་ན་ཐུབ་པས་གདུལ་བྱ་དེ་ཕུན་ཚོགས་དང་མ་སྤྲད",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "Hơn nữa, nếu về phía người đáng được điều phục",
+      "placedBy": "align",
+      "note": "phan | 'dogs par mdzad pa'o bị ngắt đôi"
     },
     {
       "pdf": 184,
@@ -1793,8 +1819,10 @@
       "kind": "internal",
       "boTail": "ས་ཆེན་པོར་ཤེས་པར་བྱའོ།། འདི་རྣམས་དུས་རྒྱུན་པའི་ཉམས་ལེན་དུ་བྱས་ན་བློ་གོམས་པའི་རྗེས་སུ་བྱེད་",
       "boHead": "པས་དང་པོར་བློ་སྦྱོང་དཀའ་སེ་བ་ཡང་ཕྱིས་དེ་ལ་ངང་གིས་འཇུག་པ་དང༌། རྗེས་སུ་དྲན་པའི་སངས་རྒྱས་དེ་འ",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "nên ban đầu tuy luyện tâm có khó khăn",
+      "placedBy": "align",
+      "note": "khớp đúng chữ"
     },
     {
       "pdf": 185,
@@ -1803,8 +1831,10 @@
       "kind": "internal",
       "boTail": "ྙེད་པས་སྙིང་ཐག་པའི་སྒོ་ནས་སྐྱབས་སུ་སོང་ནས་དེའི་བསླབ་བྱ་ལ་སློབ་ཙམ་ན་ཅི་བྱས་ཐམས་ཅད་སངས་རྒྱས་",
       "boHead": "ཀྱི་ཆོས་བྱ་བ་ཞིག་ཏུ་འགྱུར་བ་ཡིན་ཏེ། འོ་སྐོལ་སངས་རྒྱས་ཀྱི་མཁྱེན་པ་ལ་མོ་མ་རྣོ་ཤོས་ཙམ་དུ་ཡང་མ",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "việc thuộc giáo pháp của đức Phật.",
+      "placedBy": "align",
+      "note": "sangs rgyas | kyi chos bị ngắt đôi; tiếng Việt đặt \"của đức Phật\" ở cuối"
     },
     {
       "pdf": 186,

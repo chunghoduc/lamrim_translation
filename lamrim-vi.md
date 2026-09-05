@@ -10,7 +10,7 @@ Ban Biên tập Sera Jey Rigzod Chenmo
 
 ---
 
-༄༅། Nơi đây tôn trí bộ luận mang tên **Bồ-đề Đạo Thứ Đệ Quảng Luận**, bộ luận thâu tóm những yếu điểm tinh túy của hết thảy thánh giáo của Đấng Chiến Thắng và xác lập chúng một cách quyết định.
+【*2】༄༅། Nơi đây tôn trí bộ luận mang tên **Bồ-đề Đạo Thứ Đệ Quảng Luận**, bộ luận thâu tóm những yếu điểm tinh túy của hết thảy thánh giáo của Đấng Chiến Thắng và xác lập chúng một cách quyết định.
 
 **Tác giả:** Đức Losang Drakpa
 
@@ -20,7 +20,7 @@ Ban Biên tập Sera Jey Rigzod Chenmo
 
 ## Thông tin xuất bản
 
-**Số hiệu sách của Sera Jey Rigzod:** SJRB-0045
+【*3】**Số hiệu sách của Sera Jey Rigzod:** SJRB-0045
 
 Do Ban Biên tập Sera Jey Rigzod chế bản thành sách điện tử.
 Do Sera Jey Rigzod Chenmo phát hành.
@@ -62,7 +62,7 @@ Cùng với sự thuận tiện của kỹ thuật hiện đại, ngày càng c�
 
 Về phần Ban Biên tập chúng tôi, chúng tôi lấy làm nguyên tắc căn bản việc chọn một ấn bản chuẩn mực làm bản gốc rồi biên tập theo đúng lối hành văn của bản ấy, giữ nguyên không đổi. Và nếu có được những ấn bản khác nữa, chúng tôi cũng cố hết sức đối chiếu với các ấn bản ấy.
 
-Nếu trong bản gốc có lỗi chữ rõ ràng thì chúng tôi sửa lại và ghi chú thích để giải thích. Đối với những chỗ thừa thiếu giữa bản gốc và từng ấn bản khác, hay những chỗ chữ nghĩa bất đồng, chúng tôi đều ghi cước chú để giải thích.
+【*6】Nếu trong bản gốc có lỗi chữ rõ ràng thì chúng tôi sửa lại và ghi chú thích để giải thích. Đối với những chỗ thừa thiếu giữa bản gốc và từng ấn bản khác, hay những chỗ chữ nghĩa bất đồng, chúng tôi đều ghi cước chú để giải thích.
 
 ## Đôi điều cần biết khi đọc sách do Ban Biên tập này thực hiện
 
@@ -80,7 +80,7 @@ Chẳng hạn, nếu trong cước chú ghi:
 
 > མ་ཕྱི། ༩༨ན༥ན། བསྒབ `*བསྒྲུབས` སྐུ། ༡༠༣ན༦ན། བླ། ༡༡༠བ༣ན། བསྒྲུབས
 
-thì ý nghĩa của những mục ấy là: nơi bản gốc, tờ 98 mặt trước, dòng thứ 5, có viết là `བསྒབ`; còn `*བསྒྲུབས` cho biết chính lỗi chữ `བསྒབ` ấy của bản gốc đã được người hiệu đính sửa thành `བསྒྲུབས`. Lại nữa, phải hiểu rằng ở chỗ tương ứng của bản văn ấy trong bản khắc Kumbum, tờ 103 mặt trước, dòng thứ 6, và trong bản khắc Labrang, tờ 110 mặt sau, dòng thứ 3, đều ghi là `བསྒྲུབས`.
+thì ý nghĩa của những mục ấy là: nơi bản gốc, tờ 98 mặt trước, dòng thứ 5, có viết là `བསྒབ`; còn `*བསྒྲུབས` cho biết chính lỗi chữ `བསྒབ` ấy của bản gốc đã được người hiệu đính sửa thành `བསྒྲུབས`. Lại nữa, 【*7】phải hiểu rằng ở chỗ tương ứng của bản văn ấy trong bản khắc Kumbum, tờ 103 mặt trước, dòng thứ 6, và trong bản khắc Labrang, tờ 110 mặt sau, dòng thứ 3, đều ghi là `བསྒྲུབས`.
 
 Nếu quý vị nhận thấy trong sách điện tử này còn có sai sót do trình độ và sự chú tâm của người hiệu đính chưa đủ, chúng tôi kính mong các bậc thức giả gửi đến Ban Biên tập chúng tôi những chỉ dẫn và góp ý rõ ràng, để hỗ trợ và soi đường cho công việc lợi ích chung này. Về phần mình, chúng tôi nhất định sẽ nhanh chóng rà soát lại ấn bản và chỉnh lý để chất lượng ngày một tốt hơn.
 
@@ -106,7 +106,7 @@ Con đảnh lễ đức Vô Năng Thắng và đức Diệu Âm.
 
 Phật mẫu của chư Đấng Chiến Thắng, rất mực khó suy lường,
 Bậc trang nghiêm cõi Diêm-phù, giải thích mật ý ấy đúng như thật,
-Danh xưng Long Thọ và Vô Trước lừng lẫy khắp ba cõi —
+【2】Danh xưng Long Thọ và Vô Trước lừng lẫy khắp ba cõi —
 Con đảnh lễ dưới chân hai ngài.
 
 Con đường kiến sâu xa và hạnh rộng lớn,
@@ -129,7 +129,7 @@ Thấy rằng giáo huấn tối thắng — vốn gồm đủ mọi yếu đi�
 Nên đối với việc giảng nói con đường này của các bậc Đại Xa,
 Tâm ý con hết mực hoan hỷ phấn khởi.
 
-Những ai không bị bóng tối của thiên chấp che lấp,
+【3】Những ai không bị bóng tối của thiên chấp che lấp,
 Có đủ sức mạnh của trí phân biệt hay dở,
 Và mong muốn làm cho thân người nhàn hạ tốt đẹp này trở nên có ý nghĩa —
 Những người hữu duyên ấy hãy nhất tâm chuyên chú lắng nghe.
@@ -174,7 +174,7 @@ Thứ nhất. Trong *Bát Thập Tán* do đại dịch giả Naktso trước t�
 > Có năm vương phi và chín người con.
 > Con trưởng là Puṇyaśrī,
 > Ngày nay là bậc đại trí giả,
-> Nổi danh là Dhanaśrī.
+> 【5】Nổi danh là Dhanaśrī.
 > Người con út, Śrīgarbha,
 > Chính là tỳ-kheo Vīryacandra.
 > Người con giữa, Candragarbha,
@@ -200,7 +200,7 @@ Thứ nhất. Trong *Tán* có nói:
 
 Đặc biệt, khi ngài mười lăm tuổi, chỉ nghe giảng *Chánh Lý Nhất Đích* một lần mà đã tranh biện thắng một luận sư ngoại đạo vốn nổi tiếng uyên bác, khiến tiếng tăm tốt lành vang khắp mọi nơi — đại sư Drolungpa dạy như vậy.
 
-Sau đó, ngài thỉnh cầu thọ nhận trọn vẹn quán đảnh nơi thượng sư Rāhulagupta — bậc Du-già Tự Tại của tu viện Hắc Sơn, người đã diện kiến tôn nhan đức Cát Tường Hevajra và được Kim Cang Không Hành Mẫu thọ ký — và được ban mật danh là Jñānaguhyavajra. Cho đến năm hai mươi chín tuổi, ngài tu học Kim Cang thừa trước sự chứng minh của nhiều bậc thượng sư đã chứng đắc tất-địa, nên trở nên tinh thông không sót một bản văn hay một lời giáo huấn nào.
+Sau đó, ngài thỉnh cầu thọ nhận trọn vẹn quán đảnh nơi thượng sư Rāhulagupta — bậc Du-già Tự Tại của tu viện Hắc Sơn, người đã diện kiến tôn nhan đức Cát Tường Hevajra và được Kim Cang Không Hành Mẫu thọ ký — và được ban mật danh là Jñānaguhyavajra. Cho đến năm hai mươi chín tuổi, ngài tu học Kim Cang thừa trước sự chứng minh của nhiều bậc thượng sư đã chứng đắc tất-địa, 【6】nên trở nên tinh thông không sót một bản văn hay một lời giáo huấn nào.
 
 Khi trong tâm ngài khởi lên ý nghĩ "chính ta là bậc thông thạo mật chú", chư vị Không Hành Mẫu đã hiện trong giấc mộng, chỉ cho ngài xem nhiều pho sách mật chú mà trước đây ngài chưa từng thấy, khiến tâm tự mãn của ngài bị dẹp bỏ.
 
@@ -239,7 +239,7 @@ Trong *Tán* có nói:
 > Với bồ-đề tâm, ngài không bỏ rơi chúng sinh,
 > Con xin đảnh lễ bậc có trí, đầy lòng bi.
 
-Đúng như lời dạy ấy, ngài đã tu học lâu dài nhiều pháp giáo huấn tu tâm bồ-đề lấy từ và bi làm gốc; đặc biệt, nương thầy Serlingpa, ngài tu học lâu dài giáo huấn tối thắng được truyền từ đức Chí Tôn Di-lặc và đức Diệu Âm xuống đến ngài Vô Trước và ngài Tịch Thiên. Do đó — như trong *Tán* có nói:
+Đúng như lời dạy ấy, ngài đã tu học lâu dài nhiều pháp giáo huấn tu tâm bồ-đề lấy từ và bi làm gốc; đặc biệt, nương thầy Serlingpa, ngài tu học lâu dài giáo huấn tối thắng được truyền từ đức Chí Tôn 【8】Di-lặc và đức Diệu Âm xuống đến ngài Vô Trước và ngài Tịch Thiên. Do đó — như trong *Tán* có nói:
 
 > Bỏ mặc lợi mình, chuyên tâm làm lợi người,
 > Vị ấy chính là thượng sư của con.
@@ -283,7 +283,7 @@ Việc làm lợi ích cho giáo pháp gồm có hai cách: cách ngài đã là
 
 ### Cách thức ngài đã làm tại Ấn Độ
 
-Thứ nhất. Tại điện Đại Bồ-đề nơi Kim Cang Tòa vinh quang, ba lần ngài dùng Pháp đánh bại những kẻ lập luận tà vạy của ngoại đạo, do đó mà hộ trì giáo pháp của đức Phật. Ngài cũng đã trừ sạch những cấu uế xấu ác — không thấu hiểu, thấu hiểu điên đảo, và nghi hoặc — đối với giáo pháp của các bộ phái nội đạo, cả thượng lẫn hạ, khiến giáo pháp được hưng thịnh; vì thế hết thảy các bộ phái đều không thiên vị tông phái nào mà tôn ngài làm vật trang nghiêm trên đỉnh đầu. Trong *Tán* có nói:
+Thứ nhất. Tại điện Đại Bồ-đề nơi Kim Cang Tòa vinh quang, ba lần ngài dùng Pháp đánh bại những kẻ lập luận tà vạy của ngoại đạo, do đó mà hộ trì giáo pháp của đức Phật. 【10】Ngài cũng đã trừ sạch những cấu uế xấu ác — không thấu hiểu, thấu hiểu điên đảo, và nghi hoặc — đối với giáo pháp của các bộ phái nội đạo, cả thượng lẫn hạ, khiến giáo pháp được hưng thịnh; vì thế hết thảy các bộ phái đều không thiên vị tông phái nào mà tôn ngài làm vật trang nghiêm trên đỉnh đầu. Trong *Tán* có nói:
 
 > Tại điện Đại Bồ-đề,
 > Khi hết thảy tụ hội vân tập,
@@ -314,7 +314,7 @@ Và:
 
 Cách thức ngài đã làm tại Tây Tạng. Hai vị Lha Lama chú cháu lần lượt phái hai dịch giả là Gya Tsöndrü Seng và Naktso Tsültrim Gyalwa sang Ấn Độ, dốc sức lớn lao mà nhiều lần gửi lời cung thỉnh; nhờ vậy, vào thời Jangchub Ö, ngài được nghinh thỉnh và đã đặt chân đến Thượng Ngari. Nương vào lời khẩn cầu ngài làm cho giáo pháp của đức Phật được thanh tịnh, ngài đã trước tác bản luận *Bồ-đề Đạo Đăng*, gom thâu hết thảy yếu điểm của Hiển Mật rồi kết tập lại thành thứ lớp tu tập; bằng những phương cách như thế, ngài khiến giáo pháp được hưng thịnh.
 
-Hơn nữa, ba năm tại Ngari, chín năm tại Nyethang, năm năm tại những nơi khác thuộc Ü-Tsang — trong suốt thời gian ấy, ngài giảng dạy cho những người có phúc duyên không sót một bản văn hay lời giáo huấn nào của Hiển Mật. Những truyền thống của giáo pháp đã suy tàn thì ngài thiết lập lại; những truyền thống chỉ còn lại chút ít thì ngài làm cho tăng trưởng; những gì bị vấy bẩn bởi cấu uế của sự thấu hiểu điên đảo thì ngài khéo léo trừ sạch — như vậy ngài đã làm cho giáo pháp quý báu lìa khỏi cấu uế.
+Hơn nữa, ba năm tại Ngari, 【11】chín năm tại Nyethang, năm năm tại những nơi khác thuộc Ü-Tsang — trong suốt thời gian ấy, ngài giảng dạy cho những người có phúc duyên không sót một bản văn hay lời giáo huấn nào của Hiển Mật. Những truyền thống của giáo pháp đã suy tàn thì ngài thiết lập lại; những truyền thống chỉ còn lại chút ít thì ngài làm cho tăng trưởng; những gì bị vấy bẩn bởi cấu uế của sự thấu hiểu điên đảo thì ngài khéo léo trừ sạch — như vậy ngài đã làm cho giáo pháp quý báu lìa khỏi cấu uế.
 
 Nói chung, trong vùng núi tuyết, vào thời tiền hoằng của giáo pháp, đức Cát Tường Śāntarakṣita và ngài Padmasambhava đã thiết lập truyền thống của giáo pháp; rồi vị hòa thượng Trung Hoa tên Hashang — nương vào chỗ hiểu về tánh không không trúng vào yếu điểm mà phỉ báng phần phương tiện và ngăn chận hết thảy sự tác ý — đã làm cho giáo pháp suy kém. Đại A-xà-lê Kamalaśīla đã khéo léo bác bỏ và xác lập mật ý của Đấng Chiến Thắng, nên ân đức của ngài vô cùng lớn lao. Đến thời hậu hoằng, nương vào chỗ chấp hiểu điên đảo ý nghĩa các bộ mật điển, một số kẻ tự phụ là ban-trí-đạt và là hành giả du-già đã gây tổn hại lớn cho phạm hạnh, vốn là cội gốc của giáo pháp; bậc chân nhân này đã khéo léo bác bỏ họ, lại còn làm cho những cách chấp hiểu điên đảo khác phải lụi tàn, và khiến giáo pháp không điên đảo được tăng trưởng — do đó ân đức của ngài trùm khắp hết thảy người xứ Tuyết.
 
@@ -346,7 +346,7 @@ Còn về các bậc thượng sư mà ngài trực tiếp thọ pháp, trong *T
 > Thâm sâu và quảng đại —
 > Giáo huấn ấy ngài đều có đủ.
 
-— đúng như đã nói vậy. Tương truyền ngài có mười hai vị thượng sư đã chứng đắc tất-địa, và ngoài ra còn nhiều vị khác nữa. Về việc thông thạo năm minh xứ thì đã giảng ở trên rồi. Do vậy, vị A-xà-lê này có đủ năng lực khéo xác lập mật ý của Đấng Chiến Thắng.
+— đúng như đã nói vậy. Tương truyền ngài có mười hai vị thượng sư đã chứng đắc tất-địa, và ngoài ra còn nhiều vị khác nữa. Về việc thông thạo năm minh xứ thì đã giảng ở trên rồi. 【13】Do vậy, vị A-xà-lê này có đủ năng lực khéo xác lập mật ý của Đấng Chiến Thắng.
 
 Vị A-xà-lê như thế ấy có vô số học trò không thể nghĩ bàn nơi các xứ Ấn Độ, Kashmir, Oḍḍiyāna, Nepal và Tây Tạng; song những vị chính yếu thì: tại Ấn Độ có bốn vị đại paṇḍita có trí lượng ngang bằng đức Jowo, là Bitopa, Dharmākaramati, Madhyamakasiṃha và Kṣitigarbha. Cũng có người kể thêm Mitraguhya thành năm vị. Từ Ngari có dịch giả Rinchen Zangpo, dịch giả Naktso, và Lha Lama Jangchup Ö. Từ Tsang có Gar Gewa và Gö Khukpa Lhetsé. Từ Lhodrak có Chakpa Trichok và Gewa Kyong. Từ Kham có bậc Đại Du-già Naljorpa Chenpo, Gönpawa, Sherab Dorjé, và Chakdar Tönpa. Từ Ü thì xuất hiện ba vị Khu, Ngok và Drom. Trong số các vị ấy, bậc đại trì giữ dòng truyền — người làm cho sự nghiệp của chính đức thượng sư được lan rộng — chính là Dromtönpa Gyalwé Jungné, vị đã được đức Tārā thọ ký. Những điều trên đây chỉ là phần tóm lược sự vĩ đại của tác giả; còn muốn biết rộng thì nên tìm hiểu trong các bộ đại truyện ký.
 
@@ -371,7 +371,7 @@ Về điều ấy: mục đích mà chư bồ-tát mong cầu là thành tựu l
 > Luôn luôn không hề lầm lẫn,
 > Các bậc trí đều dấn thân như thế.
 
-Và trong *Thích Lượng Luận* cũng nói:
+Và trong 【15】*Thích Lượng Luận* cũng nói:
 
 > Phương tiện, [quả] phát sinh từ đó, cùng nhân của chúng đều khuất lấp;
 > Giảng nói điều ấy quả là việc khó.
@@ -390,7 +390,7 @@ Vì đã dạy như vậy, nên nói rằng "vì là người tu Đại thừa n
 
 Trong việc thể nhập đạo lộ Đại thừa, có hai loại đạo: đạo cộng thông và đạo bất cộng. Đạo cộng thông chính là những gì xuất hiện trong tạng của Tiểu thừa, thì làm sao chúng lại thành cái đáng vứt bỏ được? Vì vậy, ngoại trừ một vài điều đặc biệt như mưu cầu sự an lạc tịch tĩnh cho riêng mình, còn tất cả những gì khác thì người tu Đại thừa cũng đều phải đem ra thực hành; đó cũng chính là lý do vì sao trong tạng hết sức quảng đại của chư bồ-tát lại giảng rộng cả ba thừa.
 
-Lại nữa, bậc Chánh Đẳng Chánh Giác không phải chỉ dứt sạch một phần lỗi lầm và viên mãn một phần công đức, mà là dứt sạch mọi loại lỗi lầm và viên mãn trọn vẹn mọi loại công đức; và vì Đại thừa — cỗ xe thành tựu quả ấy — ngăn dứt hết thảy lỗi lầm và làm phát sinh hết thảy công đức, cho nên mọi loại công đức về đoạn và chứng của tất cả các thừa khác đều thâu nhiếp vào đạo lộ Đại thừa.
+Lại nữa, bậc Chánh Đẳng Chánh Giác không phải chỉ dứt sạch một phần lỗi lầm và viên mãn một phần công đức, mà là dứt sạch mọi loại lỗi lầm và 【16】viên mãn trọn vẹn mọi loại công đức; và vì Đại thừa — cỗ xe thành tựu quả ấy — ngăn dứt hết thảy lỗi lầm và làm phát sinh hết thảy công đức, cho nên mọi loại công đức về đoạn và chứng của tất cả các thừa khác đều thâu nhiếp vào đạo lộ Đại thừa.
 
 Vì thế, hết thảy thánh giáo đều thâu nhiếp vào làm chi phần của đạo lộ Đại thừa thành tựu quả Phật — vì không có lời dạy nào của đấng Năng Nhân mà lại không dứt trừ một loại lỗi lầm nào đó hoặc không làm phát sinh một loại công đức nào đó, và vì trong hết thảy những điều ấy không có điều nào mà người tu Đại thừa lại không phải thành tựu.
 
@@ -406,7 +406,7 @@ Và:
 
 Ngoài ra, trong nhiều bản văn mật chú cũng đã dạy như vậy.
 
-Trong nhiều trường hợp thể nhập mạn-đà-la Vô Thượng Du-già, cũng dạy rằng phải thọ nhận cả hai loại luật nghi: luật nghi cộng thông và luật nghi bất cộng. Loại trước chính là luật nghi bồ-tát; mà thọ nhận luật nghi tức là cam kết tu học các điều học của bồ-tát, chẳng hạn ba loại giới. Vì ngoài việc phát tâm rồi tu học các điều học đúng như đã cam kết, thì trong Ba-la-mật thừa cũng không có đạo lộ nào khác; và vì trong các bộ *Kim Cang Không Hành*, *Saṃpuṭi* và *Kim Cang Đảnh*, ở phần thọ nhận tam-muội-da của đức Vô Lượng Quang có dạy:
+Trong nhiều trường hợp thể nhập mạn-đà-la Vô Thượng Du-già, cũng dạy rằng phải thọ nhận cả hai loại luật nghi: luật nghi cộng thông và luật nghi bất cộng. Loại trước chính là luật nghi bồ-tát; mà thọ nhận luật nghi tức là cam kết tu học các điều học của bồ-tát, chẳng hạn ba loại giới. 【17】Vì ngoài việc phát tâm rồi tu học các điều học đúng như đã cam kết, thì trong Ba-la-mật thừa cũng không có đạo lộ nào khác; và vì trong các bộ *Kim Cang Không Hành*, *Saṃpuṭi* và *Kim Cang Đảnh*, ở phần thọ nhận tam-muội-da của đức Vô Lượng Quang có dạy:
 
 > Ngoại, mật, cùng ba thừa —
 > Chánh pháp, không sót một pháp nào, hãy thọ trì.
@@ -432,7 +432,7 @@ Như vậy, vì lời giáo huấn này thâu nhiếp hết thảy yếu điểm
 
 ## Sự vĩ đại: hết thảy thánh giáo hiện ra thành lời giáo huấn
 
-Về việc hết thảy thánh giáo hiện ra thành lời giáo huấn. Nói chung, đối với những ai mong cầu giải thoát, phương tiện thành tựu hết thảy lợi lạc trước mắt và lâu dài chính là thánh giáo của Đấng Chiến Thắng; bởi vì bậc lìa hết thảy sai lầm, không sót một chút nào, trong việc chỉ dạy hết thảy các điểm thủ xả, thì duy chỉ có đức Phật mà thôi.
+【19】Về việc hết thảy thánh giáo hiện ra thành lời giáo huấn. Nói chung, đối với những ai mong cầu giải thoát, phương tiện thành tựu hết thảy lợi lạc trước mắt và lâu dài chính là thánh giáo của Đấng Chiến Thắng; bởi vì bậc lìa hết thảy sai lầm, không sót một chút nào, trong việc chỉ dạy hết thảy các điểm thủ xả, thì duy chỉ có đức Phật mà thôi.
 
 Về điều ấy, trong *Bảo Tánh Luận* có nói:
 
@@ -447,7 +447,7 @@ Dù vậy, những người được hóa độ ở đời sau, do tự sức m�
 
 Vì thế, một khẩu quyết mà thanh tịnh hoàn toàn thì phải là thứ đem lại lòng xác quyết đối với các đại luận. Còn nếu dù có tu học khẩu quyết đến đâu mà vẫn không thể đem lại lòng xác quyết về nghĩa lý của lời Phật dạy và của các đại luận giải mật ý, hoặc lại chỉ ra con đường không phù hợp với những bộ ấy, thì chỉ có việc vứt bỏ mà thôi.
 
-Lại nữa, có kẻ biến các đại luận thành thứ pháp chỉ để giảng nói, không có yếu điểm tu hành, rồi hiểu rằng khẩu quyết — thứ chỉ ra yếu điểm tu hành, tức nghĩa tinh túy — lại nằm riêng ở một nơi khác, và do đó chấp rằng ngay trong chánh pháp có hai thứ tách rời nhau là pháp giảng nói và pháp tu chứng. Phải biết rằng chấp như thế là cản trở việc phát khởi lòng tôn kính lớn lao đối với kinh và mật điển vô cấu cùng các luận giải mật ý vô cấu; và vì chấp các bộ ấy là chỗ đáng khinh miệt, cho rằng "những thứ đó chỉ khoanh định phạm vi bên ngoài chứ không chỉ ra nghĩa lý bên trong", nên tích chứa nghiệp chướng của việc bỏ pháp.
+Lại nữa, có kẻ biến các đại luận thành thứ pháp chỉ để giảng nói, không có yếu điểm tu hành, rồi hiểu rằng khẩu quyết — thứ chỉ ra yếu điểm tu hành, tức nghĩa tinh túy — lại nằm riêng ở một nơi khác, và do đó chấp rằng ngay trong chánh pháp có hai thứ tách rời nhau là pháp giảng nói và pháp tu chứng. 【20】Phải biết rằng chấp như thế là cản trở việc phát khởi lòng tôn kính lớn lao đối với kinh và mật điển vô cấu cùng các luận giải mật ý vô cấu; và vì chấp các bộ ấy là chỗ đáng khinh miệt, cho rằng "những thứ đó chỉ khoanh định phạm vi bên ngoài chứ không chỉ ra nghĩa lý bên trong", nên tích chứa nghiệp chướng của việc bỏ pháp.
 
 Vì vậy, tuy lời giáo huấn tối thắng, không lừa dối, dành cho những ai mong cầu giải thoát chính là các đại luận, nhưng vì những lý do như tự mình trí lực yếu kém và những lý do khác nữa mà không thể chỉ nương vào chừng ấy bản văn để xác quyết chúng là lời giáo huấn tối thắng, cho nên phải đi tìm khẩu quyết, với ý nghĩ: "Ta sẽ nương vào khẩu quyết của bậc thánh mà tìm cầu lòng xác quyết đối với những bản văn ấy." Chứ không được chấp rằng "các bản văn chỉ khoanh định phạm vi bên ngoài nên không có tinh túy, còn các khẩu quyết mới chỉ ra nghĩa lý bên trong nên là tối thắng."
 
@@ -488,7 +488,7 @@ Về việc ác hạnh lớn tự nó dứt bặt. Như đã giảng trong *Di�
 
 — đã dạy như vậy.
 
-Còn tội của việc khước bỏ pháp thì hết sức nặng nề. Trong *Tam-muội Vương* có nói:
+【24】Còn tội của việc khước bỏ pháp thì hết sức nặng nề. Trong *Tam-muội Vương* có nói:
 
 > Người nào ở cõi Diêm-phù-đề này
 > Phá hủy hết thảy mọi bảo tháp,
@@ -516,7 +516,7 @@ Phần thứ nhất gồm có ba phần: tư duy về lợi ích của việc ng
 Thứ nhất. Trong *Phẩm Văn* có nói:
 
 > Nhờ nghe mà biết được các pháp,
-> Nhờ nghe mà quay lưng với điều ác,
+> 【25】Nhờ nghe mà quay lưng với điều ác,
 > Nhờ nghe mà đoạn trừ điều vô nghĩa,
 > Nhờ nghe mà chứng đắc niết-bàn.
 
@@ -578,7 +578,7 @@ Lìa phiền não khinh miệt là: cung kính đối với Pháp và người t
 
 Không khởi ý nơi năm điều là: dứt bỏ ý nghĩ "ta sẽ không nghe vị này" — [vì cho rằng vị ấy] phá giới, dòng dõi thấp kém, hình dung xấu xí, lời văn vụng về, và nói năng thô lỗ khó nghe.
 
-Trong *Bổn Sinh* cũng có nói:
+【27】Trong *Bổn Sinh* cũng có nói:
 
 > Hãy ngồi nơi chỗ ngồi thật thấp,
 > Phát khởi trọn vẹn vẻ rực rỡ của sự điều phục,
@@ -621,7 +621,7 @@ An lập nơi bậc thuyết pháp cái tưởng như thầy thuốc: ví như k
 > Bởi vậy, với ý nguyện mãnh liệt tìm cầu bồ-đề tối thượng,
 > Bậc trí quyết dẹp trừ ngã mạn;
 > Như đám người bệnh nương thầy thuốc để được chữa lành,
-> Hãy nương tựa thiện tri thức, không chút biếng trễ.
+> 【29】Hãy nương tựa thiện tri thức, không chút biếng trễ.
 
 Sinh khởi tưởng lời chỉ dạy là thuốc: ví như người bệnh hết mực trân quý thứ thuốc do thầy thuốc pha chế; cũng vậy, đối với lời giáo huấn và lời chỉ dạy mà bậc thuyết pháp đã nói, hãy thấy đó là điều tối quan trọng, dùng nhiều nỗ lực mà trân quý gìn giữ, không để nó phí hoại qua cửa ngõ quên lãng v.v.
 
@@ -634,7 +634,7 @@ Lại nữa, ví như với người bệnh hủi đã cụt tay chân, dùng m�
 > Với người hủi đã cụt chân tay,
 > Vài liều thuốc thang thì làm được gì?
 
-Đúng như lời ấy. Như thế, tưởng chính mình là người bệnh là điều hết sức trọng yếu, vì nếu có tưởng ấy thì các tưởng còn lại cũng sẽ khởi lên; còn nếu tưởng ấy chỉ thành lời nói suông thì sẽ trở thành chỉ nghe suông mà không thành tựu ý nghĩa của lời giáo huấn nhằm trừ bỏ phiền não — giống như người bệnh đi tìm thầy thuốc rồi lại không uống thuốc, chỉ chuyên lo việc pha chế thuốc, thì không thoát khỏi bệnh. Trong *Kinh Tam-muội Vương* có nói:
+Đúng như lời ấy. Như thế, tưởng chính mình là người bệnh là điều hết sức trọng yếu, vì nếu có tưởng ấy thì các tưởng còn lại 【30】cũng sẽ khởi lên; còn nếu tưởng ấy chỉ thành lời nói suông thì sẽ trở thành chỉ nghe suông mà không thành tựu ý nghĩa của lời giáo huấn nhằm trừ bỏ phiền não — giống như người bệnh đi tìm thầy thuốc rồi lại không uống thuốc, chỉ chuyên lo việc pha chế thuốc, thì không thoát khỏi bệnh. Trong *Kinh Tam-muội Vương* có nói:
 
 > Người ta mắc bệnh, thân phải chịu khổ,
 > Nhiều năm tháng, có khi chẳng thoát ra;
@@ -714,7 +714,7 @@ Và:
 
 > Như kẻ ngồi giữa đám người xem múa,
 > Kể lể công đức của một dũng sĩ nào khác,
-> Còn sự tinh cần của chính mình thì suy thoái —
+> Còn sự tinh cần của chính mình 【32】thì suy thoái —
 > Đó là những lỗi lầm của sự ưa nói suông.
 
 Và:
@@ -753,7 +753,7 @@ Thứ hai, cách thức giảng pháp gồm có bốn phần: tư duy về lợi
 
 Thứ nhất. Thuyết pháp mà không nhắm đến tài vật — như lợi dưỡng, cung kính, danh tiếng v.v. — thì lợi ích rất lớn. Trong *Kinh Khuyến Phát Thắng Ý Lạc* có nói:
 
-> Này Di-lặc, hai mươi điều này là lợi ích của sự bố thí pháp không có tài vật, tức là sự bố thí pháp nào được bố thí mà không mong cầu lợi dưỡng và cung kính. Hai mươi điều ấy là gì? Đó là: trở nên đầy đủ niệm; trở nên đầy đủ tuệ; trở nên đầy đủ trí; trở nên đầy đủ sự kiên định; trở nên đầy đủ trí tuệ; chứng ngộ được trí tuệ xuất thế gian; tham ái trở nên ít; sân hận trở nên ít; si mê trở nên ít; ma không tìm được sơ hở nơi người ấy; chư Phật Thế Tôn đoái nghĩ đến người ấy; các loài phi nhân hộ trì người ấy; chư thiên phát khởi uy quang nơi người ấy; những kẻ không thân thiện không tìm được sơ hở nơi người ấy; bạn bè thân thiết của người ấy không bị chia lìa; lời nói trở nên có uy tín; người ấy đạt được vô úy; tâm ý được nhiều an vui; được bậc trí khen ngợi; và sự bố thí pháp ấy của người ấy cũng trở nên xứng đáng để được nhớ nghĩ đến.
+> Này Di-lặc, hai mươi điều này là lợi ích của sự bố thí pháp không có tài vật, tức là sự bố thí pháp nào được bố thí mà không mong cầu lợi dưỡng và cung kính. Hai mươi điều ấy là gì? Đó là: trở nên đầy đủ niệm; trở nên đầy đủ tuệ; trở nên đầy đủ trí; trở nên đầy đủ sự kiên định; trở nên đầy đủ trí tuệ; chứng ngộ được trí tuệ xuất thế gian; tham ái trở nên ít; sân hận trở nên ít; 【34】si mê trở nên ít; ma không tìm được sơ hở nơi người ấy; chư Phật Thế Tôn đoái nghĩ đến người ấy; các loài phi nhân hộ trì người ấy; chư thiên phát khởi uy quang nơi người ấy; những kẻ không thân thiện không tìm được sơ hở nơi người ấy; bạn bè thân thiết của người ấy không bị chia lìa; lời nói trở nên có uy tín; người ấy đạt được vô úy; tâm ý được nhiều an vui; được bậc trí khen ngợi; và sự bố thí pháp ấy của người ấy cũng trở nên xứng đáng để được nhớ nghĩ đến.
 
 Những lợi ích như thế v.v. đã được nói trong nhiều bộ kinh; hãy từ tận đáy lòng phát khởi lòng tin ưa đối với các lợi ích ấy.
 
@@ -765,7 +765,7 @@ Về việc khởi lòng cung kính đối với bậc Đạo Sư và pháp. Cũ
 
 ### Giảng dạy với ý lạc và gia hành như thế nào
 
-Về việc giảng dạy với ý lạc và gia hành như thế nào. Ý lạc là: an lập năm tưởng được nói trong *Kinh Hải Tuệ Thỉnh Vấn* — nơi chính mình khởi tưởng thầy thuốc, nơi pháp khởi tưởng thuốc, nơi những người nghe pháp khởi tưởng người bệnh, nơi đức Như Lai khởi tưởng bậc chân nhân, và khởi tưởng rằng pháp thức sẽ trụ lâu dài — rồi tu tập [tâm] từ đối với hội chúng. Dứt bỏ sự ganh tị e sợ người khác cao hơn mình, sự biếng nhác cứ trì hoãn lần lữa, sự chán nản vì giảng đi giảng lại mà mệt mỏi, sự tự khoe mình và nói lỗi người, sự bỏn sẻn giấu giếm đối với pháp, và sự nhắm đến tài vật như cơm ăn áo mặc v.v.; rồi nghĩ rằng: "Chính phúc đức của việc giảng dạy nhằm cho mình và người khác đều thành Phật, đó là tư cụ an lạc của ta."
+Về việc giảng dạy với ý lạc và gia hành như thế nào. Ý lạc là: an lập năm tưởng được nói trong *Kinh Hải Tuệ Thỉnh Vấn* — nơi chính mình khởi tưởng thầy thuốc, nơi pháp 【35】khởi tưởng thuốc, nơi những người nghe pháp khởi tưởng người bệnh, nơi đức Như Lai khởi tưởng bậc chân nhân, và khởi tưởng rằng pháp thức sẽ trụ lâu dài — rồi tu tập [tâm] từ đối với hội chúng. Dứt bỏ sự ganh tị e sợ người khác cao hơn mình, sự biếng nhác cứ trì hoãn lần lữa, sự chán nản vì giảng đi giảng lại mà mệt mỏi, sự tự khoe mình và nói lỗi người, sự bỏn sẻn giấu giếm đối với pháp, và sự nhắm đến tài vật như cơm ăn áo mặc v.v.; rồi nghĩ rằng: "Chính phúc đức của việc giảng dạy nhằm cho mình và người khác đều thành Phật, đó là tư cụ an lạc của ta."
 
 Gia hành là: tắm rửa, giữ mình thanh khiết, mặc y phục sạch sẽ, ở nơi chốn sạch sẽ và vừa ý, ngồi trên pháp tòa cùng tọa cụ. Vì *Kinh Hải Tuệ Thỉnh Vấn* dạy rằng nếu tụng đọc chú tiêu diệt ma thì trong vòng một trăm do-tuần chung quanh nơi ấy, các loài ma và chư thiên thuộc dòng ma sẽ không đến, mà dù có đến cũng không thể gây chướng ngại — cho nên hãy tụng chú ấy. Rồi với vẻ mặt hết mực tươi sáng, hãy giảng nói cho đầy đủ những chi phần khiến xác quyết được ý nghĩa, tức thí dụ, luận cứ và giáo chứng. Trong *Diệu Pháp Liên Hoa* có nói:
 
@@ -809,7 +809,7 @@ Về sự khác biệt giữa đối tượng nào thì giảng và không giả
 
 — đã dạy như vậy. Lại nữa, trong *Luật Kinh* có dạy:
 
-> Đối với người đang ngồi, [mình] đứng mà giảng pháp thì không được. Đối với người đang nằm, [mình] ngồi mà giảng pháp thì không được. Đối với người ngồi trên tòa cao, [mình] ngồi trên tòa thấp mà giảng thì không được; tòa xấu và tòa tốt cũng như vậy. Đối với người đi phía trước, [mình] đi phía sau mà giảng thì không được. Đối với người đi trên đường, [mình] đi bên lề đường mà giảng thì không được. Đối với người trùm đầu, người [*brdzes pa* — nghĩa không rõ], người [*gzar ba* — nghĩa không rõ], người vắt chéo [y] nơi gáy, và người vắt chéo [y] sau ót thì chớ làm. Đối với người có đầu [*do ker* — nghĩa không rõ], người đội mũ, người đội mão, người đeo tràng hoa, và người quấn [khăn] thì không giảng. Đối với người cưỡi voi, cưỡi ngựa, người ngồi trên kiệu hay trên xe, và người mang giày thì không giảng. Đối với người tay cầm gậy, lọng, binh khí, gươm, khí giới, và người mặc áo giáp thì không giảng.
+> Đối với người đang ngồi, [mình] đứng mà giảng pháp thì không được. Đối với người đang nằm, [mình] ngồi mà giảng pháp thì không được. Đối với người ngồi trên tòa cao, [mình] ngồi trên tòa thấp mà giảng thì không được; tòa xấu và tòa tốt cũng như vậy. Đối với người đi phía trước, [mình] đi phía sau mà giảng thì không được. Đối với người đi trên đường, 【37】[mình] đi bên lề đường mà giảng thì không được. Đối với người trùm đầu, người [*brdzes pa* — nghĩa không rõ], người [*gzar ba* — nghĩa không rõ], người vắt chéo [y] nơi gáy, và người vắt chéo [y] sau ót thì chớ làm. Đối với người có đầu [*do ker* — nghĩa không rõ], người đội mũ, người đội mão, người đeo tràng hoa, và người quấn [khăn] thì không giảng. Đối với người cưỡi voi, cưỡi ngựa, người ngồi trên kiệu hay trên xe, và người mang giày thì không giảng. Đối với người tay cầm gậy, lọng, binh khí, gươm, khí giới, và người mặc áo giáp thì không giảng.
 
 — đã dạy như vậy. Đối với những trường hợp trái ngược với các điều ấy thì có thể giảng; và [những điều ngăn cấm này] là nói theo trường hợp người không bệnh.
 
@@ -836,7 +836,7 @@ Phần thứ nhất gồm có hai phần: giảng rộng đôi chút để phát
 Thứ nhất. Trong *Tinh Yếu Quyết Định Tập* có nói:
 
 > Người an trụ nơi chủng tánh ấy,
-> Sau khi nương tựa thiện tri thức chân chính,
+> 【39】Sau khi nương tựa thiện tri thức chân chính,
 
 Và trong tập ngữ lục của ngài Potowa do ngài Dölpa biên soạn cũng có nói:
 
@@ -890,7 +890,7 @@ Và trong *Luật Phân Biệt* cũng nói:
 
 > Đây là dây cương cho kẻ đáng điều phục mà chưa được điều phục.
 
-Đúng như những lời đã dạy ấy: cũng như người luyện ngựa dùng dây cương tốt mà điều phục con ngựa bất kham, [cũng vậy,] khi [tâm] chạy theo cảnh của các căn lệch lạc, giống như con ngựa bất kham, mà dấn vào những điều không nên làm, thì [giới] chế phục nó; và bằng nhiều nỗ lực, [giới] khiến nó dấn vào phía những điều đáng làm. Do tu học nơi giới như thế mà con ngựa của tâm được điều phục.
+Đúng như những lời đã dạy ấy: cũng như người luyện ngựa dùng dây cương tốt mà điều phục con ngựa bất kham, [cũng vậy,] khi [tâm] chạy theo cảnh của các căn lệch lạc, giống như con ngựa bất kham, mà dấn vào những điều không nên làm, thì 【41】[giới] chế phục nó; và bằng nhiều nỗ lực, [giới] khiến nó dấn vào phía những điều đáng làm. Do tu học nơi giới như thế mà con ngựa của tâm được điều phục.
 
 "Tịch tĩnh" là: như vậy, do nương vào chánh niệm và tỉnh giác nơi sự dấn vào và sự ngăn dứt đối với hành vi khéo làm và hành vi làm bậy, mà định học — trong đó tâm an trụ tịch tĩnh hướng vào bên trong — được sinh khởi.
 
@@ -909,7 +909,7 @@ Như vậy, dù đã đủ cả giáo lẫn chứng, nhưng nếu thấp kém h�
 > Do nương bậc trội hơn, sẽ đạt được [địa vị] tối thắng;
 > Vì thế hãy nương bậc trội hơn mình.
 > Giới, cận tịch tĩnh,
-> Cùng trí tuệ tối thắng hơn hết — vị nào đầy đủ những điều ấy,
+> Cùng trí tuệ 【42】tối thắng hơn hết — vị nào đầy đủ những điều ấy,
 > Bậc trội hơn nào là như vậy, nếu nương vị ấy,
 > Thì sẽ trở nên trội hơn cả bậc trội hơn.
 
@@ -946,7 +946,7 @@ Như vậy, kẻ không chuyên tâm thực hành các môn học mà chỉ nh�
 > Họ tuyên nói lời tán thán giới,
 > Mà chẳng tìm cầu giới.
 
-Và cũng dạy như vậy đối với ba điều: định, trí tuệ và giải thoát; rồi [nói tiếp]:
+【44】Và cũng dạy như vậy đối với ba điều: định, trí tuệ và giải thoát; rồi [nói tiếp]:
 
 > Ví như có người nào đó,
 > [Nói rằng] "Chiên-đàn thì như thế này,
@@ -1014,7 +1014,7 @@ Trong đó, "trụ nơi công chính" là không rơi về một bên. Bởi n�
 
 "Rơi về một bên" là tham luyến chủ trương của mình và sân giận đối với pháp phái của người khác. Điều như thế cần phải quán xét nơi tâm tương tục của chính mình rồi từ bỏ, vì trong *Bồ-tát Biệt Giải Thoát* có nói:
 
-> Hãy buông bỏ ý muốn của riêng mình, an trụ vững chắc nơi khuôn phép của thân giáo sư và A-xà-lê, và hãy cung kính.
+> Hãy buông bỏ ý muốn của riêng mình, an trụ vững chắc nơi khuôn phép của thân giáo sư và A-xà-lê, 【46】và hãy cung kính.
 
 Nếu nghĩ "chừng ấy đã đủ chăng?" thì [đáp:] tuy có trụ nơi công chính, nhưng nếu không có năng lực của trí phân biệt được hai điều — lời khéo giảng tức đạo chân chánh, và lời giảng dở tức cái chỉ tương tự như đạo — thì không kham làm bình chứa; cho nên cần phải có trí hiểu được hai điều ấy. Nhờ [trí] ấy mà bỏ đi phần không có tinh yếu và nhận lấy tinh yếu.
 
@@ -1038,7 +1038,7 @@ Phần thứ nhất gồm có ba phần: trình bày tổng quát về ý lạc 
 
 Thứ nhất. Điều được dạy trong *Kinh Gaṇḍavyūha* — rằng phải phụng sự thiện tri thức bằng chín tâm — chính là chỗ thâu tóm yếu điểm của hết thảy ý lạc nương tựa. Nếu thâu lại thì chín tâm ấy thành bốn.
 
-Buông bỏ quyền tự chủ của mình mà giao phó mình cho thượng sư, đó là tâm như người con khôn ngoan. Người con khôn ngoan ấy khi làm việc thì không tự tiện làm theo ý mình, mà trông theo ý cha, giao mình cho cha định đoạt và làm đúng theo lời cha; cũng vậy, [người học trò] trông theo ý của thiện tri thức. Trong *Kinh Bát-chu Tam-muội* cũng dạy:
+Buông bỏ quyền tự chủ của mình mà giao phó mình cho thượng sư, đó là tâm như người con khôn ngoan. Người con khôn ngoan ấy khi làm việc thì không tự tiện làm theo ý mình, mà trông theo ý cha, giao mình cho cha định đoạt và làm đúng theo lời cha; cũng vậy, 【48】[người học trò] trông theo ý của thiện tri thức. Trong *Kinh Bát-chu Tam-muội* cũng dạy:
 
 > Người ấy trong mọi việc hãy xả bỏ ý riêng của mình mà làm theo tâm ý của vị thiện tri thức ấy.
 
@@ -1054,7 +1054,7 @@ Về cách thức hành xử khi gánh vác gánh nặng ấy thì có sáu.
 
 Tâm như dãy núi vòng quanh: dù khổ nào xảy đến cũng không lay động. Khi ngài Chen-ngawa đang ở tại Rukpa, ngài Gompa Yönten Bar vì trời quá lạnh, thân thể suy yếu, nên thưa hỏi ngài Jowo Zhönnu Drak nên đi hay nên ở. [Ngài đáp:] "Dù có ở nơi chỗ nằm êm ấm trong tòa lầu Tối Thắng thì cũng được bao nhiêu? Việc nương tựa vị thiện tri thức Đại thừa mà nghe pháp thì ngoài lần này ra ông chưa từng gặp; vậy hãy cứ ngồi yên đó!" — ngài dạy như vậy.
 
-Tâm như người tôi tớ thế gian: gánh lấy hết thảy những việc thấp hèn mà làm không chút nao núng. Ở Tsang, chỗ trú của tất cả các vị dịch giả và paṇḍita lại nhằm phải một vũng bùn lầy; ngài Tönpa cởi bỏ hết y áo, quét sạch bùn cho đến không còn dấu vết nó từ đâu ra, rồi lấy đất trắng khô phủ lên. Trước mặt đức Jowo lại thành ra một mạn-đà-la. Đức Jowo dạy: "Ồ! Một người như ông thì ở Ấn Độ cũng có." — như thế đó.
+Tâm như người tôi tớ thế gian: gánh lấy hết thảy những việc thấp hèn mà làm không chút nao núng. Ở Tsang, chỗ trú của tất cả các vị dịch giả và paṇḍita 【49】lại nhằm phải một vũng bùn lầy; ngài Tönpa cởi bỏ hết y áo, quét sạch bùn cho đến không còn dấu vết nó từ đâu ra, rồi lấy đất trắng khô phủ lên. Trước mặt đức Jowo lại thành ra một mạn-đà-la. Đức Jowo dạy: "Ồ! Một người như ông thì ở Ấn Độ cũng có." — như thế đó.
 
 Tâm như người quét dọn: dứt trừ hết thảy ngã mạn và mạn tự cho mình lớn, tự giữ mình thấp hơn thượng sư. Ngài Geshe Tönpa dạy: "Trên gò ngã mạn, nước công đức không sinh ra được." Và ngài Chen-ngawa dạy: "Vào mùa ấm [*sos ka* — theo quy ước là mùa nóng, không phải mùa xuân], ông thử xem: màu xanh trồi lên từ đỉnh núi càng cao, hay từ chỗ trũng càng thấp?" — như thế đó.
 
@@ -1064,7 +1064,7 @@ Tâm như con chó: dù bị thượng sư khinh chê và mắng nhiếc cũng k
 
 Tâm như chiếc thuyền: dù dấn thân vào công việc của thượng sư đến đâu, cũng không chán mệt vì phải đi đi lại lại.
 
-Thứ hai, tu luyện lòng tin vốn là cội gốc. Trong *Đà-la-ni Ratnolkā* có dạy:
+【50】Thứ hai, tu luyện lòng tin vốn là cội gốc. Trong *Đà-la-ni Ratnolkā* có dạy:
 
 > Lòng tin đi trước, sinh khởi như người mẹ,
 > Giữ gìn và làm tăng trưởng hết thảy công đức,
@@ -1118,13 +1118,13 @@ Phải làm đúng như lời dạy ấy. Là như vầy: dù vị thượng sư
 
 Vì thế, nếu đã là thượng sư của mình thì dù có lỗi lầm lớn nhỏ thế nào đi nữa, cũng phải tư duy về sự tai hại của việc nghĩ ngợi từ phía ấy, khởi nhiều tâm dứt bỏ mà ngăn chặn nó. Nếu do sức của sự phóng dật, hoặc do phiền não nhiều v.v. mà việc nghĩ ra lỗi lầm có sinh khởi, thì ngay khi ấy cũng phải nỗ lực sám hối và phòng hộ. Làm như vậy thì dần dần [việc ấy] sẽ trở nên yếu sức.
 
-Lại nữa, đối với những vị có công đức như giới, hoặc nghe học nhiều, hoặc lòng tin v.v., thì tâm phải nắm giữ về phía ấy mà tư duy đến công đức. Khi đã quen như vậy rồi, thì dù có thấy lỗi lầm thỉnh thoảng xuất hiện, do tâm nắm giữ phía công đức nên [điều ấy] không trở thành chướng ngại cho lòng tin. Ví như đối với phía mà mình không ưa thích, dù có thấy nhiều công đức, nhưng vì cái tâm thấy lỗi có sức mạnh nên nó lấn át cái tâm thấy công đức; lại nữa, dù có thấy nơi mình nhiều lỗi lầm, nhưng nếu cái tâm thấy một đôi công đức của mình có sức mạnh, thì nó lấn át cái tâm thấy lỗi — cũng giống như vậy.
+【52】Lại nữa, đối với những vị có công đức như giới, hoặc nghe học nhiều, hoặc lòng tin v.v., thì tâm phải nắm giữ về phía ấy mà tư duy đến công đức. Khi đã quen như vậy rồi, thì dù có thấy lỗi lầm thỉnh thoảng xuất hiện, do tâm nắm giữ phía công đức nên [điều ấy] không trở thành chướng ngại cho lòng tin. Ví như đối với phía mà mình không ưa thích, dù có thấy nhiều công đức, nhưng vì cái tâm thấy lỗi có sức mạnh nên nó lấn át cái tâm thấy công đức; lại nữa, dù có thấy nơi mình nhiều lỗi lầm, nhưng nếu cái tâm thấy một đôi công đức của mình có sức mạnh, thì nó lấn át cái tâm thấy lỗi — cũng giống như vậy.
 
 Lại nữa, đức Jowo vĩ đại giữ kiến Trung Quán, còn Serlingpa giữ kiến Duy Thức chân tướng phái, nên xét từ phía kiến thì có hơn có kém; thế nhưng vì đã nương nơi vị ấy mà tìm được thứ đệ chung của đạo Đại thừa cùng với bồ-đề tâm, nên ngài giữ Serlingpa là bậc không ai sánh bằng trong các thượng sư — cũng giống như vậy.
 
 Về việc phải suy nghĩ từ phía công đức mà không được xét từ phía lỗi lầm: dù [vị ấy] có là người phá giới v.v. đi nữa, thì từ chỗ đã nghe được dù chỉ một bài kệ trở lên, cũng phải làm sao cho không có sự phân biệt. Vì trong *Kinh Bảo Vân* có nói:
 
-> Do hiểu rằng nếu nương tựa thượng sư thì điều thiện tăng trưởng và điều bất thiện suy giảm, nên đối với vị thân giáo sư — dù nghe học nhiều hay ít, dù biết hay không biết, dù có giới hay phá giới — cũng hãy khởi tưởng [vị ấy] là đấng Đạo Sư. Hoan hỷ và tin tưởng đối với đấng Đạo Sư như thế nào, thì đối với vị thân giáo sư cũng hãy tin tưởng và hoan hỷ như thế. Hãy khởi lòng kính trọng và lòng tôn kính đối với các vị A-xà-lê, nghĩ rằng: "nương vào đó, tư lương bồ-đề chưa viên mãn sẽ được viên mãn, phiền não chưa đoạn trừ sẽ được đoạn trừ", mà đạt được sự hoan hỷ và vui thích; rồi đối với thiện pháp thì hành xử thuận hợp với điều ấy, còn đối với bất thiện thì hành xử không thuận hợp.
+> Do hiểu rằng nếu nương tựa thượng sư thì điều thiện tăng trưởng và điều bất thiện suy giảm, nên đối với vị thân giáo sư — dù nghe học nhiều hay ít, dù biết hay không biết, dù có giới hay phá giới — cũng hãy khởi tưởng [vị ấy] là đấng Đạo Sư. Hoan hỷ và tin tưởng đối với đấng Đạo Sư như thế nào, thì đối với vị thân giáo sư cũng hãy tin tưởng và hoan hỷ như thế. Hãy khởi lòng kính trọng và lòng tôn kính đối với các vị A-xà-lê, nghĩ rằng: "nương vào đó, tư lương bồ-đề chưa viên mãn sẽ được viên mãn, 【53】phiền não chưa đoạn trừ sẽ được đoạn trừ", mà đạt được sự hoan hỷ và vui thích; rồi đối với thiện pháp thì hành xử thuận hợp với điều ấy, còn đối với bất thiện thì hành xử không thuận hợp.
 
 Và trong *Kinh Ugra Thỉnh Vấn* cũng có nói:
 
@@ -1134,7 +1134,7 @@ Và trong *Kinh Ugra Thỉnh Vấn* cũng có nói:
 
 Thứ ba, tùy niệm ân đức. Trong *Kinh Thập Pháp* có nói:
 
-> Hãy khởi tưởng [vị ấy] là: người tìm kiếm tôi, kẻ đã lang thang lâu dài trong luân hồi; người đánh thức tôi, kẻ đã lâu dài bị si che lấp mà ngủ vùi; người kéo tôi lên, kẻ đang chìm trong biển hữu; người chỉ đường lành cho tôi, kẻ đã bước vào đường ác; người cởi trói cho tôi, kẻ bị giam trong ngục tù của hữu; thầy thuốc cho tôi, kẻ đã lâu dài khốn khổ vì bệnh; đám mây mưa làm lắng dịu tôi, kẻ đang bị lửa tham dục v.v. thiêu đốt khắp cả.
+> Hãy khởi tưởng [vị ấy] là: người tìm kiếm tôi, kẻ đã lang thang lâu dài trong luân hồi; người đánh thức tôi, kẻ đã lâu dài bị si che lấp mà ngủ vùi; người kéo tôi lên, kẻ đang chìm trong biển hữu; người chỉ đường lành cho tôi, kẻ đã bước vào đường ác; người cởi trói cho tôi, kẻ bị giam trong ngục tù của hữu; thầy thuốc cho tôi, kẻ đã lâu dài khốn khổ vì bệnh; 【54】đám mây mưa làm lắng dịu tôi, kẻ đang bị lửa tham dục v.v. thiêu đốt khắp cả.
 
 Và trong *Kinh Gaṇḍavyūha* cũng có nói:
 
@@ -1194,7 +1194,7 @@ Thành tựu sự hoan hỷ [nơi ngài] thì có ba cửa: hiến dâng tài v�
 và:
 
 > Bằng việc thực hành đúng như lời bậc kiên định đã chỉ dạy,
-> Tâm của vị ấy được khiến cho hoan hỷ chân thật.
+> 【56】Tâm của vị ấy được khiến cho hoan hỷ chân thật.
 
 — đã dạy như vậy.
 
@@ -1232,7 +1232,7 @@ Hơn nữa, về phía người đệ tử, vì đây là cách tích tập tư 
 > Sự cúng dường để đáp đền ơn ích
 > Chính là thực hành đúng theo lời dạy bảo.
 
-Nếu hỏi: giả như phải thực hành đúng theo lời dạy của thượng sư, thì khi nương tựa vị thượng sư ấy mà [ngài] dẫn dắt vào con đường phi lý, hoặc khiến dấn thân vào những việc trái với ba luật nghi, thì có nên làm như thế chăng? Về điều này, trong *Luật Kinh* có nói: "Nếu [vị ấy] nói điều phi pháp thì phải khước từ." Và trong *Kinh Bảo Vân* cũng dạy: "Đối với pháp thiện thì hành xử thuận theo đó; đối với bất thiện thì hành xử không thuận theo." Cho nên đối với lời sai bảo ấy thì phải không nghe theo. Việc không dấn thân vào điều phi lý thì đã được nói rõ trong *Bổn Sinh* thứ mười hai.
+Nếu hỏi: giả như phải thực hành đúng theo lời dạy của thượng sư, thì khi nương tựa vị thượng sư ấy mà [ngài] 【57】dẫn dắt vào con đường phi lý, hoặc khiến dấn thân vào những việc trái với ba luật nghi, thì có nên làm như thế chăng? Về điều này, trong *Luật Kinh* có nói: "Nếu [vị ấy] nói điều phi pháp thì phải khước từ." Và trong *Kinh Bảo Vân* cũng dạy: "Đối với pháp thiện thì hành xử thuận theo đó; đối với bất thiện thì hành xử không thuận theo." Cho nên đối với lời sai bảo ấy thì phải không nghe theo. Việc không dấn thân vào điều phi lý thì đã được nói rõ trong *Bổn Sinh* thứ mười hai.
 
 Tuy vậy, không được lấy những điều ấy làm lý do mà sinh tâm bất kính, khinh thường hay chê bai ngài, v.v.; cho nên, đúng như *Ngũ Thập Tụng về Thượng Sư* đã dạy:
 
@@ -1260,7 +1260,7 @@ Cũng như vậy, trong *Kinh Gaṇḍavyūha* có nói:
 
 — và:
 
-> Này thiện nam tử, đối với vị bồ-tát đã bước vào lời chỉ dạy của thiện tri thức, chư Phật Thế Tôn sinh lòng hoan hỷ. Đối với vị bồ-tát an trụ không trái với lời của thiện tri thức, Nhất Thiết Trí trở nên gần. Đối với người không nghi ngờ lời của thiện tri thức, các thiện tri thức trở nên gần. Đối với người không lìa sự tác ý đến thiện tri thức, hết thảy mục đích đều hiện tiền.
+> Này thiện nam tử, đối với vị bồ-tát đã bước vào lời chỉ dạy của thiện tri thức, 【59】chư Phật Thế Tôn sinh lòng hoan hỷ. Đối với vị bồ-tát an trụ không trái với lời của thiện tri thức, Nhất Thiết Trí trở nên gần. Đối với người không nghi ngờ lời của thiện tri thức, các thiện tri thức trở nên gần. Đối với người không lìa sự tác ý đến thiện tri thức, hết thảy mục đích đều hiện tiền.
 
 — và trong *Bí Mật Bất Tư Nghì* cũng nói:
 
@@ -1291,7 +1291,7 @@ Ngài Potowa dạy: "Chúng ta phần nhiều có nguy cơ lớn là trở thàn
 
 #### Tai hại của việc không nương tựa
 
-Thứ năm, tai hại của việc không nương tựa. Nếu đã nhận [một vị] làm thiện tri thức rồi mà cách thức nương tựa lại sai lạc, thì ngay trong đời này sẽ bị nhiều bệnh tật và tà ma quấy hại, còn đời sau thì phải thọ nhận vô lượng khổ đau của ác thú trong vô lượng thời gian. Trong *Mật điển Quán Đảnh Kim Cang Thủ* có nói:
+Thứ năm, tai hại của việc không nương tựa. Nếu đã nhận [một vị] làm thiện tri thức rồi mà cách thức nương tựa lại sai lạc, thì ngay trong đời này sẽ bị nhiều bệnh tật và tà ma quấy hại, còn đời sau thì phải thọ nhận vô lượng khổ đau của ác thú trong vô lượng thời gian. 【61】Trong *Mật điển Quán Đảnh Kim Cang Thủ* có nói:
 
 > Bạch Thế Tôn, những ai khinh thường vị A-xà-lê thì quả dị thục của họ là thế nào?
 >
@@ -1332,7 +1332,7 @@ Thứ năm, tai hại của việc không nương tựa. Nếu đã nhận [mộ
 
 — đã dạy như vậy.
 
-Lại nữa, những công đức chưa sinh thì không sinh, mà những công đức đã sinh cũng thoái thất rồi mất đi. Trong *Hiện Tại Chư Phật Hiện Tiền Tam-muội* có nói:
+Lại nữa, những công đức chưa sinh thì không sinh, mà những công đức đã sinh cũng thoái thất 【62】rồi mất đi. Trong *Hiện Tại Chư Phật Hiện Tiền Tam-muội* có nói:
 
 > Nếu người ấy trú với tâm muốn làm khổ, hoặc [tâm] hèn hạ, hoặc tâm sân hận đối với vị kia, thì việc đạt được công đức là điều không thể có. Nếu không phát khởi cái tưởng [vị ấy là] bậc Đạo Sư thì cũng như vậy. Bởi lẽ, nếu đối với hạng người thuộc ba thừa và với vị tỳ-kheo thuyết pháp mà không phát khởi lòng cung kính cùng cái tưởng [vị ấy là] thượng sư hay bậc Đạo Sư, thì việc những người ấy đạt được pháp chưa đạt, hoặc pháp đã đạt không bị mất đi, là điều không thể có; bởi vì do bất kính mà pháp phải suy tàn.
 
@@ -1376,7 +1376,7 @@ Ngài Geshe Tönpa dạy rằng: "Một kẻ hạng kém, dù kết giao với b
 
 #### Tóm lược ý nghĩa của những điều ấy
 
-Thứ sáu, tóm lược ý nghĩa của những điều ấy. Như vậy, lời giáo huấn được truyền tụng rộng rãi với tên gọi "du-già thượng sư" cũng cần được hiểu đúng như đã giảng ở trước; chứ chỉ tập luyện sở duyên chừng một đôi thời khóa thì chẳng đi đến đâu cả. Nếu tự đáy lòng hành pháp thì phải nương tựa lâu dài nơi bậc thiện tri thức chân chánh dẫn dắt không sai lầm. Và khi ấy, đúng như lời ngài Chekawa dạy: "Vừa mới muốn nương tựa thượng sư thì đã có mối lo về sự xả bỏ" — nếu nương tựa mà không biết cách nương tựa thì chẳng những không được lợi mà còn chuốc lấy tổn thất. Bởi các phần pháp về việc nương tựa thiện tri thức này xem ra quan trọng hơn bất cứ điều gì khác và là cội gốc của mục đích rốt ráo, nên [ở đây] đã trích dẫn từ thánh giáo vô cấu và từ các luận giải mật ý, lại trang nghiêm bằng lời dạy của các bậc chân nhân dốc lòng vào ý nghĩa của thánh giáo, mà trình bày một trình tự đại lược, dễ hiểu và khiến tâm tin phục. Còn rộng hơn thì nên tìm biết từ nơi khác.
+Thứ sáu, tóm lược ý nghĩa của những điều ấy. Như vậy, lời giáo huấn được truyền tụng rộng rãi với tên gọi "du-già thượng sư" cũng cần được hiểu đúng như đã giảng ở trước; chứ chỉ tập luyện sở duyên chừng một đôi thời khóa thì chẳng đi đến đâu cả. Nếu tự đáy lòng hành pháp thì phải nương tựa lâu dài nơi bậc thiện tri thức chân chánh dẫn dắt không sai lầm. Và khi ấy, đúng như lời ngài Chekawa dạy: "Vừa mới muốn nương tựa thượng sư thì đã có mối lo về sự xả bỏ" — nếu nương tựa mà không biết cách nương tựa thì chẳng những không được lợi mà còn chuốc lấy tổn thất. Bởi các phần pháp về việc nương tựa thiện tri thức này xem ra quan trọng hơn bất cứ điều gì khác và là cội gốc của mục đích rốt ráo, 【64】nên [ở đây] đã trích dẫn từ thánh giáo vô cấu và từ các luận giải mật ý, lại trang nghiêm bằng lời dạy của các bậc chân nhân dốc lòng vào ý nghĩa của thánh giáo, mà trình bày một trình tự đại lược, dễ hiểu và khiến tâm tin phục. Còn rộng hơn thì nên tìm biết từ nơi khác.
 
 Chúng ta phiền não hết sức thô nặng, lại không biết cách nương tựa thượng sư, mà dù có biết cũng không thực hành; nơi những người nghe pháp với nhiều [vị thầy] thì phát sinh vô lượng điều đáng chê trách liên quan đến việc nương tựa thượng sư, mà đối với những điều ấy tâm sám hối, tâm phòng hộ và những tâm tương tự lại khó phát khởi. Vì vậy, phải nhận biết các lợi ích và các tai hại như đã giảng ở trước rồi suy xét đi suy xét lại; phải chí thành tự đáy lòng sám hối những gì từ các đời trước đến nay đã không được đúng như cách nương tựa, và phát khởi thật nhiều tâm phòng hộ. Các pháp khiến [mình] thành bình chứa xứng hợp cũng phải gắng sức thành tựu nơi chính mình. Cũng phải suy xét nhiều lần về các tướng viên mãn trọn vẹn của bậc thiện tri thức; rồi để làm nhân cho việc được [bậc thầy] như thế nhiếp thọ cho đến khi chứng đắc bồ-đề, phải tích tập tư lương và phát thật nhiều lời nguyện. Nếu làm như vậy thì chẳng bao lâu sẽ trở nên giống như Phật tử Thường Đề, bậc có dũng khí tối thượng, và như đồng tử Thiện Tài, người tìm cầu thiện tri thức mà không hề biết chán.
 
@@ -1396,17 +1396,17 @@ Hãy quán tưởng trong hư không phía trước có chư thượng sư của
 
 Kế đến, nếu không có các trợ duyên — tức việc tích tập tư lương, vốn là thuận duyên cho đạo sinh khởi trong tâm tương tục, và việc tịnh trừ các chướng, vốn là nghịch duyên — thì dù có nỗ lực nơi riêng một việc duy trì sở duyên và hành tướng, tức nhân cận thủ, đạo cũng rất khó sinh khởi. Vì vậy phải tịnh hóa tâm tương tục bằng pháp bảy chi, vốn thâu tóm các yếu điểm của việc tích tập và tịnh trừ.
 
-Trong đó, về chi lễ lạy: sự lễ lạy gồm chung cả ba cửa là một bài kệ, bài "Bao nhiêu [vị] nào…" — [nghĩa là] không phải chư Phật của riêng một phương trong thế giới hay của riêng một thời, mà là duyên đến hết thảy chư Đấng Chiến Thắng đang trụ khắp mười phương, đã đến trong thời trước, sẽ đến trong thời vị lai, và đang hiện hữu trong hiện tại; rồi, không phải như kiểu chạy trên bãi đá lở [*g.yam* — thành ngữ, nghĩa không rõ] của người khác, mà từ tận đáy lòng, đem cả ba cửa cung kính lễ lạy. Lại nữa, A-xà-lê Yeshé Dé giải thích trong luận thích rằng: dù chỉ lễ lạy một đức Phật thôi thì phúc đức cũng đã vô lượng, huống chi lễ lạy khi duyên đến chừng ấy chư Phật.
+Trong đó, về chi lễ lạy: sự lễ lạy gồm chung cả ba cửa là một bài kệ, bài "Bao nhiêu [vị] nào…" — 【66】[nghĩa là] không phải chư Phật của riêng một phương trong thế giới hay của riêng một thời, mà là duyên đến hết thảy chư Đấng Chiến Thắng đang trụ khắp mười phương, đã đến trong thời trước, sẽ đến trong thời vị lai, và đang hiện hữu trong hiện tại; rồi, không phải như kiểu chạy trên bãi đá lở [*g.yam* — thành ngữ, nghĩa không rõ] của người khác, mà từ tận đáy lòng, đem cả ba cửa cung kính lễ lạy. Lại nữa, A-xà-lê Yeshé Dé giải thích trong luận thích rằng: dù chỉ lễ lạy một đức Phật thôi thì phúc đức cũng đã vô lượng, huống chi lễ lạy khi duyên đến chừng ấy chư Phật.
 
 Trong sự lễ lạy riêng theo từng cửa của ba cửa, lễ lạy bằng thân là một bài kệ, bài "Hạnh tốt lành…": quán tưởng hết thảy chư Đấng Chiến Thắng được thâu nhiếp theo phương và theo thời hiện ra nơi cảnh của ý như đang hiện diện trực tiếp, rồi hóa hiện thân mình thành số lượng ngang bằng số vi trần của các cõi mà lễ lạy. Lại nữa, [việc ấy làm được] là do phát khởi sức mạnh của lòng tin sâu xa nơi hạnh tốt lành của các đối tượng [lễ lạy], và do sức mạnh ấy thúc đẩy. A-xà-lê Yeshé Dé dạy: nếu lễ lạy bằng một thân mà phúc đức đã lớn, thì lễ lạy bằng chừng ấy thân, phúc đức cực kỳ lớn.
 
 Lễ lạy bằng ý là một bài kệ, bài "Trên một vi trần…": trên mỗi một vi trần đều có chư Phật với số lượng ngang bằng số của hết thảy vi trần, an tọa giữa vòng chư bồ-tát quyến thuộc vây quanh; đối với các ngài, hãy khởi lòng tin ưa do tùy niệm công đức của các ngài.
 
-Lễ lạy bằng khẩu là một bài kệ, bài "Lời tán thán [các vị] ấy…": hãy làm đúng như đã dạy — mỗi một thân hóa hiện vô lượng đầu, mỗi một đầu hóa hiện vô lượng lưỡi — rồi dùng âm thanh êm dịu mà tuyên nói những lời tán thán không cùng tận về công đức của các đối tượng [lễ lạy]. Ở đây, "âm" là lời tán thán; còn "chi phần" của nó là nhân của nó, tức cái lưỡi. "Biển" là từ chỉ sự nhiều.
+Lễ lạy bằng khẩu là một bài kệ, bài "Lời tán thán [các vị] ấy…": hãy làm đúng như đã dạy — mỗi một thân hóa hiện vô lượng đầu, mỗi một đầu hóa hiện vô lượng lưỡi — 【67】rồi dùng âm thanh êm dịu mà tuyên nói những lời tán thán không cùng tận về công đức của các đối tượng [lễ lạy]. Ở đây, "âm" là lời tán thán; còn "chi phần" của nó là nhân của nó, tức cái lưỡi. "Biển" là từ chỉ sự nhiều.
 
 Về chi cúng dường: cúng dường hữu thượng là hai bài kệ, bài "Hoa thù thắng…". "Hoa thù thắng" là những đóa hoa rời kỳ diệu ở cõi trời, cõi người v.v. "Tràng hoa" là các loại hoa khác nhau xen kẽ mà xâu lại; cả hai thứ ấy đều gồm hết thảy loại thật lẫn loại làm ra. "Nhạc" là các nhạc cụ có dây, loại thổi, loại gõ và loại khua vang. "Hương xoa" là thứ hồ làm bằng hương thơm. "Lọng tối thắng" là cái tối thắng trong các thứ lọng. "Đèn" là những thứ như bơ thơm v.v. vốn thơm ngát và sáng tỏ, cùng những bảo châu quý giá phát sáng. "Hương đốt" là hương đốt loại được pha chế và loại chỉ có một thứ. "Y phục thù thắng" là cái tối thắng trong hết thảy y phục. "Hương tối thắng" thì nói là nước thơm được dâng làm nước cúng, tức là nước được ướp hương mà mùi thơm tỏa khắp cõi tam thiên, v.v. "Bột hương thành đống" là bột hương thơm được rải ra và được vo thành nắm có thể đốt, hoặc là các lớp bột màu rải xen nhau để vẽ mạn-đà-la; bề rộng và bề cao của chúng ngang bằng núi Tu-di. "Sự bày biện" là chữ được ghép vào cuối tất cả các thứ trên, và chỉ sự nhiều, sự trang hoàng cùng sự đa dạng.
 
-Cúng dường vô thượng là một bài kệ, bài "Những phẩm cúng dường nào…": vì cúng dường hữu thượng là cúng dường của thế gian, nên ở đây là đủ mọi thứ tốt đẹp do các bậc có uy lực như chư bồ-tát v.v. hóa hiện ra. Hai câu kệ cuối thì được ghép vào tất cả những chỗ chưa đủ của hai phần trên, và chỉ rõ động cơ cùng đối tượng của việc lễ lạy và cúng dường.
+Cúng dường vô thượng là một bài kệ, bài "Những phẩm cúng dường nào…": vì cúng dường hữu thượng là cúng dường của thế gian, nên ở đây là đủ mọi thứ tốt đẹp do các bậc có uy lực như chư bồ-tát v.v. hóa hiện ra. 【68】Hai câu kệ cuối thì được ghép vào tất cả những chỗ chưa đủ của hai phần trên, và chỉ rõ động cơ cùng đối tượng của việc lễ lạy và cúng dường.
 
 Chi sám hối tội lỗi là một bài kệ, bài "Tham dục…": nương vào nhân là ba độc, [tạo tác] qua ba nền tảng là thân v.v.; còn tự tánh thì là "do con đã làm" — điều ấy lại gồm việc chính mình trực tiếp bắt tay vào việc ấy, việc sai khiến người khác làm, và việc tùy hỷ với điều người khác đã làm. Câu thâu tóm chung hết thảy những điều ấy là câu "bao nhiêu điều có…". Nếu nhớ đến lỗi lầm của những điều ấy, với tâm hối tiếc điều đã làm trước và phòng hộ điều về sau, mà sám hối từ tận đáy lòng, thì sự tăng trưởng của những gì đã tạo trước kia sẽ dứt, và những gì về sau cũng đứt dòng.
 
@@ -1420,17 +1420,17 @@ Chi hồi hướng là bài kệ bắt đầu bằng câu "Đảnh lễ và…":
 
 Như vậy, năm điều — đảnh lễ, cúng dường, khuyến thỉnh, khẩn cầu và tùy hỷ — là việc tích tập tư lương thuận duyên; sám hối là việc tịnh trừ các chướng nghịch duyên; còn một phần của tùy hỷ, tức tu tập niềm hoan hỷ đối với điều thiện do chính mình đã làm, thì cũng trở thành sự tăng trưởng điều thiện của chính mình. Do hồi hướng, các điều thiện đã tích tập, đã tịnh trừ và đã tăng trưởng, dù ít cũng được tăng lên thành rất nhiều; và những điều thiện vốn sẽ cạn kiệt sau khi đã trổ quả nhất thời thì cũng được làm cho không bao giờ cạn kiệt. Tóm lại, tất cả thu vào ba điều: tích tập, tịnh trừ, và tăng trưởng khiến cho không cạn kiệt.
 
-Sau đó, làm cho sở duyên hiện rõ, dâng cúng mạn-đà-la, rồi khẩn cầu nhiều lần với ý nguyện mãnh liệt rằng: "Xin gia trì cho hết thảy các thứ tâm điên đảo — từ chỗ không cung kính thiện tri thức cho đến chỗ chấp tướng nơi hai ngã — mau chóng dứt bặt; cho hết thảy các thứ tâm không điên đảo — từ chỗ cung kính thiện tri thức cho đến chỗ chứng ngộ thật tánh vô ngã — dễ dàng sinh khởi; và cho hết thảy chướng ngại bên ngoài lẫn bên trong đều lắng dịu hoàn toàn."
+Sau đó, làm cho sở duyên hiện rõ, dâng cúng mạn-đà-la, rồi khẩn cầu nhiều lần với ý nguyện mãnh liệt rằng: "Xin gia trì cho hết thảy các thứ tâm điên đảo — từ chỗ không cung kính thiện tri thức cho đến chỗ chấp tướng nơi hai ngã — mau chóng dứt bặt; cho hết thảy các thứ tâm không điên đảo — từ chỗ cung kính thiện tri thức cho đến chỗ chứng ngộ thật tánh vô ngã — 【70】dễ dàng sinh khởi; và cho hết thảy chướng ngại bên ngoài lẫn bên trong đều lắng dịu hoàn toàn."
 
 Về việc duy trì như thế nào trong phần chính, gồm có hai cách: cách duy trì nói chung, và cách duy trì trong trường hợp này.
 
 Thứ nhất. Việc duy trì sở duyên và hành tướng — tức cái thường được gọi là "tu", nghĩa là đặt tâm vào sở duyên thiện hết lần này đến lần khác — là vì mục đích này: từ vô thủy đến nay ta vẫn ở dưới quyền của chính tâm mình, còn tâm thì chẳng ở dưới quyền của ta; mà tâm ấy lại thuận theo các chướng như phiền não v.v. nên làm sinh khởi hết thảy lỗi lầm; nay phải khiến cho tâm ấy trở thành ở dưới quyền của mình, và làm cho nó có thể được sai sử tùy ý nơi sở duyên thiện. Hơn nữa, nếu cứ vớ được sở duyên nào thì duy trì sở duyên ấy, thì dù có nghĩ rằng "ta sẽ đặt tâm vào các sở duyên thiện theo ý mình, chừng ấy số lượng và theo thứ tự như thế này" mà đặt tâm, tâm cũng chẳng chịu đi [như thế]; như vậy sẽ thành chướng ngại lớn cho việc sai sử tâm nơi sở duyên thiện theo ý mình. Và vì ngay từ đầu đã thành nếp như thế, nên đời sống sa-môn của trọn một đời sẽ trở nên có lỗi. Vì vậy, trước hết phải quyết định cho chắc số lượng và thứ tự của các sở duyên sẽ duy trì. Kế đó, hãy phát khởi vài lần sức thúc đẩy mạnh mẽ với ý nghĩ "ta sẽ không để tâm đi khác với điều đã quyết định"; rồi duy trì [sở duyên] với chánh niệm và tỉnh giác, không thêm không bớt so với điều đã quyết định.
 
-Cách duy trì trong trường hợp này: trước hết, hãy tư duy về lợi ích của việc nương tựa — như mau chóng thành Phật v.v. — và về tai hại của việc không nương tựa — như sinh ra khổ trong đời này và đời sau v.v. Kế đó, hãy phát khởi nhiều lần cái tâm ngăn giữ với ý nghĩ "ta quyết chẳng bao giờ để buột khởi lên cái tâm nhìn thấy lỗi nơi thượng sư"; rồi tư duy về các công đức mà tự mình nhận biết được — như giới, định, trí tuệ, văn v.v. — mà tu tập cho đến khi nào đức tin mang hành tướng của tâm trong sáng sinh khởi. Kế đó, hãy tư duy về những ân đức đã đem lại lợi ích và sẽ đem lại lợi ích cho mình, đúng như đã trích dẫn từ các kinh ở phần trước, mà tu tập cho đến khi nào lòng cung kính tự đáy lòng sinh khởi.
+【71】Cách duy trì trong trường hợp này: trước hết, hãy tư duy về lợi ích của việc nương tựa — như mau chóng thành Phật v.v. — và về tai hại của việc không nương tựa — như sinh ra khổ trong đời này và đời sau v.v. Kế đó, hãy phát khởi nhiều lần cái tâm ngăn giữ với ý nghĩ "ta quyết chẳng bao giờ để buột khởi lên cái tâm nhìn thấy lỗi nơi thượng sư"; rồi tư duy về các công đức mà tự mình nhận biết được — như giới, định, trí tuệ, văn v.v. — mà tu tập cho đến khi nào đức tin mang hành tướng của tâm trong sáng sinh khởi. Kế đó, hãy tư duy về những ân đức đã đem lại lợi ích và sẽ đem lại lợi ích cho mình, đúng như đã trích dẫn từ các kinh ở phần trước, mà tu tập cho đến khi nào lòng cung kính tự đáy lòng sinh khởi.
 
 Về việc phải làm lúc kết thúc: hãy đem các điều thiện đã tích tập, qua cửa của *Phổ Hiền Hạnh Nguyện*, *Bảy Mươi Lời Nguyện* v.v., mà hồi hướng với ý nguyện mãnh liệt vào các mục tiêu nguyện cầu nhất thời và rốt ráo. Theo cách như thế mà tu tập trong bốn thời: rạng sáng, buổi sáng, buổi chiều và đầu hôm. Hơn nữa, lúc đầu nếu thời tu kéo dài thì dễ rơi vào quyền lực của trầm một và trạo cử; mà một khi đã quen như vậy thì tâm khó sửa đổi, cho nên hãy làm cho thời tu ngắn mà số thời thì nhiều. Nếu cắt ngang lúc ý muốn tu vẫn còn đang tiếp nối, thì mỗi thời sau cũng vẫn thấy muốn bước vào tu. Bằng không thì, như có lời dạy: "vừa trông thấy chỗ ngồi đã thấy buồn nôn". Khi đã được đôi phần vững vàng thì kéo dài thời tu ra. Trong tất cả những điều ấy, cũng phải duy trì [việc tu] sao cho lìa khỏi lỗi dụng công quá căng và quá chùng; nhờ vậy trở ngại sẽ ít, mà những thứ như quá mệt mỏi, trầm một và hôn trầm v.v. cũng sẽ lắng dịu.
 
-Về việc phải làm giữa các thời tu: nói chung thì có nhiều điều như lễ lạy, nhiễu quanh, tụng đọc v.v., nhưng điều chính yếu thích hợp ở đây là: nếu đã nỗ lực trong chính thời tu mà vào lúc giữa các thời, sau khi xả thời, lại không nương vào chánh niệm và tỉnh giác đối với sở duyên và hành tướng cần duy trì, cứ buông thả lung tung, thì sự tăng trưởng sẽ rất ít; cho nên ngay cả giữa các thời tu cũng phải đọc các pháp trình bày điều ấy và nhớ nghĩ đi nhớ nghĩ lại. Hãy tích tập từ nhiều cửa các tư lương là thuận duyên cho công đức sinh khởi, và cũng tịnh trừ từ nhiều cửa các chướng là nghịch duyên. Làm nền tảng cho hết thảy, hãy bằng mọi cách mình biết được mà nỗ lực nơi việc giữ gìn các luật nghi đã thọ nhận. Cũng có [vị] đặt cho ba điều — luyện tâm nơi sở duyên và hành tướng, luật nghi và giới điều, và tích tập tư lương — cái tên "ba gộp làm một" mà hướng dẫn [người tu]. Ngoài ra, cũng phải tu học bốn tư lương làm nhân khiến đạo tịnh chỉ và thắng quán dễ dàng sinh khởi, đó là: phòng hộ căn môn; hành động với tỉnh giác; biết lượng ăn uống; và không ngủ mà tinh cần nơi du-già, cùng với việc khi ngủ thì phải làm thế nào. Về điều thứ nhất, có năm phần. Nhờ cái gì mà phòng hộ: là phòng hộ chánh niệm khắp cả, và thường xuyên tinh cần nơi chánh niệm. Trong đó, điều thứ nhất là duy trì đi duy trì lại, không quên mất, các pháp nói về việc phòng hộ căn môn. Điều thứ hai là duy trì chánh niệm ấy một cách liên tục và cung kính. Phòng hộ cái gì: là sáu căn. Phòng hộ khỏi cái gì: là khỏi sáu cảnh khả ái và không khả ái.
+Về việc phải làm giữa các thời tu: nói chung thì có nhiều điều như lễ lạy, nhiễu quanh, tụng đọc v.v., 【72】nhưng điều chính yếu thích hợp ở đây là: nếu đã nỗ lực trong chính thời tu mà vào lúc giữa các thời, sau khi xả thời, lại không nương vào chánh niệm và tỉnh giác đối với sở duyên và hành tướng cần duy trì, cứ buông thả lung tung, thì sự tăng trưởng sẽ rất ít; cho nên ngay cả giữa các thời tu cũng phải đọc các pháp trình bày điều ấy và nhớ nghĩ đi nhớ nghĩ lại. Hãy tích tập từ nhiều cửa các tư lương là thuận duyên cho công đức sinh khởi, và cũng tịnh trừ từ nhiều cửa các chướng là nghịch duyên. Làm nền tảng cho hết thảy, hãy bằng mọi cách mình biết được mà nỗ lực nơi việc giữ gìn các luật nghi đã thọ nhận. Cũng có [vị] đặt cho ba điều — luyện tâm nơi sở duyên và hành tướng, luật nghi và giới điều, và tích tập tư lương — cái tên "ba gộp làm một" mà hướng dẫn [người tu]. Ngoài ra, cũng phải tu học bốn tư lương làm nhân khiến đạo tịnh chỉ và thắng quán dễ dàng sinh khởi, đó là: phòng hộ căn môn; hành động với tỉnh giác; biết lượng ăn uống; và không ngủ mà tinh cần nơi du-già, cùng với việc khi ngủ thì phải làm thế nào. Về điều thứ nhất, có năm phần. Nhờ cái gì mà phòng hộ: là phòng hộ chánh niệm khắp cả, và thường xuyên tinh cần nơi chánh niệm. Trong đó, điều thứ nhất là duy trì đi duy trì lại, không quên mất, các pháp nói về việc phòng hộ căn môn. Điều thứ hai là duy trì chánh niệm ấy một cách liên tục và cung kính. Phòng hộ cái gì: là sáu căn. Phòng hộ khỏi cái gì: là khỏi sáu cảnh khả ái và không khả ái.
 
 Về việc phòng hộ như thế nào thì có hai. Việc giữ gìn các căn là: sau khi sáu thức đã sinh khởi nương vào cảnh và căn, ý thức [khiến] tham luyến và sân hận sinh khởi đối với sáu cảnh khả ái và sáu cảnh không khả ái… 【73】[tham và sân] sẽ sinh khởi; [cho nên] phải dùng nỗ lực lớn mà phòng hộ để chúng không sinh khởi từ những [cảnh] ấy.
 
@@ -1454,7 +1454,7 @@ Trong đó, thân nghiệp trong năm [nghiệp] đầu là: đi ra nơi khác, 
 
 Nghiệp của mắt là: cái liếc nhìn đôi chút nơi sự thấy các cảnh khác nhau mà không đưa ý đi trước; và cái nhìn nơi hành tướng của cái được thấy sau khi đã đưa ý đi trước.
 
-Nghiệp của hết thảy các chi lớn và chi nhỏ là: duỗi ra và co lại các chi lớn cùng chi nhỏ.
+Nghiệp của hết thảy các chi lớn và chi nhỏ 【74】là: duỗi ra và co lại các chi lớn cùng chi nhỏ.
 
 Nghiệp của pháp y và bình bát là: thọ dụng và mang giữ ba pháp y cùng bình bát.
 
@@ -1468,7 +1468,7 @@ Ngữ nghiệp là: thọ nhận khẩu truyền của mười hai phần thánh
 
 Hai nghiệp — nghiệp ban ngày và nghiệp ban đêm — thì được chỉ ra bằng [lời] "ban ngày và vào phần đầu, phần cuối của đêm thì không ngủ"; và do đó thân nghiệp cùng ngữ nghiệp cũng được chỉ ra. Còn do nói "ngủ" thì chỉ riêng nghiệp ban đêm và ý nghiệp được chỉ ra.
 
-Hành xử với tỉnh giác đối với mười [nền tảng] ấy là: khi khởi sự một nghiệp thuộc sự đi lại hoặc thuộc sự sinh hoạt, thì ngay từ đầu an trú chánh niệm nơi nghiệp ấy và hành xử một cách bất phóng dật; rồi do được hai điều ấy nắm giữ, [nền tảng] cần được xét bằng hành tướng nào và theo cách thức nào, thì dùng chính hành tướng ấy mà nhận biết và thấu hiểu đúng theo cách thức ấy.
+Hành xử với tỉnh giác đối với mười [nền tảng] ấy là: khi khởi sự một nghiệp thuộc sự đi lại hoặc thuộc sự sinh hoạt, thì ngay từ đầu an trú chánh niệm nơi nghiệp ấy và hành xử một cách bất phóng dật; rồi do được hai điều ấy nắm giữ, [nền tảng] cần được xét bằng hành tướng nào và theo cách thức nào, 【75】thì dùng chính hành tướng ấy mà nhận biết và thấu hiểu đúng theo cách thức ấy.
 
 Điều đó lại có bốn hành tướng.
 
@@ -1482,7 +1482,7 @@ Thứ tư là: những nghiệp ấy có bao nhiêu, cần được xét bằng 
 
 Tóm lại: sau khi nhớ nghĩ hết thảy mọi hành vi ban ngày và ban đêm có chừng nào, thì phải biết trong đó điều nào nên làm và điều nào không nên làm; và ngay cả lúc tiến hành hay dừng lại cũng [nghĩ] rằng "nay ta đang tiến hành hoặc dừng lại điều này điều này" — như vậy là an trú tỉnh giác nơi hết thảy.
 
-Có dạy rằng nếu làm như thế thì ngay trong đời này cũng không bị đọa tội làm nhiễm ô, sau khi chết cũng không rơi vào ác đạo, và an trú nơi tập hợp các nhân để chứng đắc những chứng ngộ của đạo mà mình chưa chứng đắc.
+Có dạy rằng nếu làm như thế thì ngay trong đời này cũng không bị đọa tội 【76】làm nhiễm ô, sau khi chết cũng không rơi vào ác đạo, và an trú nơi tập hợp các nhân để chứng đắc những chứng ngộ của đạo mà mình chưa chứng đắc.
 
 Hai điều này — điều này và sự thu thúc căn môn — được trình bày đúng theo cách bậc Thánh Vô Trước đã dẫn kinh rồi giải thích ý nghĩa của kinh ấy. Có dạy rằng nếu nỗ lực nơi hai điều này thì trong hết thảy mọi công phu tu thiện đều sẽ có được sự tăng tiến khác hẳn với những [cách] khác; và đặc biệt, giới hoàn toàn thanh tịnh, cùng định vô phân biệt của tâm được nhiếp thâu trong tịnh chỉ và thắng quán, sẽ dễ dàng thành tựu. Cho nên hãy nỗ lực.
 
@@ -1514,7 +1514,7 @@ Lỗi của sự không có tự do là: những kẻ ăn thức ăn của ngư�
 
 Dẫu vậy vẫn có đôi chút lợi ích, đó là: nương nơi thức ăn mà thân được duy trì. Nhưng chỉ vì chừng ấy thôi mà thọ dụng thức ăn thì không hợp lẽ, cho nên [phải nghĩ]: "Nương nơi việc thân được duy trì, ta sẽ thành tựu phạm hạnh một cách chân chánh."
 
-Những người bố thí và những vị thí chủ đã vắt da, thịt và máu [của mình], vì mong cầu quả đặc biệt mà bố thí; [hãy] nghĩ rằng "ta sẽ làm cho việc mà những vị ấy đã làm kia trở thành quả lớn", nghĩ như vậy rồi mới thọ dụng.
+Những người bố thí và những vị thí chủ đã vắt da, thịt và máu [của mình], vì mong cầu quả đặc biệt mà bố thí; 【78】[hãy] nghĩ rằng "ta sẽ làm cho việc mà những vị ấy đã làm kia trở thành quả lớn", nghĩ như vậy rồi mới thọ dụng.
 
 Cũng cần nhớ đến điều được dạy trong *Tập Học Luận*: hãy ăn với ý nghĩ làm lợi ích cho người bố thí; với ý nghĩ "các loài trùng trong thân, nay ta nhiếp thọ chúng bằng tài vật, về sau sẽ nhiếp thọ chúng bằng pháp"; và với ý nghĩ "ta sẽ thành tựu lợi ích cho hết thảy chúng sinh".
 
@@ -1540,7 +1540,7 @@ Vì lời ấy chỉ ra những gì phải làm trong trọn cả ban ngày và 
 
 Vì hành vi ngủ nghỉ thuộc khoảng giữa các thời khóa, nên cái ấy cũng không được để trôi qua vô nghĩa.
 
-Về việc phải làm thế nào: chia ngày và đêm thành ba phần, ở phần đầu thì dùng các việc thiện mà trải qua thời gian; đến khi phần giữa tới thì nên ngủ, vì các đại chủng cần được giấc ngủ bồi bổ thì phải được giấc ngủ bồi bổ. Nếu thân được bồi bổ như thế thì đối với việc làm hai sự tinh tấn hướng về phần thiện, [thân ấy] trở nên hết sức kham nhậm và cũng thành ra lợi ích.
+Về việc phải làm thế nào: chia ngày và đêm thành ba phần, ở phần đầu thì dùng các việc thiện mà trải qua thời gian; 【79】đến khi phần giữa tới thì nên ngủ, vì các đại chủng cần được giấc ngủ bồi bổ thì phải được giấc ngủ bồi bổ. Nếu thân được bồi bổ như thế thì đối với việc làm hai sự tinh tấn hướng về phần thiện, [thân ấy] trở nên hết sức kham nhậm và cũng thành ra lợi ích.
 
 Lúc ngủ thì đi ra khỏi chỗ ở, rửa chân rồi trở vào trong; hạ hông phải xuống, đặt chân trái lên trên chân phải, mà ngủ như sư tử.
 
@@ -1552,7 +1552,7 @@ Về việc ngủ với ý nghĩ như thế nào thì có bốn.
 
 Tưởng về ánh sáng là: khéo nắm giữ tướng của ánh sáng rồi ngủ với cái tâm có ánh sáng; do đó, lúc ngủ, bóng tối không sinh khởi nơi tâm.
 
-Chánh niệm là: nương theo chánh niệm phát sinh từ việc nghe, tư duy và tu tập các pháp thiện có ý nghĩa, cho niệm ấy đi theo mãi cho đến khi chưa rơi vào giấc ngủ. Do đó, ngay cả lúc ngủ cũng giống như lúc không ngủ, tâm ấy nhiều lần đi theo các pháp kia; nói tóm lại, ngay trong lúc ngủ cũng hộ trì công phu tu thiện.
+Chánh niệm là: nương theo chánh niệm phát sinh từ việc nghe, tư duy và tu tập các pháp thiện có ý nghĩa, cho niệm ấy đi theo mãi cho đến khi chưa rơi vào giấc ngủ. 【80】Do đó, ngay cả lúc ngủ cũng giống như lúc không ngủ, tâm ấy nhiều lần đi theo các pháp kia; nói tóm lại, ngay trong lúc ngủ cũng hộ trì công phu tu thiện.
 
 Tỉnh giác là: khi nương theo chánh niệm như thế, nếu có phiền não nào khởi lên thì biết được nó, không chấp nhận nó mà đoạn trừ nó.
 
@@ -1579,13 +1579,13 @@ Thứ hai, bác bỏ tà chấp đối với cách thức hộ trì ấy. Nhữn
 
 — tức đã dạy rằng từ chỗ dùng trí tuệ do tư sinh ra mà như lý tác ý các nghĩa đã nghe, sẽ sinh ra [trí tuệ] do tu sinh ra vốn chứng ngộ trực tiếp nghĩa chân thật.
 
-Vì thế, bất cứ điều gì cần đem ra thực hành, thì trước hết phải nghe từ người khác rồi nhờ sức của người khác mà xác quyết. Kế đó, tự mình dùng giáo điển và chánh lý mà tư duy đúng như lý về nghĩa đã nghe ấy, rồi nhờ sức của chính mình mà xác quyết. Do chỗ việc làm cho quen thuộc đi quen thuộc lại chính điều ấy — sau khi đã xác quyết bằng văn và tư như thế và đã lìa khỏi nghi hoặc — được gọi là "tu", cho nên cả hai đều cần: vừa quán sát đi quán sát lại mà tu, vừa tu theo lối an trụ không quán sát. Bởi vì cả hai đều hiện có: việc an trụ không quán sát nơi điều đã được quyết trạch bằng văn và tư, và việc dùng giản trạch mà quán sát rồi mới tu. Vậy nên, chủ trương rằng hết thảy sự tu đều là tu theo lối an trụ thì cũng giống như nắm lấy một hạt lúa mạch rồi bảo rằng "hết thảy ngũ cốc chỉ là cái này mà thôi".
+Vì thế, bất cứ điều gì cần đem ra thực hành, thì trước hết phải nghe từ người khác rồi nhờ sức của người khác mà xác quyết. Kế đó, tự mình dùng giáo điển và chánh lý mà tư duy đúng như lý về nghĩa đã nghe ấy, rồi nhờ sức của chính mình mà xác quyết. Do chỗ việc làm cho quen thuộc đi quen thuộc lại chính điều ấy — sau khi đã xác quyết bằng văn và tư như thế và đã lìa khỏi nghi hoặc — được gọi là "tu", cho nên cả hai đều cần: vừa quán sát đi quán sát lại mà tu, 【82】vừa tu theo lối an trụ không quán sát. Bởi vì cả hai đều hiện có: việc an trụ không quán sát nơi điều đã được quyết trạch bằng văn và tư, và việc dùng giản trạch mà quán sát rồi mới tu. Vậy nên, chủ trương rằng hết thảy sự tu đều là tu theo lối an trụ thì cũng giống như nắm lấy một hạt lúa mạch rồi bảo rằng "hết thảy ngũ cốc chỉ là cái này mà thôi".
 
 Lại nữa, cũng như trước trí tuệ do văn sinh ra thì phải có sự nghe đi trước, và trước trí tuệ do tư sinh ra thì phải có sự tư duy đi trước, thì trước trí tuệ do tu sinh ra cũng phải có sự tu đi trước, bởi vì trí tuệ ấy sinh ra từ sự tu. Nếu như vậy, thì sự tu đi trước trí tuệ do tu sinh ra ấy chính là việc làm cho thuần thục chính điều đã được xác quyết bằng trí tuệ do tư sinh ra; cho nên mới dạy rằng từ trí tuệ do tư sinh ra mà sinh ra trí tuệ do tu sinh ra.
 
 Vì thế, sự nghe càng nhiều chừng nào thì trí tuệ sinh ra từ đó càng nhiều chừng ấy; điều ấy càng nhiều chừng nào thì sự tư duy càng nhiều chừng ấy; điều ấy càng nhiều chừng nào thì trí tuệ sinh ra từ đó càng nhiều chừng ấy; và điều ấy càng nhiều bao nhiêu thì việc đem tu mà thực hành càng nhiều bấy nhiêu; mà điều ấy đã nhiều thì các cách ngăn chặn lỗi lầm và thành tựu công đức cũng nhiều. Chính vì vậy mà trong thánh giáo cùng với các luận giải mật ý đã dạy rằng đối với người tu thì văn và tư là điều trọng yếu.
 
-Chứ nếu điều đã được quyết trạch bằng văn và tư lại không phải là để tu, mà chỉ là khoanh định phạm vi bên ngoài, rồi khi tu thì lại tu một điều khác chẳng liên hệ gì với nó — như chỉ cho thấy đường đua ở một nơi rồi lại chạy ở nơi khác — thì những lời đã dạy như thế sẽ hóa thành không còn liên hệ, và cách trình bày chung của thánh giáo về việc ba trí tuệ sinh khởi theo thứ lớp cũng bị phá hủy sạch; rồi cái lời càn bậy nói rằng "muốn đi trên đạo lộ không lầm lạc thì chẳng cần nghe nhiều" lại hóa thành lời khéo nói.
+Chứ nếu điều đã được quyết trạch bằng văn và tư lại không phải là để tu, mà chỉ là khoanh định phạm vi bên ngoài, rồi khi tu thì lại tu một điều khác chẳng liên hệ gì với nó — như chỉ cho thấy đường đua ở một nơi rồi lại chạy ở nơi khác — thì những lời đã dạy như thế sẽ hóa thành không còn liên hệ, 【83】và cách trình bày chung của thánh giáo về việc ba trí tuệ sinh khởi theo thứ lớp cũng bị phá hủy sạch; rồi cái lời càn bậy nói rằng "muốn đi trên đạo lộ không lầm lạc thì chẳng cần nghe nhiều" lại hóa thành lời khéo nói.
 
 Dấu hiệu của việc không hiểu được các yếu điểm này là những tập tục xấu đã phát sinh và bám rễ vững chắc, [theo đó] một người đã tu học nhiều về phía kinh hoặc phía các bộ mật tục và một người chưa hề tu học bản văn bao giờ, cả hai đến lúc mới bắt tay vào tu hành thì trong sự thực hành chẳng có gì nhiều ít hơn kém; lại nữa, người tu hành ấy mà nghe pháp hay xem đọc khảo xét v.v. thì lại bị bắt lỗi.
 
@@ -1599,7 +1599,7 @@ Ví như nói "tu lòng tin", "tu bi" thì cũng phải hiểu là nói về vi�
 
 > Đối với kiến đạo và đạo thuần thục,
 
-— cho nên "tu" và "thuần thục", hai điều ấy là một nghĩa. Lại nữa, đức Chí Tôn Di-lặc dạy:
+【84】— cho nên "tu" và "thuần thục", hai điều ấy là một nghĩa. Lại nữa, đức Chí Tôn Di-lặc dạy:
 
 > Đối với chi quyết trạch và kiến đạo,
 > Cùng với chính tu đạo ấy,
@@ -1620,7 +1620,7 @@ Như vậy, những lời dạy như "tu lòng tin", "tu bốn vô lượng và 
 
 Lại nữa, cái tà chấp hạ liệt này — chấp rằng vì hết thảy phân biệt đều là chấp tướng nên chúng là chướng ngại cho việc thành Phật, rồi vứt bỏ hết thảy sự tu bằng giản trạch — chính là chủ trương của vị hòa thượng Trung Hoa tên Hashang; việc bác bỏ điều ấy sẽ được giảng trong phần tịnh chỉ và thắng quán. Các bộ đại luận… 【85】[đối với các đại luận,] chính tà chấp này cũng gây chướng ngại khiến lòng cung kính lớn lao không phát sinh được; bởi vì ý nghĩa của các luận ấy phần lớn hiện ra thuần là những điều phải dùng sự giản trạch mà quán sát, thế mà [những kẻ ấy] lại thấy rằng đến khi thực hành thì các sự quán sát ấy chẳng cần đến. Đây cũng là một duyên lớn khiến giáo pháp suy tàn, vì do thấy thánh giáo và các bộ đại luận giải thích mật ý không dùng được làm lời giáo huấn, nên trong lòng không coi trọng chúng.
 
-Như vậy, nếu trong việc tu đạo có hai lối tu — tu sau khi đã quán sát, và tu theo lối an trụ mà không quán sát — thì đạo như thế nào là tu theo lối quán sát, và đạo như thế nào là tu theo lối an trụ? Xin giải thích. Đối với những pháp như tu lòng tin nơi thiện tri thức, tu về ý nghĩa lớn lao và khó gặp của tám tự do và mười thuận duyên, về cái chết vô thường, về nghiệp quả, về tai hại của luân hồi, và tu bồ-đề tâm, thì cần phải tu theo lối quán sát. Bởi vì đối với các pháp ấy, mỗi pháp đều cần đến một năng lực thấm vào tâm, mà sức của tâm thì mạnh mẽ và dòng tương tục thì lâu dài; nếu không có [năng lực] ấy thì không thể ngăn được phía nghịch lại của chúng, như sự bất kính v.v.; và bởi vì việc phát khởi một tâm như thế chỉ tùy thuộc vào việc dùng sự giản trạch mà quán sát nhiều lần rồi mới tu. Ví như, nếu gán đặt lên đối tượng tham luyến thật nhiều tướng khả ái thì tham dục mãnh liệt sẽ sinh khởi; và nếu nghĩ thật nhiều đến các tướng không vừa ý nơi kẻ thù thì sân hận mãnh liệt sẽ sinh khởi. Vậy nên, trong việc tu các đạo ấy, hình tướng của đối tượng rõ hay không rõ thì cũng như nhau; điều cần là cách nắm giữ của tâm phải mạnh mẽ và lâu bền, cho nên hãy tu theo lối quán sát. Còn trong những trường hợp như thành tựu tịnh chỉ — tức làm cho cái tâm vốn không thể trụ nổi nơi một sở duyên trở nên kham nhậm, đến mức đặt nó vào một sở duyên bao lâu tùy ý cũng được — thì nếu quán sát nhiều lần, sự an trụ của tâm sẽ không thể phát sinh, cho nên đối với việc ấy phải tu theo lối an trụ. Điều này sẽ được nói trong phần chỉ quán.
+Như vậy, nếu trong việc tu đạo có hai lối tu — tu sau khi đã quán sát, và tu theo lối an trụ mà không quán sát — thì đạo như thế nào là tu theo lối quán sát, và đạo như thế nào là tu theo lối an trụ? Xin giải thích. Đối với những pháp như tu lòng tin nơi thiện tri thức, tu về ý nghĩa lớn lao và khó gặp của tám tự do và mười thuận duyên, về cái chết vô thường, về nghiệp quả, về tai hại của luân hồi, và tu bồ-đề tâm, thì cần phải tu theo lối quán sát. Bởi vì đối với các pháp ấy, mỗi pháp đều cần đến một năng lực thấm vào tâm, mà sức của tâm thì mạnh mẽ và dòng tương tục thì lâu dài; nếu không có [năng lực] ấy thì không thể ngăn được phía nghịch lại của chúng, như sự bất kính v.v.; và bởi vì việc phát khởi một tâm như thế chỉ tùy thuộc vào việc dùng sự giản trạch mà quán sát nhiều lần rồi mới tu. Ví như, nếu gán đặt lên đối tượng tham luyến thật nhiều tướng khả ái thì tham dục mãnh liệt sẽ sinh khởi; và nếu nghĩ thật nhiều đến các tướng không vừa ý nơi kẻ thù thì sân hận mãnh liệt sẽ sinh khởi. Vậy nên, trong việc tu các đạo ấy, hình tướng của đối tượng rõ hay không rõ thì cũng như nhau; điều cần là cách nắm giữ của tâm phải mạnh mẽ và lâu bền, cho nên hãy tu theo lối quán sát. Còn trong những trường hợp như thành tựu tịnh chỉ — tức làm cho cái tâm vốn không thể trụ nổi nơi một sở duyên trở nên kham nhậm, đến mức đặt nó vào một sở duyên 【86】bao lâu tùy ý cũng được — thì nếu quán sát nhiều lần, sự an trụ của tâm sẽ không thể phát sinh, cho nên đối với việc ấy phải tu theo lối an trụ. Điều này sẽ được nói trong phần chỉ quán.
 
 Không hiểu cách thức như thế mà nói rằng "nếu là bậc học giả thì chỉ nên tu theo lối quán sát, còn kusāli thì chỉ nên tu theo lối an trụ" — điều ấy cũng không đúng. Vì mỗi hạng đều phải làm cả hai: bậc học giả cũng phải thành tựu tịnh chỉ v.v., mà kusāli cũng phải thành tựu lòng tin mạnh mẽ nơi thiện tri thức v.v.
 
@@ -1628,13 +1628,13 @@ Về hai cách tu ấy, trong cả hai phía — các bộ kinh và các bộ m�
 
 > Như bậc Nhất Thiết Trí ở trong các trí tuệ.
 
-— chính là trí tuệ phân biệt không lẫn lộn hết thảy như sở hữu tánh và tận sở hữu tánh. Vậy nên, nếu thấy rằng càng tu đạo chừng nào thì sự quên lãng càng lớn chừng ấy, nên chánh niệm cùn nhụt và tâm trở nên chậm lụt trong việc phân biệt thủ xả, thì hãy biết đó đúng thật là dấu hiệu của việc đã đi lạc khỏi đạo. Lại nữa, do biết được nhiều đặc điểm công đức của Tam Bảo v.v. mà lòng tin nương vào đó cũng tăng trưởng nhiều; do lãnh hội được nhiều tai hại của luân hồi mà tâm chán lìa và nhàm mỏi cũng nhiều; và do thấy được lợi ích của giải thoát từ nhiều cửa mà lòng tha thiết mong cầu giải thoát trở nên mãnh liệt; do lãnh hội được nhiều điều hy hữu nơi các hạnh như bồ-đề tâm và sáu ba-la-mật v.v. mà lòng tin, ước muốn và sự nỗ lực đối với các hạnh ấy — những thứ không thể bị đẩy lui khỏi các hạnh ấy — ngày càng thêm rộng lớn: hết thảy những điều ấy cũng chỉ tùy thuộc vào việc dùng trí tuệ giản trạch quán sát ý nghĩa của thánh giáo rồi mới tu. Cho nên những người có trí hãy dấy khởi nơi cách thức này một sự xác quyết mà kẻ khác không thể dẫn dắt đi nơi khác được.
+— chính là trí tuệ phân biệt không lẫn lộn hết thảy như sở hữu tánh và tận sở hữu tánh. Vậy nên, nếu thấy rằng càng tu đạo chừng nào thì sự quên lãng càng lớn chừng ấy, nên chánh niệm cùn nhụt và tâm trở nên chậm lụt trong việc phân biệt thủ xả, thì hãy biết đó đúng thật là dấu hiệu của việc đã đi lạc khỏi đạo. Lại nữa, do biết được nhiều đặc điểm công đức của Tam Bảo v.v. mà lòng tin nương vào đó cũng tăng trưởng nhiều; 【87】do lãnh hội được nhiều tai hại của luân hồi mà tâm chán lìa và nhàm mỏi cũng nhiều; và do thấy được lợi ích của giải thoát từ nhiều cửa mà lòng tha thiết mong cầu giải thoát trở nên mãnh liệt; do lãnh hội được nhiều điều hy hữu nơi các hạnh như bồ-đề tâm và sáu ba-la-mật v.v. mà lòng tin, ước muốn và sự nỗ lực đối với các hạnh ấy — những thứ không thể bị đẩy lui khỏi các hạnh ấy — ngày càng thêm rộng lớn: hết thảy những điều ấy cũng chỉ tùy thuộc vào việc dùng trí tuệ giản trạch quán sát ý nghĩa của thánh giáo rồi mới tu. Cho nên những người có trí hãy dấy khởi nơi cách thức này một sự xác quyết mà kẻ khác không thể dẫn dắt đi nơi khác được.
 
 Những người hiểu biết rất ít về cách thức tu thì nói rằng: "Nếu dùng sự giản trạch mà quán sát thật nhiều rồi hộ trì như thế thì sẽ thành chướng ngại cho định chuyên nhất trên một sở duyên, nên định kiên cố sẽ không thành tựu."
 
 Xin giải thích. Nếu họ nói rằng: khi mới thành tựu thứ định trước đây chưa từng thành tựu — thứ định có thể đặt tâm vào một sở duyên bao lâu tùy ý cũng được — mà lại quán sát nhiều sở duyên thì định ấy sẽ không sinh khởi, cho nên chừng nào định ấy chưa thành tựu thì trong việc tu để thành tựu nó phải tu chính theo lối an trụ — thì chúng tôi cũng chấp nhận như vậy. Nhưng nếu họ cho rằng trước khi thành tựu thứ định như thế mà tu theo lối quán sát nhiều thì thành chướng ngại cho định ấy, thì rõ ràng là họ hoàn toàn không hiểu cách thức thành tựu định đã được giảng trong các bộ luận giải thích mật ý của các bậc Đại Xa.
 
-Bởi vì [sự thể] như thế này. Ví như vàng và bạc, nếu người thợ rèn khéo léo nhiều lần đem nung trong lửa và nhiều lần đem rửa trong nước thì hết thảy cấu bẩn và cặn bã đều được tẩy sạch, [vàng bạc ấy] trở nên hết sức nhu nhuyến và kham nhậm, rồi sau đó có thể uốn nắn thành bất cứ món trang sức nào tùy ý, như bông tai v.v.; cũng vậy: trước hết, đối với các phiền não, tùy phiền não và ác hạnh, thì đúng như đã nói trong các phần tu về quả của nghiệp đen và về tai hại của luân hồi v.v., việc dùng trí tuệ giản trạch tu tập nhiều lần về tai hại của chúng, bằng thứ tác ý khiến tâm bị bức bách khắp cả hoặc khiến tâm nhàm chán, giống như nung vàng trong lửa, làm cho tâm quay lưng lại với các phía đen và tẩy sạch những cấu bẩn ấy. Và đúng như đã nói trong các phần về công đức của thiện tri thức, về ý nghĩa lớn lao của tám tự do và mười thuận duyên, về công đức của Tam Bảo, về quả của nghiệp trắng, về lợi ích của bồ-đề tâm v.v., việc dùng trí tuệ giản trạch tu tập nhiều lần về công đức của chúng, bằng thứ tác ý khiến tâm được thấm nhuần hoặc khiến tâm trở nên trong sáng, giống như rửa vàng trong nước, làm cho tâm hướng thẳng đến và hoan hỷ với các phía trắng, rồi thấm nhuần tâm bằng các pháp thiện.
+Bởi vì [sự thể] như thế này. Ví như vàng và bạc, nếu người thợ rèn khéo léo nhiều lần đem nung trong lửa và nhiều lần đem rửa trong nước thì hết thảy cấu bẩn và cặn bã đều được tẩy sạch, [vàng bạc ấy] trở nên hết sức nhu nhuyến và kham nhậm, 【88】rồi sau đó có thể uốn nắn thành bất cứ món trang sức nào tùy ý, như bông tai v.v.; cũng vậy: trước hết, đối với các phiền não, tùy phiền não và ác hạnh, thì đúng như đã nói trong các phần tu về quả của nghiệp đen và về tai hại của luân hồi v.v., việc dùng trí tuệ giản trạch tu tập nhiều lần về tai hại của chúng, bằng thứ tác ý khiến tâm bị bức bách khắp cả hoặc khiến tâm nhàm chán, giống như nung vàng trong lửa, làm cho tâm quay lưng lại với các phía đen và tẩy sạch những cấu bẩn ấy. Và đúng như đã nói trong các phần về công đức của thiện tri thức, về ý nghĩa lớn lao của tám tự do và mười thuận duyên, về công đức của Tam Bảo, về quả của nghiệp trắng, về lợi ích của bồ-đề tâm v.v., việc dùng trí tuệ giản trạch tu tập nhiều lần về công đức của chúng, bằng thứ tác ý khiến tâm được thấm nhuần hoặc khiến tâm trở nên trong sáng, giống như rửa vàng trong nước, làm cho tâm hướng thẳng đến và hoan hỷ với các phía trắng, rồi thấm nhuần tâm bằng các pháp thiện.
 
 Nếu được như vậy thì khi hướng tâm vào bất cứ [pháp] nào trong chỉ và quán mà mình muốn thành tựu, [pháp ấy] sẽ thành tựu không chút khó nhọc; cho nên việc tu theo lối quán sát như thế chính là phương tiện tối thượng để thành tựu định vô phân biệt.
 
@@ -1650,7 +1650,7 @@ Trong đó, nếu có được cái trí thấy công đức của Tam Bảo v.v
 
 Nếu có được cái trí thấy tai hại của vô thường và khổ v.v. mà sức thì mạnh mẽ và dòng tương tục thì lâu dài, thì việc chặt đứt trạo cử là hết sức dễ dàng; bởi vì trạo cử là sự tán loạn của tâm thuộc về phần tham, cho nên trong nhiều bộ luận đã tán thán lòng yểm ly là pháp đối trị của nó.
 
-Do đó, từ việc tu lòng tin nơi thiện tri thức cho đến việc tu tâm nhập, tu càng nhiều chừng nào thì những định kiên cố khiến bậc trí hoan hỷ càng dễ dàng thành tựu chừng ấy.
+【90】Do đó, từ việc tu lòng tin nơi thiện tri thức cho đến việc tu tâm nhập, tu càng nhiều chừng nào thì những định kiên cố khiến bậc trí hoan hỷ càng dễ dàng thành tựu chừng ấy.
 
 Không riêng gì tu theo lối an trụ, mà cả các sự tu theo lối quán sát cũng cần phải hộ trì sau khi đã làm cho lìa khỏi hai thứ trầm một và trạo cử.
 
@@ -1693,7 +1693,7 @@ Về tám cảnh không tự do, trong *Thân Hữu Thư* có nói:
 > Sinh làm kẻ man di, cùng sự ngu si câm ngọng,
 > Hoặc chư thiên trường thọ — vào bất cứ [cảnh] nào
 > Mà sinh, thì gọi là tám lỗi không tự do.
-> Lìa khỏi những cảnh ấy mà đạt được sự tự do,
+> 【92】Lìa khỏi những cảnh ấy mà đạt được sự tự do,
 > Xin hãy nỗ lực để ngăn dứt sự sinh.
 
 — đúng như đã dạy vậy.
@@ -1714,7 +1714,7 @@ Vì thế, những cảnh ấy gọi là không tự do, đúng như trong *Chú
 
 — đúng như đã dạy vậy.
 
-Thứ hai, thuận duyên có hai phần. Năm thuận duyên nơi tự thân là:
+【93】Thứ hai, thuận duyên có hai phần. Năm thuận duyên nơi tự thân là:
 
 > Thân người, sinh nơi trung thổ, các căn đầy đủ,
 > Nghiệp không điên đảo, tin nơi nền tảng.
@@ -1767,7 +1767,7 @@ Nói chung, việc tu tập pháp như thế, và nói riêng, việc tu tập �
 
 — và trong *Kinh Nhập Thai* cũng nói:
 
-> Dù sinh làm người mà có vô lượng khổ như thế, nhưng vì đó là chốn tối thắng nên dẫu trong mười triệu kiếp cũng khó tìm được. Khi chư thiên sắp chết, các vị trời khác [nói]: "Nguyện ông sinh vào thiện thú." Thiện thú chính là thú của loài người.
+> Dù sinh làm người mà có vô lượng khổ như thế, nhưng vì đó là chốn tối thắng nên dẫu trong mười triệu kiếp cũng khó tìm được. Khi chư thiên sắp chết, các vị trời khác [nói]: "Nguyện ông sinh vào thiện thú." 【95】Thiện thú chính là thú của loài người.
 
 — đúng như lời dạy ấy, vì ngay cả chư thiên cũng lấy thân y này làm nơi phát nguyện.
 
@@ -1787,7 +1787,7 @@ Do đó [hãy nghĩ]: "Thân y tốt đẹp như thế này mà ta đã được
 > Đã được sự tự do như thế này rồi,
 > Nếu ta không tu tập điều thiện,
 > Thì không còn sự dối gạt nào khác hơn điều này,
-> Cũng không còn sự mê muội nào khác hơn điều này.
+> Cũng không còn sự mê muội 【96】nào khác hơn điều này.
 >
 > Nếu ta đã hiểu ra điều ấy,
 > Mà do mê muội, về sau vẫn biếng trễ,
@@ -1864,7 +1864,7 @@ Hãy suy xét đúng như lời đã nói ấy mà phát khởi lòng mong muố
 
 Thứ ba, suy xét về việc [chúng] rất khó tìm được. Về sự tự do như thế ấy nữa, trong *Luật Sự* có dạy:
 
-> Chết đi từ ác thú rồi sinh trở lại nơi đó thì như bụi đất của đại địa; còn từ đó mà sinh vào thiện thú thì như hạt bụi lấy được trên đầu móng tay. Chết đi từ cả hai thiện thú rồi đi vào ác thú thì như đại địa; còn từ đó mà sinh vào thiện thú thì như hạt bụi lấy được trên đầu móng tay.
+> Chết đi từ ác thú rồi sinh trở lại nơi đó thì như bụi đất của đại địa; còn từ đó mà sinh vào thiện thú thì như hạt bụi lấy được trên đầu móng tay. Chết đi từ cả hai thiện thú 【98】rồi đi vào ác thú thì như đại địa; còn từ đó mà sinh vào thiện thú thì như hạt bụi lấy được trên đầu móng tay.
 
 Vì đã dạy như vậy, nên từ cả thiện thú lẫn ác thú, [thân ấy] đều khó tìm được.
 
@@ -1888,7 +1888,7 @@ Dẫu vậy, nếu tịnh hóa các nhân của ác thú đã tích tập từ t
 > Thì lúc hoàn toàn mê muội vì khổ của ác đạo,
 > Bấy giờ tôi còn làm được gì?
 > Nếu các điều thiện cũng chẳng làm,
-> Mà các tội lỗi lại tích tập,
+> 【99】Mà các tội lỗi lại tích tập,
 > Thì dù trải trăm ức kiếp
 > Cũng chẳng nghe được cả tiếng "thiện thú".
 > Chính vì thế mà đức Thế Tôn dạy:
@@ -1935,7 +1935,7 @@ Như thế, để phát khởi nơi thân y có tự do này một ý muốn l�
 
 Trong đó, [thứ nhất là] phải tu tập: vì hết thảy chúng sinh chỉ mong muốn an lạc và không muốn khổ mà thôi, mà việc thành tựu an lạc cùng việc trừ bỏ khổ lại chỉ tùy thuộc vào Chánh pháp. [Thứ hai là] có thể tu tập được: vì đã có ngoại duyên là thiện tri thức và nội duyên là tám tự do và mười thuận duyên. Lại nữa, [thứ ba là] phải tu tập ngay trong đời này: vì nếu ở đây không tu tập thì trong nhiều đời, tám tự do và mười thuận duyên rất khó tìm được. [Thứ tư là] phải tu tập ngay từ bây giờ: vì không có gì chắc chắn về lúc nào sẽ chết.
 
-Trong đó, điều thứ ba ngăn chặn sự biếng nhác buông bỏ, tức nghĩ rằng "ta sẽ tu pháp trong những đời sau"; còn điều thứ tư ngăn chặn sự biếng nhác không bắt tay vào, tức nghĩ rằng "tuy phải tu tập ngay trong đời này, nhưng dù chưa thành tựu trong những năm, những tháng và những ngày trước, thì cứ tu tập vào những khoảng sau nữa cũng đủ". Vì vậy, gom hai điều ấy lại thành "phải tu tập cho mau chóng" mà chỉ lập thành ba thì cũng được.
+Trong đó, điều thứ ba ngăn chặn sự biếng nhác buông bỏ, tức nghĩ rằng "ta sẽ tu pháp trong những đời sau"; còn điều thứ tư ngăn chặn sự biếng nhác không bắt tay vào, tức nghĩ rằng "tuy phải tu tập ngay trong đời này, nhưng 【101】dù chưa thành tựu trong những năm, những tháng và những ngày trước, thì cứ tu tập vào những khoảng sau nữa cũng đủ". Vì vậy, gom hai điều ấy lại thành "phải tu tập cho mau chóng" mà chỉ lập thành ba thì cũng được.
 
 Như thế, việc nhớ nghĩ đến cái chết tuy ở đây cũng có liên hệ, nhưng vì lời văn nhiều nên sẽ giảng ở phần dưới.
 
@@ -1967,7 +1967,7 @@ Trong đó, hết thảy những gì đã được thuyết, nhiều đến bao 
 
 > Người nào, bằng những phương tiện nào,
 > Chỉ đối với những an lạc của luân hồi
-> Mà mong cầu cho riêng mình,
+> 【103】Mà mong cầu cho riêng mình,
 > Bậc ấy nên biết là bậc thấp nhất.
 
 Quyết định thắng thì gồm có hai phần: sự giải thoát, tức chỉ là thoát khỏi luân hồi; và quả vị Nhất Thiết Trí.
@@ -1993,7 +1993,7 @@ Trong đó, hết thảy những gì đã được thuyết, nhiều đến bao 
 > Đều trọn vẹn mong cho chúng chân thật cạn sạch,
 > Bậc ấy chính là bậc tối thắng.
 
-— [ngài] đã dạy như vậy; và vì ở phần dưới có dạy cả hai, ba-la-mật và Mật chú, là phương tiện để bậc ấy thành tựu bồ-đề.
+— [ngài] đã dạy như vậy; và vì 【104】ở phần dưới có dạy cả hai, ba-la-mật và Mật chú, là phương tiện để bậc ấy thành tựu bồ-đề.
 
 Còn danh ngôn "ba bậc" thì, trong *Nhiếp Quyết Trạch* có nói:
 
@@ -2009,7 +2009,7 @@ Thứ hai, trình bày lý do dẫn dắt theo thứ đệ qua cửa đạo củ
 
 #### Ý nghĩa của việc dẫn dắt qua cửa đạo của ba bậc là gì
 
-Thứ nhất. Tuy đã giảng thành ba bậc như thế, nhưng vì đạo của hai bậc kia cũng thâu nhiếp vào trong thứ đệ của đạo bậc thượng một cách trọn vẹn không thiếu sót, cho nên hai [đạo] ấy là thành phần hay chi phần của đạo Đại thừa. Vì A-xà-lê Mã Minh, trong *Tu Tập Thế Tục Bồ-đề Tâm*, có dạy:
+【105】Thứ nhất. Tuy đã giảng thành ba bậc như thế, nhưng vì đạo của hai bậc kia cũng thâu nhiếp vào trong thứ đệ của đạo bậc thượng một cách trọn vẹn không thiếu sót, cho nên hai [đạo] ấy là thành phần hay chi phần của đạo Đại thừa. Vì A-xà-lê Mã Minh, trong *Tu Tập Thế Tục Bồ-đề Tâm*, có dạy:
 
 > Không làm hại và chân thật,
 > Lấy [vật] đã được cho, và phạm hạnh,
@@ -2064,13 +2064,13 @@ Thứ nhất. Cửa ngõ để thể nhập Đại thừa chính là việc phá
 
 — đúng như lời ấy, [người ấy] đạt được danh hiệu "Phật tử" hay "bồ-tát", và thân y ấy được thâu nhập vào hàng Đại thừa; bởi vì khi nào tâm ấy thoái thất thì [người ấy] lại đi ra khỏi giữa hàng Đại thừa.
 
-Vì vậy, những ai muốn thể nhập Đại thừa thì phải dùng nhiều phương tiện mà nỗ lực phát khởi tâm ấy. Còn để phát khởi tâm ấy thì trước hết cần tu tập lợi ích của việc phát khởi tâm ấy, khiến từ tận đáy lòng mà sức hoan hỷ đối với các lợi ích ấy tăng trưởng; và cần có pháp bảy chi cùng với quy y — điều ấy được nói trong *Tập Học Luận* và *Nhập Bồ-tát Hạnh*, là những bản văn tối thắng trình bày các giai trình đạo lộ của bồ-tát.
+【107】Vì vậy, những ai muốn thể nhập Đại thừa thì phải dùng nhiều phương tiện mà nỗ lực phát khởi tâm ấy. Còn để phát khởi tâm ấy thì trước hết cần tu tập lợi ích của việc phát khởi tâm ấy, khiến từ tận đáy lòng mà sức hoan hỷ đối với các lợi ích ấy tăng trưởng; và cần có pháp bảy chi cùng với quy y — điều ấy được nói trong *Tập Học Luận* và *Nhập Bồ-tát Hạnh*, là những bản văn tối thắng trình bày các giai trình đạo lộ của bồ-tát.
 
 Các lợi ích được nói như vậy, nếu thâu tóm lại thì gồm có hai phần: lợi ích nhất thời và lợi ích rốt ráo. Phần thứ nhất lại gồm có hai phần: không đọa vào ác thú, và sinh vào thiện thú. Khi tâm ấy phát sinh thì nhiều nhân của ác thú đã tích tập từ trước được tịnh trừ, và những nhân được tích tập về sau thì dứt dòng; các nhân của thiện thú đã tích tập từ trước, do được tâm ấy thâu nhiếp, nên tăng trưởng rộng lớn; còn những nhân mới tạo, do được tâm ấy thúc đẩy, nên không bao giờ cạn kiệt.
 
 Ý nghĩa rốt ráo là giải thoát và Nhất Thiết Trí — những điều ấy cũng nương vào tâm ấy mà dễ dàng thành tựu. Nhưng nếu trước đó không có một lòng mong cầu không do tạo tác, muốn đạt được các lợi ích nhất thời và rốt ráo, thì dẫu có nói "vì các lợi ích ấy phát sinh từ việc phát tâm, nên phải nỗ lực phát khởi tâm ấy", điều đó cũng chỉ thành lời nói suông — xét vào chính tâm tương tục của mình thì thấy rất rõ. Vì vậy, để trước hết phát khởi lòng mong cầu đạt được hai lợi ích ấy, tức tăng thượng sinh và quyết định thắng, thì cần phải tu tập ý lạc cộng thông với bậc hạ và bậc trung.
 
-Như vậy, khi đã phát sinh lòng mong cầu đạt được hai lợi ích rồi mà bước vào việc tu tập tâm vốn có những lợi ích ấy, thì phải phát khởi từ và đại bi, là cội gốc của tâm ấy. Vả lại, khi quán xét cách thức chính mình thiếu vắng an lạc và bị khổ hành hạ mà lang thang trong luân hồi, nếu đến một sợi lông cũng chẳng lay động, thì lúc các chúng sinh khác lang thang trong luân hồi, thiếu vắng an lạc và bị khổ hành hạ, cái tâm không kham nhẫn nổi [trước cảnh ấy] cũng chẳng có chỗ nào mà phát sinh; bởi vì trong *Nhập Bồ-tát Hạnh* có nói:
+Như vậy, khi đã phát sinh lòng mong cầu đạt được hai lợi ích rồi mà bước vào việc tu tập tâm vốn có những lợi ích ấy, 【108】thì phải phát khởi từ và đại bi, là cội gốc của tâm ấy. Vả lại, khi quán xét cách thức chính mình thiếu vắng an lạc và bị khổ hành hạ mà lang thang trong luân hồi, nếu đến một sợi lông cũng chẳng lay động, thì lúc các chúng sinh khác lang thang trong luân hồi, thiếu vắng an lạc và bị khổ hành hạ, cái tâm không kham nhẫn nổi [trước cảnh ấy] cũng chẳng có chỗ nào mà phát sinh; bởi vì trong *Nhập Bồ-tát Hạnh* có nói:
 
 > Nếu đối với các chúng sinh ấy, trước đây
 > Vì lợi ích của chính mình, tâm như thế này
@@ -2081,7 +2081,7 @@ Vì thế, nơi phần bậc hạ thì quán xét cách thức sự tổn hại 
 
 Cũng như vậy, việc nỗ lực nơi nhiều cửa ngõ tích tập và tịnh trừ, thông qua quy y và quán xét nghiệp quả v.v. thuộc phần của hai bậc ấy, sẽ tùy theo trường hợp mà trở thành pháp bảy chi cùng với quy y — tức các phương tiện tu luyện tâm tương tục, vốn là bước chuẩn bị cho bồ-đề tâm; cho nên những điều ấy cũng phải được hiểu là phương tiện khiến tâm ấy phát sinh.
 
-Ở đây, cách thức các phần giáo pháp của bậc hạ và bậc trung trở thành chi phần khiến bồ-đề tâm vô thượng phát sinh, thì thượng sư cũng phải khéo chỉ bày, và người học trò cũng phải đạt được sự xác quyết về điều ấy; rồi trong từng phiên hành trì hãy nhớ nghĩ những điều ấy mà tu tập chúng như là chi phần khiến bồ-đề tâm phát sinh — điều này hết sức quý trọng. Nếu không làm như vậy thì con đường của bậc thượng và các con đường riêng lẻ sẽ thành ra không liên hệ với nhau; và vì cho đến khi chưa đến được con đường thực sự của bậc thượng thì chẳng đạt được chút xác quyết nào về bồ-đề tâm, nên [điều đó] thành chướng ngại cho việc phát sinh tâm ấy; hoặc trong khoảng thời gian ấy, [người ta] cứ thoái thất khỏi mục đích lớn lao mà đi. Vì vậy hãy tinh cần nơi điều này.
+Ở đây, cách thức các phần giáo pháp của bậc hạ và bậc trung 【109】trở thành chi phần khiến bồ-đề tâm vô thượng phát sinh, thì thượng sư cũng phải khéo chỉ bày, và người học trò cũng phải đạt được sự xác quyết về điều ấy; rồi trong từng phiên hành trì hãy nhớ nghĩ những điều ấy mà tu tập chúng như là chi phần khiến bồ-đề tâm phát sinh — điều này hết sức quý trọng. Nếu không làm như vậy thì con đường của bậc thượng và các con đường riêng lẻ sẽ thành ra không liên hệ với nhau; và vì cho đến khi chưa đến được con đường thực sự của bậc thượng thì chẳng đạt được chút xác quyết nào về bồ-đề tâm, nên [điều đó] thành chướng ngại cho việc phát sinh tâm ấy; hoặc trong khoảng thời gian ấy, [người ta] cứ thoái thất khỏi mục đích lớn lao mà đi. Vì vậy hãy tinh cần nơi điều này.
 
 Như vậy, sau khi đã tu tập con đường của bậc hạ và bậc trung, và đã tu tập khéo léo đúng như được giảng nơi phần bậc thượng, thì hãy làm sao cho bồ-đề tâm không do tạo tác phát sinh nơi tâm tương tục. Kế đó, để làm cho tâm ấy vững chắc, hãy đặt trước việc quy y bất cộng rồi hành nghi quỹ [tâm] nguyện. Sau khi đã thọ nhận [tâm] nguyện bằng nghi quỹ, hãy nỗ lực tu học các điều cần học của nó. Kế đó, hãy tu tập nhiều lần lòng mong muốn tu học nơi hạnh của bồ-tát, tức sáu ba-la-mật và bốn nhiếp pháp v.v.; và khi lòng mong muốn tu học ấy đã khởi lên từ tận đáy lòng, thì nhất định phải thọ nhận luật nghi nhập thanh tịnh. Kế đó, hãy liều cả tính mạng để không bị các đọa tội căn bản làm nhiễm ô; ngoài ra cũng hãy nỗ lực để không bị những sai phạm bậc nhỏ, bậc trung và các tội ác tác làm nhiễm ô; và nếu lỡ bị nhiễm ô thì hãy khéo tịnh trừ bằng cách phục hồi đọa tội đúng như đã được dạy. Kế đó, hãy tu học sáu ba-la-mật nói chung; và đặc biệt, để khiến tâm có thể được vận dụng tùy ý nơi sở duyên thiện, hãy khéo tu học tĩnh lự, vốn là bản thể của tịnh chỉ. Trong *Đạo Đăng* có nói:
 
@@ -2093,7 +2093,7 @@ Như vậy thì: việc tu học nơi các điều cần học của luật nghi
 
 Lại nữa, từ tịnh chỉ trở xuống là phần phương tiện, là tư lương phúc đức, là đạo nương vào thế tục đế, và là thứ đệ của đạo rộng lớn; còn việc phát khởi ba trí tuệ đặc thù là phần trí tuệ, là tư lương trí, là [đạo] nương vào thắng nghĩa đế, và là thứ đệ của đạo sâu xa. Vì vậy, hãy phát khởi sự xác quyết lớn lao về thứ tự của chúng, về số lượng quyết định của chúng, và về việc bồ-đề không thể thành tựu bằng phương tiện và trí tuệ tách rời nhau.
 
-Bằng cách thức như thế, vị Phật tử — vua ngỗng đi đến biển lớn công đức của Phật ấy — giương hai cánh mà đi: cánh thế tục đế, nơi các phần phương tiện rộng lớn không thiếu sót điều gì, và cánh nương vào thắng nghĩa đế, tức sự khéo chứng ngộ thật tánh là hai vô ngã; chứ không phải nắm lấy một phía nơi các phần của đạo mà đi, như con chim gãy cánh. Như trong *Nhập Trung Luận* có nói:
+Bằng cách thức như thế, vị Phật tử — vua ngỗng đi đến biển lớn công đức của Phật ấy — giương hai cánh mà đi: cánh thế tục đế, nơi các phần phương tiện rộng lớn không thiếu sót điều gì, và cánh nương vào thắng nghĩa đế, tức sự khéo chứng ngộ thật tánh là hai vô ngã; chứ không phải nắm lấy một phía nơi các phần của đạo mà đi, như con chim gãy cánh. 【111】Như trong *Nhập Trung Luận* có nói:
 
 > Đôi cánh trắng rộng của thế tục và thật tánh đã giương ra,
 > Vua ngỗng ấy, được ngỗng người đời
@@ -2106,7 +2106,7 @@ Bằng cách thức như thế, vị Phật tử — vua ngỗng đi đến bi�
 
 Như vậy, sau khi đã tu luyện tâm tương tục bằng các đạo cộng thông, thì nhất định phải nhập vào Mật chú; bởi vì nếu đã nhập vào đó thì hai tư lương sẽ mau chóng viên mãn. Nếu không đủ sức làm hơn chừng ấy, hoặc vì năng lực chủng tánh nhỏ yếu mà không hứng khởi nhập vào, thì chỉ nên làm cho chính thứ đệ của đạo ấy ngày càng rộng thêm mà thôi.
 
-Nếu nhập vào Mật chú thì: vì nói chung trong hết thảy các thừa, và đặc biệt trong Mật chú, [điều ấy] được dạy là phải hết sức tinh cần, cho nên hãy thực hành cách thức nương tựa thiện tri thức một cách đặc biệt hơn trước, thuận theo những gì được giảng trong đó. Kế đó, sau khi đã làm chín muồi tâm tương tục bằng quán đảnh xuất phát từ một bộ mật tục có nguồn gốc đáng tin cậy, hãy liều cả tính mạng đối với hết thảy các tam-muội-da và luật nghi thọ nhận vào lúc ấy mà phòng hộ đúng như pháp. Đặc biệt, nếu bị đọa tội căn bản làm tổn hại thì tuy vẫn có thể thọ nhận lại, nhưng tâm tương tục đã hư hoại, công đức rất khó phát sinh; vì vậy hãy nỗ lực để tuyệt nhiên không bị các đọa tội căn bản làm nhiễm ô. Hãy nỗ lực để không bị các đọa tội chi phần làm nhiễm ô, và nếu lỡ bị nhiễm ô thì hãy tịnh trừ bằng sám hối và phòng hộ — bởi vì tam-muội-da và luật nghi chính là nền tảng của đạo. Kế đó, theo các bộ mật tục bậc dưới thì là du-già hữu tướng, còn theo bậc trên thì là du-già của sinh khởi thứ đệ: hãy được khéo hướng dẫn mà tu học nơi pháp nào thích hợp. Khi điều ấy đã vững chắc, thì theo các bộ mật tục bậc dưới là du-già vô tướng, còn theo bậc trên là du-già của viên mãn thứ đệ: hãy khéo tu học nơi pháp nào thích hợp.
+Nếu nhập vào Mật chú thì: vì nói chung trong hết thảy các thừa, và đặc biệt trong Mật chú, [điều ấy] được dạy là phải hết sức tinh cần, cho nên hãy thực hành cách thức nương tựa thiện tri thức một cách đặc biệt hơn trước, thuận theo những gì được giảng trong đó. Kế đó, sau khi đã làm chín muồi tâm tương tục bằng quán đảnh xuất phát từ một bộ mật tục có nguồn gốc đáng tin cậy, hãy liều cả tính mạng đối với hết thảy các tam-muội-da và luật nghi thọ nhận vào lúc ấy mà phòng hộ đúng như pháp. Đặc biệt, nếu bị đọa tội căn bản làm tổn hại thì tuy vẫn có thể thọ nhận lại, nhưng tâm tương tục đã hư hoại, công đức rất khó phát sinh; vì vậy hãy nỗ lực để tuyệt nhiên không bị các đọa tội căn bản làm nhiễm ô. Hãy nỗ lực để không bị các đọa tội chi phần làm nhiễm ô, và nếu lỡ bị nhiễm ô thì hãy tịnh trừ bằng sám hối và phòng hộ — bởi vì tam-muội-da và luật nghi chính là nền tảng của đạo. Kế đó, theo các bộ mật tục bậc dưới thì là du-già hữu tướng, còn theo bậc trên thì là du-già của sinh khởi thứ đệ: hãy được khéo hướng dẫn mà tu học nơi pháp nào thích hợp. Khi điều ấy đã vững chắc, thì theo các bộ mật tục 【112】bậc dưới là du-già vô tướng, còn theo bậc trên là du-già của viên mãn thứ đệ: hãy khéo tu học nơi pháp nào thích hợp.
 
 Thân của sự an lập đạo lộ như thế đã được nói trong *Đạo Đăng*; và *Đạo Thứ Đệ* cũng dẫn dắt đúng như vậy. Đức Jowo vĩ đại cũng đã dạy điều ấy trong các bản văn khác. Trong *Lược Tập Pháp Tu Đạo Đại Thừa* có nói:
 
@@ -2176,7 +2176,7 @@ Thứ hai, về mục đích. Nếu các phần giáo pháp của bậc hạ và
 
 Cách thức lợi ích lớn là như vầy. Vì hai bậc trên cũng cần mong cầu tăng thượng sinh và giải thoát, cho nên đối với hai hạng người thượng và trung — là những người cần được dẫn dắt — việc chỉ dạy tu tập ý lạc của hai [bậc dưới] ấy cũng không trở thành lỗi lầm mà lại phát sinh công đức; và vì nếu là hạng người thấp nhất, thì dù có tu tập từ [bậc] trên đi nữa, ý lạc bậc trên cũng chẳng phát sinh, mà do bỏ mất [bậc] dưới nên sẽ thành ra chẳng có gì cả.
 
-Lại nữa, khi chỉ dạy đạo cộng thông cho người có phần [căn cơ] của bậc trên và người ấy tu tập, thì hoặc là [các công đức ấy] vốn đã phát sinh từ trước, hoặc dù trước chưa phát sinh thì các công đức ấy cũng sẽ mau chóng phát sinh; nên khi từng [bậc] dưới đã phát sinh, chỉ cần dẫn dắt lên từng [bậc] trên là đủ, do đó chẳng có sự chậm trễ đối với đạo của chính mình.
+Lại nữa, khi chỉ dạy đạo cộng thông cho người có phần [căn cơ] của bậc trên và người ấy tu tập, thì hoặc là [các công đức ấy] vốn đã phát sinh từ trước, 【114】hoặc dù trước chưa phát sinh thì các công đức ấy cũng sẽ mau chóng phát sinh; nên khi từng [bậc] dưới đã phát sinh, chỉ cần dẫn dắt lên từng [bậc] trên là đủ, do đó chẳng có sự chậm trễ đối với đạo của chính mình.
 
 Về việc cần phải dẫn dắt cái trí theo thứ lớp. Trong *[Kinh] Tổng Trì Tự Tại Vương Thỉnh Vấn*, [đức Phật] đã dạy bằng cách đem thí dụ người thợ ngọc thiện xảo tuần tự mài giũa viên ngọc mà áp vào ý nghĩa [ấy]; vì e lời văn quá nhiều nên không chép ra đây.
 
@@ -2195,7 +2195,7 @@ Bậc Thánh Vô Trước cũng dạy:
 
 — đã dạy như vậy.
 
-Thánh Thiên cũng vậy: trong *Nhiếp Hành Đăng*, ngài đã luận chứng rằng cách thức trước hết tu tập ý lạc của Ba-la-mật thừa rồi sau đó mới thể nhập mật chú là điều cần phải theo thứ lớp; rồi tóm thâu ý nghĩa ấy [mà nói]:
+Thánh Thiên cũng vậy: trong *Nhiếp Hành Đăng*, ngài đã luận chứng rằng cách thức trước hết tu tập ý lạc của Ba-la-mật thừa 【115】rồi sau đó mới thể nhập mật chú là điều cần phải theo thứ lớp; rồi tóm thâu ý nghĩa ấy [mà nói]:
 
 > Đối với các chúng sinh sơ nghiệp,
 > Trong việc thể nhập thắng nghĩa,
@@ -2250,7 +2250,7 @@ Thứ nhất gồm có bốn phần: lỗi hại của việc không tu tập s�
 
 Thứ nhất. Như vậy, đối với việc thể nhập sự lấy tinh túy nơi thân y có sự tự do, thì trong bốn điên đảo, chính cái điên đảo chấp thường nơi vô thường trở thành cửa gây hại trước nhất. Trong đó, trong hai [thứ] tế và thô, chính cái phân biệt nghĩ rằng "sẽ không chết" đối với cái chết — [tức] vô thường thô — mới là cửa gây hại. Về điều này cũng vậy: tuy nơi ai ai cũng có ý nghĩ rằng "mãi về sau, đến cuối cùng thì cái chết mới đến", nhưng cứ mỗi ngày mỗi ngày lại nghĩ "hôm nay không chết, hôm nay cũng không chết" — cái việc cái trí chấp giữ về phía "không chết" ấy thì vẫn cứ phát sinh cho đến tận lúc lâm chung.
 
-Nếu không tác ý đến đối trị của điều ấy mà bị cái trí như thế che lấp, thì cái trí trụ lại nơi đời này sẽ sinh khởi, rồi [nghĩ rằng] "trong khoảng thời gian ấy cần cái này và cái này", mà cứ mãi nghĩ ngợi riêng về những phương tiện thành tựu an lạc và trừ khổ chỉ trong chừng đời này mà thôi. Vì cái trí quán sát phân tích đối với những mục đích lớn lao như thế gian đời sau, giải thoát, Nhất Thiết Trí v.v. không sinh khởi, nên không cho cái trí thể nhập Pháp được sinh khởi. Dù cho có bước vào văn, tư, tu v.v. đi nữa, thì [những việc ấy] cũng chỉ trở thành vì mục đích của riêng đời này mà thôi, nên thiện [nghiệp] nào đã làm cũng đều có sức nhỏ yếu. Hơn nữa, vì [chúng] khởi lên gắn liền với ác hạnh, tội và đọa tội, nên [thiện nghiệp] không pha lẫn với nhân của ác thú thật là hiếm có. Giả sử cho là có duyên theo thế gian đời sau mà tu tập đi nữa, thì cũng không thể ngăn được sự biếng nhác trì hoãn — [tức] nghĩ rằng "sau này sẽ dần dần tu tập"; và vì thời gian trôi qua trong những sự tán loạn như ngủ nghỉ hôn trầm, chuyện phiếm, ăn uống v.v., nên việc tu tập như lý với sự tinh tấn lớn lao sẽ không đến.
+【117】Nếu không tác ý đến đối trị của điều ấy mà bị cái trí như thế che lấp, thì cái trí trụ lại nơi đời này sẽ sinh khởi, rồi [nghĩ rằng] "trong khoảng thời gian ấy cần cái này và cái này", mà cứ mãi nghĩ ngợi riêng về những phương tiện thành tựu an lạc và trừ khổ chỉ trong chừng đời này mà thôi. Vì cái trí quán sát phân tích đối với những mục đích lớn lao như thế gian đời sau, giải thoát, Nhất Thiết Trí v.v. không sinh khởi, nên không cho cái trí thể nhập Pháp được sinh khởi. Dù cho có bước vào văn, tư, tu v.v. đi nữa, thì [những việc ấy] cũng chỉ trở thành vì mục đích của riêng đời này mà thôi, nên thiện [nghiệp] nào đã làm cũng đều có sức nhỏ yếu. Hơn nữa, vì [chúng] khởi lên gắn liền với ác hạnh, tội và đọa tội, nên [thiện nghiệp] không pha lẫn với nhân của ác thú thật là hiếm có. Giả sử cho là có duyên theo thế gian đời sau mà tu tập đi nữa, thì cũng không thể ngăn được sự biếng nhác trì hoãn — [tức] nghĩ rằng "sau này sẽ dần dần tu tập"; và vì thời gian trôi qua trong những sự tán loạn như ngủ nghỉ hôn trầm, chuyện phiếm, ăn uống v.v., nên việc tu tập như lý với sự tinh tấn lớn lao sẽ không đến.
 
 Như vậy, khi bị lừa dối bởi niềm hy vọng rằng thân mạng sẽ trụ lại lâu dài, thì tham đắm mãnh liệt đối với lợi dưỡng và cung kính v.v. sẽ sinh khởi; rồi sân hận mãnh liệt đối với những gì đã gây chướng ngại cho điều ấy hoặc bị nghi là sẽ gây [chướng ngại]; cùng si mê — [tức] sự mê muội đối với lỗi hại của những thứ ấy; và những phiền não cùng tùy phiền não mãnh liệt như ngã mạn do những thứ ấy [mà có], ganh tị v.v. — [hết thảy] đều tuôn chảy như dòng nước sông. Từ đó lại nữa, những nghiệp bất thiện — mười ác hạnh của thân, ngữ và ý, [các tội] vô gián, những [tội] gần với vô gián, việc khước bỏ Chánh pháp v.v. — […] cái khổ của ác thú v.v. … 【118】nỗi khổ dữ dội [của các ác thú v.v.]; những [nghiệp bất thiện] có sức mạnh tột bậc trong việc lôi kéo [chúng sinh] đến đó thì mỗi ngày một thêm tăng trưởng. Còn đối với cam lộ của giáo pháp thiện thuyết — vốn là đối trị của chúng — thì càng ngày càng quay lưng đi, khiến mạng sống của tăng thượng sinh và quyết định thắng bị cắt đứt. Rồi bị cái chết đánh ngã, bị nghiệp ác dẫn đi vào chốn ác thú, nơi khổ đau dữ dội, thô bạo, nóng bức và chẳng vừa lòng — vậy còn cửa ngõ tai hại nào khác hơn thế nữa?
 
@@ -2272,7 +2272,7 @@ Trong *Tứ Bách Luận* cũng có nói:
 
 # Lợi ích của việc tu tập sự nhớ nghĩ đến cái chết
 
-Thứ hai, lợi ích của việc tu tập [sự nhớ nghĩ đến cái chết]. Nếu phát sinh được một tâm tùy niệm cái chết chân thật, thì cũng giống như: khi đã quyết chắc rằng chính mình sẽ chết hôm nay hay ngày mai, thì nơi những ai có được đôi chút hiểu biết về Pháp trở lên, do thấy rằng thân quyến, tài vật v.v. không thể đi cùng [mình] được, nên tham ái đối với những thứ ấy liền quay lui, và nơi phần đông, ý muốn lấy tinh túy qua cửa bố thí v.v. tự nhiên khởi lên. Cũng vậy, do thấy rằng hết thảy nỗ lực vì các pháp thế gian như lợi dưỡng và cung kính, danh tiếng v.v. đều không có tinh túy — như sảy tung vỏ trấu — và là chỗ dối gạt lừa mị, nên [hành giả] quay lưng với ác hạnh, và bằng sự tinh tấn làm một cách thường hằng và cung kính mà tích tập các nghiệp lành như quy y, giới v.v. Do đó, từ nơi thân v.v. vốn không có tinh túy mà lấy được tinh túy tối thượng, tự mình leo lên địa vị tối thượng, lại còn dẫn dắt các chúng sinh đến đó nữa — vậy còn điều gì có ý nghĩa lớn hơn thế?
+Thứ hai, lợi ích của việc tu tập [sự nhớ nghĩ đến cái chết]. Nếu phát sinh được một tâm tùy niệm cái chết chân thật, thì cũng giống như: khi đã quyết chắc rằng chính mình sẽ chết hôm nay hay ngày mai, thì nơi những ai có được đôi chút hiểu biết về Pháp trở lên, do thấy rằng thân quyến, tài vật v.v. không thể đi cùng [mình] được, nên tham ái đối với những thứ ấy liền quay lui, và nơi phần đông, ý muốn lấy tinh túy qua cửa bố thí v.v. tự nhiên khởi lên. Cũng vậy, do thấy rằng hết thảy nỗ lực vì các pháp thế gian như lợi dưỡng và cung kính, danh tiếng v.v. đều không có tinh túy — như sảy tung vỏ trấu — và là chỗ dối gạt lừa mị, nên [hành giả] quay lưng với ác hạnh, và bằng sự tinh tấn làm một cách thường hằng 【119】và cung kính mà tích tập các nghiệp lành như quy y, giới v.v. Do đó, từ nơi thân v.v. vốn không có tinh túy mà lấy được tinh túy tối thượng, tự mình leo lên địa vị tối thượng, lại còn dẫn dắt các chúng sinh đến đó nữa — vậy còn điều gì có ý nghĩa lớn hơn thế?
 
 Vì thế, [điều này] cũng được tán thán bằng nhiều thí dụ. Trong *Đại Bát Niết Bàn* [có nói]:
 
@@ -2296,7 +2296,7 @@ Trong *Pháp Tập Yếu Tụng* cũng có nói:
 
 — đã dạy như vậy.
 
-Tóm lại, thời để thành tựu mục đích của bậc trượng phu chỉ chính là lúc này đây, lúc đạt được thân y đặc biệt có sự tự do. Phần lớn chúng ta thì ở trong ác thú, mà dù thỉnh thoảng có đến được thiện thú đôi chút thì phần nhiều cũng vào những cảnh không có tự do, nên ở những nơi ấy chẳng có được cơ hội tu tập Pháp. Và ngay khi thỉnh thoảng đạt được một thân y đủ để tu tập, mà vẫn không tu Pháp đúng như pháp, thì [nguyên do] cũng quy về chính cái ý nghĩ "ta còn chưa chết" này. Cho nên, việc tâm nắm giữ phía "không chết" là cửa ngõ của mọi sự suy tổn, còn sự nhớ nghĩ đến cái chết — đối trị của nó — là cửa ngõ của hết thảy sự viên mãn.
+Tóm lại, thời để thành tựu mục đích của bậc trượng phu chỉ chính là lúc này đây, lúc đạt được thân y đặc biệt có sự tự do. Phần lớn chúng ta thì ở trong ác thú, mà dù thỉnh thoảng có đến được thiện thú đôi chút thì phần nhiều cũng vào những cảnh không có tự do, nên ở những nơi ấy 【120】chẳng có được cơ hội tu tập Pháp. Và ngay khi thỉnh thoảng đạt được một thân y đủ để tu tập, mà vẫn không tu Pháp đúng như pháp, thì [nguyên do] cũng quy về chính cái ý nghĩ "ta còn chưa chết" này. Cho nên, việc tâm nắm giữ phía "không chết" là cửa ngõ của mọi sự suy tổn, còn sự nhớ nghĩ đến cái chết — đối trị của nó — là cửa ngõ của hết thảy sự viên mãn.
 
 Vì thế, chớ nghĩ rằng "[pháp] như thế này là chỗ hành trì của những kẻ chẳng có pháp sâu xa nào khác để tu", cũng chớ ôm giữ ý nghĩ "tuy là điều đáng tu, nhưng chỉ nên tu chút ít lúc ban đầu thôi, chứ không đáng làm chỗ hành trì thường xuyên"; mà hãy từ tận đáy lòng phát khởi sự xác quyết về cách thức [pháp] này là cần thiết trong cả ba chặng đầu, giữa và cuối, rồi tu tập.
 
@@ -2304,7 +2304,7 @@ Vì thế, chớ nghĩ rằng "[pháp] như thế này là chỗ hành trì củ
 
 Thứ ba, nên phát khởi tâm nhớ nghĩ đến cái chết như thế nào. Do sức mạnh của sự tham luyến bền chắc đối với thân quyến v.v. mà lo sợ sẽ phải lìa xa những người ấy, rồi sinh ra khiếp sợ — đó là cách sợ chết của kẻ chưa từng tu tập đạo lộ chút nào, cho nên ở đây không phải là phát khởi thứ [sợ hãi] ấy.
 
-Vậy thì là gì? Hết thảy [những ai] đã thọ lấy thân do sức của nghiệp và phiền não thì đều không vượt khỏi cái chết chắc chắn phải đến, nên dẫu có phát khởi sự khiếp sợ đối với điều đó thì nhất thời cũng chẳng ngăn được. Tuy vậy, [điều đáng làm là] sợ hãi cái chết vì chưa ngăn được nhân của ác thú — vốn là điều lợi ích cho đời sau — và chưa thành tựu được nhân của tăng thượng sinh và quyết định thắng. Bởi đối với điều ấy, nếu suy nghĩ về nỗi sợ hãi đó thì những [nhân] kia có thể thành tựu được, nên có thể khiến cho lúc lâm chung không còn khiếp sợ; còn nếu không thành tựu những mục đích ấy thì nói chung sẽ không thoát khỏi luân hồi, và đặc biệt là vì sợ đọa vào ác thú mà lúc chết sẽ bị hối hận thiêu đốt. Bởi trong *Bổn Sinh* có nói:
+Vậy thì là gì? Hết thảy [những ai] đã thọ lấy thân do sức của nghiệp và phiền não thì đều không vượt khỏi cái chết chắc chắn phải đến, nên dẫu có phát khởi sự khiếp sợ đối với điều đó thì nhất thời cũng chẳng ngăn được. Tuy vậy, [điều đáng làm là] sợ hãi cái chết vì chưa ngăn được nhân của ác thú — vốn là điều lợi ích cho đời sau — và chưa thành tựu được nhân của tăng thượng sinh và quyết định thắng. Bởi đối với điều ấy, nếu suy nghĩ về nỗi sợ hãi đó thì những [nhân] kia có thể thành tựu được, nên có thể khiến cho lúc lâm chung không còn khiếp sợ; còn nếu không thành tựu những mục đích ấy thì nói chung sẽ không thoát khỏi luân hồi, và đặc biệt là vì sợ đọa vào ác thú mà lúc chết sẽ bị hối hận 【121】thiêu đốt. Bởi trong *Bổn Sinh* có nói:
 
 > Dù hết sức gắng gượng cũng không thể trụ lại,
 > Điều gì đã không thể sửa đổi được,
@@ -2370,7 +2370,7 @@ Rằng vào bất cứ thời nào, thuở trước hay về sau, chúng sinh b�
 
 Rằng chạy trốn thì không thoát khỏi Tử thần, và không thể dùng chú thuật v.v. mà ngăn lại được — trong *Kinh Giáo Giới Quốc Vương* có nói:
 
-> Ví như từ bốn phương, bốn ngọn núi lớn — cứng, chắc, có lõi đặc, không vỡ, không nứt, không kẽ hở, hết sức rắn rỏi, dày đặc thành một khối — chạm đến trời và nghiền nát mặt đất, nghiền thành bụi hết thảy cỏ, cây, thân cây, cành và lá, cùng hết thảy chúng sinh, loài có mạng sống và loài sinh linh, mà tiến tới; đối với sự tiến tới ấy, chẳng phải dễ gì chạy trốn cho nhanh, hay dùng sức mạnh mà ngăn lại, hay dùng tiền của mà ngăn lại, hay dùng vật phẩm, chú thuật và thuốc men mà ngăn lại được.
+> Ví như từ bốn phương, bốn ngọn núi lớn — cứng, chắc, có lõi đặc, không vỡ, không nứt, không kẽ hở, hết sức rắn rỏi, dày đặc thành một khối — chạm đến trời và nghiền nát mặt đất, nghiền thành bụi hết thảy cỏ, cây, thân cây, cành và lá, cùng hết thảy chúng sinh, loài có mạng sống và loài sinh linh, mà tiến tới; đối với sự tiến tới ấy, chẳng phải dễ gì chạy trốn cho nhanh, hay dùng sức mạnh mà ngăn lại, 【123】hay dùng tiền của mà ngăn lại, hay dùng vật phẩm, chú thuật và thuốc men mà ngăn lại được.
 >
 > Này Đại vương, cũng vậy, bốn nỗi kinh sợ lớn này sẽ đến; đối với chúng, chẳng phải dễ gì chạy trốn cho nhanh, hay dùng sức mạnh mà ngăn lại, hay dùng tiền của mà ngăn lại, hay dùng vật phẩm, chú thuật và thuốc men mà ngăn lại được. Bốn ấy là gì? Là già, bệnh, chết và suy vong. Này Đại vương, già thì đến mà hủy hoại tuổi thanh xuân sung mãn; bệnh thì đến mà hủy hoại sự không tật bệnh; suy vong thì đến mà hủy hoại hết thảy sự viên mãn; chết thì đến mà hủy hoại mạng sống. Đối với những cái ấy, chẳng phải dễ gì chạy trốn cho nhanh, hay dùng sức mạnh mà ngăn lại, hay dùng tiền của mà ngăn lại, hay dùng vật phẩm, chú thuật và thuốc men mà làm cho lắng dịu được.
 
@@ -2382,7 +2382,7 @@ Quán xét rằng thọ mạng không hề được thêm vào, còn cái làm h
 
 > Nếu nay khéo giữ gìn cho được thật yên ổn thì ngày nay sống được trăm năm, hoặc hơn chút ít.
 
-Đúng như lời dạy ấy, mức dài nhất cũng chỉ chừng ấy mà thôi. Dù cho có thể sống được như thế đi nữa, thọ mạng trong khoảng thời gian ấy cũng cạn kiệt hết sức mau chóng: năm thì cạn đi do các tháng trôi qua, tháng cũng cạn đi do các ngày trôi qua, mà ngày cũng cạn đi do ban ngày và ban đêm trôi qua. Những cái ấy lại cạn đi do buổi sáng v.v. trôi qua, cho nên tổng lượng của thọ mạng vốn ít ỏi; mà trong đó, nhiều phần trước đây đã thấy tiêu mất rồi, còn nơi phần thọ mạng sót lại thì không hề có thêm vào dù chỉ một sát-na, trong khi cái làm hao mòn nó thì suốt ngày đêm vẫn hiện hữu không gián đoạn. Bởi vì trong *Nhập Bồ-tát Hạnh* có nói:
+Đúng như lời dạy ấy, mức dài nhất cũng chỉ chừng ấy mà thôi. Dù cho có thể sống được như thế đi nữa, thọ mạng trong khoảng thời gian ấy cũng cạn kiệt hết sức mau chóng: năm thì cạn đi do các tháng trôi qua, tháng cũng cạn đi do các ngày trôi qua, mà ngày cũng cạn đi do ban ngày và ban đêm trôi qua. Những cái ấy lại cạn đi do buổi sáng v.v. trôi qua, cho nên tổng lượng của thọ mạng vốn ít ỏi; mà trong đó, nhiều phần trước đây đã thấy tiêu mất rồi, còn nơi phần thọ mạng sót lại thì 【124】không hề có thêm vào dù chỉ một sát-na, trong khi cái làm hao mòn nó thì suốt ngày đêm vẫn hiện hữu không gián đoạn. Bởi vì trong *Nhập Bồ-tát Hạnh* có nói:
 
 > Ngày đêm chẳng bao giờ dừng nghỉ,
 > Đời này luôn luôn bị hao tổn,
@@ -2435,7 +2435,7 @@ Vì thế, đúng như lời dạy rằng: đối với người đã tư duy đ
 
 Không phải chỉ đến cuối đời mới bị Tử thần đánh gục rồi đi sang đời sau; mà ngay trong khoảng thời gian ấy, dù làm bất cứ điều gì trong ba việc đi, đi lại và nằm, cũng hoàn toàn chẳng có lúc nào mà mạng sống không giảm đi. Kể từ khi nhập thai trở đi, chẳng dừng lại dù chỉ một sát-na, [ta] cứ quay mặt về đời sau mà đi. Vì vậy, ngay cả sự sống trong khoảng ấy cũng chỉ là bị các sứ giả bệnh và già dẫn đi, đi tới cái chết mà thôi; cho nên chớ chấp lấy khoảng thời gian còn sống như là một chỗ dừng trú không đi sang đời sau, rồi vui mừng nơi đó. Ví như khi rơi từ đỉnh vách đá cao, thì lúc còn đang rơi trong hư không chưa chạm đất, khoảng ấy chẳng đáng để vui mừng.
 
-Về điều ấy, trong [đoạn] được trích dẫn nơi *Chú Giải Tứ Bách Luận* có nói:
+Về điều ấy, 【126】trong [đoạn] được trích dẫn nơi *Chú Giải Tứ Bách Luận* có nói:
 
 > Hỡi bậc dũng sĩ trong loài người! Vào đêm đầu tiên,
 > Khi mà người thế gian còn trú trong thai,
@@ -2461,7 +2461,7 @@ Trong *Kinh Nhập Thai* có nói:
 
 Và trong *Thuyết Ngăn Dứt Bốn Điên Đảo* cũng nói:
 
-> Đời người này, dẫu dài nhất cũng chỉ hết một trăm năm.
+> 【127】Đời người này, dẫu dài nhất cũng chỉ hết một trăm năm.
 > Trong đó, phần đầu là thời thơ ấu, phần cuối là tuổi già — [chúng] làm cho [nó] thành vô nghĩa.
 > Giấc ngủ, bệnh tật v.v. lại khiến thời gian ấy thành không còn, phá tan hết thảy mọi mong đợi.
 > Vậy thì thọ mạng của người sống yên vui đi lại trong loài người còn dư lại được bao nhiêu?
@@ -2506,7 +2506,7 @@ Thứ hai, quán chiếu rằng không chắc chắn khi nào sẽ chết. Từ 
 
 Nếu mỗi ngày đều sắm sửa cho cái chết thì thành tựu được nhiều lợi ích của thế gian đời sau, cho nên dẫu không chết thì làm như vậy vẫn tốt; còn nếu chết thì điều ấy lại càng cần thiết hơn nữa. Ví như: đã quyết chắc rằng một kẻ đại thù sẽ gây tổn hại nặng nề cho mình sẽ đến trong khoảng từ lúc này đến lúc kia, mà lại không biết nó đến vào ngày nào, thì mỗi ngày đều phải đề phòng nó — cũng giống như vậy.
 
-Nếu mỗi ngày đều khởi lên ý nghĩ "hôm nay ta sẽ chết", hay ít nhất là "hôm nay phần nhiều là ta sẽ chết", thì sẽ làm việc lợi ích cho thế gian đời sau — nơi mình sẽ đi đến — chứ không sắm sửa để ở lại thế gian này. Còn nếu ý nghĩ ấy không khởi lên thì thấy mình sẽ ở lại thế gian này nên chỉ lo sắm sửa cho việc đó, mà không làm lợi ích cho thế gian đời sau. Ví như nghĩ rằng mình sẽ ở lâu dài tại một nơi thì lo sắm sửa để ở lại nơi ấy; còn nghĩ rằng mình không ở lại đó mà sẽ đi nơi khác thì lo sắm sửa cho nơi mình sẽ đến — cũng như vậy.
+Nếu mỗi ngày đều khởi lên ý nghĩ "hôm nay ta sẽ chết", hay ít nhất là "hôm nay phần nhiều là ta sẽ chết", thì sẽ làm việc lợi ích cho thế gian đời sau — nơi mình sẽ đi đến — chứ không sắm sửa để ở lại thế gian này. Còn nếu ý nghĩ ấy không khởi lên thì thấy mình sẽ ở lại thế gian này nên chỉ lo sắm sửa cho việc đó, mà không làm lợi ích cho thế gian đời sau. Ví như nghĩ rằng mình sẽ ở lâu dài tại một nơi thì lo sắm sửa để ở lại nơi ấy; còn nghĩ rằng mình không 【129】ở lại đó mà sẽ đi nơi khác thì lo sắm sửa cho nơi mình sẽ đến — cũng như vậy.
 
 Vì thế, mỗi ngày đều phải khởi lên cái tâm nghĩ rằng "ta sẽ chết". Điều này có ba phần.
 
@@ -2543,6 +2543,8 @@ Về điều ấy, trong *Câu-xá* cũng nói:
 
 — đã dạy như vậy. Hãy tác ý đến những trường hợp mà mình đã thấy hoặc đã nghe: thượng sư, bạn hữu v.v. chưa đi hết thọ mạng mà đột nhiên chết vì các duyên chết bên ngoài và bên trong, ý định chưa kịp hoàn tất; rồi nghĩ đi nghĩ lại rằng "chính ta cũng nhất định là kẻ có tính chất như thế", khiến cho cái tâm [nghĩ đến] cái chết sinh khởi được chừng nào hay chừng ấy.
 
+【130】
+
 ## Quán chiếu rằng duyên chết thì rất nhiều mà duyên sống thì ít
 
 Đối với mạng sống này, tổn hại từ những gì có tâm và tổn hại từ những gì không có tâm đều nhiều. Cụ thể là: loài người và loài phi nhân thuộc hàng tà ma gây hại bằng đủ mọi cách; lại có nhiều loài bàng sinh gây tổn hại cho thân và mạng — hãy quán xét kỹ cách thức chúng gây hại như thế nào; cũng vậy, hãy quán xét kỹ cách các bệnh tật bên trong và các đại chủng bên ngoài giáng tổn hại xuống.
@@ -2574,7 +2576,7 @@ Về điều ấy, trong *Đại Niết-bàn* cũng nói:
 
 — đã dạy như vậy.
 
-Vì đang là thời kỳ ngũ trược tăng thịnh dữ dội, nên nghiệp thiện có sức mạnh lớn khiến sống lâu dài thì được tích tập cực kỳ ít ỏi; các thứ thuốc như đồ ăn v.v. cũng ít công hiệu nên sức trị bệnh yếu kém; những thứ thọ dụng cũng suy giảm cái năng lực tiêu hóa êm thuận rồi làm tăng trưởng các đại chủng của thân, nên khó tiêu hóa cho tốt, mà dù có tiêu hóa thì lợi ích đem lại cũng nhỏ; nền tích tập tư lương thì mỏng mà ác hạnh lại rất lớn, nên trì tụng v.v. cũng trở nên ít năng lực, khiến việc kéo dài thọ mạng v.v. hết sức khó khăn.
+Vì đang là thời kỳ ngũ trược tăng thịnh dữ dội, nên 【131】nghiệp thiện có sức mạnh lớn khiến sống lâu dài thì được tích tập cực kỳ ít ỏi; các thứ thuốc như đồ ăn v.v. cũng ít công hiệu nên sức trị bệnh yếu kém; những thứ thọ dụng cũng suy giảm cái năng lực tiêu hóa êm thuận rồi làm tăng trưởng các đại chủng của thân, nên khó tiêu hóa cho tốt, mà dù có tiêu hóa thì lợi ích đem lại cũng nhỏ; nền tích tập tư lương thì mỏng mà ác hạnh lại rất lớn, nên trì tụng v.v. cũng trở nên ít năng lực, khiến việc kéo dài thọ mạng v.v. hết sức khó khăn.
 
 Các duyên sống cũng không có duyên nào mà không trở thành duyên chết. Vì để khỏi chết mà người ta tìm cầu đồ ăn thức uống, nhà ở, bạn bè v.v.; thế nhưng chính những thứ ấy lại trở thành duyên của cái chết — qua cửa ngõ ăn uống quá nhiều, quá ít, hoặc thọ dụng những thứ không thích hợp v.v., qua cửa ngõ nhà ở sập đổ, bạn thân lừa dối v.v. — cho nên chẳng thấy có duyên sống nào mà không trở thành duyên chết.
 
@@ -2624,7 +2626,7 @@ Trong ba căn bản thì điều trọng yếu nhất chính là việc tư duy 
 
 ### Quán xét rằng khi chết thì ngoài Pháp ra, không gì khác có thể giúp ích
 
-Thứ ba, quán xét rằng khi chết thì ngoài Pháp ra không gì khác có thể giúp ích, [là mục] thứ ba. Khi thấy rằng như thế thì phải đi sang thế gian bên kia, lúc ấy dù thân quyến hay bạn bè vì thương mến và đau xót lớn lao mà vây quanh bốn bề, cũng chẳng có chỗ nào dẫn theo được lấy một người. Dù có bao nhiêu đống của cải vừa lòng đi nữa, cũng chẳng mang theo được dù chỉ một vi trần; đến cả thịt và xương cùng sinh ra với mình mà còn phải bỏ lại, huống chi những thứ khác. Vì thế, hết thảy sự viên mãn của đời này sẽ bỏ ta, và ta cũng bỏ chúng lại mà đi sang thế gian khác — điều ấy nhất định sẽ đến. Hãy nghĩ rằng "điều ấy đến ngay hôm nay", và hãy quán xét cách thức mà vào lúc ấy chỉ riêng Pháp mới trở thành chỗ nương tựa, đấng che chở và người thân trợ giúp. Trong *Thư Gửi Kaniṣka* nói:
+Thứ ba, quán xét rằng khi chết thì ngoài Pháp ra không gì khác có thể giúp ích, [là mục] thứ ba. Khi thấy rằng như thế thì phải đi sang thế gian bên kia, lúc ấy dù thân quyến hay bạn bè vì thương mến và đau xót lớn lao mà vây quanh bốn bề, 【133】cũng chẳng có chỗ nào dẫn theo được lấy một người. Dù có bao nhiêu đống của cải vừa lòng đi nữa, cũng chẳng mang theo được dù chỉ một vi trần; đến cả thịt và xương cùng sinh ra với mình mà còn phải bỏ lại, huống chi những thứ khác. Vì thế, hết thảy sự viên mãn của đời này sẽ bỏ ta, và ta cũng bỏ chúng lại mà đi sang thế gian khác — điều ấy nhất định sẽ đến. Hãy nghĩ rằng "điều ấy đến ngay hôm nay", và hãy quán xét cách thức mà vào lúc ấy chỉ riêng Pháp mới trở thành chỗ nương tựa, đấng che chở và người thân trợ giúp. Trong *Thư Gửi Kaniṣka* nói:
 
 > Bởi nghiệp đời trước, cái tung ra quả dị thục,
 > Ngươi đã bị buông bỏ hoàn toàn;
@@ -2652,7 +2654,7 @@ Và ngài Śrī Jagatamitra cũng nói:
 
 — đúng như đã dạy vậy.
 
-Như vậy, sau khi tư duy rằng sự tự do có ý nghĩa lớn lao và vô cùng khó tìm được, và tư duy về sự nhớ nghĩ đến cái chết — rằng tuy khó tìm được nhưng lại vô cùng dễ hoại — nếu không lo thành tựu một sự an lạc lâu dài cho đời sau trở về sau, thì [phải biết rằng] về việc mưu cầu an lạc và trừ bỏ khổ chỉ trong khoảng chưa chết, có những loài bàng sinh còn làm được lớn lao hơn cả loài người; cho nên cần phải có một lối hành xử vượt hơn hẳn chúng. Bằng không thì dù đã được thân y thiện thú, cũng giống như chưa được. Vì trong *Nhập Bồ-tát Hạnh* nói:
+Như vậy, sau khi tư duy rằng sự tự do có ý nghĩa lớn lao và vô cùng khó tìm được, và tư duy về sự nhớ nghĩ đến cái chết — rằng tuy khó tìm được nhưng lại vô cùng dễ hoại — nếu không lo thành tựu một sự an lạc lâu dài cho đời sau trở về sau, 【134】thì [phải biết rằng] về việc mưu cầu an lạc và trừ bỏ khổ chỉ trong khoảng chưa chết, có những loài bàng sinh còn làm được lớn lao hơn cả loài người; cho nên cần phải có một lối hành xử vượt hơn hẳn chúng. Bằng không thì dù đã được thân y thiện thú, cũng giống như chưa được. Vì trong *Nhập Bồ-tát Hạnh* nói:
 
 > Cái lợi nhỏ nhoi nào mà dù gia súc làm cũng chẳng phải hiếm,
 > Vì cái lợi ấy
@@ -2669,7 +2671,7 @@ Khi ngài Kamapa được thỉnh cho chuyển sang sở duyên khác, nghe nói
 
 Như vậy, nếu tâm kham nổi thì hãy tu tập như đã giảng ở trước; còn nếu không kham nổi thì trong ba căn bản, hãy nắm lấy mỗi một trong chín lý do nào thích hợp, rồi tu tập lặp đi lặp lại cho đến khi tâm quay lưng với các việc của đời này — [những việc] như đồ trang sức đeo lên kẻ đang bị dẫn đến nơi bị giết.
 
-Các phần về nương tựa thiện tri thức, về tám tự do và mười thuận duyên, và về vô thường — dù chúng nằm ở đâu trong thánh giáo cùng với các luận giải mật ý — nếu nhận biết chúng là phần thực hành của mỗi trường hợp ấy mà gìn giữ, thì sẽ dễ dàng đạt được các mật ý của Đấng Chiến Thắng; trong những trường hợp khác cũng nên hiểu như vậy.
+【135】Các phần về nương tựa thiện tri thức, về tám tự do và mười thuận duyên, và về vô thường — dù chúng nằm ở đâu trong thánh giáo cùng với các luận giải mật ý — nếu nhận biết chúng là phần thực hành của mỗi trường hợp ấy mà gìn giữ, thì sẽ dễ dàng đạt được các mật ý của Đấng Chiến Thắng; trong những trường hợp khác cũng nên hiểu như vậy.
 
 # Quán xét việc ở đời sau sẽ ra sao — khổ và vui của hai thú
 
@@ -2715,13 +2717,13 @@ Như vậy, suy xét khổ của ác thú gồm có ba phần: suy xét khổ c�
 
 Phần thứ nhất gồm có bốn phần: đại địa ngục hữu tình, địa ngục cận biên, địa ngục lạnh, và địa ngục biệt phần.
 
-Thứ nhất. Từ chỗ này xuống dưới ba vạn hai nghìn do-tuần là [địa ngục] Đẳng Hoạt; từ đó trở đi, cứ cách nhau bốn nghìn do-tuần lại có bảy [địa ngục] khác. Trong tám [địa ngục] như vậy:
+【137】Thứ nhất. Từ chỗ này xuống dưới ba vạn hai nghìn do-tuần là [địa ngục] Đẳng Hoạt; từ đó trở đi, cứ cách nhau bốn nghìn do-tuần lại có bảy [địa ngục] khác. Trong tám [địa ngục] như vậy:
 
 Ở [địa ngục] thứ nhất, Đẳng Hoạt: các chúng sinh ấy tụ hội lại với nhau, rồi dùng đủ loại binh khí do sức của nghiệp mà sinh ra, lần lượt hiện đến, đâm lẫn nhau. Sau đó, khi họ ngất đi mà ngã xuống đất, thì từ hư không phát ra tiếng nói: "Các ngươi hãy sống lại!" Rồi họ lại đứng dậy, đâm như trước, nên phải thọ nhận nỗi khổ không thể lường.
 
 Ở [địa ngục] Hắc Thằng: những chúng sinh sinh vào nơi ấy bị các ngục tốt dùng dây mực đen mà đo vạch thành bốn góc, hoặc tám góc, hoặc thành nhiều thứ hình chia cắt khác nhau; rồi cứ theo đường mực đã vạch mà dùng binh khí chẻ xẻ và *འཇོག་པ* [nghĩa đen là 'đặt, để xuống'; nghĩa cụ thể của động từ này ở đây không chắc, nên để nguyên] — chúng phải thọ nhận nỗi khổ như vậy.
 
-Ở [địa ngục] Chúng Hợp: khi những chúng sinh ấy tụ tập lại thành một chỗ, các ngục tốt dồn ép chúng vào giữa hai hòn núi sắt giống như mặt dê. Rồi ngay sau đó hai hòn núi ấy nghiến ép, bấy giờ từ hết thảy các cửa [trên thân] máu chảy ra thành sông. Cũng vậy, chúng còn bị nghiến ép bởi những [hòn núi] giống như mặt cừu, mặt ngựa, mặt voi, mặt sư tử và mặt cọp. Lại khi tụ hội, chúng bị bỏ vào trong cỗ máy sắt lớn mà ép như ép mía. Rồi lại khi tụ hội, từ trên cao rơi xuống tảng đá sắt lớn, [chúng] bị cắt, bị xẻ, bị đập và bị nghiền nát trên nền đất sắt. Những lúc ấy máu cũng chảy ra thành sông.
+Ở [địa ngục] Chúng Hợp: khi những chúng sinh ấy tụ tập lại thành một chỗ, các ngục tốt dồn ép chúng vào giữa hai hòn núi sắt giống như mặt dê. Rồi ngay sau đó hai hòn núi ấy nghiến ép, bấy giờ từ hết thảy các cửa [trên thân] máu chảy ra thành sông. Cũng vậy, chúng còn bị nghiến ép bởi những [hòn núi] giống như mặt cừu, mặt ngựa, mặt voi, mặt sư tử và mặt cọp. Lại khi tụ hội, chúng bị bỏ vào trong cỗ máy sắt lớn mà ép như ép mía. 【138】Rồi lại khi tụ hội, từ trên cao rơi xuống tảng đá sắt lớn, [chúng] bị cắt, bị xẻ, bị đập và bị nghiền nát trên nền đất sắt. Những lúc ấy máu cũng chảy ra thành sông.
 
 Ở [địa ngục] Hào Khiếu: những chúng sinh ấy đi tìm chỗ trú, rồi vào trong ngôi nhà sắt. Vừa vào thì lửa cháy rực khắp nơi thiêu đốt chúng.
 
@@ -2729,7 +2731,7 @@ Thứ nhất. Từ chỗ này xuống dưới ba vạn hai nghìn do-tuần là 
 
 Ở [địa ngục] Viêm Nhiệt: các ngục tốt bỏ những chúng sinh ấy vào trong chảo sắt lớn đến nhiều do-tuần, cực nóng và cháy rực, mà nấu, thiêu chúng như thiêu cá; lại dùng cây xiên sắt cháy rực đâm từ mông xuyên qua thân rồi trồi ra nơi đỉnh đầu; rồi từ miệng, từ hai mắt, hai lỗ mũi, hai lỗ tai và từ hết thảy lỗ chân lông, ngọn lửa cháy rực phun ra; lại đặt chúng nằm ngửa hoặc nằm sấp trên nền đất sắt cháy rực, rồi dùng búa sắt nóng cháy rực mà đập và nghiền nát.
 
-Ở [địa ngục] Cực Viêm Nhiệt: cây xiên sắt ba mũi được cắm vào mông, hai mũi phải và trái thì trồi ra nơi hai vai, còn mũi giữa trồi ra nơi đỉnh đầu. Nương vào đó, nơi miệng và các cửa khác, ngọn lửa cháy bùng phun ra. Thân bị quấn kín bằng tấm sắt nóng cháy rực; lại bị bỏ chúc đầu xuống trong chiếc chảo sắt lớn chứa đầy nước ăn da đang sôi và cháy rực khắp nơi, và khi bị nấu thì [chúng] đi lên trên, xuống dưới và ngang qua các phía. Bấy giờ, khi da, thịt và máu đều rã nát, chỉ còn trơ bộ xương, thì lại bị vớt ra mà trải trên nền đất sắt. Rồi khi da, thịt và máu mọc lại thì lại bị bỏ vào trong. Những phần còn lại thì giống như [địa ngục] Viêm Nhiệt.
+Ở [địa ngục] Cực Viêm Nhiệt: cây xiên sắt ba mũi được cắm vào mông, hai mũi phải và trái thì trồi ra nơi hai vai, còn mũi giữa trồi ra nơi đỉnh đầu. Nương vào đó, nơi miệng và các cửa khác, ngọn lửa cháy bùng phun ra. Thân bị quấn kín bằng tấm sắt nóng cháy rực; lại bị bỏ chúc đầu xuống trong chiếc chảo sắt lớn chứa đầy nước ăn da đang sôi và cháy rực khắp nơi, 【139】và khi bị nấu thì [chúng] đi lên trên, xuống dưới và ngang qua các phía. Bấy giờ, khi da, thịt và máu đều rã nát, chỉ còn trơ bộ xương, thì lại bị vớt ra mà trải trên nền đất sắt. Rồi khi da, thịt và máu mọc lại thì lại bị bỏ vào trong. Những phần còn lại thì giống như [địa ngục] Viêm Nhiệt.
 
 Ở [địa ngục] A-tỳ: từ phương đông, nền đất rộng nhiều trăm do-tuần cháy rực khắp nơi và lan rộng ra, từ đó sức lửa cháy ập tới, làm rã nát dần dần da, thịt, gân và xương của những chúng sinh ấy, thấu đến tận tủy; như tim của ngọn đèn bơ, toàn thân bị ngọn lửa cháy rực trùm khắp. Ba phương kia cũng giống như vậy; lửa từ bốn phương ập đến hòa lẫn vào nơi ấy nên nỗi khổ phải chịu là không hề gián đoạn; chỉ vì chúng phát ra tiếng kêu thảm thiết mà biết được đó là chúng sinh, chỉ vậy thôi.
 
@@ -2761,7 +2763,7 @@ và:
 > Có một ngày đêm bằng thọ lượng của chư thiên cõi Dục;
 > Do vậy thọ lượng của những [địa ngục] ấy
 > Cũng giống như [thọ lượng] của chư thiên cõi Dục.
-> Cực Viêm Nhiệt là nửa [trung kiếp]; còn A-tỳ
+> 【141】Cực Viêm Nhiệt là nửa [trung kiếp]; còn A-tỳ
 > Là một trung kiếp.
 
 — đã nói như thế; trong *Bổn Địa Phần* cũng giống như vậy.
@@ -2772,11 +2774,11 @@ Thứ nhất. Than hồng sâu chừng ngập tới đầu gối. Khi những ch
 
 Thứ hai. Kề liền với chỗ ấy là vũng bùn phân bốc mùi hôi thối như xác chết. Những chúng sinh đi tìm chỗ trú khi lội qua thì ngã xuống đó, chìm ngập từ đầu trở xuống mà nằm lại. Trong vũng bùn ấy có loài gọi là trùng mỏ nhọn; chúng đâm thủng da, thịt, gân và xương, thấu đến tủy mà đục khoét.
 
-Thứ ba. Kề liền với vũng bùn ấy là con đường phủ đầy lưỡi dao cạo. Những chúng sinh đi tìm chỗ trú đi đến đó, hễ đặt chân xuống thì da, thịt và máu thảy đều bị cắt đứt; khi nhấc chân lên thì những thứ ấy lại sinh ra. Kề liền với chỗ ấy là khu rừng có lá là gươm: những chúng sinh đi tìm chỗ trú đi đến đó, khi nương vào bóng mát của rừng ấy mà ngồi xuống thì từ trên cây gươm rơi xuống, đâm thủng và chẻ nát các chi lớn cùng chi nhỏ của chúng. Khi chúng ngã gục ở đó thì những con chó đốm đến, [cắn xé] từ phía lưng mà giật lấy để ăn. Kề liền với chỗ ấy là rừng cây śālmalī bằng sắt: những chúng sinh đi tìm chỗ trú đi đến đó liền bị bắt phải trèo lên; lúc trèo lên thì đầu các gai chĩa xuống dưới, lúc tụt xuống thì gai chĩa lên trên, và chúng đâm thủng, chẻ nát các chi lớn cùng chi nhỏ. Ở đó lại có loài chim gọi là quạ mỏ sắt, đậu trên vai hoặc trên đầu mà mổ lấy tròng mắt để ăn. Những chỗ ấy, vì giống nhau ở chỗ nỗi hại của binh khí giáng xuống, nên được kể chung làm một.
+Thứ ba. Kề liền với vũng bùn ấy là con đường phủ đầy lưỡi dao cạo. Những chúng sinh đi tìm chỗ trú đi đến đó, hễ đặt chân xuống thì da, thịt và máu thảy đều bị cắt đứt; khi nhấc chân lên thì những thứ ấy lại sinh ra. Kề liền với chỗ ấy là khu rừng có lá là gươm: những chúng sinh đi tìm chỗ trú 【142】đi đến đó, khi nương vào bóng mát của rừng ấy mà ngồi xuống thì từ trên cây gươm rơi xuống, đâm thủng và chẻ nát các chi lớn cùng chi nhỏ của chúng. Khi chúng ngã gục ở đó thì những con chó đốm đến, [cắn xé] từ phía lưng mà giật lấy để ăn. Kề liền với chỗ ấy là rừng cây śālmalī bằng sắt: những chúng sinh đi tìm chỗ trú đi đến đó liền bị bắt phải trèo lên; lúc trèo lên thì đầu các gai chĩa xuống dưới, lúc tụt xuống thì gai chĩa lên trên, và chúng đâm thủng, chẻ nát các chi lớn cùng chi nhỏ. Ở đó lại có loài chim gọi là quạ mỏ sắt, đậu trên vai hoặc trên đầu mà mổ lấy tròng mắt để ăn. Những chỗ ấy, vì giống nhau ở chỗ nỗi hại của binh khí giáng xuống, nên được kể chung làm một.
 
 Thứ tư. Kề liền với rừng śālmalī là [con sông] gọi là sông Không Lội Qua Được, đầy thứ nước ăn mòn đang sôi. Những chúng sinh đi tìm chỗ trú rơi xuống đó, trồi lên chìm xuống mà bị nấu chín — ví như đổ đậu và các thứ vào trong chảo đồng đầy nước đặt trên ngọn lửa lớn đang cháy. Trên hai bờ con sông ấy có những chúng sinh tay cầm gậy, móc câu và lưới ngồi đó, đến việc thoát ra ngoài cũng không cho [kẻ kia]; [chúng] lấy móc câu hoặc lưới kéo lên rồi đặt nằm ngửa trên nền đất lớn đang bốc cháy, và hỏi: "Ngươi muốn gì?" Khi những kẻ ấy nói: "Chúng tôi chẳng biết gì, chẳng thấy gì cả; có điều chúng tôi đói, chúng tôi khát", thì [chúng] nhét vào miệng những hòn sắt cháy rực và rót đồng sôi vào miệng.
 
-Những [địa ngục] ấy cũng được trình bày theo *Bổn Địa Phần*; nơi ấy nói rằng cả hai loại — địa ngục cận biên và địa ngục cá biệt — đều không có thọ lượng nhất định. Tuy vậy, chừng nào năng lực của nghiệp phải thọ những khổ ấy còn chưa cạn, thì chừng ấy vẫn còn phải thọ khổ lâu dài nơi những chốn ấy.
+【143】Những [địa ngục] ấy cũng được trình bày theo *Bổn Địa Phần*; nơi ấy nói rằng cả hai loại — địa ngục cận biên và địa ngục cá biệt — đều không có thọ lượng nhất định. Tuy vậy, chừng nào năng lực của nghiệp phải thọ những khổ ấy còn chưa cạn, thì chừng ấy vẫn còn phải thọ khổ lâu dài nơi những chốn ấy.
 
 Tám địa ngục lạnh thì nằm ở phía bên kia, cách mỗi một trong tám đại địa ngục hữu tình một vạn do-tuần. Từ đây xuống ba vạn hai ngàn do-tuần là [địa ngục] Bọng Nước; từ đó cứ cách hai ngàn do-tuần lại có một, thành bảy [địa ngục] còn lại.
 
@@ -2816,7 +2818,7 @@ Thọ những khổ ấy trong bao lâu? Là cho đến chừng nào những ác
 
 — đã dạy như thế, cho nên phải thọ [khổ] cho đến hết chừng ấy thọ mạng.
 
-Địa ngục biệt phần thì nằm nơi vùng cận biên của địa ngục nóng và địa ngục lạnh; trong *Bổn Địa Phần* nói rằng ở cõi người cũng có, còn trong *Luật Sự* thì nói rằng [chúng] trú ở gần bên bờ biển lớn — đúng như xuất hiện trong *Thí Dụ về Saṅgharakṣita*. Trong *Câu-xá Thích* cũng nói:
+【145】Địa ngục biệt phần thì nằm nơi vùng cận biên của địa ngục nóng và địa ngục lạnh; trong *Bổn Địa Phần* nói rằng ở cõi người cũng có, còn trong *Luật Sự* thì nói rằng [chúng] trú ở gần bên bờ biển lớn — đúng như xuất hiện trong *Thí Dụ về Saṅgharakṣita*. Trong *Câu-xá Thích* cũng nói:
 
 > Mười sáu địa ngục hữu tình ấy là những [nơi] được hình thành do sức nghiệp của hết thảy chúng sinh. Còn các địa ngục biệt phần thì được hình thành do các nghiệp riêng của nhiều [chúng sinh], hoặc của hai, hoặc của một; sự sai khác về hình loại của chúng thì có nhiều thứ. Trú xứ thì không nhất định, vì [chúng] có ở các vùng sông, núi, đồng hoang, và cả ở phía dưới nữa.
 
@@ -2869,7 +2871,7 @@ Nhân sinh ra cái khổ như thế, phải biết chỉ là ác hạnh nơi ba 
 
 # Suy xét khổ của loài bàng sinh
 
-Suy xét khổ của loài bàng sinh: loài bàng sinh thì kẻ có sức mạnh lớn giết hại những kẻ nhỏ; lại trở thành tư cụ của trời và người, nơi mình không có tự chủ mà rơi vào quyền lực của kẻ khác, nên bị giết, bị đánh đập và bị gây hại; và vì rong ruổi chung với trời và người nên không có trú xứ nào khác — [điều ấy] được nói trong *Bổn Địa Phần*.
+Suy xét khổ của loài bàng sinh: loài bàng sinh thì kẻ có sức mạnh lớn giết hại những kẻ nhỏ; lại trở thành tư cụ của trời và người, nơi mình không có tự chủ 【147】mà rơi vào quyền lực của kẻ khác, nên bị giết, bị đánh đập và bị gây hại; và vì rong ruổi chung với trời và người nên không có trú xứ nào khác — [điều ấy] được nói trong *Bổn Địa Phần*.
 
 Còn trong *Câu-xá Thích* thì nói:
 
@@ -2911,7 +2913,7 @@ Về điều này có ba [loại]. [Loại] có sự che chướng bên ngoài �
 
 [Loại] có sự che chướng bên trong đối với đồ ăn thức uống là: miệng chỉ bằng lỗ kim, lại miệng bốc lửa, mang bướu cổ và bụng to; dẫu kẻ khác chẳng gây trở ngại, tự mình có kiếm được đồ ăn thức uống đi nữa, cũng không thể ăn uống được.
 
-[Loại] có sự che chướng nơi chính đồ ăn thức uống là: loài gọi là "kẻ mang tràng lưỡi lửa" thì hết thảy những gì đã ăn đã uống đều bốc cháy thành lửa mà thiêu đốt; còn loài gọi là "kẻ ăn đồ dơ" thì ăn uống phân và nước tiểu, chỉ có thể ăn uống những thứ bất tịnh, tanh hôi, nặng mùi, gây hại và đáng khinh chê mà thôi. Một số thì cắt thịt của chính mình mà ăn, chứ không thể thọ dụng đồ ăn thức uống sạch sẽ và tốt lành.
+[Loại] có sự che chướng nơi chính đồ ăn thức uống là: loài gọi là "kẻ mang tràng lưỡi lửa" thì hết thảy những gì đã ăn đã uống đều bốc cháy thành lửa 【149】mà thiêu đốt; còn loài gọi là "kẻ ăn đồ dơ" thì ăn uống phân và nước tiểu, chỉ có thể ăn uống những thứ bất tịnh, tanh hôi, nặng mùi, gây hại và đáng khinh chê mà thôi. Một số thì cắt thịt của chính mình mà ăn, chứ không thể thọ dụng đồ ăn thức uống sạch sẽ và tốt lành.
 
 Về trú xứ của chúng, trong *Câu-xá Thích* nói:
 
@@ -2940,7 +2942,7 @@ Trong *Thân Hữu Thư* cũng nói:
 > Đối với loài ngạ quỷ, vào lúc mùa hạ
 > Thì mặt trăng cũng nóng, mùa đông thì mặt trời cũng lạnh;
 > Cây cối trở thành không quả, và do những kẻ này
-> Chỉ nhìn đến thôi mà cả sông ngòi cũng khô cạn.
+> Chỉ nhìn 【150】đến thôi mà cả sông ngòi cũng khô cạn.
 
 — đã nói như vậy.
 
@@ -2962,7 +2964,7 @@ Trong *Thư Gửi Đệ Tử* cũng nói:
 > Thành chính miền hoang mạc nơi ngọn gió đỏ dữ dội thổi cuồng.
 > Những kẻ này, khi ở đó, dẫu mong mây mưa nổi lên,
 > Thì từ mây trút xuống trận mưa tên sắt, kèm khói mù và than hồng;
-> [tsha-tsha] cùng những tảng đá kim cang tung tóe; và như sắc vàng ròng,
+> 【151】[tsha-tsha] cùng những tảng đá kim cang tung tóe; và như sắc vàng ròng,
 > Tràng chớp đỏ vàng lóe chạy, trút xuống thân như mưa.
 > Kẻ bị cái nóng bức bách thì cả bão tuyết cũng hóa nóng,
 > Kẻ khốn khổ vì gió lạnh thì cả lửa cũng làm cho lạnh.
@@ -2994,7 +2996,7 @@ Mục-kiền-liên bèn dẫn hai vị đến nơi đi tới để trải qua ba
 
 Rồi Mục-kiền-liên dạy: "Này hai vị sa-di! Những lỗi hại này và những điều khác nữa đều phát sinh từ sự biếng nhác, vậy hãy khởi tinh tấn!" Hai vị bèn khởi tinh tấn; nếu trước khi ăn mà nhớ đến địa ngục thì không ăn, còn nếu sau khi ăn xong mới nhớ đến thì lại nôn ra.
 
-Lại nữa, [Mục-kiền-liên] dẫn hai vị đến một nơi trải qua ban ngày khác. Ở một phía, nghe tiếng đàn tỳ-bà v.v. của chư thiên được hóa hiện, hai vị đi đến xem, thấy một vô lượng cung không có thiên tử mà đầy những thiên nữ, bèn hỏi lý do không có thiên tử. Có lời nói rằng: "Hai người cháu của A-nan xuất gia rồi khởi tinh tấn; hai vị ấy chết rồi sẽ sinh vào đây." Hai vị hoan hỷ, thuật lại với Mục-kiền-liên, và [vị ấy] dạy: "Này hai vị sa-di! Những lợi ích này và những điều khác nữa đều phát sinh từ việc khởi tinh tấn, vậy hãy khởi tinh tấn!"
+Lại nữa, [Mục-kiền-liên] dẫn hai vị đến một nơi trải qua ban ngày 【153】khác. Ở một phía, nghe tiếng đàn tỳ-bà v.v. của chư thiên được hóa hiện, hai vị đi đến xem, thấy một vô lượng cung không có thiên tử mà đầy những thiên nữ, bèn hỏi lý do không có thiên tử. Có lời nói rằng: "Hai người cháu của A-nan xuất gia rồi khởi tinh tấn; hai vị ấy chết rồi sẽ sinh vào đây." Hai vị hoan hỷ, thuật lại với Mục-kiền-liên, và [vị ấy] dạy: "Này hai vị sa-di! Những lợi ích này và những điều khác nữa đều phát sinh từ việc khởi tinh tấn, vậy hãy khởi tinh tấn!"
 
 Do khởi tinh tấn, khi [hai vị] thọ nhận khẩu truyền, [ngài] đã giảng về việc từ thiện thú sinh vào ác thú — điều xuất từ *Tương Ưng A-hàm*, như đã dẫn ở trước. [Hai vị thưa]: "Bạch bậc thánh! Chúng con cũng phải chết đi khỏi giữa hàng trời người mà sinh vào ba ác đạo chăng?" [Ngài đáp]: "Này hai vị hiền diện! Trong luân hồi ngũ thú, hễ các phiền não còn chưa dứt dòng thì còn phải xoay vòng trong luân hồi theo cách của chuỗi gàu nước." Hai vị sinh tâm chán lìa, thưa rằng: "Xin hãy thuyết pháp sao cho từ nay về sau chúng con không còn hành theo phiền não nữa." Mục-kiền-liên thuyết pháp, và [hai vị] chứng được quả A-la-hán — [Luật Sự] nói như vậy.
 
@@ -3002,7 +3004,7 @@ Vì thế, [pháp quán ấy] ngăn dứt sự biếng nhác, phát khởi tinh 
 
 Trong đây, cách thức ý lạc của bậc hạ và bậc trung phát sinh theo thứ tự là hết sức rõ ràng; còn về mức độ nơi tâm, thì cho đến khi nào một ý lạc như thế chưa phát sinh, [ta] phải liên tục nỗ lực mà tu tập.
 
-Ngài Neusurpa cũng dạy rằng: "Hãy xét xem: nhân sinh vào những [cõi] ấy, trước kia ta đã tạo hay chưa tạo? Hiện nay đang tạo hay không tạo? Về sau có ý định tạo hay không có ý định tạo? Nếu trước kia đã tạo, hoặc hiện nay đang tạo, hoặc về sau có ý định tạo, thì [ta] sẽ đi đến đó. Rồi nghĩ: 'Nếu sinh vào đó thì bấy giờ ta biết làm sao, ta có kham nổi chăng?' — hãy nghĩ như thế: đầu não nóng ran, hoặc đang ngồi trên nền đất thì bật dậy giật thót, hoàn toàn không còn cách nào ngồi yên được; và hãy khiến cho tâm kinh hãi khiếp sợ phát sinh được chừng nào hay chừng ấy." — ngài dạy như vậy.
+【154】Ngài Neusurpa cũng dạy rằng: "Hãy xét xem: nhân sinh vào những [cõi] ấy, trước kia ta đã tạo hay chưa tạo? Hiện nay đang tạo hay không tạo? Về sau có ý định tạo hay không có ý định tạo? Nếu trước kia đã tạo, hoặc hiện nay đang tạo, hoặc về sau có ý định tạo, thì [ta] sẽ đi đến đó. Rồi nghĩ: 'Nếu sinh vào đó thì bấy giờ ta biết làm sao, ta có kham nổi chăng?' — hãy nghĩ như thế: đầu não nóng ran, hoặc đang ngồi trên nền đất thì bật dậy giật thót, hoàn toàn không còn cách nào ngồi yên được; và hãy khiến cho tâm kinh hãi khiếp sợ phát sinh được chừng nào hay chừng ấy." — ngài dạy như vậy.
 
 Điều ấy xem ra là yếu điểm. Bởi vì hiện nay thân y tốt lành, nên nếu nghĩ như thế thì [những gì] đã tích tập trước kia được tịnh trừ, việc dấn vào [chúng] về sau trở nên ít đi; thiện [nghiệp] đã tích tập trước kia, nhờ lời phát nguyện với lòng mong mỏi mãnh liệt mà chuyển hướng, nên được tăng trưởng nhiều thêm; và vì bước vào nhiều cửa ngõ của việc mới khởi sự [làm thiện] là đã đủ, nên ngay trong mỗi một ngày cũng có thể khiến cho sự tự do trở thành có ý nghĩa. Còn nếu hiện nay không nghĩ đến những điều ấy, thì khi đọa vào ác thú, dù có tìm cầu chỗ nương tựa che chở khỏi những nỗi sợ hãi kia cũng chẳng tìm được; bởi vì khi ấy tâm không còn năng lực để thủ xả điều đáng làm và điều không đáng làm. Trong *Nhập Bồ-tát Hạnh* có nói:
 
@@ -3044,7 +3046,7 @@ Thứ nhất. Nói chung, nhân thì có nhiều; nhưng trong trường hợp n
 > Ánh chớp lóe lên chiếu sáng rõ trong khoảnh khắc;
 > Cũng vậy, nhờ uy lực của Phật, họa hoằn lắm
 > Tuệ phúc đức của thế gian mới chợt khởi lên đôi lúc.
-> Bởi thế, điều thiện thì luôn luôn yếu ớt,
+> 【156】Bởi thế, điều thiện thì luôn luôn yếu ớt,
 > Còn tội ác thì sức mạnh lớn lao, cực kỳ khốc liệt.
 
 Đúng như lời ấy, do nghiệp trắng thì yếu ớt còn nghiệp đen thì sức mạnh lại cực kỳ lớn lao, nên khi tư duy về cách thức đọa vào ác thú thì sinh khởi sự khiếp sợ kinh hoàng, và từ đó khởi lên cái tâm tìm cầu chỗ quy y — bậc đại nhân Trần-na [nói]:
@@ -3072,7 +3074,7 @@ Thứ nhất. Trong *Bách Ngũ Thập Tụng* có nói:
 > Tán thán bậc ấy, tôn trọng bậc ấy,
 > Và an trụ nơi giáo pháp của bậc ấy — ấy là điều chính đáng.
 
-Đúng như lời ấy: nếu có được cái trí phân biệt đâu là chỗ quy y và đâu chẳng phải là chỗ quy y, thì quy y nơi đức Phật Thế Tôn — chỗ quy y không hư dối — là điều chính đáng. Điều ấy cũng biểu thị luôn cả ngôi báu Pháp và ngôi báu Tăng-già, vì trong *Bảy Mươi Kệ Quy Y* có nói:
+Đúng như lời ấy: nếu có được cái trí phân biệt đâu là chỗ quy y và đâu chẳng phải là chỗ quy y, thì quy y nơi đức Phật Thế Tôn — chỗ quy y không hư dối 【157】— là điều chính đáng. Điều ấy cũng biểu thị luôn cả ngôi báu Pháp và ngôi báu Tăng-già, vì trong *Bảy Mươi Kệ Quy Y* có nói:
 
 > Phật, Pháp và Tăng-già
 > Là chỗ quy y của những ai mong cầu giải thoát.
@@ -3118,7 +3120,7 @@ Do đó, hãy nhận biết rằng nơi quy y tốt lành vô song này — bậ
 
 # Cách thức quy y bằng bao nhiêu điều
 
-Cách thức quy y bằng bao nhiêu điều: có bốn điều được nói trong *Nhiếp Quyết Trạch*, đó là quy y do biết công đức, do biết sự khác biệt, do thừa nhận, và do không tuyên xưng nơi nào khác.
+【159】Cách thức quy y bằng bao nhiêu điều: có bốn điều được nói trong *Nhiếp Quyết Trạch*, đó là quy y do biết công đức, do biết sự khác biệt, do thừa nhận, và do không tuyên xưng nơi nào khác.
 
 ## Quy y do biết công đức
 
@@ -3157,7 +3159,7 @@ Công đức của thân là nhớ nghĩ trong tâm các tướng hảo và tùy
 > Đối với những người kinh sợ luân hồi,
 > Ngài dùng tay ấy mà ban cho sự an ủi.
 > Đấng Mâu-ni, khi ngài cất bước đi,
-> Hai bàn chân tựa hoa sen cát tường
+> 【160】Hai bàn chân tựa hoa sen cát tường
 > Vẽ in lên mặt đất này —
 > Nhờ cái mang hoa sen ấy, [mặt đất] đẹp xiết bao!
 
@@ -3193,7 +3195,7 @@ Công đức của ngữ là suy xét về cách thức vô cùng hy hữu này:
 > Vì thấy rõ nghĩa lý nên không lừa dối,
 > Vì không có lỗi lầm nên [trước sau] tương thuận,
 > Vì khéo kết hợp nên dễ hiểu:
-> Lời của ngài đầy đủ sự khéo giảng.
+> Lời của ngài 【161】đầy đủ sự khéo giảng.
 > Thoạt tiên, lời của ngài
 > Cướp lấy tâm ý của những người nghe;
 > Rồi sau, nếu đem suy xét trong tâm,
@@ -3270,7 +3272,7 @@ Hãy nhớ nghĩ đúng như lời đã dạy ấy.
 
 Sự nghiệp nơi thân, nơi ngữ và nơi ý [của Phật] thành tựu một cách tự nhiên, và không hề gián đoạn; bằng hai điều ấy, ngài làm lợi ích cho hết thảy chúng sinh.
 
-Hơn nữa, nếu về phía người đáng được điều phục mà họ có thể được dẫn dắt, thì không có người đáng được điều phục nào mà đấng Mâu-ni lại chẳng đưa cho gặp được sự viên mãn, cũng chẳng có ai mà ngài không kéo ra khỏi cảnh suy tổn; cho nên hết thảy những gì đáng làm, ngài đều nhất định làm. Trong *Bách Ngũ Thập Tụng* có nói:
+【163】Hơn nữa, nếu về phía người đáng được điều phục mà họ có thể được dẫn dắt, thì không có người đáng được điều phục nào mà đấng Mâu-ni lại chẳng đưa cho gặp được sự viên mãn, cũng chẳng có ai mà ngài không kéo ra khỏi cảnh suy tổn; cho nên hết thảy những gì đáng làm, ngài đều nhất định làm. Trong *Bách Ngũ Thập Tụng* có nói:
 
 > Ngài đã giảng sự hủy diệt phiền não,
 > Đã chỉ bày những trò xảo trá của ma,
@@ -3294,7 +3296,7 @@ Những điều trên là cách tùy niệm Phật, nói cho gọn lại. Nếu 
 
 Nếu tu tập như thế mà tâm được lay động, thì vì phần lớn thánh giáo và các luận giải mật ý đều trình bày công đức của ba nơi quy y, nên những điều ấy sẽ hiện ra thành lời giáo huấn. Còn những ai cho rằng tu theo lối quán sát là sự phân biệt, nên đến lúc thực hành thì vứt bỏ nó, ấy là họ đang chặn đứng nhiều cửa ngõ tích tập tư lương và tịnh trừ các chướng như thế này; hãy biết đó là chướng ngại lớn cho việc lấy tinh túy vô lượng nơi thân y có tự do.
 
-Nếu lấy những điều này làm sự thực hành thường ngày, thì vì [việc ấy] đi theo sau sự thuần thục của tâm, nên ban đầu tuy luyện tâm có khó khăn, về sau ta sẽ tự nhiên bước vào đó; lại nữa, bồ-đề tâm sẽ sinh khởi với ý nghĩ "mong sao chính ta cũng đạt được một đức Phật giống như đấng mà ta đang tùy niệm"; suốt ngày lẫn đêm ta sẽ thấy được đức Phật; và đến lúc chết, dù khổ đau nào xảy đến, sự tùy niệm Phật cũng không suy giảm. Trong *Kinh Tam-muội Vương* có nói:
+Nếu lấy những điều này làm sự thực hành thường ngày, thì vì [việc ấy] đi theo sau sự thuần thục của tâm, 【164】nên ban đầu tuy luyện tâm có khó khăn, về sau ta sẽ tự nhiên bước vào đó; lại nữa, bồ-đề tâm sẽ sinh khởi với ý nghĩ "mong sao chính ta cũng đạt được một đức Phật giống như đấng mà ta đang tùy niệm"; suốt ngày lẫn đêm ta sẽ thấy được đức Phật; và đến lúc chết, dù khổ đau nào xảy đến, sự tùy niệm Phật cũng không suy giảm. Trong *Kinh Tam-muội Vương* có nói:
 
 > Ta bảo cho các ngươi, hãy thấu hiểu điều này:
 > Người ta suy nghĩ nhiều về điều gì,
@@ -3322,7 +3324,7 @@ Và:
 
 — đã dạy như vậy.
 
-Ngài Potowa dạy rằng: "Nếu suy nghĩ đi nghĩ lại thì ý càng thêm lớn, tâm tương tục càng thêm trong sạch, rồi sự gia trì phát sinh. Khi đã tìm được sự xác quyết đối với điều ấy, rồi từ tận đáy lòng mà quy y, thì chỉ cần học theo các điều cần học của việc quy y ấy, hết thảy những gì mình làm đều trở thành việc thuộc giáo pháp của đức Phật. [Vậy mà] bọn chúng ta còn chẳng coi trọng trí tuệ của đức Phật cho bằng một thầy bói giỏi nhất."
+Ngài Potowa dạy rằng: "Nếu suy nghĩ đi nghĩ lại thì ý càng thêm lớn, tâm tương tục càng thêm trong sạch, rồi sự gia trì phát sinh. Khi đã tìm được sự xác quyết đối với điều ấy, rồi từ tận đáy lòng mà quy y, thì chỉ cần học theo các điều cần học của việc quy y ấy, hết thảy những gì mình làm đều trở thành 【165】việc thuộc giáo pháp của đức Phật. [Vậy mà] bọn chúng ta còn chẳng coi trọng trí tuệ của đức Phật cho bằng một thầy bói giỏi nhất."
 
 Lại nữa, nếu một người được xem là thầy bói giỏi nhất bảo rằng "năm nay ông chẳng có gì trắc trở đâu, chính tôi biết", thì ta liền thong dong thoải mái mà đi. Còn nếu ông ta bảo "năm nay có chuyện đấy, phải làm thế này, chớ làm thế kia", thì ta gắng sức làm cho được. Nếu chẳng làm được, ta lại nghĩ "điều ông ấy dặn mà mình đã không làm được", rồi trong lòng bất an. Thế nhưng khi đức Phật đã chế định rằng "hãy đoạn trừ điều này điều nọ" và "hãy thành tựu điều này điều nọ", thì ta có đặt lòng vào đó chăng? Nếu chẳng làm được, ta có thấy trong ý bất an chăng? Trong giáo pháp thì đã dạy như thế, [song ta lại] nói rằng "bây giờ, do nơi chốn và thời thế, không thể làm như thế được, phải làm thế này", rồi vứt phăng lời dạy của đức Phật đi mà vụt chạy theo cái hiểu biết riêng của mình — ngài dạy như vậy.
 
@@ -14889,8 +14891,8 @@ Như vậy — nhắm đến nhiều điều tốt lành trước mắt và lâu
   trang giữa câu, dấu nằm ngay giữa câu tiếng Việt là bình thường — đó chính là chỗ ngắt
   thật. Số trong dấu là **số trang in trên sách**; `【*5】` là các trang bìa và trang bản
   quyền (bản gốc không đánh số), lấy theo số trang PDF.
-  Hiện đã đánh dấu **293/965** trang: 292 chỗ suy ra được chính xác từ ranh giới đoạn dịch,
-  1 chỗ được đối chiếu Tạng văn để định vị. Chỗ chưa đánh dấu thì **bỏ trống**
+  Hiện đã đánh dấu **407/965** trang: 292 chỗ suy ra được chính xác từ ranh giới đoạn dịch,
+  115 chỗ được đối chiếu Tạng văn để định vị. Chỗ chưa đánh dấu thì **bỏ trống**
   chứ không ước lượng — xem `node tools/43-pages.mjs list`.
 - **Đoạn thụt lề (`>`)** là kinh, luận được trích dẫn. Kệ tụng giữ mỗi dòng một *pāda*
   đúng theo cách ngắt của Tạng văn.
