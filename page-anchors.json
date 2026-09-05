@@ -979,8 +979,10 @@
       "kind": "internal",
       "boTail": "་རྒྱུན་རིང་བ་དགོས་པས་དཔྱད་སྒོམ་བྱའོ། །སེམས་དམིགས་པ་གཅིག་ལ་གནས་སུ་མི་བཏུབ་པ་དམིགས་པ་གཅིག་ལ་",
       "boHead": "ཇི་ལྟར་འདོད་འདོད་དུ་བཞག་པས་ཆོག་པའི་ལས་རུང་དུ་བྱེད་པ་ཞི་གནས་བསྒྲུབ་པ་ལ་སོགས་པའི་སྐབས་སུ་ནི་",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "bao lâu tùy ý cũng được — thì nếu quán sát",
+      "placedBy": "align",
+      "note": "đặt đúng ranh giới chữ; câu tiếng Việt đảo mạnh nên vài cụm của p106 (thành tựu tịnh chỉ, kham nhậm) đứng trước dấu"
     },
     {
       "pdf": 107,
@@ -1041,8 +1043,10 @@
       "kind": "internal",
       "boTail": "ཀློར་སྐྱེ་བ་གླེན་ཞིང་ལྐུགས་པ་ཉིད། །ཚེ་རིང་ལྷ་ཉིད་གང་ཡང་རུང་བར་ནི། །སྐྱེ་བ་ཞེས་བགྱི་མི་ཁོམ་",
       "boHead": "སྐྱོན་བརྒྱད་པོ། །དེ་དག་དང་བྲལ་ཁོམ་པ་བརྙེས་ནས་ནི། །སྐྱེ་བ་བཟློག་པའི་སླད་དུ་འབད་པར་མཛོད། །ཅེ",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "Lìa khỏi những cảnh ấy mà đạt được sự tự do,",
+      "placedBy": "align",
+      "note": "skyon brgyad po (tám lỗi) mở p112, khép dòng kệ trước"
     },
     {
       "pdf": 113,
@@ -1051,8 +1055,10 @@
       "kind": "internal",
       "boTail": " གནས་བརྒྱད་པོ་དེ་དག་ཏུ་དགེ་བ་བྱ་བའི་དལ་བ་མེད་པས་ན་མི་ཁོམ་པ་ཞེས་བྱའོ། །ཞེས་གསུངས་པ་ལྟར་རོ།།",
       "boHead": "གཉིས་པ་འབྱོར་པ་ལ་གཉིས་ལས། རང་འབྱོར་ལྔ་ནི། མི་ཉིད་དབུས་སྐྱེས་དབང་པོ་ཚང༌། །ལས་མཐའ་མ་ལོག་གནས་",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "Thứ hai, thuận duyên có hai phần.",
+      "placedBy": "align",
+      "note": "khớp đúng chữ"
     },
     {
       "pdf": 114,
@@ -1069,8 +1075,10 @@
       "kind": "internal",
       "boTail": "དང་ལྡན་ཡང་གནས་མཆོག་ཡིན་པས་བསྐལ་པ་བྱེ་བར་ཡང་རྙེད་དཀའོ། །ལྷ་དག་འཆི་བ་ནའང་ལྷ་གཞན་དག་ཁྱོད་བདེ་",
       "boHead": "འགྲོར་སྐྱེ་བར་གྱུར་ཅིག །བདེ་འགྲོ་ནི་མིའི་འགྲོ་བའོ། །ཞེས་གསུངས་པ་ལྟར། ལྷ་རྣམས་ཀྱང་རྟེན་འདི་",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "Thiện thú chính là thú của loài người.",
+      "placedBy": "align",
+      "note": "bde | 'gror (thiện thú) bị ngắt đôi"
     },
     {
       "pdf": 116,
@@ -1079,8 +1087,10 @@
       "kind": "internal",
       "boTail": "ི་དལ་བ་རྙེད་གྱུར་ནས། །བདག་གིས་དགེ་གོམས་མ་བྱས་ན། །འདི་ལས་བསླུས་པ་གཞན་མེད་དེ། །འདི་ལས་རྨོངས་",
       "boHead": "པའང་གཞན་མེད་དོ། །གལ་ཏེ་བདག་གིས་དེ་རྟོགས་ནས། །རྨོངས་པས་ཕྱིས་ཀྱང་སྒྱིད་ལུག་ན། །འཆི་བར་འགྱུར་",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "nào khác hơn điều này.",
+      "placedBy": "align",
+      "note": "rmongs | pa'ang (mê muội) bị ngắt đôi giữa hai trang"
     },
     {
       "pdf": 117,
@@ -1097,8 +1107,10 @@
       "kind": "internal",
       "boTail": "་རྡུལ་དང༌། དེ་ནས་བདེ་འགྲོར་སྐྱེ་བ་ནི་སེན་མོའི་རྩེ་མོས་བླངས་པའི་རྡུལ་དང་འདྲ་ཞིང༌། བདེ་འགྲོ་",
       "boHead": "གཉིས་ནས་ཤི་འཕོས་ཏེ་ངན་འགྲོར་འགྲོ་བ་ནི་ས་ཆེན་པོ་དང༌། དེ་ནས་བདེ་འགྲོར་སྐྱེ་བ་ནི་ཕྱག་སེན་གྱི་",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "rồi đi vào ác thú thì như đại địa",
+      "placedBy": "align",
+      "note": "gnyis (cả hai) mở p118, tiếng Việt đặt trước danh từ"
     },
     {
       "pdf": 119,
@@ -1107,8 +1119,10 @@
       "kind": "internal",
       "boTail": "་བདག་གིས་མ་བྱས་ན། །ངན་སོང་སྡུག་བསྔལ་ཀུན་རྨོངས་པ། །དེ་ཚེ་བདག་གིས་ཅི་བྱར་ཡོད། །དགེ་བ་དག་ཀྱང་",
       "boHead": "མ་བྱས་ལ། །སྡིག་པ་དག་ཀྱང་ཉེར་བསགས་ན། །བསྐལ་པ་བྱེ་བ་བརྒྱར་ཡང་ནི། །བདེ་འགྲོའི་སྒྲ་ཡང་ཐོས་མི་འ",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "Mà các tội lỗi lại tích tập,",
+      "placedBy": "align",
+      "note": "ma byas (chẳng làm) mở p119, khép dòng kệ trước"
     },
     {
       "pdf": 120,
@@ -1125,8 +1139,10 @@
       "kind": "internal",
       "boTail": "་བ་རྟིང་མ་རྣམས་སུ་ཆོས་བྱའོ་སྙམ་ནས་འདོར་བའི་ལེ་ལོ་འགོག་ལ། བཞི་པས་ནི་ཚེ་འདིར་སྒྲུབ་དགོས་ཀྱང་",
       "boHead": "ལོ་དང་ཟླ་བ་དང་ཞག་སྔ་མ་རྣམས་ལ་མ་གྲུབ་ཀྱང་ཕྱི་མ་ཕྱི་མ་ལ་བསྒྲུབ་པས་ཆོག་སྙམ་ནས་མི་འཇུག་པའི་ལེ་",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "dù chưa thành tựu trong những năm",
+      "placedBy": "align",
+      "note": "khớp đúng chữ"
     },
     {
       "pdf": 122,
@@ -1143,8 +1159,10 @@
       "kind": "internal",
       "boTail": "ུ་རྣམས་བསྒྲུབ་པ་ལ་འཇུག་པའི་ཕྱིར་ཏེ། ལམ་སྒྲོན་ལས། གང་ཞིག་ཐབས་ནི་གང་དག་གིས། །འཁོར་བའི་བདེ་བ་",
       "boHead": "ཙམ་དག་ལ། །རང་ཉིད་དོན་དུ་གཉེར་བྱེད་པ། །སྐྱེས་བུ་དེ་ནི་ཐ་མར་ཤེས། །ཞེས་གསུངས་པའི་ཕྱིར་རོ། །ངེ",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "Mà mong cầu cho riêng mình,",
+      "placedBy": "align",
+      "note": "tsam (chỉ) mở p123; tiếng Việt đặt \"Chỉ\" ở đầu dòng kệ trước"
     },
     {
       "pdf": 124,
@@ -1153,8 +1171,10 @@
       "kind": "internal",
       "boTail": "ཀུན། །ཡང་དག་ཟད་པར་ཀུན་ནས་འདོད། །སྐྱེས་བུ་དེ་ནི་མཆོག་ཡིན་ནོ། །ཞེས་གསུངས་ཤིང༌། སྐྱེས་བུ་དེས་",
       "boHead": "བྱང་ཆུབ་བསྒྲུབ་པའི་ཐབས་ལ་ཕ་རོལ་ཏུ་ཕྱིན་པ་དང་སྔགས་གཉིས་ཀ་འོག་ནས་གསུངས་པའི་ཕྱིར་རོ།། སྐྱེས་བ",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "ở phần dưới có dạy cả hai",
+      "placedBy": "align",
+      "note": "skyes bu des (bậc ấy) khép p123, tiếng Việt đưa xuống sau dấu"
     },
     {
       "pdf": 125,
@@ -1163,8 +1183,10 @@
       "kind": "internal",
       "boTail": "ལྟར་འཁྲིད་པའི་རྒྱུ་མཚན་བསྟན་པའོ། ། སྐྱེས་བུ་གསུམ་གྱི་ལམ་གྱི་སྒོ་ནས་འཁྲིད་པའི་དོན་གང་ཡིན་པ།",
       "boHead": "དང་པོ་ནི། དེ་ལྟར་སྐྱེས་བུ་གསུམ་དུ་བཤད་ཀྱང་སྐྱེས་བུ་ཆེན་པོའི་ལམ་གྱི་རིམ་པར་སྐྱེས་བུ་གཞན་གཉི",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "Thứ nhất. Tuy đã giảng thành ba bậc như thế",
+      "placedBy": "align",
+      "note": "khớp đúng chữ: tiêu đề sa-bcad khép p124"
     },
     {
       "pdf": 126,
@@ -1181,8 +1203,10 @@
       "kind": "internal",
       "boTail": "པའི་མིང་ཐོབ་ནས་རྟེན་དེ་ཐེག་ཆེན་པར་ཚུད་ལ། དེ་ནམ་ཉམས་པ་ན་ཐེག་ཆེན་པའི་གསེབ་ནས་ཕྱིར་ལ་འཐོན་པར་",
       "boHead": "འགྱུར་བའི་ཕྱིར་རོ། །དེས་ན་ཐེག་ཆེན་དུ་འཇུག་འདོད་པ་རྣམས་ཀྱིས་ནི་སེམས་དེ་ཐབས་དུ་མས་འབད་ནས་བསྐ",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "Vì vậy, những ai muốn thể nhập Đại thừa",
+      "placedBy": "align",
+      "note": "p127 mở bằng động từ 'gyur ba khép câu trước"
     },
     {
       "pdf": 128,
@@ -1191,8 +1215,10 @@
       "kind": "internal",
       "boTail": "ན་མོང་བའི་བསམ་པ་སྦྱོང་དགོས་སོ།། དེ་ལྟར་ཕན་ཡོན་གཉིས་ལ་ཐོབ་འདོད་སྐྱེས་ནས་ཕན་ཡོན་ཅན་གྱི་སེམས་",
       "boHead": "བསྒོམ་པ་ལ་འཇུག་པ་ན། སེམས་དེའི་རྩ་བ་བྱམས་པ་དང་སྙིང་རྗེ་ཆེན་པོ་བསྐྱེད་དགོས་ལ། དེ་ཡང་རང་བདེ་བ",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "thì phải phát khởi từ và đại bi",
+      "placedBy": "align",
+      "note": "sems (tâm) khép p127; \"bước vào việc tu tập\" thuộc p128 nhưng tiếng Việt đặt trước tân ngữ"
     },
     {
       "pdf": 129,
@@ -1201,8 +1227,10 @@
       "kind": "internal",
       "boTail": "ྱེ་བའི་ཐབས་སུ་གོ་བར་བྱའོ།། འདིར་ཆུང་ངུ་དང་འབྲིང་གི་ཆོས་སྐོར་རྣམས་བླ་ན་མེད་པའི་བྱང་ཆུབ་ཀྱི་",
       "boHead": "སེམས་སྐྱེ་བའི་ཡན་ལག་ཏུ་འགྲོ་ལུགས་རྣམས་བླ་མས་ཀྱང་ལེགས་པར་བརྡ་སྤྲད། སློབ་མས་ཀྱང་དེ་ལ་ངེས་པ་ར",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "trở thành chi phần khiến bồ-đề tâm vô thượng phát sinh",
+      "placedBy": "align",
+      "note": "byang chub kyi | sems (bồ-đề tâm) bị ngắt đôi"
     },
     {
       "pdf": 130,
@@ -1219,8 +1247,10 @@
       "kind": "internal",
       "boTail": "་ནས་འགྲོ་བར་བྱེད་ཀྱི། བྱ་གཤོག་ཆག་ལྟར་ལམ་གྱི་ཆ་ཤས་ཕྱོགས་རེ་བཟུང་ནས་འགྲོ་བར་མི་བྱེད་དེ། དབུ་",
       "boHead": "མ་ལ་འཇུག་པ་ལས། ཀུན་རྫོབ་དེ་ཉིད་གཤོག་ཡངས་དཀར་པོ་རྒྱས་གྱུར་པ། །ངང་པའི་རྒྱལ་པོ་དེ་ནི་སྐྱེ་བོའ",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "Như trong *Nhập Trung Luận* có nói:",
+      "placedBy": "align",
+      "note": "tên luận bị ngắt: dbu khép p130, ma la 'jug pa mở p131"
     },
     {
       "pdf": 132,
@@ -1229,8 +1259,10 @@
       "kind": "internal",
       "boTail": "། གོང་མ་ལྟར་ན་བསྐྱེད་རིམ་གྱི་རྣལ་འབྱོར་གང་རུང་ལ་ལེགས་པར་ཁྲིད་ལ་བསླབ། དེ་བརྟན་ནས་རྒྱུད་སྡེ་",
       "boHead": "འོག་མ་ལྟར་ན་མཚན་མ་མེད་པའི་རྣལ་འབྱོར་དང༌། གོང་མ་ལྟར་ན་རྫོགས་རིམ་གྱི་རྣལ་འབྱོར་གང་རུང་ལ་ལེགས",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "bậc dưới là du-già vô tướng",
+      "placedBy": "align",
+      "note": "khớp đúng chữ"
     },
     {
       "pdf": 133,
@@ -1247,8 +1279,10 @@
       "kind": "internal",
       "boTail": "་བའི་ཕྱིར་རོ། །གཞན་ཡང་གོང་མའི་སྐལ་བ་ཅན་ལ་ལམ་ཐུན་མོང་བ་བསྟན་ཏེ་སྦྱངས་པ་ན། སྔར་ནས་སྐྱེས་ཟིན་",
       "boHead": "པའམ། སྔར་མ་སྐྱེས་ཀྱང་མྱུར་དུ་ཡོན་ཏན་དེ་དག་སྐྱེ་བར་འགྱུར་བས་འོག་མ་འོག་མ་སྐྱེས་པ་ན། གོང་མ་གོ",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "hoặc dù trước chưa phát sinh",
+      "placedBy": "align",
+      "note": "khớp đúng chữ: p134 mở bằng pa'am"
     },
     {
       "pdf": 135,
@@ -1257,8 +1291,10 @@
       "kind": "internal",
       "boTail": "ངས་པ་དང༌། འཕགས་པ་ལྷས་ཀྱང༌། སྤྱོད་པ་བསྡུས་པའི་སྒྲོན་མེར། སྔོན་དུ་ཕར་ཕྱིན་གྱི་ཐེག་པའི་བསམ་པ་",
       "boHead": "ལ་སྦྱངས་ནས། དེ་ནས་སྔགས་ལ་འཇུག་པའི་ཚུལ་རིམ་ཅན་དུ་དགོས་པར་བསྒྲུབས་ཤིང་དེའི་དོན་བསྡུས་ཏེ། སེམ",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "rồi sau đó mới thể nhập mật chú",
+      "placedBy": "align",
+      "note": "la sbyangs (tu tập) mở p135 nhưng tiếng Việt đặt trước tân ngữ"
     },
     {
       "pdf": 136,
