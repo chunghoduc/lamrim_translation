@@ -30788,6 +30788,2774 @@
       "kind": "doctrinal term",
       "note": "p0707 l.13, same sentence as ཆོས་སྐུ. No entry. The attached `དམ་པ` is rendered 'tối thắng' following the registered `དམ་པ (adjectival, bare) -> tối thắng` (prov); the Sixty Stanzas verse just above renders `དམ་པ་གཉིས` as 'Hai điều tối thắng' for consistency.",
       "firstSeen": "batch"
+    },
+    {
+      "bo": "དངོས་སྨྲ (contracted form of དངོས་པོར་སྨྲ་བ)",
+      "skt": "vastuvādin / bhāvavādin",
+      "vi": "nhà chủ trương sự vật",
+      "status": "provisional",
+      "kind": "term",
+      "note": "p0719 l.3 has both forms in one sentence (དངོས་སྨྲའི་རྩོད་པ and དངོས་པོར་སྨྲ་བའི་རྩོད་པ). glossary.json's only entry for དངོས་པོར་སྨྲ་བ records 'not rendered in this chunk' (c211's agent wrote 'các vị ấy'). I followed c212, the immediately preceding section, which renders it 'nhà chủ trương sự vật'. NOTE the corpus divergence: c211 uses 'các nhà chủ trương thật hữu' for the same school. One ruling is needed, and it should cover the contracted spelling too so the sweep sees one term.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "ཟླ་བ (short for ཟླ་བ་གྲགས་པ, in སློབ་དཔོན་ཟླ་བའི་བཞེད་པ)",
+      "skt": "Candrakīrti",
+      "vi": "A-xà-lê Nguyệt [Xứng]",
+      "status": "provisional",
+      "kind": "name",
+      "note": "p0718 l.5. glossary.json registers ཟླ་བ་གྲགས་པ / སློབ་དཔོན་ཟླ་བ་གྲགས་པ / སློབ་དཔོན་ཆེན་པོ་ཟླ་བ་གྲགས་པ = Nguyệt Xứng / A-xà-lê Nguyệt Xứng / đại A-xà-lê Nguyệt Xứng, but not the bare short form ཟླ་བ. 'Xứng' is bracketed as supplied so the abbreviation is visible.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "བཅིངས་གྲོལ",
+      "skt": "bandhamokṣa",
+      "vi": "trói buộc và giải thoát",
+      "status": "provisional",
+      "kind": "term",
+      "note": "p0718–p0719, 8×; the running example of what the opponent's reasoning is said to destroy. No entry. Wording taken from c212, which uses it in the same argument.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "འབྱུང་འཇིག",
+      "skt": "utpādabhaṅga",
+      "vi": "sinh khởi và hoại diệt",
+      "status": "provisional",
+      "kind": "term",
+      "note": "p0718 l.5, p0719 ×3. No entry. Matches c212's rendering of the MMK XXIV.1 pāda འབྱུང་བ་མེད་ཅིང་འཇིག་པ་མེད ('chẳng có sinh khởi, chẳng có hoại diệt'). Kept distinct from སྐྱེ་འགག = 'sinh và diệt' below, since both stand in the same sentences.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "སྐྱེ་འགག",
+      "skt": "utpādanirodha",
+      "vi": "sinh và diệt",
+      "status": "provisional",
+      "kind": "term",
+      "note": "p0718 l.5, p0719 ×2. No entry. Deliberately worded apart from འབྱུང་འཇིག so the two Tibetan compounds stay separable in Vietnamese; they occur side by side.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "བདེན་པ་གཉིས",
+      "skt": "satyadvaya",
+      "vi": "hai đế",
+      "status": "provisional",
+      "kind": "term",
+      "note": "p0719 l.3, བདེན་པ་གཉིས་གང་དུའང་མི་རུང་བ. glossary.json rules only ཀུན་རྫོབ་བདེན་པ = thế tục đế and དོན་དམ་པའི་བདེན་པ = thắng nghĩa đế; the pair-word has no entry. 'hai đế' follows c212 ('sự xác quyết về hai đế', 'nơi cả hai đế'); 'nhị đế' deliberately not used, to stay with the corpus.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "ཁྱེད་ཅག",
+      "vi": "các ông",
+      "status": "provisional",
+      "kind": "term",
+      "note": "p0718 l.5. Plural of the registered provisional ཁྱེད = 'ông'. The whole section addresses the opponent in the plural, so registering the plural form keeps the address stable.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "ཁོ་བོ་ཅག",
+      "vi": "chúng tôi",
+      "status": "provisional",
+      "kind": "term",
+      "note": "p0719 l.3 (the sentence that runs into p0720). No entry; the opponent's first-person plural self-reference.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "རྒྱུ་མཚན་ཡང་དག་པ",
+      "vi": "lý do chân chánh",
+      "status": "provisional",
+      "kind": "term",
+      "note": "p0719 l.3, རྒྱུ་མཚན་ཡང་དག་པ་ཅི་ཡང་མེད་དོ. No entry for either རྒྱུ་མཚན or ཡང་དག་པ. 'chân chánh' for ཡང་དག་པ follows the precedent recorded in the c142 note; see flags for the chánh/chính question that is still unruled.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "སྟེར་ལུགས (in ངེས་པ་སྟེར་ལུགས)",
+      "vi": "cách thức đem lại [sự xác quyết]",
+      "status": "provisional",
+      "kind": "term",
+      "note": "p0718 l.1. A -ལུགས compound, like the registered སྒྲུབ་ལུགས = 'cách thức thành tựu' and བསྐྱེད་ལུགས = 'cách thức phát khởi'; the bare ལུགས = 'chủ trương' entry does not fit. Recorded only so the compound family stays consistent.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "དངོས་སྨྲ / དངོས་པོར་སྨྲ་བ",
+      "skt": "vastuvādin / bhāvavādin",
+      "vi": "nhà chủ trương sự vật",
+      "status": "provisional",
+      "kind": "doctrinal term - no ruling",
+      "note": "p0719 l.4, x2 (dngos smra'i rtsod pa bkod pa; dngos por smra ba'i rtsod pa bkod pa). The c215 view carries the headword only as `prov དངོས་པོར་སྨྲ་བ -> (not rendered in this chunk)` - recorded with no Vietnamese ruling at all, so this is a gap, not a departure. Wording kept: it builds on the licensed དངོས་པོ = 'sự vật' and reads as the agentive. A ruling should also settle whether the abbreviated དངོས་སྨྲ and the full དངོས་པོར་སྨྲ་བ take the same Vietnamese (they do here) and whether the agentive prefix is 'nhà' or 'các vị' - note this chunk now uses 'các vị' for དབུ་མ་པ per that entry's provisional ruling, so the two agentives are currently inconsistent in prefix. The term is dense through this whole Madhyamaka section.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "བདེན་པའི་རྣམ་པ་ཅན",
+      "skt": "satya-ākāra",
+      "vi": "mang hành tướng của các đế",
+      "status": "provisional",
+      "kind": "term",
+      "note": "p0662 l.1 (the chunk's opening words), paired with ཞི་རགས་ཀྱི་རྣམ་པ་ཅན as the two kinds of path that can purify afflictions. The view registers རྣམ་པ་ཅན = 'có hành tướng' and notes བདེན་པའི་རྣམ་པ་ཅན at p0679, but has no ruling for the compound. Deliberately NOT 'hành tướng của bốn đế': the Tibetan writes no numeral, and c203 already renders the same phrase 'hành tướng các đế'. Supplying '[bốn]' would add a claim the source does not make.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "ཞི་རགས་ཀྱི་རྣམ་པ་ཅན (p0664)",
+      "skt": "śānta-audārika-ākāra",
+      "vi": "hành tướng tịch tĩnh và thô",
+      "status": "provisional",
+      "kind": "term",
+      "note": "The view asks c198 to settle this. Settled to 'tịch tĩnh và thô', which is what c200 (×2), c201 (×3) and c203/c204 already write for the same phrase. NOT settled to c197's trailing 'hành tướng của cái tĩnh và cái thô' (the phrase is cut at the c197/c198 seam) nor to c202's heading form 'hành tướng tịnh và thô'. A sweep of c197 and c202 is owed; see flags.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "བདེ་ཉམས",
+      "vi": "cảm nghiệm an lạc",
+      "status": "provisional",
+      "kind": "term",
+      "note": "p0664 l.1, ལུས་དང་སེམས་ལ་བདེ་ཉམས་ཆེན་པོ་སྐྱེ་བ — the great bliss-experience that the opponents mistake for the completion stage. No entry for ཉམས in the view. Kept distinct from བདེ་བ = 'lạc' (registered) and from ཕུལ་དུ་བྱུང་བའི་བདེ་བ = 'niềm an lạc tuyệt vời' three lines earlier, so that the experiential noun and the plain noun stay apart.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "ཕན་ཚུན་གཅིག་གིས་གཅིག་སྤེལ་བར་བྱེད་པ",
+      "vi": "làm tăng trưởng lẫn nhau",
+      "status": "provisional",
+      "kind": "phrase",
+      "note": "p0663 l.1, the conclusion of the śamatha/khinh an reciprocity argument, glossed in the Śrāvakabhūmi quotation by གཅིག་ལ་གཅིག་བརྟེན་པ་དང་གཅིག་ལ་གཅིག་རག་ལས་པ = 'cái này nương vào cái kia và cái này tùy thuộc cái kia'. Recorded only so the prose summary and the quotation stay visibly matched.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "ཞི་རགས་ཀྱི་རྣམ་པ་ཅན (ཞི་རགས)",
+      "skt": "śānta-audārika(-ākāra)",
+      "vi": "hành tướng tịch tĩnh và thô",
+      "status": "provisional",
+      "kind": "ruling-owed",
+      "note": "p0664 ཞི་རགས་ཀྱི་རྣམ་པ་ཅན་དུ་ལྟ་བའི་འཇིག་རྟེན་པའི་ལམ་རྣམས, rendered 'các đạo thế gian vốn quán [sự vật] theo hành tướng tịch tĩnh và thô' (L37). Wording KEPT: it matches the view's registered provisional ཞི་རགས (in ཞི་རགས་ཀྱི་རྣམ་པ་ཅན) -> 'tịch tĩnh và thô' exactly, and the view carries no fixed ruling for the phrase. But three competing provisionals for one phrase now stand in the view: (a) ཞི་རགས་ཀྱི་རྣམ་པ -> 'hành tướng của cái tĩnh và cái thô' (p0661, c197, whose note says 'c198 should settle it'), (b) ཞི་རགས་ཀྱི་རྣམ་པ་ཅན -> 'mang hành tướng tịnh và thô' (p0673-p0675), (c) ཞི་རགས -> 'tịch tĩnh và thô' (this chunk). c197's file literally ends mid-sentence with 'hành tướng của cái tĩnh và cái thô…' two lines earlier in the book, so (a) and (c) render the same continuous sentence differently across the chunk seam. One ruling is owed for the whole mundane-path section (c197, c198, c200-c202 and both sa-bcad headings). Recommendation: take (c) 'hành tướng tịch tĩnh và thô' as the single form — it is the technical name of the path, avoids the collision the view itself flags between the 'tịnh' of (b) and the 'tịnh' of tịnh chỉ = ཞི་གནས (both stand in the same sentences here), and keeps ཞི first as the Tibetan has it. If (c) is adopted, c197's final line and the p0673-p0675 chunks need the same word, so the ruling should be applied backward as well as forward. I did not change c198 for this, since the ruling is not mine to make and the text already follows the provisional registered for these pages.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "བདེ་བ (in the śamatha section: ཕུལ་དུ་བྱུང་བའི་བདེ་བ, བདེ་ཉམས་ཆེན་པོ, ལུས་ཐམས་ཅད་བདེ་བས་གང་བ)",
+      "skt": "sukha",
+      "vi": "an lạc",
+      "status": "provisional",
+      "kind": "sense-split",
+      "note": "p0664 l.1, three occurrences, rendered 'niềm an lạc tuyệt vời' (L33), 'cảm nghiệm an lạc lớn lao' and 'toàn thân tràn đầy an lạc' (L35). The view registers only the provisional བདེ་བ -> 'lạc' [sukha], whose own note scopes it to p0290. Wording KEPT: the bare noun 'lạc' will not carry a Vietnamese predicate here ('tràn đầy lạc', 'cảm nghiệm lạc lớn lao' do not parse), and corpus precedent from the immediately preceding discussion of this same samādhi is 'an lạc' — c195 renders བདེ་གསལ་མི་རྟོག as 'an lạc, sáng tỏ và không phân biệt'. Ruling owed: record the śamatha/absorption sense of བདེ་བ as 'an lạc', keeping 'lạc' for the p0290 use (or for compound positions where it is a bound element, e.g. བདེ་བ་ཅན, བདེ་སྡུག).",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "ཞི་ལྷག (ཞི་ལྷག་གི་ངོས་འཛིན) beside ལྷག་མཐོང in one sentence",
+      "skt": "śamatha-vipaśyanā",
+      "vi": "chỉ quán (sự nhận định chỉ quán)",
+      "status": "provisional",
+      "kind": "note-only, no change owed to the text",
+      "note": "p0665, rendered 'sự nhận định chỉ quán' (L41) in the same sentence that renders ལྷག་མཐོང as 'thắng quán' and, later in that sentence, ཞི་གནས་དང་ལྷག་མཐོང as 'tịnh chỉ và thắng quán'. NOT a violation: decisions.md §1's 'never tịnh chỉ beside bare quán' bars mixing registers for ONE term, these are two distinct Tibetan terms, the registered provisional ཞི་ལྷག -> 'chỉ quán' licenses the compact form for the contraction, ངོས་འཛིན -> 'sự nhận định' is registered in the view for this very passage (line 532-533, cited as p0665), and the view's c180 note (line 418-419) already resolved this exact collocation permissively. Request: state in the ཞི་ལྷག entry's note (and in decisions.md §1) that the contraction ཞི་ལྷག keeps its own 'chỉ quán' register even when ཞི་གནས / ལྷག་མཐོང stand in the same sentence, so the Phase 5 sweep does not re-flag it a fourth time.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "སྟོང་ཉིད་བདུན་ཅུ་པ",
+      "skt": "Śūnyatāsaptati",
+      "vi": "Thất Thập Không Tánh Luận",
+      "status": "provisional",
+      "kind": "title",
+      "note": "p0711. Nāgārjuna. No entry anywhere in glossary or corpus. Established Sino-Vietnamese title 七十空性論. Not verified against an existing Vietnamese edition.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "འཇིག་རྟེན་ལས་འདས་པར་བསྟོད་པ",
+      "skt": "Lokātītastava",
+      "vi": "Xuất Thế Gian Tán",
+      "status": "provisional",
+      "kind": "title",
+      "note": "p0712. Nāgārjuna's hymn. No entry. Built on the glossary's འཇིག་རྟེན་ལས་འདས་པ = 'xuất thế gian' (prov) plus བསྟོད་པ = 'tán thán' (prov), giving 出世間讚. Not verified against an existing Vietnamese edition.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "སྲིད་པ (verbal, 'to be possible')",
+      "vi": "có thể có",
+      "status": "provisional",
+      "kind": "term",
+      "note": "p0711, Vigrahavyāvartanī v.70-71, 4×: གང་ལ་སྟོང་ཉིད་འདི་སྲིད་པ / མི་སྲིད་པ. GAP for this sense. The registered སྲིད་པ = 'hữu' [bhava] is the wrong word here — this is the verb 'is possible', the exact synonym of the རུང་བ that the surrounding MMK verse and the Prasannapadā use. Deliberately NOT rendered 'khả dĩ', so that the reader can see the Tibetan uses a different word in the Vigrahavyāvartanī than in MMK XXIV.14; a ruling should say whether the two should be merged onto 'khả dĩ' or kept apart.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "རྟོག་གེ་པ",
+      "skt": "tārkika",
+      "vi": "các nhà lý luận",
+      "status": "provisional",
+      "kind": "term",
+      "note": "p0712, Lokātītastava: རྒྱུ་མེད་རྟོག་གེ་པ་ཡིས་འདོད. GAP, no entry and no corpus precedent for either རྟོག་གེ or རྟོག་གེ་པ. 'nhà lý luận' is deliberately neutral — the Tibetan does not say 'ngoại đạo', though that is who is meant.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "ཡོངས་སུ་ཤེས་པ",
+      "skt": "parijñā",
+      "vi": "biến tri",
+      "status": "provisional",
+      "kind": "term",
+      "note": "p0713, Prasannapadā, 2×: སྡུག་བསྔལ་ཡོངས་སུ་ཤེས་པ, the first of the four activities on the four truths. GAP. 遍知 biến tri is the established Sino-Vietnamese for parijñā and keeps it apart from plain ཤེས་པ (= 'biết', used two lines earlier in Tsongkhapa's own summary).",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "འབྲས་བུ་ལ་གནས་པ",
+      "skt": "phalastha",
+      "vi": "những vị trụ nơi quả",
+      "status": "provisional",
+      "kind": "term",
+      "note": "p0713-p0714, 3×. GAP. The 果 half of the eight-fold ārya saṃgha (four pairs / eight persons).",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "ཞུགས་པ",
+      "skt": "pratipannaka",
+      "vi": "những vị đã bước vào [đạo]",
+      "status": "provisional",
+      "kind": "term",
+      "note": "p0714, 2×, paired with འབྲས་བུ་ལ་གནས་པ. GAP, and the rendering is uncertain — see flags. The Tibetan says only 'entered'; the standard Sino-Vietnamese counterpart of 'trụ quả' is 'hướng' (向), which would give 'những vị hướng [quả]'. '[đạo]' is bracketed because the Tibetan supplies no object.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "སེང་གེའི་སྒྲ",
+      "skt": "siṃhanāda",
+      "vi": "tiếng sư tử hống",
+      "status": "provisional",
+      "kind": "term",
+      "note": "p0712, Lokātītastava: མཉམ་མེད་ཁྱོད་ཀྱི་སེང་གེའི་སྒྲ. GAP.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "མཉམ་མེད",
+      "vi": "bậc vô đẳng",
+      "status": "provisional",
+      "kind": "term",
+      "note": "p0712, epithet of the Buddha in the Lokātītastava. GAP; kept distinct from མཚུངས་པ་མེད་པ in the same chunk, which is rendered 'vô song' (p0711, twice).",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "གཞན་ངོ",
+      "vi": "theo cái nhìn of kẻ khác",
+      "status": "provisional",
+      "kind": "term",
+      "note": "p0712, གཞན་ངོ་ལ་སོགས་པ་ལ་སྐྱེལ་བ. GAP. Rendered descriptively as 'đẩy sang [chỗ] \"theo cái nhìn của kẻ khác\"' — the technical sense is relegating dependent arising to what holds only in others' perception. A compact Sino-Vietnamese term (e.g. 'tha tông' / 'theo tha nhân') may be preferable; flagged rather than coined.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "དེ་བཞིན་གཤེགས (པ)",
+      "skt": "Tathāgata",
+      "vi": "đấng Như Lai",
+      "status": "provisional",
+      "kind": "term",
+      "note": "GAP. No headword for Tathāgata anywhere in the view, though FIXED entries exist for སངས་རྒྱས, རྒྱལ་བ, ཀླུ་སྒྲུབ, ཤཱཀྱའི་གཙོ་བོ. p0711, Śūnyatāsaptati verse. The classifier 'đấng' follows the precedent of FIXED རྒྱལ་བ -> Đấng Chiến Thắng and མགོན་པོ -> đấng Hộ Chủ; the ruling should confirm whether it is carried.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "རིགས་པ (verbal/adjectival sense, རིགས་པར་འགྱུར)",
+      "skt": "yukta",
+      "vi": "thành hợp lý",
+      "status": "provisional",
+      "kind": "term",
+      "note": "GAP WITH A LIVE COLLISION — most urgent of these. p0713, Prasannapadā: འཕགས་པའི་བདེན་པ་བཞི་རྣམས་རིགས་པར་འགྱུར་རོ. The view registers only prov རིགས་པ -> chánh lý (the NOUN, yukti, inside ལུང་དང་རིགས་པས); there is no ruling for this verbal sense. Rendering it 'hợp lý' collapses it into འཐད་པ, which view lines 316-320 record as being kept DELIBERATELY apart from རུང་བ -> khả dĩ because all these words stand side by side in these very sentences. The chunk is otherwise clean on that split (every རུང་བ = khả dĩ, every འཐད་པ = hợp lý, སྲིད་པ in the Vigrahavyāvartanī verse kept apart as 'có thể có'), so this is the one leak. Wording KEPT per the repair rule for gaps; a ruling is needed. A distinct word such as 'đúng lý' would separate the three, but that is a central call, not a chunk-level one.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "གནོད་བྱེད་བརྗོད་པ",
+      "vi": "những điều làm hại mà [họ] nêu ra",
+      "status": "provisional",
+      "kind": "term",
+      "note": "Section heading (s232) གནོད་བྱེད་བརྗོད་པ་རྣམས་ཀྱིས་སུན་མི་ཕྱིན་པར་བསྟན་པ།, p0735. Wording taken VERBATIM from c212 l.15, which announces this very section in its enumeration ('trình bày rằng [chủ trương của chúng tôi] không bị những điều làm hại mà [họ] nêu ra bác bỏ'), so the heading and its announcement match. Note the collision the ruling must settle: the view registers prov གནོད་བྱེད -> 'điều phá bác' (p0687, the Bhāvanākrama cited against Hashang), and this chunk ALSO uses 'làm hại' for the verbal རིགས་པས་གནོད་པ ('bị chánh lý làm hại', ~4×), which is the passage's controlling contrast against རིགས་པས་དཔྱད་མི་བཟོད་པ. Keeping 'làm hại' for both the noun and the verb is deliberate here — the heading names exactly the objections the body then calls གནོད་པ.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "སུན་མི་ཕྱིན་པ / སུན་འབྱིན་མི་ནུས་པ",
+      "vi": "chẳng bác bỏ được / chẳng thể phá trừ",
+      "status": "provisional",
+      "kind": "term",
+      "note": "p0735, in the section heading and in three of the four enumerated sub-items. The view registers only prov སུན་འབྱིན (bare) -> 'phá trừ', whose own note says a ruling on the bare form is still owed. Here two different Tibetan verbs alternate for the same idea within four lines (སུན་མི་ཕྱིན་པ in the two headings, སུན་འབྱིན་མི་ནུས་པ in the enumeration items), and I rendered them differently ('bác bỏ' / 'phá trừ') to keep the alternation visible. 'phá trừ' follows the registered provisional; 'bác bỏ' matches c212's already-published wording for the parent heading. A ruling should say whether the two Tibetan forms get one Vietnamese word or two.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "ཐ་སྙད་པའི་ཤེས་པ",
+      "vi": "trí danh ngôn",
+      "status": "provisional",
+      "kind": "term",
+      "note": "p0736 l.3 and p0738 l.5 (the latter runs into c221). Uses the view's prov ཐ་སྙད -> 'danh ngôn' and is built to parallel the registered prov རིགས་ཤེས -> 'trí chánh lý', which stands in explicit opposition to it in the same sentence (ཐ་སྙད་པའི་ཤེས་པས་འགྲུབ་པ ... རིགས་ཤེས་ཀྱིས་མི་འགྲུབ་པ). Note that c211 renders the parallel ཐ་སྙད་པའི་མིག་ཤེས as 'nhãn thức danh ngôn', i.e. ཤེས་པ as 'thức' there and 'trí' here. The pair should be ruled together.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "བདེན་དངོས",
+      "vi": "vật thật hữu",
+      "status": "provisional",
+      "kind": "term",
+      "note": "p0735 l.5, བདེན་དངོས་སུ་ཐལ་བའི་སྐྱོན་མེད་དོ -> 'chẳng có lỗi thành ra [chúng] là vật thật hữu'. Contracted form of བདེན་པའི་དངོས་པོ. No entry. Built from the corpus's 'thật hữu' (c210/c211) plus the view's prov དངོས་པོ -> 'sự vật'; 'vật' rather than 'sự vật' only to keep the phrase short.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "བློ་གྲོས་དང་ལྡན་པ",
+      "vi": "những bậc có trí",
+      "status": "provisional",
+      "kind": "term",
+      "note": "p0738 l.6, the closing exhortation བློ་གྲོས་དང་ལྡན་པ་རྣམས་ཀྱིས་ཞིབ་ཏུ་དཔྱོད་ལ. GAP — no entry for བློ་གྲོས. Deliberately NOT 'trí tuệ' (reserved for ཤེས་རབ) and NOT 'cái trí' (the view's prov for bare བློ, whose own note already flags that collision). Corpus precedent for the phrase-shape: 'bậc có trí' in c006/c012/c148/c161/c180/c212. Note c016 renders བློ་གྲོས as 'tuệ' inside an enumerated list where it stands beside བློ = 'trí', so a ruling should decide whether བློ་གྲོས gets its own word.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "འཐད་པ (nominal, = reasoning)",
+      "vi": "lý lẽ",
+      "status": "provisional",
+      "kind": "term",
+      "note": "p0737 l.4, inside the Catuḥśataka-ṭīkā quotation: འཐད་པས་རྣམ་པར་དཔྱད་པ་ན -> 'lúc được thẩm sát bằng lý lẽ'. The view registers prov འཐད་པ -> 'hợp lý', which is the adjectival/predicative sense and is what I used everywhere else in this chunk (མི་འཐད་པ -> 'không hợp lý', ×3). Here it is an instrumental noun meaning the reasoning itself, and it stands two words from རིགས་པས་རྣམ་པར་དཔྱད་པ in the same quotation, so rendering it 'chánh lý' would collapse two distinct words inside a citation. A scoped second sense is owed.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "དམིགས་པ (verbal, = to apprehend)",
+      "vi": "nhận thấy",
+      "status": "provisional",
+      "kind": "term",
+      "note": "p0737 l.4-5, ཡོད་པ་ཉིད་དུ་དམིགས་པར་འགྱུར་ན། དམིགས་པའང་མ་ཡིན་ཏེ, inside the Catuḥśataka-ṭīkā quotation. The view registers only the nominal prov དམིགས་པ -> 'sở duyên' (ālambana). Deliberately plain 'nhận thấy' rather than 'duyên' so it is not read as the ālambana term.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "བརྟག་པ (in རིགས་པའི་བརྟག་པ)",
+      "vi": "sự khảo xét",
+      "status": "provisional",
+      "kind": "term",
+      "note": "p0737 l.6 and p0738 l.2, རིགས་པའི་བརྟག་པ་མི་འཇུག་གོ / རིགས་པའི་བརྟག་པ་ཤིན་ཏུ་གཞུག་དགོས་པ. No entry. Kept distinct from དཔྱོད་པ -> 'thẩm sát' (the view's prov), which occurs throughout the same paragraphs; the two Tibetan words are near-synonyms but are used side by side here.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "དབང་པོ (sense-faculty)",
+      "vi": "căn",
+      "status": "provisional",
+      "kind": "term",
+      "note": "p0737 l.3, in the Catuḥśataka-ṭīkā triad དབང་པོ་དང་ཡུལ་དང་རྣམ་པར་ཤེས་པ -> 'các căn, các cảnh và các thức'. The view registers དབང་པོ only in the Śakra/Indra sense ('Đế Thích') and notes the sense-faculty compounds are unregistered as a bare headword. ཡུལ -> 'cảnh' follows the view's prov.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "ཚུལ (in དབུ་མའི་ཚུལ)",
+      "vi": "cách thức",
+      "status": "provisional",
+      "kind": "term",
+      "note": "p0738 l.3, དབུ་མའི་ཚུལ་ལས་ཆེས་ཆེར་འཁྱམས་པ -> 'lạc rất xa khỏi cách thức của Trung Quán'. No entry for bare ཚུལ in this 'system / way of a school' sense. Kept apart from the view's prov ལུགས -> 'chủ trương', which is the word this passage would otherwise share.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "བརྟེན་ནས་གདགས་པ",
+      "vi": "sự giả danh nương vào [cái khác]",
+      "status": "provisional",
+      "kind": "term",
+      "note": "p0735 l.1, ×2, quoting Buddhapālita: བརྟེན་ནས་གདགས་པར་ནི་གྲུབ་བོ. Uses the view's prov གདགས་པ -> 'giả danh' (registered from བདག་ཏུ་གདགས་པའི་གཞི, p0700-p0701). Registering the compound because it is the phrase on which this whole passage's contrast turns.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "རིགས་པས་གནོད་པ",
+      "skt": "yuktyā bādhita",
+      "vi": "bị chánh lý làm hại",
+      "status": "provisional",
+      "kind": "prov-scope",
+      "note": "Epistemic sense: invalidated/refuted by reasoning — one of the two poles this whole section exists to distinguish (རིགས་པས་དཔྱད་མི་བཟོད་པ vs རིགས་པས་གནོད་པ, p0736 l.1, p0738 l.1 ×2). The view holds only prov གནོད་པ -> 'tổn hại', whose note scopes it against འཚེ་བ (bodily/ethical harm), so it does not cover this. Corpus precedent supports the wording: c135 l.23 'cái bị hại và cái làm hại' for the same epistemic pair, and 'bị chánh lý làm hại' also stands in c225, c226, c227, c229. Wording KEPT; a scoped entry is owed because the term names the section.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "ཆད་ལྟ་བ",
+      "skt": "ucchedadṛṣṭi / ucchedavādin",
+      "vi": "kẻ chấp đoạn kiến",
+      "status": "provisional",
+      "kind": "term",
+      "note": "GAP — absent from the c219 view, yet it is one of the two parties of this whole section (p0732 ×3, p0733 ×1). Rendered agentively as 'kẻ chấp đoạn kiến' because the word names the person/school, not the view: it stands in every sentence opposite དབུ་མ་པ. Follows c211, which already renders bare ཆད་ལྟ as 'đoạn kiến'. A ruling should also fix whether the view itself (ཆད་ལྟ) and its holder (ཆད་ལྟ་བ) get visibly different Vietnamese.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "མེད་པ་པ",
+      "skt": "nāstika",
+      "vi": "kẻ chủ trương không có / phái chủ trương không có",
+      "status": "provisional",
+      "kind": "term",
+      "note": "GAP. Occurs p0731–p0734 (×5 in my range, incl. inside two Prasannapadā quotations and the Buddhapālita quotation མེད་པ་པར་སྨྲ་བ). Rendered transparently rather than with 'hư vô luận' or 'chấp không', both of which add a qualifier the Tibetan does not carry; the whole argument turns on the difference between this school and ཆད་ལྟ་བ, so the two must not collapse onto one Vietnamese word. Note p0733 has the term written མེད་པ་པ༌དངོས་པོའི with an anomalous separator — see flags.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "འཇིག་རྟེན་རྒྱང་པན་པ",
+      "skt": "Lokāyata / Cārvāka",
+      "vi": "phái Thuận Thế",
+      "status": "provisional",
+      "kind": "proper-noun",
+      "note": "GAP. p0732 l.1, ལྟ་བ་འདྲ་བར་བསྟན་ཏོ — the school a self-styled Mādhyamika who denies karma even conventionally is said to resemble. 'Thuận Thế' (順世) is the established Sino-Vietnamese; kept distinct from མེད་པ་པ above, which the same passage treats as a separate party.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "རང་གི་ངོ་བོས་གྲུབ་པ",
+      "vi": "thành lập bằng thể tánh của chính nó",
+      "status": "provisional",
+      "kind": "term",
+      "note": "p0732 ×2, p0733 ×1, p0734 ×2. No headword in the view. Follows c210/c211/c212, where this exact phrase occurs 4× and is the corpus-dominant form. Load-bearing here because རང་བཞིན (fixed = 'tự tánh') and ངོ་བོ (prov = 'thể tánh') stand inside a single noun phrase — རང་གི་ངོ་བོས་གྲུབ་པའི་རང་བཞིན — and must stay visibly distinct.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "ཚོགས་པ",
+      "skt": "sāmagrī",
+      "vi": "sự tụ hội",
+      "status": "provisional",
+      "kind": "term",
+      "note": "p0734, inside the Buddhapālita quotation རྒྱུ་དང་འབྲས་བུ་དང་ཚོགས་པའང་མེད་ན. No entry. This is the topic of MMK chapter 20 (the chapter whose commentary is being cited), so it is a technical term, not the ཚོགས = 'tư lương' of the view nor the assembly sense registered at p0468.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "དོན་བྱེད་ནུས་སྟོང་གི་སྟོང་པ",
+      "skt": "arthakriyāśakti-śūnya",
+      "vi": "cái không trống rỗng cả khả năng tạo tác dụng",
+      "status": "provisional",
+      "kind": "term",
+      "note": "p0734 l.2, དེས་ན་སྟོང་པ་དོན་བྱེད་ནུས་སྟོང་གི་སྟོང་པར་མ་སོང་བར. No entry for དོན་བྱེད་ནུས་པ (arthakriyā) anywhere in the view. The phrase names the wrong kind of emptiness the whole section is refuting, so it is worth pinning centrally.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "སྣང་ཕྱོགས / སྟོང་ཕྱོགས",
+      "vi": "phần hiển hiện / phần không",
+      "status": "provisional",
+      "kind": "term",
+      "note": "p0734 l.1, a matched pair (སྣང་ཕྱོགས་ཀུན་རྫོབ་པ ... སྟོང་ཕྱོགས་ཀྱི་ལྟ་བ). No entries. Rendered as a visible pair so the contrast the sentence turns on survives; ཀུན་རྫོབ uses the registered 'thế tục'.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "སངས་རྒྱས་བསྐྱངས་ཀྱི་འགྲེལ་པ (bare འགྲེལ་པ, Buddhapālita's MMK commentary)",
+      "vi": "bản chú giải",
+      "status": "provisional",
+      "kind": "term",
+      "note": "p0734 l.3, རབ་བྱེད་ཉི་ཤུ་པའི་འགྲེལ་པ = 'bản chú giải phẩm thứ hai mươi'. The view registers bare འགྲེལ་པ twice with different words — 'bản Thích' (line 106) and 'bản chú giải' (line 242, scoped to the Lamp commentary). Followed c210, which uses 'bản chú giải' for a named commentary. Also uses the registered རབ་བྱེད = 'phẩm' (MMK chapter sense).",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "ཡོངས་སུ་རྟོག་པ (parikalpa sense)",
+      "skt": "parikalpayati",
+      "vi": "biến kế",
+      "status": "provisional",
+      "kind": "term",
+      "note": "SENSE SPLIT REQUESTED. p0734, inside the Buddhapālita quotation: ཇི་ལྟར་ཁྱོད་དུས་ལ་སོགས་པ་དག་ངོ་བོ་ཉིད་ལས་ཡོད་པར་ཡོངས་སུ་རྟོག་པར་བྱེད་པ. The view registers ཡོངས་སུ་རྟོག་པ = 'chu biến tầm tư' (paryeṣaṇā), but that entry is scoped by its own note to the nine-item vipaśyanā list and the Asaṅga gloss. Here the verb is the opponent's false imputation (parikalpa), the exact opposite of an investigative faculty; 'chu biến tầm tư' would be positively wrong. 'biến kế' is the established Sino-Vietnamese (biến kế sở chấp). Registering the split rather than overwriting either wording.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "གྲགས་པ་མ་ཡིན་པ",
+      "skt": "akīrti",
+      "vi": "mất danh tiếng",
+      "status": "provisional",
+      "kind": "term",
+      "note": "p0733, inside the Prasannapadā quotation, paired with ཁ་ན་མ་ཐོ་བ (registered = 'điều đáng chê trách'). Uses the view's provisional གྲགས་པ = 'danh tiếng' negated; recorded because the pair akīrti + avadya is a formula and the two must not converge in Vietnamese.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "ཡོངས་སུ་རྟོག་པར་བྱེད་པ",
+      "skt": "parikalpayati",
+      "vi": "chấp rằng",
+      "status": "provisional",
+      "kind": "sense-split needed (wording CHANGED, not kept)",
+      "note": "L46, p0734 l.3, inside the Buddhapālita quotation. The c219 view's only ruling is `prov ཡོངས་སུ་རྟོག་པ -> chu biến tầm tư [paryeṣaṇā]` (l.276), explicitly scoped to the p0577-p0578 nine-item vipaśyanā list — a different sense. So this sense is a genuine gap. I did NOT keep the prior wording `biến kế`, because it is not free: the corpus already uses `biến kế` / `biến kế sở chấp` for ཀུན་བརྟགས / parikalpita (verified in translation/c223.md L48, L50, L52), so `ngươi biến kế rằng` would tell the reader Buddhapālita is invoking the parikalpita-svabhāva, a doctrinal claim the Tibetan does not make. Replaced with the neutral `chấp rằng`. `giả lập` was rejected as a candidate because it collides twice — with ཀུན་བརྟགས at c223 L50 (`năng giả lập` / `được giả lập`) and with གདགས་པ -> `giả danh` in this very sentence. A ruling is owed: register ཡོངས་སུ་རྟོག་པ with two senses (paryeṣaṇā = chu biến tầm tư, p0577-p0578; parikalpayati = a neutral verb of imputing), and fix that second rendering centrally — `chấp rằng` here is my provisional choice, not a settled one.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "འཇིག་རྟེན་སྔ་ཕྱི",
+      "vi": "đời trước đời sau",
+      "status": "provisional",
+      "kind": "compound vs FIXED headword — ruling owed, wording kept",
+      "note": "L17, p0732 l.3. `འཇིག་རྟེན` is FIXED -> `thế gian` (view l.29), but the compound འཇིག་རྟེན་སྔ་ཕྱི ('former and later worlds', i.e. past and future lives) has no headword in the view, and `đời trước đời sau` matches c218 L55 — same argument, same phrase — so this is standing corpus usage, not drift in this chunk. Kept. Needs an entry that either licenses the compound as a lexicalised exception to the fixed term or aligns it to `thế gian` — noting that c218's own quotation block uses `thế gian đời trước` / `thế gian bên kia` for འཇིག་རྟེན་ཕ་རོལ, so the section is internally split and only a central ruling can settle it.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "དབུ་མ་པ / དབུ་མ་པ་དག",
+      "skt": "Mādhyamika",
+      "vi": "nhà Trung Quán / các nhà Trung Quán",
+      "status": "provisional",
+      "kind": "prov entry is the outlier — ruling owed, wording kept",
+      "note": "L17, L19, L21, L25. The view carries `prov དབུ་མ་པ -> các vị Trung Quán` (l.316, from p0665, noted as unregistered: the glossary has only དབུ་མ = Trung Quán, the system). `nhà Trung Quán` is what c211, c212, c215, c216 and c218 all use, so the provisional entry is the minority form and changing c219 alone would deepen the split. Kept. A central ruling is owed on the agentive པ; if `các vị Trung Quán` wins, the five earlier chunks move too. Note also that in this chunk the term is repeatedly contrasted with ཆད་ལྟ་བ, so whatever form is chosen must sit naturally opposite that one.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "སུན་འབྱིན་པར་བྱེད་དོ",
+      "skt": "dūṣaṇa",
+      "vi": "bài xích",
+      "status": "provisional",
+      "kind": "three-way provisional split — ruling owed, wording kept",
+      "note": "L27, p0733 l.1, inside the Prasannapadā quotation (`གཞན་ནི་དེ་དངོས་སུ་མཐོང་ནས་སུན་འབྱིན་པར་བྱེད་དོ`). The view holds three divergent provisional entries for the bare form and none is binding: `phá trừ` (l.200), `bài xích` (l.206), `đả phá` (l.222). `bài xích` fits this occurrence — the second man truthfully denounces the thief he saw — so the wording is kept. The three-way split is exactly the drift the glossary exists to prevent; a ruling should either split the senses (four-powers repudiation of sin vs. undermining an affliction vs. refuting/denouncing a person or thesis) or settle on one word and move p0251, p0337 and p0350 with it.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "རང་གི་མཚན་ཉིད / རང་མཚན",
+      "skt": "svalakṣaṇa",
+      "vi": "tự tướng",
+      "status": "provisional",
+      "kind": "term",
+      "note": "HIGHEST-CONSEQUENCE gap in this chunk — the pivot of the whole argument, ~25× across p0747–p0750 (རང་གི་མཚན་ཉིད་ཀྱིས་གྲུབ་པ, རང་མཚན་ལ་ཚད་མ, རང་གི་མཚན་ཉིད་ཀྱིས་སྟོང་པ). The view rules only prov མཚན་ཉིད → 'tướng'/'định nghĩa'; the compound has no entry. 'tự tướng' has corpus precedent (c182 L25 'sở duyên tự tướng', c184 L27). Must be pinned centrally because the whole Prāsaṅgika/Svātantrika section turns on it, and because 'tướng' already collides three ways (མཚན་ཉིད / མཚན་མ / མཚན) per the existing glossary note.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "མཚན་ཉིད (definition sense, in མི་བསླུ་བ་ནི་ཚད་མའི་མཚན་ཉིད་ཡིན)",
+      "skt": "lakṣaṇa",
+      "vi": "định nghĩa",
+      "status": "provisional",
+      "kind": "term",
+      "note": "p0747. The prov entry says to decide per occurrence and flag. Here it is unambiguously 'definition of pramāṇa', not 'characteristic' — the sentence is the standard avisaṃvāda definition. Rendered 'định nghĩa của lượng'. See flags.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "བསླུ་བ / མི་བསླུ་བ",
+      "skt": "visaṃvāda / avisaṃvāda",
+      "vi": "lừa dối / không lừa dối",
+      "status": "provisional",
+      "kind": "term",
+      "note": "p0747–p0748, ~8×; carries the definition of pramāṇa. No entry for the bare word; glossary.json has only the compound བསླུ་བ་མེད་པའི་སྐྱབས = 'chỗ quy y không hư dối'. I departed from that precedent's 'hư dối' deliberately, because བསླུ་བ stands beside བརྫུན་པ ('false') in the very phrase བརྫུན་པ་བསླུ་བ (p0747, p0748) and one Vietnamese word for both would erase the pair. Needs a ruling.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "བརྫུན་པ",
+      "skt": "mṛṣā",
+      "vi": "hư vọng",
+      "status": "provisional",
+      "kind": "term",
+      "note": "p0747–p0749, 5×, incl. the MAv verse མཐོང་བ་བརྫུན་པ. glossary.json registers only བརྫུན / བརྫུན་དུ་སྨྲ་བ = 'nói dối' (the speech-act sense, mṛṣāvāda), which is a different word-sense and would be positively wrong here. Kept apart from བསླུ་བ = 'lừa dối'.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "ཉེར་འཇལ (ཉེ་བར་འཇལ་བ)",
+      "skt": "upamāna",
+      "vi": "thí dụ lượng",
+      "status": "provisional",
+      "kind": "term",
+      "note": "p0748, fourth member of the four-pramāṇa list quoted from the Prasannapadā (མངོན་སུམ་དང་རྗེས་དཔག་དང་ལུང་དང་ཉེར་འཇལ). GAP. 'thí dụ lượng' (譬喻量) is the standard Vietnamese for upamāna. Uncertain — see flags.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "ལུང (in the four-pramāṇa list)",
+      "skt": "āgama / śabda",
+      "vi": "giáo điển",
+      "status": "provisional",
+      "kind": "term",
+      "note": "p0748, third of the four pramāṇas. Follows the registered prov ལུང = 'giáo điển', which explicitly forbids 'thánh giáo' (reserved for གསུང་རབ). Rendered 'giáo điển' inside the list, so the standard Vietnamese 'thánh giáo lượng' was deliberately NOT used. A ruling should say whether ལུང in a pramāṇa enumeration takes a -lượng form.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "ཀུན་བརྟགས (ཀུན་བརྟགས་པའི་ངོ་བོ་ཉིད)",
+      "skt": "parikalpita",
+      "vi": "biến kế sở chấp",
+      "status": "provisional",
+      "kind": "term",
+      "note": "p0750, 3×, in the Bhāvaviveka refutation of Cittamātra and in the Prajñāpradīpa citation. No entry anywhere in glossary.json. Standard Sino-Vietnamese 遍計所執.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "གཞན་དབང",
+      "skt": "paratantra",
+      "vi": "y tha khởi",
+      "status": "provisional",
+      "kind": "term",
+      "note": "p0750, 2× (གཞན་དབང་གི་དངོས་པོ, གཞན་དབང་ལ་ཐ་སྙད་དུ). No entry. Standard Sino-Vietnamese 依他起. Pairs with ཀུན་བརྟགས above; the third member ཡོངས་གྲུབ does not occur here.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "མཚན་ཉིད་ངོ་བོ་ཉིད་མེད་པ",
+      "skt": "lakṣaṇaniḥsvabhāvatā",
+      "vi": "tướng vô tự tánh",
+      "status": "provisional",
+      "kind": "term",
+      "note": "p0750, the first of the three niḥsvabhāvatā, attributed to the Cittamātrins. No entry. Note it uses 'tướng' for མཚན་ཉིད, whereas the same page's རང་གི་མཚན་ཉིད is 'tự tướng' — deliberate, since the Tibetan itself distinguishes them, but the two should be ruled on together.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "ཤེས་རབ་སྒྲོན་མེ (bare)",
+      "skt": "Prajñāpradīpa",
+      "vi": "Bát-nhã Đăng Luận",
+      "status": "provisional",
+      "kind": "title",
+      "note": "p0750 l.3, རབ་བྱེད་ཉེར་ལྔ་པའི་ཤེས་རབ་སྒྲོན་མེ — Bhāvaviveka's own commentary. glossary.json registers only ཤེས་རབ་སྒྲོན་མེའི་རྒྱ་ཆེར་འགྲེལ་པ = 'Bát-nhã Đăng Luận Quảng Thích' (Avalokitavrata's sub-commentary, c009 L17). The bare title is the base work and must be visibly distinguished from its Quảng Thích.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "རབ་བྱེད་ཉེར་ལྔ་པ",
+      "vi": "phẩm thứ hai mươi lăm",
+      "status": "provisional",
+      "kind": "term",
+      "note": "p0750. Follows the prov ruling already recorded for རབ་བྱེད as an MMK chapter = 'phẩm'. Here it names the chapter of the Prajñāpradīpa (i.e. of the MMK it comments on), so the same word applies.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "རྗེས་སུ་དཔག་པ་ལྟར་སྣང་བ",
+      "skt": "anumānābhāsa",
+      "vi": "cái chỉ tựa như tỷ lượng",
+      "status": "provisional",
+      "kind": "term",
+      "note": "p0749, inside the Madhyamakāvatārabhāṣya quotation, among the impairers of the mental consciousness. GAP. Built on the registered prov རྗེས་དཔག = 'tỷ lượng'; ལྟར་སྣང = 'chỉ tựa như'. The Sino-Vietnamese 'tợ tỷ lượng' is the alternative.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "གཏན་ཚིགས་ལྟར་སྣང",
+      "skt": "hetvābhāsa",
+      "vi": "cái chỉ tựa như chánh lý",
+      "status": "provisional",
+      "kind": "term",
+      "note": "p0749–p0750, Tsongkhapa's own gloss of the quotation. Built on the registered prov གཏན་ཚིགས = 'chánh lý' [hetu]. UNSATISFACTORY and flagged: 'chánh lý' is also the prov rendering of རིགས་པ, so 'cái chỉ tựa như chánh lý' reads as a pseudo-reasoning rather than the technical hetvābhāsa (tợ nhân / nhân tương tự). A ruling should either split གཏན་ཚིགས (hetu = 'nhân') from རིགས་པ ('chánh lý'), or license 'tợ nhân' for this compound.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "གྲུབ་མཐའ་ངན་པ",
+      "skt": "kutarka / durāgama",
+      "vi": "tông nghĩa xấu",
+      "status": "provisional",
+      "kind": "term",
+      "note": "p0749–p0750. Follows the registered prov གྲུབ་མཐའ = 'tông nghĩa'; ངན་པ = 'xấu'. Same referent as the quotation's ཡང་དག་པ་མ་ཡིན་པར་བྱས་པའི་གྲུབ་པའི་མཐའ = 'tông nghĩa được lập ra một cách không chân chánh'.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "མིག་སེར",
+      "skt": "kāmala",
+      "vi": "chứng vàng mắt",
+      "status": "provisional",
+      "kind": "term",
+      "note": "p0749, in the Madhyamakāvatārabhāṣya list of internal impairers of the faculties, beside རབ་རིབ = 'màng mắt' (registered). Jaundice/bilious eye-disease. No entry; rendered descriptively rather than as 'hoàng đản', which names the systemic disease rather than the visual defect at issue.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "ད་དྷུ་ར",
+      "skt": "dhattūra",
+      "vi": "dhattūra",
+      "status": "provisional",
+      "kind": "term",
+      "note": "p0749, same list (ད་དྷུ་ར་ཟོས་པ = 'đã ăn dhattūra') — the datura/thorn-apple whose ingestion deranges vision. Tibetan is itself a phonetic transcription of the Sanskrit; left in Sanskrit transcription following the corpus practice for Indian proper terms. 'cà độc dược' is the botanical Vietnamese but is not a Buddhist-register word; a ruling is welcome.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "བྲག་ཆ",
+      "skt": "pratiśrutkā",
+      "vi": "tiếng vang",
+      "status": "provisional",
+      "kind": "term",
+      "note": "p0749, in the triad གཟུགས་བརྙན / བྲག་ཆ / སྨིག་རྒྱུ. No entry. Kept plain; deliberately not 'tiếng vọng của hang', since the Tibetan names the echo itself.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "མིག་འཕྲུལ་མཁན",
+      "skt": "māyākāra",
+      "vi": "nhà huyễn thuật",
+      "status": "provisional",
+      "kind": "term",
+      "note": "p0749, མིག་འཕྲུལ་མཁན་ལ་སོགས་པས་རབ་ཏུ་སྦྱར་བའི་སྔགས་དང་སྨན. No entry for this form; glossary.json has the འཁྲུལ་འཁོར family ('cỗ máy'), a different word.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "སྔགས (bare, beside སྨན)",
+      "skt": "mantra",
+      "vi": "chú thuật",
+      "status": "provisional",
+      "kind": "term",
+      "note": "p0749. Follows the c045 precedent recorded in the view (mundane spells listed beside སྨན medicine as means of deceiving the senses), NOT the 'Mật chú' line. The bare-སྔགས casing/wording split remains open.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "ངོ་བོ་དང་ཁྱད་པར",
+      "skt": "svabhāva / viśeṣa",
+      "vi": "thể tánh và sai biệt",
+      "status": "provisional",
+      "kind": "term",
+      "note": "p0750, ངོ་བོ་དང་ཁྱད་པར་དུ་འདོགས་པའི་སྒྲ་དང་བློ — the substance/attribute pair that words and thoughts impute. The view's only ཁྱད་པར entry is 'định ngữ' [viśeṣaṇa] in a different construction (དོན་དམ་པའི་ཁྱད་པར་སྦྱར་བ), which does not fit here. Uncertain — see flags.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "འདོགས་བྱེད / བཏགས་པ",
+      "vi": "cái năng giả lập / cái được giả lập",
+      "status": "provisional",
+      "kind": "term",
+      "note": "p0750, the two-fold analysis of the parikalpita. No entry. Built on the corpus's 'giả lập / gán đặt' for འདོགས་པ (c210 uses 'giả danh' for བཏགས་པ in the ādhyāropa sense); the agent/patient pair is made explicit with năng-/được- because Vietnamese cannot carry it otherwise.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "སྐུར་པ་བཏབ་པ",
+      "skt": "apavāda",
+      "vi": "phỉ báng",
+      "status": "provisional",
+      "kind": "term",
+      "note": "p0750, གཞན་དབང་གི་དངོས་པོ་ལ་སྐུར་པ་བཏབ་པར་འགྱུར. Follows the registered སྐུར་པ་འདེབས་པ = 'phỉ báng'. Recorded because the sense here is ontological deprecation (denying what exists), not verbal slander; 'tổn giảm' (損減) is the technical alternative. See flags.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "བསླད་པ / སློད་པ",
+      "vi": "làm cho hư hoại",
+      "status": "provisional",
+      "kind": "term",
+      "note": "p0748–p0750, 4×, of the faculties corrupted by error-causes and of the mind corrupted by bad tenets. No entry. Kept distinct from གནོད་པ = 'tổn hại' (registered), which stands beside it in the same sentences.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "འགྲོ་ས (in ཚད་མར་འགྲོ་ས)",
+      "vi": "chỗ để làm lượng",
+      "status": "provisional",
+      "kind": "term",
+      "note": "p0747. No entry; the idiom is 'the place a pramāṇa can go', i.e. the domain in which it operates as pramāṇa. Rendered descriptively.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "ཉེར་འཇལ",
+      "skt": "upamāna",
+      "vi": "thí dụ lượng",
+      "status": "provisional",
+      "kind": "term (member of a fixed four-pramāṇa set)",
+      "note": "p0748 l.1, in the Prasannapadā four-pramāṇa list མངོན་སུམ་དང་རྗེས་དཔག་དང་ལུང་དང་ཉེར་འཇལ་གྱི་ཚད་མ → 'hiện lượng, tỷ lượng, giáo điển và thí dụ lượng'. No entry in the view; the other three members are already ruled (མངོན་སུམ → hiện lượng, རྗེས་དཔག → tỷ lượng, ལུང → giáo điển). WORDING KEPT — upamāna is pramāṇa by comparison/analogy, and 'thí dụ lượng' both matches the Sanskrit and keeps the parallel '…lượng' shape of the set. Register it so the four-fold list, which will recur throughout the vipaśyanā chapters, is complete and cannot drift member by member. Note also that the list member ལུང is here 'giáo điển' per the registered entry, i.e. not itself suffixed with 'lượng'; a ruling may wish to confirm that asymmetry is intended.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "ཤེས་རབ་སྒྲོན་མེ",
+      "skt": "Prajñāpradīpa",
+      "vi": "Bát-nhã Đăng Luận",
+      "status": "provisional",
+      "kind": "cited title (bare form)",
+      "note": "p0750, རབ་བྱེད་ཉེར་ལྔ་པའི་ཤེས་རབ་སྒྲོན་མེ་ལས → 'trong *Bát-nhã Đăng Luận*, phẩm thứ hai mươi lăm'. Bhāviveka's commentary on the Mūlamadhyamakakārikā. The view has no headword for the bare title — only the note under འགྲེལ་པ recording that glossary.json holds the DIFFERENT title ཤེས་རབ་སྒྲོན་མེའི་རྒྱ་ཆེར་འགྲེལ་པ ('*Bát-nhã Đăng Luận Quảng Thích*', Avalokitavrata's sub-commentary, used in c009). WORDING KEPT: it is consistent with that precedent and with decisions.md ('bát-nhã ... in the titles of cited texts'). Register the bare title so the pair title/sub-commentary stays distinguishable.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "འཇིག་རྟེན་གྲགས་པ",
+      "vi": "chỗ thế gian công nhận",
+      "status": "provisional",
+      "kind": "term",
+      "note": "p0739 l.1 (འཇིག་རྟེན་གྲགས་པའི་ཚད་མས་གནོད་པ) and p0740 l.1 (འཇིག་རྟེན་གྱི་གྲགས་པས་གནོད་དོ). This is the load-bearing term of the whole section: what refutes the opponent is 'the pramāṇa of worldly renown'. The glossary registers གྲགས་པ = 'danh tiếng' (fame), scoped by its own note to personal names — a different sense entirely. No corpus precedent for the 'renown / what is commonly accepted' sense. Rendered 'lượng của chỗ thế gian công nhận' / 'bị chỗ thế gian công nhận làm tổn hại'.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "རིགས་པ་ལྟར་སྣང",
+      "vi": "cái chỉ tựa như chánh lý",
+      "status": "provisional",
+      "kind": "term",
+      "note": "p0740 l.1, དེ་འདྲ་བའི་རིགས་པ་ལྟར་སྣང་ལ་ནི་ཐ་སྙད་པའི་ཤེས་པས་གནོད་པས — pseudo-reasoning. No entry. Follows c021's 'cái chỉ tương tự như đạo' for the parallel ལྟར་སྣང construction. A single ruling on the ལྟར་སྣང suffix would settle both.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "རྟོག་ལྡན",
+      "vi": "người có suy xét",
+      "status": "provisional",
+      "kind": "term",
+      "note": "p0740 l.2, རྟོག་ལྡན་ལ་…དོགས་པ་ཡོད་ཀྱི — contrasted in the same sentence with གྲུབ་མཐས་བློ་མ་བསྒྱུར་བ (those whose minds tenets have not altered) and with གནག་རྫི (cowherds). No entry, no corpus precedent. Deliberately NOT 'bậc trí' or 'bậc học giả', which the glossary assigns to མཁས་པ, and NOT 'người phân biệt' — རྟོག་ལྡན here is one who investigates, not the pejorative རྟོག་པ. Rendering is uncertain; see flags.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "སྦྱང་བ (purification sense)",
+      "vi": "tịnh trừ",
+      "status": "provisional",
+      "kind": "term",
+      "note": "p0739 l.3, འཁྲུལ་སྣང་འདི་སྦྱང་བའི་ཕྱིར་དུ་ལམ་ལ་འབད་པ — striving on the path in order to CLEANSE mistaken appearance. The registered prov སྦྱང་བ = 'tu tập' is scoped by its own note to the section headword བདག་གཞན་བརྗེ་བའི་སྒོ་ནས་སྦྱང་བ (mental training). 'tu tập' would be positively wrong here: the object of སྦྱང་བ is the delusion being removed, not the practice being done.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "སྟོངས་གདབ་པ",
+      "vi": "tiếp sức",
+      "status": "provisional",
+      "kind": "term",
+      "note": "p0739 l.2, inside the Madhyamakāvatāra-bhāṣya quotation ངས་ཀྱང་ཁྱོད་ལ་སྟོངས་གདབ་པར་བྱའོ. Idiom: to back up / lend assistance. Tsongkhapa's own gloss four lines later replaces it with དེའི་གྲོགས་བྱའོ ('làm trợ bạn'), which confirms the reading; the two Vietnamese words were kept distinct so the gloss remains visibly a gloss.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "མགོ་བསྒྲེ་བ",
+      "vi": "vặn lại",
+      "status": "provisional",
+      "kind": "term",
+      "note": "p0739 l.3, མགོ་བསྒྲེ་བྱས་པ — literally 'to raise the head', i.e. a tu-quoque retort. No entry. Names the Cittamātrin's counter-charge that the passage is answering.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "རི་བོང་གི་རྭ",
+      "skt": "śaśaviṣāṇa",
+      "vi": "sừng thỏ",
+      "status": "provisional",
+      "kind": "term",
+      "note": "p0741 l.1, paired with the registered མོ་གཤམ་གྱི་བུ = 'con của thạch nữ' as the standard pair of impossible objects.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "ཕྱི་རོལ་གྱི་དོན",
+      "skt": "bāhyārtha",
+      "vi": "ngoại cảnh",
+      "status": "provisional",
+      "kind": "term",
+      "note": "p0740 l.1, ཕྱི་རོལ་གྱི་དོན་ལ་སོགས་པའི་ཀུན་རྫོབ་པ — the external object the proponents of real things themselves negate. No entry.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "ཉེ་བར་གཞལ་བ",
+      "skt": "upamāna",
+      "vi": "được ví bằng",
+      "status": "provisional",
+      "kind": "term",
+      "note": "p0740 l.3, in the Catuḥśataka-ṭīkā quotation མོ་གཤམ་གྱི་བུ་ལ་སོགས་པ་དག་གིས་ཉེ་བར་གཞལ་བར་འགྱུར་བ. Literally 'measured near by', i.e. taken as the simile for. Rendered non-technically; deliberately not 'đo lường', which would read as ཚད་མས་འཇལ་བ.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "ལྷུར་བྱེད་པ",
+      "vi": "chuyên chú",
+      "status": "provisional",
+      "kind": "term",
+      "note": "p0741 l.3 and p0742 l.1, རང་བཞིན་ཚོལ་བ་ལྷུར་བྱེད་པ (2×) — the load-bearing phrase of the whole argument: reasoning is devoted to seeking intrinsic nature and therefore negates only that. No entry.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "ཕུལ་དུ་བྱུང་བ",
+      "vi": "tối thắng",
+      "status": "provisional",
+      "kind": "term",
+      "note": "p0742 l.3, བདེན་པ་གཉིས་རྣམ་པར་འཇོག་པ་ལ་ཕུལ་དུ་བྱུང་བའི་མཁས་པ. No entry for the intensifier; 'tối thắng' is already used corpus-wide for མཆོག, so a distinguishing word may be preferred.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "དེ་ཁོ་ན་ཉིད་ལ་དཔྱོད་པའི་རིགས་པ",
+      "vi": "chánh lý thẩm sát thật tánh",
+      "status": "provisional",
+      "kind": "term",
+      "note": "p0739-p0741, ~7×, and its variants དེ་ཉིད་དཔྱོད་པའི་རིགས་པ and རང་བཞིན་ཡོད་མེད་དཔྱོད་པའི་རིགས་པ. Built from the registered prov དེ་ཁོ་ན་ཉིད = 'thật tánh', རིགས་པ = 'chánh lý' and དཔྱོད་པ = 'thẩm sát'. Registered as a compound because it is the subject of the entire section and recurs through the whole vipaśyanā division.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "སྤྲུལ་པ",
+      "skt": "nirmita",
+      "vi": "vật biến hóa",
+      "status": "provisional",
+      "kind": "example/idiom",
+      "note": "p0742 l.3 (སྤྲུལ་པ་ལས་སྤྲུལ་པ་འབྱུང་བའི་ཚུལ). No entry in the view. Standard and internally consistent with the chunk's སྒྱུ་མ material; kept.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "བསམ་གྱིས་མི་ཁྱབ་པ",
+      "skt": "acintya",
+      "vi": "bất khả tư nghì",
+      "status": "provisional",
+      "kind": "doctrinal term",
+      "note": "p0742 l.3, of ལས་རྣམས་ཀྱི་རྣམ་པར་སྨིན་པ. No entry in the view. Standard Sino-Vietnamese; kept.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "གྲོགས (verbal, དེའི་གྲོགས་བྱའོ)",
+      "vi": "làm trợ bạn cho ngươi",
+      "status": "provisional",
+      "kind": "scope note on a pending ruling",
+      "note": "p0740 l.1. The view's note on bare གྲོགས asks that it never be upgraded and take 'bạn hữu'/'bạn' with no value-word (the note that rejected 'bạn lành'). Here 'trợ' is not evaluative: it carries the verbal sense of གྲོགས་བྱེད (to assist), matching སྟོངས་གདབ་པར་བྱའོ -> 'tiếp sức' in the bhāṣya quoted three lines earlier. Wording kept; the pending ruling should scope itself to the nominal use so this verbal one is not swept as a violation.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "འཕགས་ཡུལ",
+      "vi": "Thánh xứ",
+      "status": "provisional",
+      "kind": "proper",
+      "note": "p0743 l.1, འཕགས་ཡུལ་གྱི་གྲུབ་མཐའ་སྨྲ་བ་རྣམས. No entry. The corpus renders རྒྱ་གར as 'Ấn Độ' (c007, c008, c022, c106, c179, c181); འཕགས་ཡུལ is a different Tibetan word ('land of the āryas') and was kept distinct as 'Thánh xứ'. A ruling should say whether the two Tibetan names merge onto 'Ấn Độ' or stay apart.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "ཕྱི་འགྲེལ",
+      "vi": "phần chú giải về sau",
+      "status": "provisional",
+      "kind": "term",
+      "note": "p0744 l.1, དེའི་ཕྱི་འགྲེལ་དུ — the prose of the Madhyamakāvatārabhāṣya that follows and comments on the verse just quoted. No entry; the view registers only འགྲེལ་པ = 'bản Thích' / 'bản chú giải'. Rendered descriptively rather than as a title.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "འདུ་ཤེས་གཡེར་པོ",
+      "vi": "cái tưởng linh hoạt",
+      "status": "provisional",
+      "kind": "term",
+      "note": "p0746, inside the Catuḥśataka-ṭīkā quotation, in the logicians' definition of རྟོག་པ: གང་དོན་ལ་མིང་དང་རིགས་སུ་ལྷག་པར་སྒྲོ་འདོགས་པར་ཞུགས་པའི་འདུ་ཤེས་གཡེར་པོ. Uses the view's འདུ་ཤེས = 'tưởng'. གཡེར་པོ (keen / nimble / alert) has no entry and I am not confident of it — see flags.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "རིགས (jāti sense, in མིང་དང་རིགས)",
+      "skt": "jāti",
+      "vi": "chủng loại",
+      "status": "provisional",
+      "kind": "term",
+      "note": "p0746, same definition of རྟོག་པ (name and class superimposed on the object). Deliberately NOT the view's རིགས = 'chủng tánh' (gotra) nor 'dòng dõi' (lineage): here it is the logicians' universal/class term paired with མིང.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "མ་འཁྲུལ་བ",
+      "skt": "abhrānta",
+      "vi": "không lầm loạn",
+      "status": "provisional",
+      "kind": "term",
+      "note": "p0746, ×2 — the second member of the logicians' definition of hiện lượng, and its gloss (ཡུལ་གྱི་རང་གི་མཚན་ཉིད་ཇི་ལྟར་གནས་པ་ལྟར་འཛིན་པ). No entry anywhere in the corpus.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "ཆོས་ལུགས (in འཇིག་རྟེན་པའི་ཆོས་ལུགས)",
+      "vi": "nếp pháp",
+      "status": "provisional",
+      "kind": "term",
+      "note": "p0743, inside the Prasannapadā quotation: འཇིག་རྟེན་པའི་ཆོས་ལུགས་ལས་ཉམས་པ་ཁྱོད. No entry. 'nếp pháp của thế gian' keeps ཆོས visible without importing 'tôn giáo' or 'chánh pháp' (the latter is explicitly not licensed by the ཆོས fixed-set).",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "ཚད་མར་འགྲོ་ས",
+      "vi": "chỗ làm lượng",
+      "status": "provisional",
+      "kind": "term",
+      "note": "p0746 (and again on p0747, outside this chunk). Idiomatic: the domain in which something 'goes as' valid cognition. Rendered literally as a place-noun; no entry.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "འཐད་པ (noun, in བཀོད་པའི་འཐད་པ)",
+      "vi": "luận cứ",
+      "status": "provisional",
+      "kind": "term",
+      "note": "p0743, Prasannapadā quotation, ×3 (ལ་ལར་འཐད་པ་བཅུག་ནས; འཐད་པ་གཞན་འཐད་པ་གཞན་གྱིས་ཟློག་པར་བྱེད). The view registers འཐད་པ = 'hợp lý' (predicative, p0707–p0710, incl. the sibling section heading), which does not cover this nominal 'argument put forward' sense. Both senses occur in this chunk, so the split should be recorded rather than left to look like drift.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "ཡུལ་ཁྱད་པར་ཅན",
+      "vi": "cảnh đặc thù",
+      "status": "provisional",
+      "kind": "term",
+      "note": "p0745 l.1, ཡུལ་ཁྱད་པར་ཅན་དེ་ཁོ་ན་ཉིད. Built from the view's ཡུལ = 'cảnh'; ཁྱད་པར་ཅན has no entry (the view has ཁྱད་པར = 'định ngữ' only in the viśeṣaṇa sense).",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "བརྒལ་ཞིང་བརྟག་པ",
+      "vi": "vấn nạn và khảo xét",
+      "status": "provisional",
+      "kind": "term",
+      "note": "p0746, Catuḥśataka-ṭīkā quotation. 'vấn nạn' is already in the corpus (c119, c156, c210) for the objection itself; this is the paired verb phrase and has no entry.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "འཐད་པ (nominal: a reasoning / an argument)",
+      "skt": "upapatti / yukti",
+      "vi": "luận cứ",
+      "status": "provisional",
+      "kind": "sense-split",
+      "note": "p0743 l.1, x3 inside the ཚིག་གསལ quotation: ལ་ལར་འཐད་པ་བཅུག་ནས and བཀོད་པའི་འཐད་པ་གཞན་འཐད་པ་གཞན་གྱིས་ཟློག་པར་བྱེད. The registered prov འཐད་པ -> 'hợp lý' is scoped by its own note to the predicate/adjectival use (p0707-p0710, heading དེ་མི་འཐད་པར་བསྟན་པ), which this chunk uses correctly at L25 (ཇི་ལྟར་འཐད) and L51 (རིགས་པ་མ་ཡིན). Here འཐད་པ is a count noun taking བཅུག / བཀོད་པའི / གཞན་གྱིས — it is a stated argument, not the property of being reasonable, and 'hợp lý' cannot take those. Wording KEPT; a scoped nominal entry is requested.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "ཤེས་པ (epistemological: a cognition / awareness)",
+      "skt": "jñāna / buddhi",
+      "vi": "thức",
+      "status": "provisional",
+      "kind": "sense-split",
+      "note": "L25, L47, L51, L53, L57, L59, L61 — མིག་ལ་སོགས་པའི་ཤེས་པ (p0744 l.1, p0745), མི་བསླུ་བའི་ཤེས་པ (p0745), ཤེས་པ་མངོན་སུམ་ཡིན་ནོ (p0746). The only registered prov ཤེས་པ -> 'trí' is explicitly scoped to the Abhisamayālaṃkāra verse at p0358 (kept apart from ཤེས་རབ = trí tuệ) and cannot govern the pramāṇa debate. Wording KEPT. The ruling should also settle whether ཤེས་པ and རྣམ་པར་ཤེས་པ stay distinguishable: the བཞི་བརྒྱ་པའི་འགྲེལ་པ quotation at L51 runs both inside one argument (མི་བསླུ་བའི་ཤེས་པ vs རྣམ་པར་ཤེས་པའང / རྣམ་པར་ཤེས་པ་ཐམས་ཅད), and both are currently 'thức'; a split such as ཤེས་པ -> 'thức' / རྣམ་པར་ཤེས་པ -> 'thức (vijñāna)' or 'tâm thức' would keep them apart.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "བརྫུན་པ (false, deceptive — not the speech act)",
+      "skt": "mṛṣā",
+      "vi": "hư dối",
+      "status": "provisional",
+      "kind": "sense-split",
+      "note": "p0745, x2 inside the བཞི་བརྒྱ་པའི་འགྲེལ་པ quotation: བརྫུན་པ་བསླུ་བའི་ཆོས་ཅན་དང་སྒྱུ་མ་ལྟ་བུ. The registered prov བརྫུན -> 'nói dối' [mṛṣāvāda] is the speech-act sense and cannot govern a predicate of འདུས་བྱས / རྣམ་པར་ཤེས་པ. Rendering KEPT; a sense split is owed.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "གཡེར་པོ (in འདུ་ཤེས་གཡེར་པོ)",
+      "skt": "paṭu (?)",
+      "vi": "linh hoạt (in 'cái tưởng linh hoạt') — UNCERTAIN",
+      "status": "provisional",
+      "kind": "term",
+      "note": "p0746 l.1, inside the བཞི་བརྒྱ་པའི་འགྲེལ་པ definition of རྟོག་པ: དོན་ལ་མིང་དང་རིགས་སུ་ལྷག་པར་སྒྲོ་འདོགས་པར་ཞུགས་པའི་འདུ་ཤེས་གཡེར་པོ. འདུ་ཤེས -> 'tưởng' is registered; གཡེར་པོ has none. The lexical range is 'clear, distinct, articulate/sonorous' as well as 'sharp, keen, alert'; 'linh hoạt' picks up only the last and is a weak fit for the first. Wording KEPT rather than swapped on preference, because this is the load-bearing word in the definition of conceptuality and the evidence is not decisive — a ruling is requested (candidates: 'rõ rệt' / 'sắc bén' / a form marking the 'expressive, name-bearing' sense).",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "སྣང་སྟོང",
+      "vi": "hiển hiện và tánh không",
+      "status": "provisional",
+      "kind": "term",
+      "note": "p0716, དེ་འདྲ་བའི་སྣང་སྟོང་ལ་ངེས་པ་འདྲེན་པ་གཉིས་ཚོགས. GAP — no entry for the compound. Rendered as the two members it abbreviates (སྣང་བ + སྟོང་པ་ཉིད), using the fixed སྟོང་པ་ཉིད = tánh không. 'nhị hiện' / 'hiện–không' were not used because the Tibetan is a plain dvandva here, not a technical unity-term.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "སྲིད་མཐའ་ཙམ་དུ་སོང་བ",
+      "vi": "hiếm hoi đến mức cùng tột",
+      "status": "provisional",
+      "kind": "idiom",
+      "note": "p0716, གཉིས་ཚོགས་དེ་སྲིད་མཐའ་ཙམ་དུ་སོང་བས. Read as the same idiom already registered at p0121 as སྲིད་མཐར་སྣང་བ = 'thấy là [hiếm hoi] đến mức cùng tột' (བདེ་འགྲོ་ཙམ་ཡང་སྲིད་མཐར་སྣང་ལ). Recorded so the two occurrences stay in step; see flag.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "ལྷ་བདུད་དུ་བབས་པ",
+      "vi": "vị trời rơi xuống thành ma",
+      "status": "provisional",
+      "kind": "idiom",
+      "note": "p0716, ལྷ་བདུད་དུ་བབས་པ་ལྟར་གྱུར་ནས. Rendered literally. Uses the provisional བདུད = ma; ལྷ is left as the neutral 'vị trời' rather than the provisional 'bổn tôn', which is scoped to iṣṭadevatā contexts and would be wrong in a simile about something divine turning demonic.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "དཔྱོད་མཁན",
+      "vi": "người thẩm sát",
+      "status": "provisional",
+      "kind": "term",
+      "note": "p0717 ×4. GAP. Agentive of དཔྱོད་པ, which the glossary carries as provisional 'thẩm sát'; kept morphologically parallel to it so the argument (the analyser is analysed away too) stays visible. Note the unresolved corpus split c083 'quán sát' vs c125/c134 'thẩm sát' already recorded under དཔྱོད་པ — this chunk follows 'thẩm sát'.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "ཞན་པ",
+      "vi": "kẻ yếu kém",
+      "status": "provisional",
+      "kind": "term",
+      "note": "p0716, MMK XXIV.12 དེ་ཕྱིར་ཞན་པས་ཆོས་འདི་ཡི. GAP. Of dull faculties. Rendered without supplying 'trí' or 'căn cơ', which the Tibetan does not write.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "འོ་ཐུག",
+      "vi": "cháo sữa",
+      "status": "provisional",
+      "kind": "term",
+      "note": "p0715, in the Vigrahavyāvartanī autocommentary's pot simile (སྦྲང་རྩི་དང་ཆུ་དང་འོ་ཐུག). GAP.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "མཆུ / མགྲིན་པ (of a pot)",
+      "vi": "miệng bình / cổ bình",
+      "status": "provisional",
+      "kind": "term",
+      "note": "p0717, བུམ་པ་ལ་སོགས་པ་རྣམས་མཆུ་དང་མགྲིན་པ་ལ་སོགས་པ་རང་གི་ཡན་ལག. GAP. 'bình' supplied in each so Vietnamese parses; the Tibetan writes only 'lip' and 'neck'.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "གཞི་མཐུན་དུ་འདུ་བ",
+      "vi": "quy tụ nơi cùng một cơ sở",
+      "status": "provisional",
+      "kind": "term",
+      "note": "p0715-p0716. GAP. Uses the registered provisional གཞི = 'cơ sở'. Deliberately not 'đồng nhất' or 'hợp nhất' — the point is that two predicates share one locus, not that they merge (cf. decisions.md §7 on ཟུང་དུ་འབྲེལ་བ).",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "ཐུགས་ཆུད་པ",
+      "vi": "thấu rõ",
+      "status": "provisional",
+      "kind": "term",
+      "note": "p0717, Ratnāvalī verse ཤེས་པར་དཀའ་བར་ཐུགས་ཆུད་དེ. GAP. Honorific verb of understanding; kept distinct from རྟོགས་པ = chứng ngộ and མཁྱེན་པ ('biết') in the MMK verse four lines above, which this chunk renders 'biết'.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "ཁས་བླངས་པའི་ཚུལ་ཁྲིམས",
+      "vi": "giới đã thọ nhận",
+      "status": "provisional",
+      "kind": "term",
+      "note": "p0716. Uses the fixed ཚུལ་ཁྲིམས = giới and the provisional ཁས་བླངས་པ = 'thừa nhận', adjusted to 'thọ nhận' because the object is vows undertaken, not a proposition conceded. Register the sense split or the p0179 entry will read as drift.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "སྟོང་པ",
+      "skt": "śūnya",
+      "vi": "trống rỗng",
+      "status": "provisional",
+      "kind": "gap — bare adjective/noun, wording kept",
+      "note": "p0715 l.1, ×3: `སྟོང་པའོ་ཞེས་བྱ་བར་འཆད་དོ` and `སྟོང་པའོ་ཞེས་བྱ་བ་འཐད་པ` -> 'trống rỗng' (in quotation marks, as the Vigrahavyāvartanī-commentary is naming the predicate), and `རང་བཞིན་སྟོང་པ` -> 'trống rỗng tự tánh'. The view fixes only `སྟོང་པ་ཉིད` -> 'tánh không'; there is no ruling for the bare form. 56 corpus occurrences across c212–c221 use 'trống rỗng', so the wording is consistent. KEPT. Register the bare form (and ideally the compound `རང་བཞིན་སྟོང་པ` -> 'trống rỗng tự tánh') so it is not read as a `སྟོང་པ་ཉིད` violation.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "ཀུན་ནས་ཉོན་མོངས",
+      "skt": "saṃkleśa",
+      "vi": "tạp nhiễm",
+      "status": "provisional",
+      "kind": "gap — compound unruled, wording kept",
+      "note": "p0715 l.3, `ཀུན་ནས་ཉོན་མོངས་དང་རྣམ་པར་བྱང་བའི་ཆོས` -> 'các pháp tạp nhiễm và thanh tịnh'. The view has FIXED `ཉོན་མོངས` -> 'phiền não' for the bare term only. 'tạp nhiễm' has corpus precedent (c013, c058, c061, c069, c092, c192, c219, c228) and pairs correctly with the registered provisional `རྣམ་པར་བྱང་བ` -> 'thanh tịnh' (vyavadāna), which is the term it is contrasted with here. KEPT. Register the compound so the sweep does not read it as a `ཉོན་མོངས` violation.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "འགག་པ",
+      "skt": "nirodha (cessation, verbal)",
+      "vi": "diệt",
+      "status": "provisional",
+      "kind": "gap — new entry needed, must stay distinct from འགོག་པ",
+      "note": "p0715 l.3 `སྐྱེ་བ་དང་འགག་པའི་རྟེན་འབྲེལ` and p0716 l.1 `བརྟེན་ནས་འགག་པ`, `སྐྱེ་བ་དང་འགག་པའི་རྟེན་འབྲེལ`. No entry exists. The chunk had rendered it 'hoại diệt' twice and 'diệt' once; I converged on 'diệt' throughout — 'hoại diệt' imports a destructive sense ('perish/be destroyed') that plain འགག་པ (mere ceasing, the counterpart of སྐྱེ་བ -> FIXED 'sinh') does not carry, and here it is one half of the dependent-arising pair sinh/diệt. The view registers only `འགོག་པ` -> 'diệt [đế]' (nirodha-satya, p0402), a different word and a different sense; the ruling must keep the two separable — otherwise every dependent-arising 'diệt' will be read as the third noble truth.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "བུད་དྷ་པཱ་ལི་ཏ",
+      "skt": "Buddhapālita(vṛtti)",
+      "vi": "*Buddhapālita*",
+      "status": "provisional",
+      "kind": "title",
+      "note": "p0728 l.1 `བུད་དྷ༌པཱ་ལི་ཏ་ལས་ཀྱང༌།` — the commentary, cited as a text. Absent from the c218 view. Follows the precedent already set in c210 l.35, which cites the same work as *Buddhapālita* in italics, while the PERSON is rendered 'A-xà-lê Phật Hộ' (c208, c209). The split (work = transliterated title, person = Phật Hộ) should be recorded so Phase 5 does not read it as drift.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "འཇིག་རྟེན་ཕ་རོལ",
+      "skt": "paraloka",
+      "vi": "thế gian bên kia",
+      "status": "provisional",
+      "kind": "term",
+      "note": "p0731, ×4. GAP in the c218 view. Rendered 'thế gian bên kia' rather than a temporal 'đời sau', because in the Prasannapadā passage at p0731 l.3 ཕ་རོལ is used BIDIRECTIONALLY in one sentence — འཇིག་རྟེན་ཕ་རོལ་ནས་འདིར་འོང་བ (coming here FROM it) and འཇིག་རྟེན་འདི་ནས་ཕ་རོལ་ཏུ་འགྲོ་བ (going TO it) — so a rendering meaning 'the later life' is positively wrong on the first limb. It keeps the fixed འཇིག་རྟེན = thế gian visible. See flag: glossary.json does carry འཇིག་རྟེན་ཕྱི་མ / འཇིག་རྟེན་ཕ་རོལ -> 'thế gian đời sau' (provisional), which this chunk departs from on purpose.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "དངོས་སྨྲ་བ",
+      "skt": "vastuvādin / bhāvavādin",
+      "vi": "nhà chủ trương sự vật",
+      "status": "provisional",
+      "kind": "term",
+      "note": "p0730 l.3. Not in the c218 view; follows c212 (ll. 34, 50), which already uses 'nhà chủ trương sự vật' / 'các bậc học giả chủ trương sự vật'. No new wording — registration requested only so the recurring opponent-label is pinned.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "དམ་བཅའ",
+      "skt": "pratijñā",
+      "vi": "lời lập tông",
+      "status": "provisional",
+      "kind": "term",
+      "note": "p0731 l.1, `དམ་བཅའ་ལ་ཁྱད་པར་ཡོད་དོ` — the thesis asserted, contrasted two lines later with རྒྱུ་མཚན (the reason). No entry, no corpus precedent (grep: zero hits for 'lập tông'). 'lời lập tông' keeps the thesis/reason pair (dam bca' / rgyu mtshan) visibly matched; bare 'tông' would collide with གྲུབ་མཐའ = tông nghĩa, which occurs nearby in c212.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "མཐའ་གཉིས",
+      "skt": "antadvaya",
+      "vi": "hai cực đoan",
+      "status": "provisional",
+      "kind": "term",
+      "note": "p0730 l.1, མཐའ་གཉིས་སུ་ལྟུང་བར་མི་འགྱུར. Follows the view's མཐའ (extreme sense) -> 'cực đoan' ruling from p0704 rather than the alternative 'nhị biên'. Note c187 l.62 uses 'hai biên' for the laya/auddhatya pair — a different sense, but the two will look alike to a consistency sweep.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "ཆུད་འཛའ / ཆུད་ཟ་བ (of a person)",
+      "vi": "bị hủy hoại",
+      "status": "provisional",
+      "kind": "term",
+      "note": "p0729 l.2 verse, མི་མཁས་རྣམས་ནི་ཆུད་ཀྱང་འཛའ. glossary.json registers ཆུད་ཟ་བ -> 'luống mất' (provisional), which fits karma being wasted but not a person being ruined. Rendered 'bị hủy hoại' here; the entry should record the split or pick one word.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "མི་མཁས་པ",
+      "skt": "amūrkha-neg. / avidvas",
+      "vi": "kẻ chẳng phải bậc trí",
+      "status": "provisional",
+      "kind": "term",
+      "note": "p0729 l.2 verse. Mirrors the view's ruling མཁས་པ (in verse) -> 'bậc trí' (p0302 MMK XXVI.10, p0388) and the same verse-sense used for མཁས་པ in the MMK XV.10 quotation at p0728 l.1 of this chunk.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "ལྡོག་པ (in རང་བཞིན་ལ་ལྡོག་པ་མེད་པ)",
+      "vi": "sự lui chuyển",
+      "status": "provisional",
+      "kind": "term",
+      "note": "p0728 l.2, inside the Prasannapadā quotation: a svabhāva admits no ལྡོག་པ, hence is never absent. Rendered 'sự lui chuyển' (reversal/turning back) rather than 'sự đổi khác', to keep it apart from འགྱུར་བ = 'đổi khác', which Tsongkhapa uses two lines later at p0730 l.3 (དུས་ཀུན་ཏུ་མི་འགྱུར་བ) for a related but distinct idea.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "བུད་དྷ༌པཱ་ལི་ཏ",
+      "skt": "Buddhapālita",
+      "vi": "*Buddhapālita*",
+      "status": "provisional",
+      "kind": "gap — cited title",
+      "note": "p0728 l.1. Left in Sanskrit while every other cited title in the chunk has a Vietnamese form (Căn Bản Trung Luận, Minh Cú Luận, Bảo Man Luận, all matching their prov entries). decisions.md requires one fixed Vietnamese title per cited text; 'Phật Hộ Thích' / 'Phật Hộ Luận' would be the candidates, but the ruling belongs centrally, not here.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "སྟོང་པ་ཉིད་དམ་པ",
+      "vi": "tánh không tối thắng",
+      "status": "provisional",
+      "kind": "gap",
+      "note": "p0728 l.3. Keeps the FIXED སྟོང་པ་ཉིད -> 'tánh không'. Register collision to note: དམ་པ is rendered 'tối thắng' here, while the registered དོན་དམ་པ -> 'thắng nghĩa' appears a page later (p0730).",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "ལྡོག་པ",
+      "vi": "sự lui chuyển",
+      "status": "provisional",
+      "kind": "gap",
+      "note": "p0728 l.1, རང་བཞིན་ལ་ལྡོག་པ་མེད་པས — no reversal/turning-back in a svabhāva.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "བདག་ཉིད",
+      "vi": "tự thể",
+      "status": "provisional",
+      "kind": "gap",
+      "note": "p0729 l.1, in the Ratnāvalī verse སྤོང་བས་མ་རུངས་བདག་ཉིད་ཅན, where it stands beside the registered ངོ་བོ -> 'thể tánh' used in the surrounding prose. The ruling should keep the two separable.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "ཁ་ཚོན་ཆོད་པ",
+      "vi": "được phân định dứt khoát (thành hai)",
+      "status": "provisional",
+      "kind": "term",
+      "note": "GAP — no entry in the view. Occurs 7× in p0726 l.3 and p0727 l.1, and it is the pivot of the whole argument: the dichotomy hữu/vô must be EXHAUSTIVE, so no third option survives. Rendered 'phân định dứt khoát thành hai' so the phrase can carry both the verbal ('phải được phân định dứt khoát thành hai điều ấy') and the nominal ('việc phân định dứt khoát thành...') uses. It recurs in p0731–p0734, so a ruling is owed before those chunks.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "ཕུང་གསུམ",
+      "vi": "khả năng thứ ba",
+      "status": "provisional",
+      "kind": "term",
+      "note": "GAP. p0726 l.3 (×1) and p0727 l.1 (×3): the 'third heap', i.e. a tertium quid outside an exhaustive dichotomy. Deliberately NOT 'trường hợp thứ ba', because the view fixes མུ་བཞི = 'bốn trường hợp' (catuṣkoṭi) and the two terms stand four lines apart in this chunk; collapsing them onto 'trường hợp' would make it look as though ཕུང་གསུམ were the third of the four མུ, which it is not.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "ཡེ་མེད",
+      "vi": "tuyệt nhiên không có",
+      "status": "provisional",
+      "kind": "term",
+      "note": "GAP in the view, but NOT a free choice: c207 already renders ཡེ་མེད at p0693 as 'tuyệt nhiên không có' and this chunk follows it. Load-bearing here — p0726 l.1 and l.3 turn on the four-way distinction ཡེ་མེད / རང་བཞིན་མེད་པ / རང་གི་ངོ་བོས་གྲུབ་པ / ཡོད་པ་ཙམ, and if ཡེ་མེད and མེད་པ collapse onto one Vietnamese word the passage's whole point disappears. c216 (p0720–p0723, same batch) also contains ཡེ་མེད ×2 and must not diverge.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "དངོས་པོ་མེད་པར་སྨྲ་བ",
+      "skt": "abhāvavādin",
+      "vi": "nhà chủ trương sự vật là không có",
+      "status": "provisional",
+      "kind": "term",
+      "note": "p0724 l.3 (Catuḥśataka-ṭīkā quotation) and p0725 l.1, where it is paired against དངོས་པོ་ཡོད་པར་སྨྲ་བ = 'nhà chủ trương sự vật là có'. Rendered as a matched pair so the passage's point — that the two uses of དངོས་པོ are different — stays visible.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "ལོག་པ",
+      "vi": "hư vọng",
+      "status": "provisional",
+      "kind": "term",
+      "note": "GAP. p0725 l.3 – p0726 l.1, ~6×, including the two-pada verse. The ṭīkā explicitly says ལོག་པ is synonymous with རང་བཞིན་མེད་པ and རྟེན་འབྲེལ and is NOT the same as དངོས་པོ་མེད་པ, so the Vietnamese must not say 'không có' or 'sai lầm'. Paired in the same passage with རྫུན་པ, which is rendered 'giả dối' to keep the two words separable.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "རྫུན་པ",
+      "vi": "giả dối",
+      "status": "provisional",
+      "kind": "term",
+      "note": "p0726 l.1, ལོག་པའམ་རྫུན་པའི་དོན. Kept distinct from ལོག་པ = 'hư vọng'.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "གྲངས་ངེས",
+      "vi": "số quyết định",
+      "status": "provisional",
+      "kind": "term",
+      "note": "GAP. p0727 l.1, ཕུང་གསུམ་ལྡོག་པའི་གྲངས་ངེས — the definite enumeration that excludes a third option. Standard Sino-Vietnamese 定數; kept close to the Tibetan rather than paraphrased, since it is the technical partner of ཁ་ཚོན་ཆོད་པ in the same sentence.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "རྣམ་པར་བཅད་པ / ཡོངས་སུ་གཅོད་པ",
+      "vi": "loại trừ / xác định trọn vẹn",
+      "status": "provisional",
+      "kind": "term",
+      "note": "GAP. p0727 l.1, ཡོད་མེད་ལ་སོགས་པའི་གཅིག་རྣམ་པར་བཅད་པས་ཅིག་ཤོས་ཡོངས་སུ་མི་གཅོད་པའི་ཕྱིར་རོ. This is the standard rnam-bcad / yongs-gcod pair (exclusion vs. inclusive determination). Rendered as a matched pair; the argument fails if both come out as 'phủ định' / 'xác định' without the contrast. A ruling should fix both members together — 'già thuyên / biểu thuyên' is the alternative Sino-Vietnamese pair.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "བབ་ཅོལ",
+      "vi": "khinh suất",
+      "status": "provisional",
+      "kind": "term",
+      "note": "GAP. p0727 l.1, describing the position that a dharma is neither of the two alternatives. 'rash / reckless'.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "ཡེ་མེད་པ",
+      "vi": "tuyệt nhiên không có",
+      "status": "provisional",
+      "kind": "gap",
+      "note": "p0726 l.1 (ཡེ་མེད་ཀྱང་མིན) and l.3 (ཡེ་མེད་པ་དང་རང་བཞིན་མེད་པ ... ཁྱད་མ་ཕྱེད་པར). No entry. Rendering kept. This is the pivot the whole chunk contrasts against རང་བཞིན་མེད་པ = vô tự tánh — failing to distinguish the two is precisely the error being diagnosed — so a fixed rendering distinct from 'vô tự tánh' and from plain མེད་པ = 'không có' would prevent drift.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "གྲགས་པ (prasiddha sense: renowned/current to a cognition)",
+      "skt": "prasiddha",
+      "vi": "cực thành",
+      "status": "provisional",
+      "kind": "term",
+      "note": "p0760–p0762, ~10×, and it is the FIRST of the three criteria by which the whole section decides what exists conventionally (ཐ་སྙད་པའི་ཤེས་པ་ལ་གྲགས་པ་ཡིན་པ), plus the technical noun འཇིག་རྟེན་གྱི་གྲགས་པ. The c226 view registers གྲགས་པ only as 'danh tiếng' (fame, from personal names / bare noun at p0522), a completely different sense that is unusable here. 'cực thành' (極成) is the established Sino-Vietnamese for prasiddha in Buddhist logic and keeps the word separable from ཐ་སྙད = danh ngôn and ཁས་ལེན = thừa nhận, both of which stand in the same sentences. Note: zero corpus precedent — 'cực thành' occurs 0× in translation/. Alternatives if the ruling goes otherwise: 'điều thế gian công nhận' / 'quen biết'. A ruling is owed because this word governs the criterion for the rest of the vipaśyanā section.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "མ་དཔྱད་པའི་ཤེས་པ",
+      "vi": "thức chưa thẩm sát",
+      "status": "provisional",
+      "kind": "term",
+      "note": "p0760–p0761, 3×. Tsongkhapa defines it explicitly here and immediately warns it is NOT a cognition that examines nothing at all — so the Vietnamese must not read as 'thức không hề khảo xét'. Paired with མ་བརྟགས་པར་འཇུག་པ, which I rendered 'vận hành mà chẳng khảo xét' to keep བརྟག་པ (khảo xét) apart from དཔྱོད་པ (thẩm sát).",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "རྒོལ་ཕྱི་རྒོལ",
+      "skt": "vādin / prativādin",
+      "vi": "người lập luận và người phản luận",
+      "status": "provisional",
+      "kind": "term",
+      "note": "p0761 l.2. No entry. The debate pair. Alternatives: 'lập giả và địch giả' (nhân minh register).",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "གཟུང་འཛིན་ཆ་མེད",
+      "vi": "sở thủ và năng thủ vô phần",
+      "status": "provisional",
+      "kind": "term",
+      "note": "p0762 l.2, in the list of what the realist schools impute (beside བདག, གཙོ་བོ, དབང་ཕྱུག). 'sở thủ / năng thủ' follows corpus usage for གཟུང་རྣམ / འཛིན་རྣམ; ཆ་མེད = 'vô phần' is new — 'vô phần' occurs 0× in the corpus.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "རང་ག་བ",
+      "vi": "tự nhiên",
+      "status": "provisional",
+      "kind": "term",
+      "note": "p0761 l.2, ཤེས་པ་རང་ག་བ — the cognition left just as it is, unaltered. No entry. Rendered 'thức tự nhiên'; the sense is 'plain / unmodified', and 'tự nhiên' may under-read it.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "ཀུན་བརྟགས་པ (verbal)",
+      "vi": "được giả lập",
+      "status": "provisional",
+      "kind": "term",
+      "note": "p0762 l.2. Deliberately kept distinct from བཏགས་པ = 'được giả danh' (p0759 MAv verse and p0760 prose), which stands ten lines away in the same argument. Neither is registered. 'biến kế' was considered and rejected as it does not work verbally in Vietnamese.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "རང་སྡེ་དངོས་པོར་སྨྲ་བ",
+      "vi": "các nhà chủ trương thật hữu thuộc tự bộ",
+      "status": "provisional",
+      "kind": "term",
+      "note": "p0760 l.1. Combines the view's prov རང་སྡེ = 'tự bộ' with c212's 'các nhà chủ trương thật hữu' for དངོས་པོར་སྨྲ་བ (which the view lists as 'not rendered in this chunk'). Also used at p0762 as རང་གཞན་གྱི་སྡེ་པ་དངོས་པོར་སྨྲ་བ -> 'các bộ phái chủ trương thật hữu, tự bộ và tha bộ'.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "འཇིག་རྟེན་གྱི་རྒན་པོ",
+      "vi": "bậc kỳ lão của thế gian",
+      "status": "provisional",
+      "kind": "term",
+      "note": "p0761 l.2, the tenet-free old people one might consult about worldly renown. No entry; 'kỳ lão' occurs 0× in the corpus.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "བདེ་སྡུག",
+      "vi": "an lạc và khổ",
+      "status": "provisional",
+      "kind": "term",
+      "note": "p0762 l.1, 3×, in the Īśvara/pradhāna vs virtue/sin comparison. No entry; follows the corpus's 'an lạc và khổ' (7×) rather than 'khổ vui' (5×), and preserves the Tibetan's happiness-first order.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "གནོད་པ (epistemic sense: invalidation by a pramāṇa or by reasoning; also མི་གནོད་པ, གནོད་པ་མི་འབབ་པ)",
+      "skt": "bādhā / bādhaka",
+      "vi": "làm hại / sự làm hại",
+      "status": "provisional",
+      "kind": "sense-split",
+      "note": "The view records `prov གནོད་པ -> tổn hại` (line 164), but its own note scopes that to the harm/violence sense kept apart from `འཚེ་བ`. Throughout c226 (L11, L36, L38, L40, L46, 6x) `གནོད་པ` is the epistemic 'invalidation': `ཐ་སྙད་པའི་ཚད་མ་གཞན་གྱིས་གནོད་པ་མེད་པ`, `རིགས་པས་གནོད་པ་མི་འབབ་པ` (p0760), `འཁྲུལ་རྒྱུའི་གནོད་པ` (p0762). 'tổn hại' (physical/emotional injury) would read wrongly here. WORDING KEPT. Needs a scoped ruling: epistemic གནོད་པ -> 'làm hại / sự làm hại' (verbal 'bị ... làm hại'), vs. the existing harm sense -> 'tổn hại'. This sense drives the whole chunk and the entire vipaśyanā section, so it should be settled once centrally. The departure was made silently by the translator (no flag recorded) — that is the only procedural fault; the rendering itself is correct.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "གྲགས་པ (prasiddha sense; incl. the standing term འཇིག་རྟེན་གྱི་གྲགས་པ and ཐ་སྙད་པའི་ཤེས་པ་ལ་གྲགས་པ)",
+      "skt": "prasiddha / lokaprasiddha",
+      "vi": "cực thành (འཇིག་རྟེན་གྱི་གྲགས་པ -> cực thành của thế gian)",
+      "status": "provisional",
+      "kind": "gap",
+      "note": "GLOSSARY GAP, not a translator error. The view's only entry is `prov གྲགས་པ -> danh tiếng` (line 300), explicitly noted as having no bare entry and scoped to the fame sense inside personal names (བློ་བཟང་གྲགས་པ, ཟླ་བ་གྲགས་པ). Here (p0760–p0762, L26, L30, L32, L34, L46) it is prasiddha, 'renowned to / established for a cognition'. 'cực thành' is the established Sino-Vietnamese (極成) and is used internally consistently. WORDING KEPT. `འཇིག་རྟེན་གྱི་གྲགས་པ` is a standing technical term across the whole Prāsaṅgika section and needs its own ruling so it stays stable in later chunks.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "ཤེས་པ (in ཐ་སྙད་པའི་ཤེས་པ, མ་དཔྱད་པའི་ཤེས་པ, རིགས་པའི་ཤེས་པ, འཇིག་རྟེན་པའི་ཤེས་པ)",
+      "skt": "jñāna (here: a cognition)",
+      "vi": "thức (thức danh ngôn / thức chưa thẩm sát / thức của chánh lý)",
+      "status": "provisional",
+      "kind": "gap",
+      "note": "GLOSSARY GAP. The view's only entry is `prov ཤེས་པ -> trí` (line 224), explicitly scoped to the Abhisamayālaṃkāra verse at p0358 where 'trí' was chosen to stay apart from ཤེས་རབ. Here ཤེས་པ occurs ~12x on p0760–p0762 as 'a cognition'. The chunk renders it 'thức' while reserving 'cái trí' for `བློ` (per the ruled `prov བློ -> cái trí`, line 146), which keeps the two Tibetan words separable — internally consistent and defensible. WORDING KEPT. Caveat for the ruling: 'thức' normally carries vijñāna (`རྣམ་ཤེས`), so an explicit scoped ruling is needed rather than letting the choice drift; note `རིགས་ཤེས` is separately ruled 'trí chánh lý' (line 342) and is rendered correctly at L40.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "གཟུགས (rūpa as sense-object / aggregate; གཟུགས་ལ་སོགས་པ, གཟུགས་སྒྲ་ལ་སོགས་པ)",
+      "skt": "rūpa",
+      "vi": "sắc",
+      "status": "provisional",
+      "kind": "sense-split",
+      "note": "GLOSSARY GAP / sense split, not a translator error. The view records `prov གཟུགས -> sắc tướng` (line 210) but its own note scopes it to p0306–p0307 `གཟུགས་མི་སྡུག་པ`, i.e. physical appearance. Here (L11 `གཟུགས་ལ་སོགས་པ`, L46 `གཟུགས་སྒྲ་ལ་སོགས་པ` -> 'sắc, thanh v.v.') it is rūpa as sense-object/aggregate, where 'sắc' is the standard rendering and 'sắc tướng' would be wrong. WORDING KEPT; register the split.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "དངོས་པོར་སྨྲ་བ / དངོས་སྨྲ་བ",
+      "skt": "bhāvavādin",
+      "vi": "nhà chủ trương sự vật",
+      "status": "provisional",
+      "kind": "term",
+      "note": "COLLISION TO SETTLE, wording kept. glossary.json's only entry reads literally '(not rendered in this chunk)', i.e. no Vietnamese is registered. The corpus is already split: c212 (pages 707–710, immediately before this one, same argument) has 'nhà chủ trương sự vật'; c210 has 'các nhà chủ trương thật hữu'. I followed c212 because it is the adjacent chunk, continues the identical debate, and is built on the registered དངོས་པོ = 'sự vật'. One ruling is owed, and whichever way it goes it is a corpus sweep across c210/c212/c216/c217, not a c216-only edit.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "རྟག་པའི་མཐའ",
+      "skt": "śāśvatānta",
+      "vi": "cực đoan thường",
+      "status": "provisional",
+      "kind": "term",
+      "note": "p0722 l.2 (རྟག་པའི་མཐར་ལྟུང་བ). glossary.json registers ཡོད་པའི་མཐའ / ཆད་པའི་མཐའ -> 'cực đoan hữu / cực đoan đoạn'; this is the third member of the same pattern and is formed on it.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "མེད་པའི་མཐའ",
+      "skt": "abhāvānta",
+      "vi": "cực đoan vô",
+      "status": "provisional",
+      "kind": "term",
+      "note": "p0722 l.2 (མེད་པའི་མཐའ་སྤོང་བ), paired in the same paragraph with ཡོད་མཐར་མི་ལྟུང. Same pattern as the registered ཡོད་པའི་མཐའ / ཆད་པའི་མཐའ.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "མ་གྲགས་པ",
+      "vi": "không được biết đến",
+      "status": "provisional",
+      "kind": "term",
+      "note": "p0720 l.1, MAv verse ཚོགས་ལ་ལྟོས་རྣམས་མ་གྲགས་པ་ཡང་མིན. The view registers only bare གྲགས་པ -> 'danh tiếng' (fame), which is a different sense — here it is 'not renowned / not commonly acknowledged'. No expansion supplied.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "མངོན་པར་འདོད་པ",
+      "skt": "abhimata",
+      "vi": "điều hết mực chủ trương",
+      "status": "provisional",
+      "kind": "term",
+      "note": "p0721 l.1, inside the Catuḥśataka-ṭīkā quotation (འདིའི་མངོན་པར་འདོད་པ་ཐམས་ཅད་འགྲིགས་དཀའ). No entry; kept distinct from bare འདོད་པ = 'chủ trương' used throughout the surrounding prose.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "བོང་བུའི་རྭ",
+      "skt": "kharaviṣāṇa",
+      "vi": "sừng lừa",
+      "status": "provisional",
+      "kind": "term",
+      "note": "p0721 l.1, inside the Catuḥśataka-ṭīkā quotation. The standard example of the utterly non-existent. No entry.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "གོ་ལུགས",
+      "vi": "cách hiểu",
+      "status": "provisional",
+      "kind": "term",
+      "note": "p0721 l.1 (དངོས་པོར་སྨྲ་བའི་གོ་ལུགས). No entry. Kept distinct from bare ལུགས = 'chủ trương' (provisional), which also occurs in this chunk at p0723 l.2 (དབུ་མའི་ལུགས་སུ་བྱས་ནས) and is rendered 'chủ trương' there.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "སོ་ན་འདུག་པ",
+      "vi": "vẫn y nguyên tại chỗ",
+      "status": "provisional",
+      "kind": "term",
+      "note": "p0723 l.1, inside the Prasannapadā quotation (ཉེས་པ་སོ་ན་འདུག་པ་ཉིད་དོ) — the fault stays exactly where it was. No entry.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "རྩ་བ (bare, = the root text of the Prasannapadā)",
+      "skt": "Mūlamadhyamakakārikā",
+      "vi": "bản gốc [*Căn Bản Trung Luận*]",
+      "status": "provisional",
+      "kind": "title",
+      "note": "p0720 l.1, རྩ་བར་ཡང, standing in contrast to འགྲེལ་པ་ཚིག་གསལ in the previous clause. The Tibetan gives only 'in the root [text]', so 'Căn Bản Trung Luận' is bracketed as supplied. This follows the short-vs-full-title precedent already recorded for རྩ་ཤེ and འཇུག་པ, but bare རྩ་བ is a third short form and is not registered.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "མྱ་ངན་ལས་འདས་པའི་གྲོང་ཁྱེར",
+      "skt": "nirvāṇanagara",
+      "vi": "thành trì niết-bàn",
+      "status": "provisional",
+      "kind": "term",
+      "note": "p0723 l.1, inside the Prasannapadā quotation. Formed on the registered ཐར་པའི་གྲོང་ཁྱེར -> 'thành trì giải thoát' plus the registered མྱ་ངན་ལས་འདས་པ -> 'niết-bàn'. No 'Kinh'/title reading here — it is the metaphor, not the sūtra.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "སྐྱོན་འཕེན་པ",
+      "vi": "ném lỗi",
+      "status": "provisional",
+      "kind": "term",
+      "note": "p0720 l.1, the ཕར་ལ་འཕང / ཚུར་ལ་འཕངས / བཟློག་ནས་སྐྱོན་འཕེན image (the fault the Mādhyamika would hurl at the opponent is hurled back, so he turns it around and hurls it again). The registered འཕེན་པ senses are 'dẫn phát' (karma, ākṣepaka) and 'dẫn phát' (mental thrust of offering) — neither fits a fault being thrown in debate. Rendered with the plain verb 'ném'; needs its own scoped entry.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "གདོན་མི་ཟ་བར",
+      "vi": "chắc chắn",
+      "status": "provisional",
+      "kind": "widen-existing-ruling",
+      "note": "The recorded prov is གདོན་མི་ཟ -> 'chắc chắn rằng', taken from p0687 where the phrase closes a sentence as ...གསུངས་པར་གདོན་མི་ཟའོ ('it is certain that [he] said...'), so 'rằng' is a complementizer belonging to that construction. All three occurrences in c216 (p0721 ×2, p0722 l.3) are the adverbial གདོན་མི་ཟ་བར/གདོན་མི་ཟ་བས modifying a verb inside a clause, where 'rằng' cannot stand. Text aligned to 'chắc chắn'; the ruling should be widened to admit the bare adverbial 'chắc chắn' alongside the sentence-final 'chắc chắn rằng'.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "ཚོགས (assemblage of causes and conditions)",
+      "skt": "sāmagrī",
+      "vi": "tổ hợp",
+      "status": "provisional",
+      "kind": "sense-split",
+      "note": "p0720 l.1, ཚོགས་ལ་ལྟོས་རྣམས in the Madhyamakāvatāra verse — 'those that depend on a collection [of causes]'. The only ཚོགས entries in the view are prov ཚོགས -> 'tư lương' [saṃbhāra] (the accumulations of merit and wisdom) and prov ཚོགས (assembly/host sense) -> 'các việc'. Neither fits: this is the causal aggregate, a third sense. 'tổ hợp' KEPT and left unglossed (the earlier '[các duyên]' has been removed as a gloss inside a citation). A third scoped entry is owed.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "རབ་ཏུ (intensive prefix, in རབ་ཏུ་སྐྱེ་བར་འགྱུར)",
+      "skt": "pra-",
+      "vi": "trọn vẹn",
+      "status": "provisional",
+      "kind": "new-term",
+      "note": "p0720 l.1, Madhyamakāvatāra final pāda. No entry in the view. Rendered 'trọn vẹn' adverbially; 'hoàn toàn' was avoided because c216 already uses it for ཡེ་མེད / གཏན་མེད ('hoàn toàn không có') in the surrounding prose and the two must not be confusable.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "སྐྱེ་བ / སྐྱེ་འགྱུར / འབྱུང་བ (verses)",
+      "skt": "jāti / utpāda",
+      "vi": "sinh khởi",
+      "status": "provisional",
+      "kind": "sweep-note",
+      "note": "Not a violation, recorded so the Phase 5 consistency sweep does not misfire. FIXED སྐྱེ་བ -> 'sinh' is honoured literally where the Tibetan is nominal (L46, སྐྱེ་བ་ཙམ -> 'cái chỉ là sinh'). In the two verse passages the reading is verbal and renders as 'sinh khởi' (L16 སྐྱེ་འགྱུར, L18 རབ་ཏུ་སྐྱེ་བར་འགྱུར, L11 and L40 འབྱུང་བ). The fixed stem is present in every case. If the sweep matches whole tokens it will fire on 'sinh khởi'; either the sweep should match the stem, or 'sinh khởi' should be recorded as the licensed verbal extension. Separately, འབྱུང་བ here is 'arising' and must not be matched against the registered prov འབྱུང་བ -> 'đại chủng' [mahābhūta], a different sense.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "འཁྲུལ་པ",
+      "skt": "bhrānti / bhrānta",
+      "vi": "lầm loạn",
+      "status": "provisional",
+      "kind": "term",
+      "note": "p0755–p0758, ~12×; the pivot of the whole passage (sense consciousnesses are mistaken conventionally, yet valid). No glossary entry. 'lầm loạn' (錯亂) chosen because it must stay visibly distinct from ཕྱིན་ཅི་ལོག = 'điên đảo' (glossary), which stands beside it in the same sentences (ཕྱིན་ཅི་ལོག་མ་ལོག), and from བརྫུན་པ = 'hư vọng'. Three near-synonyms are contrasted here on purpose, so one word must not absorb another.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "ཡང་དག་དང་ལོག་པའི་ཀུན་རྫོབ",
+      "skt": "tathya- / mithyā-saṃvṛti",
+      "vi": "chánh thế tục và tà thế tục",
+      "status": "provisional",
+      "kind": "term",
+      "note": "p0756 l.1, the division applied to reflections vs blue. No glossary entry and no corpus precedent (grep found none). Deliberately NOT 'thế tục chân thật / thế tục điên đảo': 'điên đảo' is already the glossary's ཕྱིན་ཅི་ལོག, which is used in the very same sentence for the SUBJECT-side division, and collapsing the two would erase the object/subject parallel the passage is building. 'chánh' here answers to ཡང་དག་ in the Tibetan, so it is not an added qualifier.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "མངོན་སུམ་བཏགས་པ་བ / མངོན་སུམ་མཚན་ཉིད་པ",
+      "skt": "upacāra-pratyakṣa / lakṣaṇa-pratyakṣa",
+      "vi": "hiện lượng theo lối giả lập / hiện lượng đích thực",
+      "status": "provisional",
+      "kind": "term",
+      "note": "p0755 l.1, Candrakīrti's point that consciousness is pratyakṣa only figuratively while the object is pratyakṣa properly. No entry. མཚན་ཉིད་པ rendered 'đích thực' rather than the glossary's provisional མཚན་ཉིད = 'tướng', because 'tướng' would be unreadable here; see flags.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "བྱད་བཞིན",
+      "vi": "khuôn mặt",
+      "status": "provisional",
+      "kind": "term",
+      "note": "p0755 l.3 and p0756, 4×, the face reflected in a mirror, contrasted with གཟུགས་བརྙན = 'ảnh tượng'. No entry.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "འཇིག་རྟེན་ཀུན་རྫོབ་ཀྱི་བདེན་པ",
+      "skt": "lokasaṃvṛtisatya",
+      "vi": "thế tục đế của thế gian",
+      "status": "provisional",
+      "kind": "term",
+      "note": "p0756–p0757, 3×. Compound of the registered ཀུན་རྫོབ = 'thế tục' + བདེན་པ; recorded because the passage distinguishes it from bare ཀུན་རྫོབ་བདེན་པ and the distinction is load-bearing (reflections are not lokasaṃvṛtisatya though they are conventional).",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "འཁྲུལ་པ / འཁྲུལ་བ",
+      "skt": "bhrānti",
+      "vi": "lầm loạn",
+      "status": "provisional",
+      "kind": "gap",
+      "note": "Governing term of the whole chunk (~15×: p0757 l.3 ཐ་སྙད་དུ་འཁྲུལ་བ, དབང་པོའི་ཤེས་པ་རྣམས་འཁྲུལ་པ་ཡིན, མ་འཁྲུལ་བ; p0755–0756 passim). The view has no entry at all. Wording is internally consistent and kept. The ruling must be decided jointly with ཕྱིན་ཅི་ལོག = điên đảo (registered prov), because the two are contrasted inside the same sentences (ཐ་སྙད་དུ་འཁྲུལ་བ vs ཕྱིན་ཅི་མ་ལོག་པ, p0757 l.3) and must stay visibly distinct in Vietnamese.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "སྣང་ཡུལ",
+      "skt": "pratibhāsa-viṣaya",
+      "vi": "cảnh hiển hiện",
+      "status": "provisional",
+      "kind": "term",
+      "note": "FIRST OCCURRENCE IN THE CORPUS (p0764, ×2; the pair with ཞེན་ཡུལ at p0766). No entry in the view. The passage turns on the contrast between the appearing object (where conceptual thought IS mistaken) and the ascertaining mode of apprehension (where it is not), so the two object-terms must stay visibly distinct from each other and from the registered དམིགས་པ = 'sở duyên'. Candidates considered: 'sở hiện cảnh', 'cảnh sở hiện'.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "ཞེན་ཡུལ",
+      "skt": "adhyavasāya-viṣaya",
+      "vi": "cảnh chấp trước",
+      "status": "provisional",
+      "kind": "term",
+      "note": "p0766, first corpus occurrence. Paired in the argument with སྣང་ཡུལ and with འཛིན་སྟངས་ཀྱི་ཡུལ (rendered 'cảnh của cách nắm giữ', following the registered འཛིན་སྟངས = 'cách nắm giữ'). Three object-terms stand within two pages; a ruling should give all three distinct words.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "ལོག་པའི་ཀུན་རྫོབ",
+      "skt": "mithyā-saṃvṛti",
+      "vi": "thế tục sai lầm",
+      "status": "provisional",
+      "kind": "term",
+      "note": "p0764. Paired with ཡང་དག་ཀུན་རྫོབ. Deliberately NOT 'điên đảo', which this same page uses for ཕྱིན་ཅི་ལོག (registered prov) four sentences earlier — collapsing them would destroy the distinction the passage draws between an erroneous CONCEPTION and a false CONVENTIONALITY. Sino-Vietnamese 倒世俗 'đảo thế tục' is the alternative if a compact form is wanted.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "ཡང་དག་ཀུན་རྫོབ",
+      "skt": "tathya-saṃvṛti",
+      "vi": "thế tục chân chánh",
+      "status": "provisional",
+      "kind": "term",
+      "note": "p0764, paired with ལོག་པའི་ཀུན་རྫོབ. 'chân chánh' follows the corpus rendering of ཡང་དག noted in the view; the Sino-Vietnamese 正世俗 'chánh thế tục' is the alternative. Both members of the pair need one ruling together.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "དབང་པོའི་ཤེས་པ / དབང་ཤེས",
+      "skt": "indriya-jñāna",
+      "vi": "thức của căn / căn thức",
+      "status": "provisional",
+      "kind": "term",
+      "note": "p0764, ×4. No entry; the view's དབང་པོ entries are sense-faculty compounds and the deity sense. Rendered with the full form 'các thức của căn' where the Tibetan writes དབང་པོའི་ཤེས་པ and 'căn thức' where it writes the contraction དབང་ཤེས, so the source's own long/short alternation is visible.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "གྲགས་པ (renowned sense)",
+      "skt": "prasiddha",
+      "vi": "quen thuộc",
+      "status": "provisional",
+      "kind": "term",
+      "note": "GAP — the view registers གྲགས་པ only as 'danh tiếng' (fame) and inside personal names. Here it is the technical Madhyamaka 'renowned / established by common consent': འཇིག་རྟེན་ཐམས་ཅད་ལ་གྲགས་པ, གྲུབ་མཐའ་སྨྲ་བ་ཁོ་ན་ལ་གྲགས་པ, ཐོག་མ་མེད་པ་ནས་གྲགས་པའི་དོན, འཇིག་རྟེན་ན་གང་གྲགས (p0763–p0764, 6×). It is the pivot of the whole passage. Deliberately NOT 'thừa nhận', which the view registers for ཁས་བླངས་པ and which occurs in the same sentences.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "ལོག་ཤེས",
+      "skt": "viparyaya-jñāna",
+      "vi": "tà thức",
+      "status": "provisional",
+      "kind": "term",
+      "note": "p0765, ×2, in the rope-snake example. No entry. Kept distinct from ཕྱིན་ཅི་ལོག = 'điên đảo' (registered prov) and from ལོག་རྟོག = 'tà chấp' (glossary), which shares the 'tà' element by design.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "ཁྱད་པར (distinguishing feature sense)",
+      "skt": "viśeṣa",
+      "vi": "sai biệt",
+      "status": "provisional",
+      "kind": "term",
+      "note": "p0766, ×3 (སྡུག་མི་སྡུག་ལ་སོགས་པའི་ཁྱད་པར, incl. inside the Chú Giải Tứ Bách Luận quotation). The view registers ཁྱད་པར only as 'định ngữ' (viśeṣaṇa, the qualifier appended to a negandum, p0706) — a different sense in the immediately preceding chunks, so the two must be kept apart.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "སྡུག་པ / མི་སྡུག་པ (attractive/unattractive)",
+      "vi": "đáng ưa / không đáng ưa",
+      "status": "provisional",
+      "kind": "term",
+      "note": "p0766, ×2 (prose and the Chú Giải Tứ Bách Luận quotation). Deliberately NOT the view's མི་སྡུག་པ = 'sự bất tịnh' (aśubha), which its own note scopes to p0348 as the antidote object for འདོད་ཆགས. Here the pair is what desire and hatred superimpose, so 'bất tịnh' would state the antidote where the text states the cause.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "གཙོ་བོ (principal sense)",
+      "skt": "pradhāna (= chief, not Sāṃkhya prakṛti)",
+      "vi": "cái chủ yếu",
+      "status": "provisional",
+      "kind": "term",
+      "note": "p0766, in the Chú Giải Tứ Bách Luận quotation གཏི་མུག་གཙོ་བོ་ཉིད་ཀྱི་ཕྱིར. COLLISION: the view registers གཙོ་བོ = 'thắng tánh' [pradhāna/prakṛti], the Sāṃkhya principle — and that very sense occurs two pages earlier at p0762 (དབང་ཕྱུག་དང་གཙོ་བོ). Using 'thắng tánh' here would make Āryadeva's commentary say that delusion is the Sāṃkhya prakṛti. A scoped split is needed.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "མངོན་པར་རློམ་པ",
+      "skt": "abhimāna",
+      "vi": "sự tự phụ",
+      "status": "provisional",
+      "kind": "term",
+      "note": "p0765, བདེན་པར་མངོན་པར་རློམ་པ་མེད་པ. Follows the view's རློམ་པ = 'sự tự phụ' (prov, p0268), but see flags: 'tự phụ' reads as conceit/arrogance in Vietnamese and sits awkwardly with 'cho là thật'. Candidates: 'sự khăng khăng cho là thật', 'tăng thượng mạn'.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "དགྲ་བཅོམ་གཉིས",
+      "vi": "hai hạng A-la-hán",
+      "status": "provisional",
+      "kind": "term",
+      "note": "p0765. Rendered without naming which two (Tibetan does not name them either); the reference is to the arhats of the two lower vehicles.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "མུ་སྟེགས",
+      "skt": "tīrthika",
+      "vi": "ngoại đạo",
+      "status": "provisional",
+      "kind": "gap",
+      "note": "p0763 l.3, `མུ་སྟེགས་ཀྱིས་བཏགས་པ་རྣམས` -> 'những thứ do ngoại đạo giả lập'. No headword anywhere in the c227 view. 'ngoại đạo' is the standard Sino-Vietnamese rendering and reads correctly here (the non-Buddhist tenet-holders whose imputations are contrasted with sắc/thanh). Wording KEPT; entry owed.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "དཔྱད་པ / དཔྱོད་པ",
+      "skt": "vicāra / mīmāṃsā",
+      "vi": "thẩm sát",
+      "status": "provisional",
+      "kind": "gap-with-corpus-split",
+      "note": "p0763 l.1, five occurrences in c227 (དཔྱད་ནས, དེ་ལྟར་དཔྱོད་པ་དེས, རང་བཞིན་ཡོད་མེད་དཔྱོད་པའི་རིགས་པའི་དཔྱད་པ, རིགས་པས་དཔྱད་བཟོད, དཔྱོད་དུ་མི་རུང་བ). Bare དཔྱད/དཔྱོད་པ still has no headword. The view's `སོ་སོར་དཔྱོད་པ` note records the corpus rule དཔྱད/དཔྱོད -> 'quán sát' (c083, and དཔྱད་སྒོམ = 'tu theo lối quán sát'), while c125 l.114 (p0410) and c134 render it 'thẩm sát'. c227 follows the c125/c134 side. Wording KEPT — not a violation, since no ruling binds. When the ruling is made, sweep c083, c125, c134 and c227 together. Two collisions the ruling must respect: 'thẩm sát' is already head word of the provisional `ངེས་པར་རྟོག་པ / ངེས་རྟོག` = 'thẩm sát quyết định', and `དཔྱོད་པ` as the fourth ṛddhipāda member is separately registered as 'sự thẩm sát' (p0645). Additionally in c227 `དཔྱད་བཟོད` ('kham nổi sự thẩm sát') depends on whatever word is chosen.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "ཀུན་བརྟགས / ཀུན་བརྟགས་པའི་ངོ་བོ་ཉིད",
+      "skt": "parikalpita / parikalpita-svabhāva",
+      "vi": "biến kế / thể tánh biến kế",
+      "status": "provisional",
+      "kind": "term",
+      "note": "GAP - no entry in the c224 view for any of the three natures. The established Sino-Vietnamese 遍計 'biến kế' is used for the bare ཀུན་བརྟགས; the full 'biến kế sở chấp' was NOT used because the Tibetan short form carries no 'sở chấp'. Governs the whole first half of this chunk (~12x).",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "ཡོངས་གྲུབ",
+      "skt": "pariniṣpanna",
+      "vi": "viên thành thật",
+      "status": "provisional",
+      "kind": "term",
+      "note": "GAP. Established Sino-Vietnamese 圓成實. Third of the triad; must be ruled together with ཀུན་བརྟགས and གཞན་དབང.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "ངོ་བོ་ཉིད་མེད་པ",
+      "skt": "niḥsvabhāva / niḥsvabhāvatā",
+      "vi": "vô thể tánh",
+      "status": "provisional",
+      "kind": "term",
+      "note": "Built on the registered ངོ་བོ་ཉིད = 'Thể tánh' (prov) and ངོ་བོ་ཉིད་མ་མཆིས་པ་ཉིད = 'tánh không có thể tánh'. Deliberately NOT 'vô tự tánh', which is the FIXED rendering of རང་བཞིན་མེད་པ: this passage turns on the two being different words (p0751: 'the lakṣaṇa of lakṣaṇa-niḥsvabhāvatā is svalakṣaṇa or rang bzhin'), so collapsing them would destroy the argument. Also ངོ་བོ་ཉིད་མེད་པ་གསུམ = 'ba [thứ] vô thể tánh'.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "རང་གི་མཚན་ཉིད / རང་གི་མཚན་ཉིད་ཀྱིས་གྲུབ་པ",
+      "skt": "svalakṣaṇa / svalakṣaṇasiddha",
+      "vi": "tự tướng / được thành lập bằng tự tướng",
+      "status": "provisional",
+      "kind": "term",
+      "note": "No entry. 'tự tướng' already has corpus precedent (c182, c184). The compound is the pivot of the whole Svātantrika/Prāsaṅgika discussion here and recurs ~8x; kept distinct from རང་གི་ངོ་བོས་གྲུབ་པ = 'được thành lập bằng thể tánh của chính nó' (c211, c212 precedent).",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "སྤྱན་རས་གཟིགས་བརྟུལ་ཞུགས",
+      "skt": "Avalokitavrata",
+      "vi": "Avalokitavrata",
+      "status": "provisional",
+      "kind": "person",
+      "note": "Author of the ṭīkā on the Prajñāpradīpa, cited p0751. No entry; no established Sino-Vietnamese form. Left in Sanskrit transcription like Kamalaśīla / Śāntarakṣita. The Tibetan is itself a translation (Quán Tự Tại + cấm hạnh: cf. registered སྤྱན་རས་གཟིགས་དབང་ཕྱུག = Quán Tự Tại, བརྟུལ་ཞུགས = cấm hạnh), so a Sino-Vietnamese form is possible if the project prefers it.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "མདོ་སྡེ་པ",
+      "skt": "Sautrāntika",
+      "vi": "phái Kinh Bộ / các vị Kinh Bộ",
+      "status": "provisional",
+      "kind": "term",
+      "note": "No entry for the school name alone; glossary has only the compound མདོ་སྡེ་སྤྱོད་པའི་དབུ་མ་པ = 'Trung Quán Kinh Bộ Hành' (c208). p0754 x1 plus p0753 end.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "བྱེ་བྲག་པ",
+      "skt": "Vaiśeṣika (or Vaibhāṣika)",
+      "vi": "phái Thắng Luận",
+      "status": "provisional",
+      "kind": "term",
+      "note": "p0754, in the Catuḥśatakaṭīkā citation བྱེ་བྲག་པ་ལྟར་རང་གི་སྡེ་པ་རྣམས་ཀྱིས་རྫས་ཀྱི་རྡུལ་ཕྲ་རབ་ཁས་བླང་བར་མི་རིགས་སོ. AMBIGUOUS - see flags. Read as Vaiśeṣika (non-Buddhist) because (a) the full form བྱེ་བྲག་ཏུ་སྨྲ་བ = 'phái Tỳ-bà-sa' is used two lines earlier for the Vaibhāṣikas, so the shorter different form is likely deliberate, and (b) 'rang gi sde pa rnams' (our own schools) needs the compared party to be an outsider. Needs a reader's ruling.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "གཟུང་འཛིན",
+      "skt": "grāhya-grāhaka",
+      "vi": "sở thủ và năng thủ",
+      "status": "provisional",
+      "kind": "term",
+      "note": "p0754, གཟུང་འཛིན་ཆ་མེད = 'những cái vô phần nơi sở thủ và năng thủ'. No entry; the registered འཛིན་པ compounds are all 'chấp' (grasping-at) senses, which does not fit the grāhaka half of this technical pair.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "ཆ་མེད / རྡུལ་ཆ་མེད",
+      "skt": "niravayava / partless",
+      "vi": "vô phần / vi trần vô phần",
+      "status": "provisional",
+      "kind": "term",
+      "note": "p0753-p0754, 3x. No entry. Central to the Sautrāntika/Vaibhāṣika atom discussion.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "རྫས",
+      "skt": "dravya",
+      "vi": "thật thể",
+      "status": "provisional",
+      "kind": "term",
+      "note": "p0753, 6x (རྫས་སུ་མེད་པ, རྫས་སུ་འདོད, རྫས་བརྒྱད, རྫས་ཉིད). No entry for bare རྫས; glossary registers only the compound རྫས་ཡོད = 'thật hữu' (prov, from c210/c211), which I used for རྫས་ཡོད here. 'thật thể' keeps the compound and the simplex visibly related. Kept distinct from དངོས་པོ = 'sự vật'.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "དམིགས་རྐྱེན",
+      "skt": "ālambanapratyaya",
+      "vi": "sở duyên duyên",
+      "status": "provisional",
+      "kind": "term",
+      "note": "Contracted form of the registered དམིགས་པའི་རྐྱེན = 'sở duyên duyên'. p0753 and p0754, 2x. Same Vietnamese; registering the short form so the alternation is not read as drift.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "ཕྱོགས (in ཕྱོགས་སུ་བྱས་ནས)",
+      "skt": "pakṣa",
+      "vi": "tông (lấy … làm tông)",
+      "status": "provisional",
+      "kind": "term",
+      "note": "p0753, inside the Tarkajvālā citation. Follows the registered ཕྱོགས་སྔ་མ = 'tông trước' (pūrvapakṣa). Note the collision with གྲུབ་མཐའ = 'tông nghĩa' and རང་ལུགས = 'tự tông', all in this same chunk.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "བདེན་པར་གྲུབ་པ",
+      "vi": "được thành lập là chân thật",
+      "status": "provisional",
+      "kind": "term",
+      "note": "p0752, the Buddhapālita/Candrakīrti position. No entry. Follows c211's བདེན་དངོས = 'sự vật chân thật'; kept distinct from དོན་དམ་པར་གྲུབ་པ = 'được thành lập trong thắng nghĩa', which stands in the very same sentence as the contrasting Bhāvaviveka position.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "སྦྱོར་བ (conjunction sense)",
+      "vi": "sự kết hợp",
+      "status": "provisional",
+      "kind": "term",
+      "note": "p0753, ཕན་བཏགས་པའི་སྦྱོར་བ་དང་ལྡན་པ - atoms of one kind assisting one another. Deliberately NOT the registered སྦྱོར་བ = 'gia hành' (prayoga), whose own note scopes it to the བསམ་པ་དང་སྦྱོར་བ pair. Third scoped sense.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "མཐར་ཐུག (limit-of-subtlety sense)",
+      "vi": "chỗ tột cùng",
+      "status": "provisional",
+      "kind": "term",
+      "note": "p0753, རྡུལ་ཕྲ་བའི་ཡང་མཐར་ཐུག་པ - the final limit of the subtle. NOT the registered མཐར་ཐུག = 'cứu cánh', whose note scopes it to the fourth member of the four-part karma frame at p0238.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "ཀུན་བརྟགས",
+      "skt": "parikalpita",
+      "vi": "biến kế",
+      "status": "provisional",
+      "kind": "doctrinal term - trisvabhāva",
+      "note": "p0751-p0752, ~10x. No ruling in the c224 view. Rendered 'biến kế' (遍計) consistently; the full form ཀུན་བརྟགས་པའི་ངོ་བོ་ཉིད = 'thể tánh biến kế'. First of the trisvabhāva trio that carries the whole argument of this chunk; needs registering together with the other two.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "རྣལ་འབྱོར་སྤྱོད་པ་པ",
+      "skt": "Yogācāra",
+      "vi": "các vị Du-già Hành",
+      "status": "provisional",
+      "kind": "school name",
+      "note": "p0751, inside the Avalokitavrata quotation. No entry; the view has only རྣལ་འབྱོར -> 'du-già'. Kept distinct from སེམས་ཙམ་པ -> 'các vị Duy Thức' (prov, registered), which Tsongkhapa uses in his own prose in the same passage.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "མ་དྲོས་པས་ཞུས་པ",
+      "skt": "Anavataptanāgarājaparipṛcchā",
+      "vi": "Kinh Vô Nhiệt Não Thưa Hỏi",
+      "status": "provisional",
+      "kind": "title",
+      "note": "p0770 l3, source of the four-pāda verse `གང་ཞིག་རྐྱེན་ལས་སྐྱེས་པ་དེ་མ་སྐྱེས`. No entry in the view and no occurrence anywhere in the translated corpus. མ་དྲོས་པ = Anavatapta (the 'Unheated'), rendered with the established Sino-Vietnamese 無熱惱. The Tibetan short title carries no ནཱ་ག / ཀླུའི་རྒྱལ་པོ, so 'Long Vương' was NOT supplied. Not verified against an existing Vietnamese edition.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "ལང་གཤེགས",
+      "skt": "Laṅkāvatārasūtra",
+      "vi": "Kinh Lăng-già",
+      "status": "provisional",
+      "kind": "title",
+      "note": "p0770 l3, `ཚིག་གསལ་དུ་དྲངས་པའི་ལང་གཤེགས་ལས`. Short form of ལང་ཀར་གཤེགས་པ. No entry in the view; no occurrence in the translated corpus. Established Vietnamese title used. Note this is the first citation of the sūtra and it is cited AT SECOND HAND, through the Prasannapadā — the framing is kept.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "བློ་གྲོས་ཆེན་པོ",
+      "skt": "Mahāmati",
+      "vi": "Đại Tuệ",
+      "status": "provisional",
+      "kind": "proper-noun",
+      "note": "p0770 l3, vocative opening the Laṅkāvatāra quotation. Kept distinct from བློ་གྲོས་དང་ལྡན་པ (p0767 l1) = 'những bậc có trí', the common noun.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "རྣ་བ་དང་སྙིང་མེད་པ",
+      "vi": "kẻ không tai và không tim",
+      "status": "provisional",
+      "kind": "term",
+      "note": "p0769 l3 and p0770 l1 (Yuktiṣaṣṭikāvṛtti). Rendered literally because Tsongkhapa GLOSSES both halves in the very next sentence: རྣ་བ་མེད་པ because the opponent did not hear the word རང་བཞིན, སྙིང་མེད་པ because he got no understanding of its meaning. Any idiomatic rendering ('kẻ ngu muội', 'điếc và vô tâm') would break the gloss. 'tim' rather than 'tâm' so it does not collide with སེམས = tâm. Ruling owed on whether the literal form stands.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "བརྟེན་ནས་སྐྱེ་བ",
+      "vi": "sự sinh do nương tựa",
+      "status": "provisional",
+      "kind": "term",
+      "note": "The pivot of this whole section, ~8× in p0768-p0770, deliberately kept distinct from རྟེན་འབྲེལ / རྟེན་ཅིང་འབྲེལ་བར་འབྱུང་བ / རྟེན་འབྱུང = 'duyên khởi' (registered prov). The section's argument is precisely that བརྟེན་ནས་སྐྱེ་བ is what REFUTES the four-alternative birth, and p0768 l1 puts both words in one sentence (བརྟེན་ནས་སྐྱེས་པའི་རྟེན་འབྲེལ), so a single Vietnamese word for both would make that sentence tautologous. No entry in the view.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "རྫས་སུ་གྲུབ་པ",
+      "skt": "dravyasiddha",
+      "vi": "được thành lập là thật thể",
+      "status": "provisional",
+      "kind": "term",
+      "note": "p0768 l3, paired with རང་གི་མཚན་ཉིད་ཀྱིས་གྲུབ་པ = 'được thành lập bằng tự tướng'. No entry in the view; follows c224's 'thật thể' for རྫས and c222/c223's 'tự tướng'. Also p0768 l3 / p0769 l1 རྫས་ཀྱི་བདག་ཉིད = 'với tự thể là thật thể'.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "རྫས་ཀྱི་བདག་ཉིད",
+      "skt": "dravyātmaka",
+      "vi": "với tự thể là thật thể",
+      "status": "provisional",
+      "kind": "doctrinal term",
+      "note": "p0768 l.3, in the མཚམས་སྦྱོར quotation: རྫས་ཀྱི་བདག་ཉིད་སྐྱེ་བར་འགྱུར་. No headword in the view. Paired with རྫས་སུ་གྲུབ་པ above.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "རང་གི་མཚན་ཉིད་ཀྱིས་གྲུབ་པ",
+      "skt": "svalakṣaṇa-siddha",
+      "vi": "được thành lập bằng tự tướng",
+      "status": "provisional",
+      "kind": "doctrinal term",
+      "note": "p0768 l.3 and p0769 l.1. The view rules only མཚན་ཉིད → \"tướng / định nghĩa\" (prov), which does not reach svalakṣaṇa-siddha. \"tự tướng\" matches established corpus usage (x42 in c2xx). Wording kept; entry owed.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "མོ་གཤམ་བུ",
+      "skt": "vandhyā-putra",
+      "vi": "con của thạch nữ",
+      "status": "provisional",
+      "kind": "simile / stock example",
+      "note": "p0769 l.1, inside the Nhập Trung Luận verse. No headword in the view; matches established corpus usage (x5). Wording kept; entry owed.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "བརྟག་པ་མཐའ་བཟུང",
+      "vi": "lối giả định mà khảo xét",
+      "status": "provisional",
+      "kind": "term",
+      "note": "p0781, བརྟག་པ་མཐའ་བཟུང་གི་སྒོ་ནས་གསུངས་སམ. Also occurs at p0799. No entry. The idiom is 'to hold a position hypothetically, for the sake of examination'; rendered descriptively. A shorter fixed form ('theo lối giả thiết' / 'nói theo giả định') should be chosen.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "མངོན་སུམ་དུ་བྱ་བ",
+      "skt": "sākṣātkaraṇa",
+      "vi": "hiện chứng",
+      "status": "provisional",
+      "kind": "term",
+      "note": "p0783, ×2 (མྱང་འདས་དེ་མངོན་སུམ་དུ་བྱས་པ, འགོག་པའི་བདེན་པ་མངོན་སུམ་དུ་བྱ་དགོས་པ). The view registers མངོན་དུ་གྱུར་པ = 'sự hiện tiền' and མངོན་སུམ = 'hiện lượng' (epistemological); this third form is the act of actualizing, already rendered 'việc hiện chứng' in c219. Recording so the three stay separable.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "རང་བཞིན་གྱི་མཚན་ཉིད",
+      "skt": "svabhāva-lakṣaṇa",
+      "vi": "định nghĩa của tự tánh",
+      "status": "provisional",
+      "kind": "term",
+      "note": "p0781. The registered མཚན་ཉིད = 'tướng' (prov) instructs deciding per occurrence and flagging. Here Candrakīrti's མ་བཅོས་པ / གཞན་ལ་བལྟོས་པ་མེད་པ is the DEFINIENS of svabhāva (MMK XV.2), so 'định nghĩa' was chosen over 'tướng'.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "ཞལ་གྱིས་བཞེས་པ",
+      "vi": "thừa nhận",
+      "status": "provisional",
+      "kind": "term",
+      "note": "p0782 and p0783, honorific of ཁས་ལེན. Rendered with the same plain 'thừa nhận' as ཁས་ལེན / འདོད་པ elsewhere in the chunk; the Tibetan honorific register is not reproduced. Flagged only so the flattening is on record.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "བདག་མེད",
+      "skt": "nairātmya",
+      "vi": "vô ngã",
+      "status": "provisional",
+      "kind": "doctrinal term",
+      "note": "L13/15/17/29/31/33. No headword for bare `བདག་མེད` in the view — only `གང་ཟག་གི་བདག -> cái ngã của bổ-đặc-già-la` (line 221). Wording kept: consistent with that entry and with `ཆོས་ཀྱི་བདག་མེད` -> \"vô ngã của pháp\" and `གང་ཟག་གི་བདག་མེད` -> \"vô ngã của bổ-đặc-già-la\" at L29. Should be registered.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "དཔྱིས་འབྱིན",
+      "skt": "samudghāta / mūlād uddharati",
+      "vi": "nhổ … tận gốc",
+      "status": "provisional",
+      "kind": "doctrinal term",
+      "note": "L18 and L34, `དཔྱིས་ཀྱང་འབྱིན` in the two parallel Madhyamakāvatāra verses. No headword; rendering consistent and technical, recurs. Should be registered.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "སུན་འབྱིན་ལྟར་སྣང",
+      "skt": "dūṣaṇābhāsa",
+      "vi": "cái chỉ tựa như sự phá trừ",
+      "status": "provisional",
+      "kind": "term",
+      "note": "p0771 ×2 (སུན་འབྱིན་ལྟར་སྣང་གི་མཐར་ཐུག་པ). GAP — no headword. Built from the two registered patterns: སུན་འབྱིན (bare) = 'phá trừ' and the descriptive ལྟར་སྣང renderings already in the glossary (ལམ་ལྟར་སྣང = 'cái chỉ tương tự như đạo', ཡོན་ཏན་ལྟར་སྣང = 'cái tựa như công đức'), plus c223's 'những cái chỉ tựa như tỷ lượng' for རྗེས་སུ་དཔག་པ་ལྟར་སྣང. This is the technical pramāṇa-śāstra term for a pseudo-refutation; a ruling should decide whether the whole ལྟར་སྣང family gets one fixed Vietnamese frame.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "མཐར་ཐུག་པ (culmination-of-a-fault sense, in སུན་འབྱིན་ལྟར་སྣང་གི་མཐར་ཐུག་པ)",
+      "skt": "niṣṭhā",
+      "vi": "cái cứu cánh",
+      "status": "provisional",
+      "kind": "term",
+      "note": "p0771 ×2. Uses the registered provisional མཐར་ཐུག = 'cứu cánh', but the sense here is 'the extreme/limiting case of a pseudo-refutation', not the goal-sense of the གནས་སྐབས / མཐར་ཐུག pair. Scope note requested so Phase 5 does not read it as drift.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "དམིགས་ཀྱིས་ཕྱེ་བའི་ལན",
+      "vi": "câu đáp phân biệt riêng từng trường hợp",
+      "status": "provisional",
+      "kind": "term",
+      "note": "p0771 l.1, contrasted with དོན་གྱིས་སོང་བ ('has already followed by implication'). GAP. དམིགས་ཀྱིས་ཕྱེ་བ is the technical 'singled out case by case'; rendered descriptively rather than with a Sino-Vietnamese coinage.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "སྨོན་པ (source spelling of སྨྱོན་པ)",
+      "vi": "người điên",
+      "status": "provisional",
+      "kind": "term",
+      "note": "p0772 l.2, ཁོ་བོ་ཅག་སྨོན་པ་དང་ལྷན་ཅིག་ཏུ་མི་རྩོད་དོ. Same source typo already recorded for p0471 (glossary entry སྨྱོན་པ = 'người điên', note: 'printed in source/clean as སྨོན་པ'). Rendered 'người điên' to match that precedent — see flags.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "དོན་བྱེད་ནུས་པའི་དངོས་པོ",
+      "skt": "arthakriyāsamartha bhāva",
+      "vi": "sự vật có năng lực tác dụng",
+      "status": "provisional",
+      "kind": "term",
+      "note": "p0772 l.1, the second of the two senses of དངོས་པོ, the one NOT negated conventionally. Follows the registered provisional དོན་བྱེད་པའི་ནུས་པ = 'năng lực tác dụng' (p0708) and c223's wording.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "ཁས་བླངས་དངོས་སུ་འགལ་བ",
+      "vi": "mâu thuẫn trực tiếp với điều đã thừa nhận",
+      "status": "provisional",
+      "kind": "term",
+      "note": "p0772 l.2. Uses the registered ཁས་བླངས་པ = 'thừa nhận'; ནོminalised ཁས་བླངས here is the accepted thesis itself, so 'điều đã thừa nhận'.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "སྟོང་མིན / མི་སྟོང་པ",
+      "vi": "cái chẳng phải là không / chẳng không",
+      "status": "provisional",
+      "kind": "term",
+      "note": "p0772–p0773, in the MMK XIII.7 verse and Tsongkhapa's gloss on it, ~6×. GAP. Kept as a plain negation of the glossary's སྟོང་པ་ཉིད = 'tánh không' rather than importing 'bất không', so that the verse's own argument (nothing non-empty ⇒ how could there be the empty) stays visible in the Vietnamese.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "འགོ་མཇུག",
+      "vi": "từ đầu đến cuối",
+      "status": "provisional",
+      "kind": "term",
+      "note": "p0773 l.1, གཞུང་གི་འགོ་མཇུག་ཐམས་ཅད་དུ. GAP, ordinary idiom.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "རྒྱུ་མཚན་ཡང་དག་ཏུ་འགྲོ་བ",
+      "vi": "lý do đi đúng đường",
+      "status": "provisional",
+      "kind": "term",
+      "note": "p0774 l.2. GAP. Rendered literally; the sense is that the stated reason then holds good. རྒྱུ་མཚན = 'lý do' follows the registered རྒྱུ་མཚན་དགུ = 'chín lý do'.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "ཐལ་འགྱུར / རང་རྒྱུད (bare short forms)",
+      "skt": "prāsaṅga / svatantra",
+      "vi": "Ứng Thành / Tự Lập",
+      "status": "provisional",
+      "kind": "term",
+      "note": "p0771 l.4, ཐལ་འགྱུར་དང་རང་རྒྱུད་གང་གིས་གཏན་ལ་འབེབས་པའི་སྐབས. glossary.json registers only the agentive ཐལ་འགྱུར་བ = 'Ứng Thành' and རང་རྒྱུད་པ = 'Tự Lập' (both provisional, both flagged as GAPs at p0696), plus the contraction ཐལ་རང = 'ứng thành / tự lập' lowercase at p0703. Here the bare non-agentive forms name the two methods, not the two schools. Capitalised to match the p0696 entries; a ruling is owed on capitalisation of the method vs the school, since the same chunk-family already has both.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "གནོད་བྱེད (in the sa-bcad གནོད་བྱེད་དུ་མི་རུང་བ)",
+      "vi": "điều làm hại",
+      "status": "provisional",
+      "kind": "term",
+      "note": "Section heading s236 and its opening restatement, p0771. Matched to c220's rendering of the same heading inside the four-fold enumeration ('thì chẳng thể làm điều làm hại được'), NOT to the registered provisional གནོད་བྱེད = 'điều phá bác' (p0687). The two chunks must agree; one ruling should pick one word. c220 also uses 'bị chánh lý làm hại' for རིགས་པས་གནོད་པ throughout, which is why 'làm hại' was preferred here.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "སྨོན་པ (printed form, ཁོ་བོ་ཅག་སྨོན་པ་དང་ལྷན་ཅིག་ཏུ་མི་རྩོད་དོ།, p0772 l.1)",
+      "skt": "unmatta (for the emended སྨྱོན་པ)",
+      "vi": "`སྨོན་པ` retained + bracketed note, translated as \"người điên\" per the སྨྱོན་པ reading",
+      "status": "provisional",
+      "kind": "unruled-emendation",
+      "note": "Second occurrence of this printed spelling in the corpus; c145 (p0469-p0472) hit the identical spelling and handled it the same way, keeping the Tibetan and footnoting the reading. Neither of the view's two provisional entries for སྨོན་པ ([tâm] nguyện in སྨོན་པའི་ཆོ་ག; tâm nguyện in སྨོན་པའི་ཡུལ་དུ་བྱས་ཏེ) covers this sense, and there is no ruling for the emended སྨྱོན་པ = madman sense. What is owed centrally is a corpus policy for this printed form: keep the Tibetan inline with a note (as c145 and now c229 do), or rule a plain rendering. Until then the wording here is deliberately provisional.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "དམིགས་ཀྱིས་ཕྱེ་བ (in དེ་ལ་དམིགས་ཀྱིས་ཕྱེ་བའི་ལན, p0771 l.1)",
+      "vi": "phân biệt riêng",
+      "status": "provisional",
+      "kind": "gap",
+      "note": "No entry in the view. 'Specifically/individually distinguished'. Kept; the added qualifier 'từng trường hợp' was removed.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "དཔྱད་པ",
+      "skt": "vicāra",
+      "vi": "sự thẩm sát",
+      "status": "provisional",
+      "kind": "gap",
+      "note": "No entry in the view. Matches c220's 'sự thẩm sát bằng chánh lý'. Kept deliberately distinct from བརྟག་པ.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "བརྟག་པ",
+      "skt": "parīkṣā",
+      "vi": "sự khảo xét",
+      "status": "provisional",
+      "kind": "gap",
+      "note": "No entry in the view. Kept distinct from དཔྱད་པ = 'sự thẩm sát'; both stand in the same passage (རིགས་པས་གནོད་མི་གནོད་ལ་སོགས་པའི་བརྟག་པ་བྱས་ནས vs དཔྱད་པ་དེ་དག་འཇུག་པ), so the distinction is load-bearing.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "འགོག་པ / དགག་པ (negation sense)",
+      "skt": "pratiṣedha",
+      "vi": "phủ định ~ bác bỏ",
+      "status": "provisional",
+      "kind": "gap",
+      "note": "The view's only འགོག་པ entry is the unrelated nirodha sense ('diệt [đế]', p0402). This chunk uses འགོག་པ ~30× in the negation sense. Wording kept; a ruling is owed on the negation sense and on whether 'phủ định' and 'bác bỏ' split by context (the section heading uses 'bác bỏ' for མུ་བཞི་ག་འགོག་པ).",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "ཁས་བླངས",
+      "skt": "abhyupagama",
+      "vi": "điều đã thừa nhận",
+      "status": "provisional",
+      "kind": "gap",
+      "note": "No entry in the view. p0772 l.1, ཁས་བླངས་དངོས་སུ་འགལ་བ = 'mâu thuẫn trực tiếp với điều đã thừa nhận'.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "ཐལ་འགྱུར / རང་རྒྱུད",
+      "skt": "prasaṅga / svatantra",
+      "vi": "Ứng Thành / Tự Lập",
+      "status": "provisional",
+      "kind": "gap",
+      "note": "No entry in the view, but the rendering matches c208 and c212 verbatim. Registering the pair only; no wording change.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "ཁྱད་གཞི",
+      "skt": "viśeṣya / dharmin (logical sense)",
+      "vi": "cơ sở sai biệt",
+      "status": "provisional",
+      "kind": "term",
+      "note": "p0785 l.3, གཟུགས་སོགས་ཀྱི་ཆོས་འདི་དག་ཁྱད་གཞིར་བྱས་པའི་སྟེང་དུ. GAP — no headword in the view. Deliberately NOT 'hữu pháp', because ཆོས་ཅན = hữu pháp (registered, provisional) occurs four clauses later in the very same paragraph and the two must stay separable. Paired with ཁྱད་ཆོས = 'pháp sai biệt' so the qualificand/qualifier pair is visibly matched.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "ཁྱད་ཆོས (logical sense: qualifier/property)",
+      "skt": "viśeṣaṇa",
+      "vi": "pháp sai biệt",
+      "status": "provisional",
+      "kind": "term",
+      "note": "p0785 l.3, སྟོང་ཉིད ... ཁྱད་ཆོས་སུ་ཡོད་པས. SCOPE REQUEST, not a rewording: glossary registers ཁྱད་ཆོས = 'pháp đặc thù' scoped to p0410 (ཐེག་དམན་ལས་འབྱེད་པའི་ཐེག་ཆེན་གྱི་ཁྱད་ཆོས — the distinguishing feature of the Mahāyāna). Here it is the ontological/logical property standing on a qualificand, and 'pháp đặc thù' does not pair with ཁྱད་གཞི. Requested: 'pháp đặc thù' = distinguishing feature of a vehicle/doctrine; 'pháp sai biệt' = the property in the ཁྱད་གཞི / ཁྱད་ཆོས pair.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "གཉིས་སྣང",
+      "skt": "dvaya-pratibhāsa",
+      "vi": "sự hiện ra thành hai",
+      "status": "provisional",
+      "kind": "term",
+      "note": "p0785 l.3, གཉིས་སྣང་དེ་མ་ལོག་པས. GAP — no entry, and no corpus precedent (grep: no 'nhị hiện'). Rendered descriptively to follow the corpus's སྣང་བ = 'hiện ra'. The established Sino-Vietnamese 'nhị hiện' is shorter and may be preferred; a ruling is owed because the term will recur throughout the vipaśyanā section.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "འཁྲུལ་སྣང",
+      "skt": "bhrānti-pratibhāsa",
+      "vi": "sự hiện ra lầm loạn",
+      "status": "provisional",
+      "kind": "term",
+      "note": "p0785 l.3 and p0786 l.1. GAP. Built from the corpus's settled འཁྲུལ་བ = 'lầm loạn' (c225, c227) plus སྣང་བ = 'hiện ra'.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "བཏགས་པ་བ (of དོན་དམ་བདེན་པ)",
+      "skt": "paryāya-paramārtha (btags pa ba'i don dam)",
+      "vi": "mang tính giả lập",
+      "status": "provisional",
+      "kind": "term",
+      "note": "p0785 l.3, སྟོང་ཉིད་དེ་དོན་དམ་བདེན་པ་བཏགས་པ་བར་འགྱུར་རོ. GAP. This is the technical 'nominal / metaphorical ultimate' as against the actual ultimate; the corpus already renders བཏགས་པ = 'giả lập' (c211, c223, c225, c226), so the adjectival བཏགས་པ་བ was kept in that family. A ruling should decide whether the technical pair paryāya / aparyāya-paramārtha gets fixed Vietnamese wording, since it recurs in this section.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "རྣམ་པར་བཅད་པ",
+      "skt": "vyavaccheda",
+      "vi": "sự loại trừ",
+      "status": "provisional",
+      "kind": "term",
+      "note": "p0786 l.3, སྤྲོས་པ་རྣམ་པར་བཅད་པ་ཙམ་ལ་མི་འཇོག་པར. GAP. Kept plain and distinct from དགག་པ = 'phá bỏ' and from འགོག་པ, both of which occur nearby.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "རང་དབང་དུ་གྲུབ་པ",
+      "vi": "được thành lập một cách tự chủ",
+      "status": "provisional",
+      "kind": "term",
+      "note": "p0786 l.3. Uses the registered རང་དབང = 'tự chủ' (provisional, from p0500-p0502 where it is the agent's autonomy). Here the sense is an object established independently/under its own power, not agency; recorded so the carry-over is deliberate. 'thành lập độc lập' may read better but drops the link to the registered word.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "གློ་བུར་དུ",
+      "skt": "āgantuka",
+      "vi": "bỗng nhiên",
+      "status": "provisional",
+      "kind": "term",
+      "note": "p0784 l.3, twice — in Tsongkhapa's gloss (གློ་བུར་དུ་རང་བཞིན་ཁས་བླངས་པ) and inside the Madhyamakāvatārabhāṣya quotation. GAP: the view registers only གློ་བུར་བ as the contrast term for རང་བཞིན of sentient beings (p0503 note). Here the adverb is the opponent's jibe that the Mādhyamika 'suddenly' concedes a nature; 'bỗng nhiên' keeps that, whereas the doctrinal 'khách trần / ngẫu nhiên' would not.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "གཉིས་སུ་སྨྲ་བ",
+      "vi": "lối nói theo hai bên",
+      "status": "provisional",
+      "kind": "term",
+      "note": "p0785 l.1, སྔར་གཉིས་སུ་སྨྲ་བའི་སྐབས་སུ་བཤད་པ་ལྟར — a back-reference. Follows the wording already used in c216 for the same phrase at p0721/p0723 ('chẳng vượt ra khỏi lối nói theo hai [bên]', 'bác bỏ lối nói theo hai bên có và không'). Recorded so the cross-reference stays findable.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "ཞེན་པ (cognitive adherence, in བདག་གཉིས་སུ་ཞེན་པ)",
+      "vi": "bám chấp",
+      "status": "provisional",
+      "kind": "term",
+      "note": "p0786 l.3. SCOPE REQUEST. The registered ཞེན་པ = 'tham luyến' is scoped by its own note to འཁོར་བ་མཐའ་དག་ལ་ཞེན་པ (craving directed at saṃsāra); here the verb is purely cognitive — clinging to outer and inner dharmas AS the two selves — and 'tham luyến' would positively misdescribe it as desire. 'bám chấp' is already in corpus use (c091, c095, c155, c168, c210, c211).",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "བྱིས་པ་སོ་སོའི་སྐྱེ་བོ",
+      "skt": "bāla-pṛthagjana",
+      "vi": "kẻ phàm phu ấu trĩ",
+      "status": "provisional",
+      "kind": "term",
+      "note": "p0784 l.3, inside the Madhyamakāvatārabhāṣya; the shorter བྱིས་པའི་སྐྱེ་བོ at p0785 l.1 was rendered 'kẻ phàm ấu trĩ'. Compounds the registered སོ་སོའི་སྐྱེ་བོ = 'phàm phu' with the corpus's བྱིས་པ = 'ấu trĩ' (c015, c082, c107).",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "བཏགས་པ་བ",
+      "skt": "prājñapta / prajñapti-sat",
+      "vi": "mang tính giả lập",
+      "status": "provisional",
+      "kind": "gap",
+      "note": "p0785, `སྟོང་ཉིད་དེ་དོན་དམ་བདེན་པ་བཏགས་པ་བར་འགྱུར་རོ` — that emptiness becomes only a NOMINAL/imputed ultimate truth (because dualistic appearance has not yet reversed). No entry for བཏགས་པ or བཏགས་པ་བ in the view. Not a translator error. The term is load-bearing for the two-truths argument running through c230-c240 and should be ruled centrally (candidates: 'giả lập' / 'giả danh'), kept distinct from the already-registered ཐ་སྙད = 'danh ngôn'.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "སྤྱན་རས་གཟིགས",
+      "skt": "Avalokiteśvara",
+      "vi": "Quán Tự Tại",
+      "status": "provisional",
+      "kind": "name",
+      "note": "p0777 l.2, ཤཱ་རིའི་བུས་སྤྱན་རས་གཟིགས་ལ ... — the Heart Sutra dialogue. Absent from the c230 view. Follows the single existing corpus precedent (c206 l.19, 'Này Quán Tự Tại!'), so the two do not diverge. 'Quán Thế Âm' deliberately NOT used: it renders a different Sanskrit form and the corpus already committed to Quán Tự Tại.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "སྨོན་པ་མེད་པ",
+      "skt": "apraṇihita",
+      "vi": "vô nguyện",
+      "status": "provisional",
+      "kind": "term",
+      "note": "p0777 last line, in the triad སྟོང་པ་ཉིད / མཚན་མ་མེད་པ / སྨོན་པ་མེད་པ. 'vô tướng' for མཚན་མ་མེད་པ already has three corpus occurrences; 'vô nguyện' has none and no entry. The sentence runs into c231, so the triad must read identically there.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "བསྒྲུབ་ཏུ་མེད་པ",
+      "skt": "asādhya",
+      "vi": "không thể cứu chữa",
+      "status": "provisional",
+      "kind": "term",
+      "note": "MMK 13.8d, p0775. First occurrence in the corpus; no entry. Literally 'there is no accomplishing [them]'. Rendered with the medical sense that asādhya carries, matching the corpus's existing 'không thể chữa' (c014, c053, c156) — but Tsongkhapa does not gloss the word here, so this is an inference from the Sanskrit, not from the Tibetan on the page. See flags.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "ངེས་པར་འབྱིན་པ",
+      "skt": "niḥsaraṇa",
+      "vi": "sự xuất ly quyết định",
+      "status": "provisional",
+      "kind": "term",
+      "note": "MMK 13.8b, p0775. No entry. Kept literal (ངེས་པར = quyết định, འབྱིན་པ = xuất ly) rather than the freer 'sự trừ khử', because the verse's whole point is that emptiness is the way OUT of views, not a device that destroys them.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "ཞི་བའི་སྒོ་གཉིས་པ་མེད་པ",
+      "skt": "[na] dvitīyaṃ śamadvāram",
+      "vi": "không có cửa thứ hai dẫn đến tịch tĩnh",
+      "status": "provisional",
+      "kind": "term",
+      "note": "p0777, quoted as the contracted pāda ཞི་སྒོ་གཉིས་པ་མེད་པ་དང and then restated in full inside the Catuḥśataka-ṭīkā passage. Registering the phrase so the pāda and its commentarial echo stay identical in Vietnamese; ཞི་བ follows the view's provisional 'tịch tĩnh'.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "ཟླ་མེད་པ",
+      "vi": "vô song",
+      "status": "provisional",
+      "kind": "term",
+      "note": "p0777, ཟླ་མེད་པའི་སྒོ. No entry; 'vô song' is already in corpus use (c004, c051, c056, c168, c213) for the matchless/unrivalled sense.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "གྲོང་ཁྱེར (in མྱ་ངན་ལས་འདས་པའི་གྲོང་ཁྱེར)",
+      "vi": "thành trì",
+      "status": "provisional",
+      "kind": "term",
+      "note": "p0777. Follows c216 l.58, 'thành trì niết-bàn', the only close precedent (c106 l.77 has the shorter 'thành niết-bàn' in a verse).",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "ཞེན་པ (bare, reification sense: དངོས་པོར་ཞེན་པ)",
+      "vi": "chấp trước",
+      "status": "provisional",
+      "kind": "term",
+      "note": "p0776, ཚིག་གསལ་དུའང་སྟོང་ཉིད་ལ་དངོས་པོར་ཞེན་པ་ལ་གསུངས. The view's ཞེན་པ = 'tham luyến' is scoped by its own note to attachment-to-saṃsāra and is positively wrong here; the sense is cognitive reification, identical to མངོན་པར་ཞེན་པ = 'bám chấp', which occurs three times on the same and preceding page. 'chấp trước' keeps the two Tibetan words separable and matches c227's use of 'chấp trước' for the ཞེན family.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "ལུང (sense: a quoted scriptural passage)",
+      "vi": "đoạn … đã dẫn",
+      "status": "provisional",
+      "kind": "term",
+      "note": "p0775, སྔར་རྩ་ཤེའི་ལུང. The view rules ལུང = 'giáo điển' (from ལུང་གིས་ཕྱུག, p0060), which does not fit a back-reference to a specific citation. Rendered 'trong đoạn *Căn Bản Trung Luận* đã dẫn ở trước'. A scoped entry is owed; this citation-back-reference use recurs throughout the Madhyamaka chapters.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "རང་བཞིན་གྱིས་སྟོང་པ",
+      "skt": "svabhāvena śūnya",
+      "vi": "trống rỗng tự tánh",
+      "status": "provisional",
+      "kind": "term",
+      "note": "p0775 ×2, p0777 ×1. Deliberately NOT the FIXED རང་བཞིན་མེད་པ = 'vô tự tánh', because this chunk's entire argument turns on the difference between the negation (རང་བཞིན་མེད་པ) and the emptiness that is that negation (རང་བཞིན་གྱིས་སྟོང་པའི་སྟོང་པ), and both stand in the same sentence. 'trống rỗng tự tánh' has 25 corpus occurrences but no headword.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "སྟོང་པ (bare, without ཉིད)",
+      "skt": "śūnya",
+      "vi": "không",
+      "status": "provisional",
+      "kind": "term",
+      "note": "NO ruling in the view — only སྟོང་པ་ཉིད → 'tánh không' is fixed — so neither rendering in c230 is a violation, and the wording was kept except for the re-quoted MMK line. c230 currently splits: 'trống rỗng' at L13 (སྟོང་པ་མ་ཡིན་པར་འགྱུར), L24 (རང་བཞིན་གྱིས་སྟོང་པའི་སྟོང་པ), L44 (རང་བཞིན་གྱིས་སྟོང་པར), L53 (བདག་གིས་སྟོང་ལྟ་བས); 'không' at L34 (ཕུང་འདི་སྟོང་ཞེས, verse) and L42 (སྟོང་པ་དང་བདག་མེད་པར་བལྟ་བ, paired with vô ngã). RECOMMENDED RULING: bare སྟོང་པ → 'không'. Evidence: c229, the immediately preceding chunk of this same continuous argument, renders it 'không' throughout ('chẳng phải là không', 'chút gì là không', 'cái không', 'không hay chẳng không tự tánh'), including the very MMK line c230 re-cites. This is a corpus-wide sweep (c229/c230 at minimum), not a c230-only edit, which is why the remaining occurrences were left as they stand. Whichever way it goes, the ruling must keep bare སྟོང་པ visibly distinct from སྟོང་པ་ཉིད = 'tánh không', since this chunk's whole argument turns on that contrast (སྟོང་པ་ཉིད་དུ་ལྟ་བ vs རང་བཞིན་གྱིས་སྟོང་པའི་སྟོང་པ).",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "ཞེན་པ (epistemic sense: clinging to emptiness as a thing)",
+      "skt": "abhiniveśa / adhyavasāna",
+      "vi": "chấp trước",
+      "status": "provisional",
+      "kind": "term",
+      "note": "p0776, སྟོང་ཉིད་ལ་དངོས་པོར་ཞེན་པ, at L30. Text kept. The view's prov ཞེན་པ → 'tham luyến' (line 188) is explicitly scoped to affective attachment to saṃsāra (འཁོར་བ་མཐའ་དག་ལ་ཞེན་པ) and would be wrong here, where nothing affective is meant; the compound མངོན་པར་ཞེན་པ → 'bám chấp' (view line 330) is used correctly at L26 for the Buddhapālita passage. 'chấp trước' is therefore a third Vietnamese word for this root with no ruling behind it. A ruling is needed to split the epistemic ཞེན་པ from the affective one — either license 'chấp trước' for the epistemic sense (kept distinct from འཛིན་པ = 'nắm giữ', which occurs several times in the same paragraph), or fold it into 'bám chấp' alongside མངོན་པར་ཞེན་པ.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "ལྟ་བ / བལྟ་བ (verbal, governing an object or a -ར/-དུ complement)",
+      "skt": "√dṛś, paśyati",
+      "vi": "cái thấy / thấy",
+      "status": "provisional",
+      "kind": "term",
+      "note": "Registering the departure from prov ལྟ་བ → 'kiến' (view line 38), which is not recorded in the file. Text kept, because the distribution in c230 is grammatical, not arbitrary: the nominal dṛṣṭi is 'kiến' (L20 ལྟ་ཀུན → 'hết thảy các kiến'; L58 དེ་ཁོ་ན་ཉིད་ཀྱི་ལྟ་བ, genitive-marked noun → 'cái kiến về thật tánh'), while every occurrence that takes a complement is verbal and reads 'thấy' (L24 སྟོང་པ་ཉིད་དུ་ལྟ་བ, རང་བཞིན་གྱིས་སྟོང་ངོ་སྙམ་དུ་ལྟ་བ, དངོས་པོར་ལྟ་བ; L30 སྟོང་པ་ཉིད་དུ་བལྟ་བ་ཙམ; L39 བདག་དང་བདག་མེད་བལྟ་བ་དག; L42 སྟོང་པ་དང་བདག་མེད་པར་བལྟ་བ; L53 བདག་གིས་སྟོང་ལྟ་བས; L60 རང་བཞིན་མེད་པར་བལྟ་བ). On L21 (MMK 13.8, གང་དག་སྟོང་པ་ཉིད་ལྟ་བ) the checker reads a technical noun; the Tibetan is ambiguous, but Tsongkhapa's own gloss in the very next sentence resolves it verbally — སྟོང་པ་ཉིད་དུ་ལྟ་བ་ཞེས་པ, with the -དུ complement — so the verbal reading is the one the commentary licenses and 'cái thấy' was kept. Requested ruling: license 'cái thấy' (nominalised verbal) as the form for ལྟ་བ/བལྟ་བ with a complement, reserving 'kiến' for the bare/genitive-marked noun, so the Phase 5 sweep does not read the split as drift.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "རང་ལུགས་ཀྱི་དགག་བྱ་ངོས་བཟུང་བ",
+      "vi": "Nhận định cái phải phá bỏ theo tự tông",
+      "status": "provisional",
+      "kind": "heading",
+      "note": "Section heading, sectionPath 6.2.3.1.11.2.6.2.1.1.3.2.1.3, first occurrence in the corpus (c231-c233 not yet translated). Uses the registered རང་ལུགས = 'tự tông' and དགག་བྱ = 'cái phải phá bỏ'. ངོས་བཟུང་བ / ངོས་འཛིན has no glossary entry at all; 'nhận định' chosen over 'xác định' (which the corpus already uses for ངེས་པ / གྲངས་ངེས) so the two stay separable. The heading recurs across c234-c237 and in the sibling sa-bcad དགག་བྱ་ངོས་འཛིན་ཁྱབ་ཆུངས་པ་དགག་པ (c231-c233), so one ruling settles seven chunks.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "དངོས་ཀྱི་དོན་དགག་བྱ་ངོས་བཟུང་བ",
+      "vi": "Nhận định cái phải phá bỏ, tức ý nghĩa chính",
+      "status": "provisional",
+      "kind": "heading",
+      "note": "Sub-heading, path …3.2.1.3.1. Follows the established corpus pattern for དངོས་ཀྱི་དོན་X = 'X, tức ý nghĩa chính' (c137 L57, c138 L13, for དངོས་ཀྱི་དོན་གྲངས་ངེས་པ་བསྟན་པ).",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "ཉོན་མོངས་པ་ཡི་སྒྲིབ་པ",
+      "skt": "kleśāvaraṇa",
+      "vi": "phiền não chướng",
+      "status": "provisional",
+      "kind": "term",
+      "note": "GAP. glossary.json registers ཤེས་བྱའི་སྒྲིབ་པ = 'sở tri chướng' (provisional) but not its partner. Rendered as the established Sino-Vietnamese pair so the two members of the MAV verse stay visibly matched; note that the Tibetan writes a genitive (ཉོན་མོངས་པ་ཡི་སྒྲིབ་པ) which 'phiền não chướng' compresses — the same compression the registered སོ་སོ་ཏྲི entry already makes. Occurs 2× at p0788.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "ལོག་པར་འཛིན་པ / ལོག་འཛིན",
+      "skt": "viparītagrāha",
+      "vi": "sự chấp sai lầm",
+      "status": "provisional",
+      "kind": "term",
+      "note": "GAP. p0788, 5× in the Vigrahavyāvartanī verse and its autocommentary. Deliberately NOT the registered ལོག་རྟོག = 'tà chấp' (a different word), and deliberately NOT 'sự chấp điên đảo', because ཕྱིན་ཅི་ལོག་གི་འཛིན་པ and ཡུལ་ཅན་ཕྱིན་ཅི་ལོག occur eight lines later on the same page and are rendered 'sự chấp điên đảo' / 'hữu cảnh điên đảo' per the registered ཕྱིན་ཅི་ལོག = 'điên đảo'. Collapsing them would erase the contrast Tsongkhapa draws between the verse's wording and his own gloss.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "འཁྲུལ་ཤེས",
+      "skt": "bhrāntijñāna",
+      "vi": "thức lầm lạc",
+      "status": "provisional",
+      "kind": "term",
+      "note": "GAP, p0789 (ཡོད་པར་འཛིན་པའི་འཁྲུལ་ཤེས་ལྡོག་པ). No entry. Follows c221's 'hữu cảnh lầm lạc' / 'hiển hiện lầm lạc' for the འཁྲུལ་ family, and keeps 'lầm lạc' apart from ཕྱིན་ཅི་ལོག = 'điên đảo'.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "རིགས་པའི་ཚོགས",
+      "vi": "tập hợp chánh lý",
+      "status": "provisional",
+      "kind": "term",
+      "note": "p0787, རིགས་པའི་ཚོགས་རྒྱ་ཆེ་བ. GAP. The registered ཚོགས = 'tư lương' (saṃbhāra) would misread it, and the second, scoped ཚོགས = 'các việc' (assembly sense, p0468) does not fit either. Note this may be the proper name of Nāgārjuna's rigs tshogs (Collection of Reasonings) rather than a common noun; the modifier རྒྱ་ཆེ་བ made a common-noun reading likelier, so it was translated rather than treated as a title. See flags.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "དྲང་དུ་མི་རུང་བ",
+      "vi": "chẳng khả dĩ dẫn về [nghĩa khác]",
+      "status": "provisional",
+      "kind": "term",
+      "note": "p0787, དེའི་དོན་གཞན་དུ་དྲང་དུ་མི་རུང་བ — i.e. cannot be interpreted as neyārtha. Uses the provisional རུང་བ = 'khả dĩ' (tenable sense) already recorded from p0709-p0710. The verbal འདྲེན་པ/དྲང་བ in the neyārtha sense has no entry; 'dẫn về nghĩa khác' keeps the link to the registered དྲང་དོན.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "འགལ་འདུའི་བབ་ཅོལ་སྨྲ་བ",
+      "vi": "lời nói càn bậy chứa đầy mâu thuẫn",
+      "status": "provisional",
+      "kind": "term",
+      "note": "p0790. No entry for བབ་ཅོལ; 'càn bậy' follows c032's 'lời càn bậy'. འགལ་འདུ (self-contradiction) has no entry.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "ལྷ་སྦྱིན / ལྷས་བྱིན",
+      "skt": "Devadatta",
+      "vi": "Devadatta",
+      "status": "provisional",
+      "kind": "name",
+      "note": "p0789-p0790, the standard Vigrahavyāvartanī 'Devadatta is not in the house' example. Uses the provisional ལྷས་བྱིན = 'Devadatta' recorded from p0216. NOTE: the source writes ལྷས་བྱིན once and ལྷ་སྦྱིན four times within the same sentence — see flags.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "སྒྱུ་མའི་སྐྱེས་བུ",
+      "skt": "māyāpuruṣa",
+      "vi": "người huyễn hóa",
+      "status": "provisional",
+      "kind": "term",
+      "note": "p0790. Uses the registered སྒྱུ་མ = 'huyễn hóa' (provisional, p0334-p0335). Kept distinct from སྤྲུལ་པ, rendered 'hóa hiện' throughout this chunk.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "སྤྲུལ་པ (noun, an emanated being)",
+      "skt": "nirmita",
+      "vi": "[thân] hóa hiện / (người nữ) hóa hiện",
+      "status": "provisional",
+      "kind": "term",
+      "note": "p0788, 6×. The only registered form is སྤྲུལ = 'vật biến hóa' (provisional, p0502 BCA verse སྤྲུལ་ལྟ་བུའི་དངོས་པོ), which is scoped to a 'thing'. Here the emanation is a person (an emanated woman, and an emanation produced by a tathāgata), so 'vật' would be wrong; 'hóa hiện' has 12 corpus occurrences as the verb (c028, c054). A ruling should cover the noun.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "བྱིས་པ་སྐྱེ་བོ",
+      "skt": "bāla-jana",
+      "vi": "kẻ ngu, tức hạng người [bị vô minh làm mê muội]",
+      "status": "provisional",
+      "kind": "term",
+      "note": "p0790. Compound of two separately-provisional entries (བྱིས་པ = 'kẻ ngu', སྐྱེ་བོ = 'người / hạng người'). Rendered as an apposition rather than a single word so both members remain traceable.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "སྒྲོ་འདོགས",
+      "skt": "samāropa",
+      "vi": "sự gán đặt (as written; a ruling is needed — 'tăng ích' is the standard rendering)",
+      "status": "provisional",
+      "kind": "gap + collision with a registered provisional",
+      "note": "L43, p0789 l.1, ཡོད་པར་འཛིན་པའི་སྒྲོ་འདོགས. No ruling for སྒྲོ་འདོགས in the view, so the wording is KEPT. But it collides inside this one chunk with prov སྒྲོ་བཏགས -> 'sự gán đặt' (p0309/p0310), which this chunk itself uses at L52 for སྒྲོ་བཏགས་པ (p0790 l.1): two distinct Tibetan words on one Vietnamese. One ruling should settle both; note 'tăng ích' appears nowhere in translation/ yet, so adopting it would be a clean split rather than a sweep.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "དཔྱོད་པ / དཔྱད་པ (bare)",
+      "vi": "thẩm sát (L56) vs khảo xét (L56, three lines on)",
+      "status": "provisional",
+      "kind": "gap + internal split; ruling must sweep, not patch this chunk",
+      "note": "p0790 l.3: དགག་སྒྲུབ་ཀྱི་རིགས་པའི་དཔྱོད་པ -> 'thẩm sát' and དགག་སྒྲུབ་ཀྱི་དཔྱད་པ -> 'khảo xét', same phrase frame, one paragraph. The view's own prov དཔྱོད་པ -> 'thẩm sát' entry already records the corpus as split c083 ('quán sát') vs c125/c134 ('thẩm sát') and asks for a single ruling; 'khảo xét' is a third form in use across ~20 chunks. Left as written — patching c234 alone would only deepen the split. Constraint from the existing note: the chosen word must not be one already carrying རྟོག་པ's sense, and 'thẩm sát' is already the head word of prov ངེས་པར་རྟོག་པ / ངེས་རྟོག.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "ལྷ་སྦྱིན (p0790 l.1) / ལྷས་བྱིན (p0789 l.1)",
+      "skt": "Devadatta",
+      "vi": "Devadatta",
+      "status": "provisional",
+      "kind": "gap — proper noun, wording kept",
+      "note": "No entry in the view. Consistent with the single corpus precedent c068 l.13 ('Devadatta', beside 'Yajñadatta'), so KEPT. Orthographic note for the entry: the source spells the first occurrence ལྷས་བྱིན and the rest ལྷ་སྦྱིན — a genuine variant of the same name, not a typo, so no text change is warranted, but the entry should record both spellings.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "སྐྱེས་བུ (bare)",
+      "skt": "puruṣa",
+      "vi": "người (in སྒྱུ་མའི་སྐྱེས་བུ 'người huyễn hóa', སྐྱེས་བུ་ཡང་དག་པའི་ངོ་བོ 'thể tánh chân thật của người'); có người nào đó (སྐྱེས་བུ་ཁ་ཅིག, L39)",
+      "status": "provisional",
+      "kind": "gap the view's own entry predicts — formal departure from a prov, wording kept",
+      "note": "L39 and L52 (p0789 l.1, p0790 l.1). The view carries prov སྐྱེས་བུ -> 'bậc trượng phu', but that entry's note states there is NO RULING for the bare word and itself flags 'trượng phu' as re-importing a heroic/masculine gloss the Tibetan lacks. In the māyā simile the referent is the illusory *man*, and in སྐྱེས་བུ་ཁ་ཅིག simply 'someone', so 'người' is the better reading. KEPT; a ruling for the bare word would settle this together with the p0139/p0213/p0441/p0524 occurrences the entry lists.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "བྱང་ཆུབ་ཀྱི་ཚོགས (as a cited text title)",
+      "skt": "Bodhisaṃbhāraka",
+      "vi": "Bồ-đề Tư Lương",
+      "status": "provisional",
+      "kind": "title",
+      "note": "p0778 l.1, inside the Catuḥśatakaṭīkā quotation: བྱང་ཆུབ་ཀྱི་ཚོགས་ལས ... ཞེས་བཤད་དོ. The view registers བྱང་ཆུབ་ཀྱི་ཚོགས only as the common noun 'tư lương bồ-đề' (bodhisaṃbhāra, p0072 Ratnamegha). Here it names Nāgārjuna's treatise. Rendered as the title *Bồ-đề Tư Lương* (word order inverted from the common-noun entry so the two are visibly different). No corpus precedent — grep finds no prior occurrence of this title in translation/. A ruling is owed on whether to add 'Luận'.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "ཁྱབ་བྱེད",
+      "skt": "vyāpaka",
+      "vi": "cái bao trùm",
+      "status": "provisional",
+      "kind": "term",
+      "note": "p0779 l.1, དེ་དག་ནི་ཁྱབ་བྱེད་ཀྱི་ངོས་ནས་སྐྱོན་བརྗོད་པ་ཡིན་གྱི. GAP — no entry, no corpus occurrence. Chose 'cái bao trùm' over the standard Sino-Vietnamese 能遍 'năng biến' deliberately: the argument turns on the link with the pot analogy two sentences later (བུམ་པ་ལ་མི་རྟག་པས་ཁྱབ = 'cái bình bị vô thường bao trùm'), and with the section heading pair ཁྱབ་ཆེས་པ / ཁྱབ་ཆུངས་པ ('quá rộng' / 'quá hẹp', c211). 'năng biến' would break that link and also sits one syllable from 'biến kế' (ཀུན་བརྟགས), which occurs in this same chunk. The partner ཁྱབ་བྱ (vyāpya) occurs later in the book (p0862-ish, ཁྱབ་བྱེད་ཁེགས་པས་ཁྱབ་བྱ་ཡང་ཁེགས་པ) and should be ruled at the same time ('cái bị bao trùm' / 'sở biến').",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "རྣམ་འཇོག",
+      "vi": "sự an lập",
+      "status": "provisional",
+      "kind": "term",
+      "note": "p0778 l.5, རྣམ་འཇོག་གཞན་ལ་མི་ལྟོས་པའོ — the third of the opponent's three characteristics of svabhāva. Contracted form of རྣམ་པར་འཇོག་པ; rendered with the corpus's 'an lập' (75 occurrences) used for རྣམ་གཞག / རྣམ་པར་བཞག་པ. Registered only so the contracted form is on record.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "ཡང་དག་པར་གྲུབ་པ",
+      "vi": "thành lập một cách chân chánh",
+      "status": "provisional",
+      "kind": "term",
+      "note": "p0779 l.3, in the triad དོན་དམ་པར་[གྲུབ་པ] / ཡང་དག་པར་གྲུབ་པ / བདེན་པར་གྲུབ་པ. GAP. The other two follow the corpus: དོན་དམ་པར་གྲུབ་པ = 'thành lập trong thắng nghĩa' (c211-c227, 7×), བདེན་པར་གྲུབ་པ = 'thành lập là chân thật' (c224). The middle member needed a third distinct word; 'chân chánh' follows the existing houseStyle-note rendering of ཡང་དག་པར. All three must stay separable because the sentence enumerates them as three separate designations.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "ལྟོ་ལྡིར་བ",
+      "vi": "vật có bụng phình",
+      "status": "provisional",
+      "kind": "term",
+      "note": "p0780 l.1, ལྟོ་ལྡིར་བ་དེའི་དོན་དུ་བཞག་དགོས་པ — the standard definition-word for བུམ་པ in the pot/impermanence analogy. No entry, no corpus occurrence. Rendered descriptively; a shorter fixed form ('bụng phình') may be preferable if it recurs.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "ཀུན་བརྟགས (contrasted with ལྷན་སྐྱེས)",
+      "skt": "parikalpita",
+      "vi": "biến kế",
+      "status": "provisional",
+      "kind": "term",
+      "note": "p0780 l.3, ཀུན་བརྟགས་ཀྱི་འཛིན་པའི་ཡུལ་རྣམས, standing against ལྷན་སྐྱེས་ཀྱི་མ་རིག་པ = 'vô minh câu sinh' (the view's ལྷན་སྐྱེས = 'câu sinh'). Wording follows the corpus (c219, c223, c224: 'biến kế', 'biến kế sở chấp'), but every corpus occurrence is the trisvabhāva sense (parikalpita vs paratantra); this is the acquired-vs-innate sense of the afflictions, a different technical pairing. Note the standard Vietnamese alternative '[khởi bởi] phân biệt' is blocked, because the view already fixes རྟོག་པ = 'phân biệt'.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "རྟག་གཅིག་རང་དབང་ཅན་གྱི་བདག",
+      "vi": "cái ngã thường, nhất, tự chủ",
+      "status": "provisional",
+      "kind": "term",
+      "note": "p0780 l.3. The standard tīrthika ātman formula. Uses the view's རང་དབང = 'tự chủ' (p0500-p0502). No entry for the formula as a unit; registering it so the three adjectives are not re-decided later.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "འཕངས་པ (hurling a consequence)",
+      "vi": "nêu ra",
+      "status": "provisional",
+      "kind": "term",
+      "note": "p0779 l.1, ...འགྱུར་དགོས་སོ་ཞེས་འཕངས་པ་ནི་དབུ་མའི་གཞུང་རྣམས་སུ་དུ་མ་ཞིག་ཡོད. GAP. The verb is the technical one for flinging a thal-'gyur consequence at an opponent. Rendered plainly as 'nêu ra' because the corpus has no established word and a stronger rendering ('tung ra nghịch lượng', 'phóng ra hệ quả') would supply 'consequence', a word the Tibetan leaves implicit here.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "སུན་འབྱིན་པ / སུན་དབྱུང (this passage)",
+      "skt": "dūṣaṇa",
+      "vi": "phá trừ",
+      "status": "provisional",
+      "kind": "scope-request",
+      "note": "p0778 l.1 (ཡུལ་དེ་སུན་དབྱུང) and p0780 l.3 (×2). NOT a new headword — a request to close the split the view already records. glossary.json now carries three divergent provisional renderings for this verb: 'phá trừ' (bare form, c094), 'bài xích' (p0337, graded-triad sense), 'đả phá' (p0350). All three occurrences here are the same verb in one argument, so one word had to be used; chose 'phá trừ', which is what c2xx already uses 11× and which the bare-form entry names. The chunk cannot be internally consistent AND consistent with all three entries at once.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "བྱང་ཆུབ་ཀྱི་ཚོགས (as the title of Nāgārjuna's śāstra)",
+      "skt": "Bodhisaṃbhāraka",
+      "vi": "Bồ-đề Tư Lương",
+      "status": "provisional",
+      "kind": "cited-title",
+      "note": "p0778 l.1, བྱང་ཆུབ་ཀྱི་ཚོགས་ལས། … ཞེས་བཤད་དོ (c231 L11). The view carries only 'prov བྱང་ཆུབ་ཀྱི་ཚོགས -> tư lương bồ-đề [bodhisaṃbhāra]', which is the concept, not the book. decisions.md requires one fixed Vietnamese title per cited text, decided at first occurrence. Wording kept. Note the title deliberately reverses the word order of the concept entry (Bồ-đề Tư Lương vs tư lương bồ-đề) — that is a title/concept distinction, not drift, and the ruling should say so explicitly so a later sweep does not collapse the two.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "དབུ་མའི་རྩ་བ",
+      "skt": "Mūlamadhyamakakārikā",
+      "vi": "Trung Luận",
+      "status": "provisional",
+      "kind": "cited-title",
+      "note": "p0779 l.1, དེ་ཡང་དབུ་མའི་རྩ་བ་ལས། (c231 L24), introducing MMK XV.1-2. The view has no headword for དབུ་མའི་རྩ་བ at all — only དབུ་མ -> 'Trung Quán' and དབུ་མ་པ -> 'các vị Trung Quán'. 'Trung Luận' is the established Sino-Vietnamese title and is kept; it needs fixing centrally, and the ruling should also cover the fuller form དབུ་མ་རྩ་བའི་ཤེས་རབ if it occurs later in the vipaśyanā section.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "སྟོང་པ (bare adjective/noun, not སྟོང་པ་ཉིད)",
+      "skt": "śūnya",
+      "vi": "trống rỗng",
+      "status": "provisional",
+      "kind": "sense-split",
+      "note": "p0778 l.1: རང་བཞིན་མེད་པས་སྟོང་ལ་སྟོང་པ་ནི (Bodhisaṃbhāraka verse, c231 L13) and རང་བཞིན་གྱིས་སྟོང་པར་བལྟ་བའི་ལྟ་བ (c231 L20). The view fixes only སྟོང་པ་ཉིད -> 'tánh không'; the bare form is unruled. Rendered 'trống rỗng' consistently across the verse and the prose that follows, deliberately kept distinct from the fixed 'tánh không'. A ruling is owed because the choice between 'trống rỗng' and 'không' on the bare adjective recurs on nearly every page of the remaining vipaśyanā section.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "རིགས་པ (predicative, in རིགས་པ་མ་ཡིན)",
+      "skt": "yukta / na yujyate",
+      "vi": "chẳng hợp lý",
+      "status": "provisional",
+      "kind": "sense-split",
+      "note": "MMK verse at p0779 l.1, འབྱུང་བར་རིགས་པ་མ་ཡིན་ནོ (c231 L27). The view registers only the nominal sense — prov རིགས་པ -> 'chánh lý' [yukti], and ལུང་དང་རིགས་པ -> 'giáo điển và chánh lý' (used correctly at c231 L20) — while the རུང་བ entry notes that 'hợp lý' is the corpus rendering of འཐད་པ. So the predicative རིགས་པ and འཐད་པ now both land on 'hợp lý'. Wording kept (the nominal 'chánh lý' is unusable predicatively), but the sense split and the collision with འཐད་པ should be registered together, alongside the existing རུང་བ -> 'khả dĩ' ruling that already sits in this cluster.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "འགོག་པ / དགག་པ (verb)",
+      "skt": "pratiṣedha / nirodha (here: negation, refutation)",
+      "vi": "phá bỏ",
+      "status": "provisional",
+      "kind": "verb-drift",
+      "note": "Three renderings inside c231, all contextually defensible, because the view fixes only the noun དགག་བྱ -> 'cái phải phá bỏ' and lists འགོག་པ only in its nirodha sense ('diệt [đế]', p0402): 'ngăn dứt' at L20 (བཟང་རྟོག་དང་ངན་རྟོག་གང་ཡིན་ཀྱང་འགོག་ན, p0778 l.1 — a meditator suppressing conceptions, not refuting a thesis); 'phá bỏ' at L37 (དགག་པར་བྱ་དགོས, p0779 l.1 — the Mādhyamika refuting an assertion, matching the registered noun); 'phủ định' at L41 (གང་ཟག་གི་བདག་འགོག་པ་ན / ཆོས་ཀྱི་བདག་འགོག་པ་ན, p0780 l.1 — negating a self). All kept, since no ruling exists. A ruling is owed on the philosophical sense: suggest 'phá bỏ' as the single verb, so it matches the fixed noun དགག་བྱ, with the meditative-suppression sense at L20 split off explicitly. Note also that 'phủ định' at L41 stands in the same sentence as སུན་འབྱིན་པ -> 'phá trừ' (licensed by the view), so those two verbs are currently distinguished only by accident.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "བཟློག་ཕྱོགས",
+      "vi": "phía đối nghịch",
+      "status": "provisional",
+      "kind": "term",
+      "note": "p0794 l.1, twice: མ་རིག་པ་ནི་རིག་པའི་བཟློག་ཕྱོགས་ཡིན and དེའི་བཟློག་ཕྱོགས. GAP. Deliberately kept one word apart from the registered འགལ་ཟླ = 'cái đối nghịch' (prov, p0314), because both stand in the SAME sentence here (དེའི་འགལ་ཟླ་འཛིན་པའོ) and must remain separable.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "རིགས་པའི་ཚོགས (in ཀླུ་སྒྲུབ་ལ་སོགས་པའི་རིགས་པའི་ཚོགས)",
+      "vi": "tập hợp các chánh lý",
+      "status": "provisional",
+      "kind": "term",
+      "note": "p0791 l.1. GAP. Rendered descriptively; the registered ཚོགས = 'tư lương' (saṃbhāra) would misread it, and the view's second scoped sense ཚོགས = 'các việc' does not fit either. A ruling is owed on whether this names Nāgārjuna's Yukti corpus (rigs tshogs) as a title-like collection or is a plain common noun - see flags.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "མི་སྐྱེ་བའི་ཆོས་ལ་བཟོད་པ",
+      "skt": "anutpattikadharmakṣānti",
+      "vi": "vô sinh pháp nhẫn",
+      "status": "provisional",
+      "kind": "term",
+      "note": "p0792 l.3, inside the Catuḥśataka-ṭīkā quotation. No entry and no corpus occurrence. Contains the fixed བཟོད་པ = 'nhẫn'; the established Sino-Vietnamese compound was preferred over a literal 'nhẫn nơi pháp vô sinh'.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "ཉོན་མོངས་པ་ཅན་གྱི་མི་ཤེས་པ",
+      "skt": "kliṣṭa-ajñāna",
+      "vi": "vô tri mang tánh phiền não",
+      "status": "provisional",
+      "kind": "term",
+      "note": "p0792 l.3, inside the Catuḥśataka-ṭīkā quotation. Uses the view's ཉོན་མོངས་ཅན = 'mang tánh phiền não'; མི་ཤེས་པ = 'vô tri' is a GAP. Kept distinct from ཉོན་མོངས་ཅན་གྱི་མ་རིག་པ = 'vô minh mang tánh phiền não' (registered), which occurs on p0793 in the same argument - the two must stay separable.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "གཙོ་བོའི་རྒྱུ",
+      "vi": "nhân chính yếu",
+      "status": "provisional",
+      "kind": "term",
+      "note": "p0793 l.1, གཙོ་བོའི་རྒྱུ་གཉིས་མེད་པའི་ཕྱིར. GAP. Deliberately NOT the view's གཙོ་བོ = 'thắng tánh' (pradhāna/prakṛti, the Sāṃkhya principle at p0208), which would be positively wrong here.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "བྱེ་བྲག (contrasted with སྤྱི)",
+      "vi": "cái đặc thù",
+      "status": "provisional",
+      "kind": "term",
+      "note": "p0794 l.1, མ་རིག་པ་སྤྱི་དང་འཇིག་ལྟ་བྱེ་བྲག. Paired with the view's སྤྱི = 'cái tổng quát' (prov), so given the matching form.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "ཆོས་ཀྱི་བདག་ཏུ་སྒྲོ་འདོགས་པ / ཆོས་ཀྱི་བདག་འཛིན",
+      "skt": "dharmātma-samāropa / dharmātmagraha",
+      "vi": "sự gán đặt thành ngã của pháp / cái chấp ngã của pháp",
+      "status": "provisional",
+      "kind": "term",
+      "note": "p0794 l.1. Built from the view's གང་ཟག་གི་བདག = 'cái ngã của bổ-đặc-già-la' so the two members of the pair are parallel in Vietnamese as they are in Tibetan. The compact 'pháp ngã' (c135) was avoided because the sentence sets ཆོས་ཀྱི་བདག against གང་ཟག་གི་བདག explicitly.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "སྤྱོད་ངོ (in འཇིག་རྟེན་རྣམས་ཀྱི་སྤྱོད་ངོར)",
+      "vi": "trước hành vi của",
+      "status": "provisional",
+      "kind": "term",
+      "note": "p0791 l.3, inside the Prasannapadā verse. GAP; rendered literally. Kept distinct from སྤྱོད་ཡུལ = 'hành cảnh' (registered), which occurs in the Catuḥśataka verse two paragraphs later.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "རིགས་པ་དམ་པ",
+      "vi": "chánh lý tối thắng",
+      "status": "provisional",
+      "kind": "term",
+      "note": "p0791 l.1. Follows the view's adjectival དམ་པ = 'tối thắng' (p0359) rather than its དམ་པ = 'chân chánh' (c142), because 'chánh lý chân chánh' doubles 'chánh'. See flags - the two དམ་པ rulings need reconciling.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "ཉེས་སྐྱོན",
+      "skt": "doṣa",
+      "vi": "lỗi hại",
+      "status": "provisional",
+      "kind": "gap + collision",
+      "note": "p0791 l.3, 3x (ཉེས་སྐྱོན་ཐམས་ཅད་ཀྱི་རྩ་བར / ཉེས་སྐྱོན་ཐམས་ཅད་ལྡོག་པར / ཉེས་སྐྱོན་ཐམས་ཅད་ཀྱི་གཞི). No headword in the view; wording KEPT per the gap rule. A ruling is owed on the PAIR, because the view's note at line 186 already renders the different word ཉེས་དམིགས (ādīnava) as 'lỗi hại' too, so a Phase-5 sweep will see two distinct Tibetan terms on one Vietnamese word. Suggested split: ཉེས་དམིགས = 'lỗi hại' (the settled one) / ཉེས་སྐྱོན = 'lỗi lầm' or 'tội lỗi'. Not changed here because either member of the pair could move, and only a central ruling can decide which.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "མདོ་ཡི་སྡེ",
+      "skt": "sūtrānta (in the navāṅga-śāsana list)",
+      "vi": "khế kinh",
+      "status": "provisional",
+      "kind": "gap",
+      "note": "p0791 verse, `སངས་རྒྱས་རྣམས་ཀྱི་མདོ་ཡི་སྡེ་སོགས`. No headword for མདོ་སྡེ / མདོ་ཡི་སྡེ; the only མདོ mentions in the view are inside the Samādhirāja title notes (lines 80/82). Wording kept. The ruling should be taken together with the ཆོས fixed-set and the registered མདོ forms, and should say whether the navāṅga member is 'khế kinh' or plain 'kinh'.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "སུན་འབྱིན་པ / སུན་དབྱུང་བ / སུན་ཕྱུང་བ (object = the mode of apprehension or object of ignorance)",
+      "skt": "dūṣaṇa",
+      "vi": "phá trừ",
+      "status": "provisional",
+      "kind": "term",
+      "note": "p0795 l.3, p0798 l.1 (×3). The glossary view carries three divergent provisional renderings for this root — 'phá trừ' (c094), 'bài xích' (p0337, graded triad), 'đả phá' (p0350) — and asks for a ruling. Here the operation is the central technical one of the whole section (rigs pas 'dzin stangs sun dbyung ba). 'phá trừ' chosen because the immediately preceding verified chunk c227 renders exactly this collocation ('chánh lý phá trừ cách nắm giữ của vô minh') that way, so the two chunks read as one argument. The owed ruling should cover this sense explicitly.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "མཚམས་སྦྱོར (transitional passage introducing a chapter of a commentary)",
+      "vi": "đoạn nối tiếp dẫn vào [phẩm …]",
+      "status": "provisional",
+      "kind": "term",
+      "note": "p0796 l.1, ×2 (རབ་བྱེད་ཉེར་དྲུག་པའི་མཚམས་སྦྱོར་དུ / རབ་བྱེད་ཉེར་བདུན་པའི་མཚམས་སྦྱོར་དུའང). GAP — no entry. Corpus has མཚམས་སྦྱོར only inside ཉིང་མཚམས་སྦྱོར་བ = 'kết sinh' (rebirth-linking), a wholly different sense that must stay separate.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "བུད་དྷ་པཱ་ལི་ཏ (as the title of the commentary)",
+      "vi": "*Buddhapālita*",
+      "status": "provisional",
+      "kind": "title",
+      "note": "p0795 l.3. Kept in transcription, following c210 and c218 which already cite the work this way. Distinct from the person སངས་རྒྱས་བསྐྱངས = Phật Hộ (registered), which occurs in this same chunk at p0796 l.1 — both forms stand within fifteen lines of each other here, so the split is load-bearing.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "བློ་གྲོས (in བློ་གྲོས་ཀྱི་མིག)",
+      "skt": "mati",
+      "vi": "con mắt của trí",
+      "status": "provisional",
+      "kind": "term",
+      "note": "p0796 l.1. GAP. Deliberately NOT 'trí tuệ', because ཤེས་རབ་ཀྱི་མིག = 'con mắt trí tuệ' occurs three lines later in the same Buddhapālita citation and the two must stay visibly apart. Follows the glossary's provisional བློ = 'cái trí'.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "སྒྲུབ་བྱེད",
+      "skt": "sādhana",
+      "vi": "cái năng lập",
+      "status": "provisional",
+      "kind": "term",
+      "note": "p0797 l.1, སྒྲུབ་བྱེད་ཆེན་པོ. No entry. 'năng lập' is attested once in the corpus (c207, ཚད་མ་སྒྲུབ་བྱེད); kept for the technical proof sense rather than a loose 'chứng cứ'.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "ལོན་པ",
+      "vi": "cây",
+      "status": "provisional",
+      "kind": "term",
+      "note": "p0798 l.1, རྩ་བ་ཆད་པའི་ལོན་པ་ལྟར = 'như cây bị chặt đứt gốc rễ'. No entry; matches the corpus's ཙནྡན་ལོན་པ = 'cây chiên-đàn'.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "དམིགས་ཕྱེད་པར་རྙེད་པ",
+      "vi": "đạt được … một cách phân định rõ ràng",
+      "status": "provisional",
+      "kind": "term",
+      "note": "p0798 l.1, ངེས་པ་དམིགས་ཕྱེད་པར་རྙེད་པ. Follows the corpus rendering of དམིགས་ཕྱེད་པར་བྱས་ནས = 'phân định rõ [làm đối tượng]' (c158, c165, c216). ངེས་པ uses the registered 'sự xác quyết'.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "རྣམ་པ (in ལྟ་བའི་རྣམ་པ, sense: kinds/varieties)",
+      "vi": "các loại [kiến]",
+      "status": "provisional",
+      "kind": "term",
+      "note": "p0796 l.1, ལྟ་བའི་རྣམ་པ་མི་སྲིད་པ — Buddhapālita's introduction to MMK ch. 27, which enumerates the varieties of wrong view. The glossary rules རྣམ་པ = 'hành tướng' [ākāra] and its own note already records a collision with འཛིན་སྟངས; 'hành tướng của kiến' would be positively wrong here. Scoped sense needed.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "དབང་ཤེས",
+      "skt": "indriyajñāna",
+      "vi": "căn thức",
+      "status": "provisional",
+      "kind": "term",
+      "note": "p0798 l.1. No entry; matches c227's 'căn thức' in the immediately preceding pages.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "མདོ་སྡེའི་མཐའ",
+      "skt": "sūtrānta",
+      "vi": "khế kinh",
+      "status": "provisional",
+      "kind": "term",
+      "note": "p0796 l.1, the sole occurrence in the whole corpus (checked source/clean/). The view has no མདོ་སྡེ headword, and its two མཐའ entries are different senses ('chỗ cuối cùng' as the fifth member of a five-fold list; 'cực đoan' for ཡོད་པའི་མཐའ / ཆད་པའི་མཐའ). Rendered as the unit sūtrānta -> 'khế kinh' to supply the dropped མཐའ. A ruling should confirm 'khế kinh' for the compound and, separately, fix bare མདོ་སྡེ (currently 'các bộ kinh' / 'khế kinh' elsewhere in the corpus) so the two do not collapse.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "དམིགས་ཕྱེད་པ (in ངེས་པ་དམིགས་ཕྱེད་པར་རྙེད་པ)",
+      "vi": "phân định rõ được điều được nhắm đến",
+      "status": "provisional",
+      "kind": "phrase",
+      "note": "p0798 l.1. Unusual collocation; not in the view and not elsewhere in the corpus. Rendered literally with an inline uncertainty flag rather than smoothed. A ruling (or a source-reading check against another edition — this may be a printing oddity like the ones in FINDINGS §8.6) would settle it.",
+      "firstSeen": "batch"
+    },
+    {
+      "bo": "ཆོས་ཀྱི་བདག་མེད",
+      "skt": "dharmanairātmya",
+      "vi": "vô ngã của pháp",
+      "status": "provisional",
+      "kind": "term",
+      "note": "p0796 l.1, rendered at L46. No headword in the view (the nearest is བདག་མེད་པ inside a phrase gloss at line 153). Corpus is split 4 'pháp vô ngã' / 3 'vô ngã của pháp' — unsettled centrally rather than wrong here, so the wording is KEPT. A ruling is needed to close the drift.",
+      "firstSeen": "batch"
     }
   ]
 }
