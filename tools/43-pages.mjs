@@ -73,14 +73,28 @@ export function chunkBody(id) {
 const load = () => JSON.parse(fs.readFileSync(LEDGER, 'utf8'));
 const save = l => fs.writeFileSync(LEDGER, JSON.stringify(l, null, 2) + '\n', 'utf8');
 
+// A locator is a literal substring of the chunk; the marker goes at its start. Formulaic
+// passages repeat - the Kaniska sutra says "flee, or turn it back by strength, by wealth..."
+// three times over - so a locator may carry the insertion point explicitly as CUT, and then
+// only the WHOLE locator has to be unique, not the fragment after the cut.
+const CUT = '⟪⟫';
+const litOf = l => l.split(CUT).join('');
+const offsetIn = l => { const i = l.indexOf(CUT); return i === -1 ? 0 : i; };
+
 // Validate one placed anchor. Returns null if sound, else why not.
 function validate(a, body) {
   if (a.kind === 'chunk-start') return null;          // position 0, nothing to match
   if (!a.locator) return 'no locator';
-  const n = body.split(a.locator).length - 1;
+  const lit = litOf(a.locator);
+  if (!lit) return 'empty locator';
+  const n = body.split(lit).length - 1;
   if (n === 0) return 'locator not found in the chunk (translation edited?)';
   if (n > 1) return `locator occurs ${n} times - not unique`;
   return null;
+}
+// Where the marker goes for a validated locator.
+export function insertionPoint(body, locator) {
+  return body.indexOf(litOf(locator)) + offsetIn(locator);
 }
 
 const cmd = process.argv[2];
@@ -143,7 +157,7 @@ if (cmd === 'init') {
     const body = bodies.get(c.id);
     let last = 0;
     for (const a of inC) {
-      const at = body.indexOf(a.locator);
+      const at = insertionPoint(body, a.locator);
       if (at < last) bad.push(`  !! p${a.pdf} (${c.id}): sits before p${a.pdf - 1} in the text`);
       last = at;
     }
@@ -197,7 +211,7 @@ if (cmd === 'init') {
   console.log(JSON.stringify(a, null, 2));
   if (a.locator) {
     const body = chunkBody(a.chunk);
-    const at = body.indexOf(a.locator);
+    const at = insertionPoint(body, a.locator);
     console.log('\n--- context ---\n' + body.slice(Math.max(0, at - 160), at) + '  <<<PAGE ' + a.pdf + '>>>  ' + body.slice(at, at + 160));
   }
 } else if (cmd === 'place') {

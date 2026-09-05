@@ -77,9 +77,12 @@ function markPages(id, body) {
   const points = [];
   for (const a of mine) {
     if (a.kind === 'chunk-start') { points.push({ a, at: 0 }); continue; }
-    const n = body.split(a.locator).length - 1;
+    // A locator may carry its insertion point as "⟪⟫" when the phrase after the point is not
+    // itself unique — the formulaic sutra passages repeat verbatim. tools/43 owns that form.
+    const lit = a.locator.split('⟪⟫').join(''), off = Math.max(0, a.locator.indexOf('⟪⟫'));
+    const n = body.split(lit).length - 1;
     if (n !== 1) { marks.skipped.push(`p${a.pdf} (${id}): locator ${n === 0 ? 'not found' : 'not unique'}`); continue; }
-    points.push({ a, at: body.indexOf(a.locator) });
+    points.push({ a, at: body.indexOf(lit) + off });
   }
   for (const p of points.sort((x, y) => y.at - x.at)) { body = inject(body, p.at, label(p.a)); marks.placed++; }
   return body;
