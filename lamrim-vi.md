@@ -62,9 +62,9 @@ Nếu trong bản gốc có lỗi chữ rõ ràng thì chúng tôi sửa lại v
 
 Những gì được đặt trong dấu `[ ]` giữa dòng chính văn là cước chú và giáp chú vốn có trong bản gốc.
 
-Lại nữa, nếu trong chính văn có đặt dấu `”` thì dấu ấy được đặt trước một con chữ hoặc một từ cần lưu ý. Sau đó có ghi con số thứ tự của chú thích, và tại cước chú mang số tương ứng có phần giải thích.
+Lại nữa, nếu trong chính văn có đặt dấu `"` thì dấu ấy được đặt trước một con chữ hoặc một từ cần lưu ý. Sau đó có ghi con số thứ tự của chú thích, và tại cước chú mang số tương ứng có phần giải thích.
 
-Lại nữa, do các quan điểm văn phạm khác nhau mà cách dùng thuật ngữ và cách ghép trợ từ có chỗ bất đồng lặp đi lặp lại; với những trường hợp ấy, chúng tôi cho rằng chú thích một lần là đủ, còn những chỗ về sau chỉ đặt dấu `“` ở phía trước chứ không viết chú thích cho từng chỗ một.
+Lại nữa, do các quan điểm văn phạm khác nhau mà cách dùng thuật ngữ và cách ghép trợ từ có chỗ bất đồng lặp đi lặp lại; với những trường hợp ấy, chúng tôi cho rằng chú thích một lần là đủ, còn những chỗ về sau chỉ đặt dấu `"` ở phía trước chứ không viết chú thích cho từng chỗ một.
 
 Khi đọc cước chú, nếu cuốn sách ấy đã được đối chiếu, thì ấn bản được lấy làm bản gốc gọi là **མ་ཕྱི** (bản gốc), còn các ấn bản khác — bản khắc Derge, Tashi Lhunpo, Zhol, Kumbum, Labrang — được ký hiệu lần lượt bằng **སྡེ**, **བཀྲ**, **ཞོལ**, **སྐུ**, **བླ**.
 
@@ -72,7 +72,7 @@ Trong cước chú, nếu gặp dạng có dấu như `*བསྒྲུབས` t
 
 Chẳng hạn, nếu trong cước chú ghi:
 
-> མ་ཕྱི། ༩༨ན༥ན།  བསྒབ   `*བསྒྲུབས`   སྐུ། ༡༠༣ན༦ན།   བླ། ༡༡༠བ༣ན།  བསྒྲུབས
+> མ་ཕྱི། ༩༨ན༥ན། བསྒབ `*བསྒྲུབས` སྐུ། ༡༠༣ན༦ན། བླ། ༡༡༠བ༣ན། བསྒྲུབས
 
 thì ý nghĩa của những mục ấy là: nơi bản gốc, tờ 98 mặt trước, dòng thứ 5, có viết là `བསྒབ`; còn `*བསྒྲུབས` cho biết chính lỗi chữ `བསྒབ` ấy của bản gốc đã được người hiệu đính sửa thành `བསྒྲུབས`. Lại nữa, phải hiểu rằng ở chỗ tương ứng của bản văn ấy trong bản khắc Kumbum, tờ 103 mặt trước, dòng thứ 6, và trong bản khắc Labrang, tờ 110 mặt sau, dòng thứ 3, đều ghi là `བསྒྲུབས`.
 
@@ -5053,7 +5053,7 @@ Lỗi của sự không biết no đủ là:
 > vẫn đi theo sau hàng phàm phu,
 > thì phải uống nhiều hơn thế nữa.
 
-Tức là tư duy rằng mỗi một chúng sinh trước đây đã uống bao nhiêu sữa mẹ, và nếu nay vẫn không tu học đạo giải thoát thì sẽ còn uống bao nhiêu nữa. *(tồn nghi: Tạng văn `སྔར་མའི་ནུ་ཞོ་ཇི་ཙམ་འཐུངས་པ`. `སྔར` đứng trước `མ` nên về mặt vị trí có thể đọc là "sữa của mẹ trước kia [tức mẹ đời trước]"; nhưng thế đối lập của chính câu này là đối lập thời gian — `སྔར ... འཐུངས་པ` so với `ད་དུང་ཡང ... འཐུང་བར་འགྱུར` — nên ở đây đọc `སྔར` bổ nghĩa cho động từ "uống". Không quyết được từ mặt chữ; không thêm khẳng định về các đời trước.)*
+Tức là tư duy rằng mỗi một chúng sinh trước đây đã uống bao nhiêu sữa mẹ, và nếu nay vẫn không tu học đạo giải thoát thì sẽ còn uống bao nhiêu nữa. *(tồn nghi: Tạng văn `སྔར་མའི་ནུ་ཞོ་ཇི་ཙམ་འཐུངས་པ`. `སྔར` đứng trước `མ` nên về mặt vị trí có thể đọc là "sữa của mẹ trước kia [tức mẹ đời trước]"; nhưng thế đối lập của chính câu này là đối lập thời gian — `སྔར... འཐུངས་པ` so với `ད་དུང་ཡང... འཐུང་བར་འགྱུར` — nên ở đây đọc `སྔར` bổ nghĩa cho động từ "uống". Không quyết được từ mặt chữ; không thêm khẳng định về các đời trước.)*
 
 Đây chỉ là một điều nêu ra làm tiêu biểu; cần tư duy về cách thức rằng nơi các sự viên mãn và các nỗi khổ của luân hồi chẳng có điều gì gọi là "chưa từng nếm trải", rồi khiến tâm sinh nhàm chán. Bởi vì nếu thọ dụng an lạc là để cho tâm được thỏa mãn, thì an lạc của hữu dù có thọ dụng bao nhiêu cũng chẳng thỏa mãn, nên về sau khát ái càng lúc càng tăng trưởng; và do đó lại lang thang lâu dài trong luân hồi, phải chịu trong thời gian không thể lường những nỗi khổ cực kỳ khó kham nhẫn mà các an lạc kia dù chỉ một phần cũng chẳng thể sánh nổi. Trong *Thân Hữu Thư* có nói:
 
@@ -6365,7 +6365,7 @@ Và trong *Thân Hữu Thư*:
 > Điều ấy hãy dốc sức mà phòng hộ cho bằng được,
 > Vì niệm suy thoái thì hết thảy pháp đều hoại diệt.
 
-*[Ghi chú của người dịch: trong câu `བདེར་གཤེགས་ཀྱི། །བགྲོད་པ་གཅིག་པའི་ལམ་དུ་ཉེ་བར་བསྟན`, trợ từ `ཀྱི` là sở thuộc cách, nên bản dịch giữ nghĩa sở thuộc ("con đường ... của đấng Thiện Thệ"). Trong thi kệ, `ཀྱི` cũng có thể đứng thay cho công cụ cách `ཀྱིས`, khi ấy phải đọc là "được đấng Thiện Thệ chỉ bày là con đường độc nhất phải đi". Tạng văn không phân định được hai cách đọc; động từ `ཉེ་བར་བསྟན` vốn không nêu chủ thể, nên bản dịch cũng để "được chỉ bày" không nêu chủ thể.]*
+*[Ghi chú của người dịch: trong câu `བདེར་གཤེགས་ཀྱི། །བགྲོད་པ་གཅིག་པའི་ལམ་དུ་ཉེ་བར་བསྟན`, trợ từ `ཀྱི` là sở thuộc cách, nên bản dịch giữ nghĩa sở thuộc ("con đường... của đấng Thiện Thệ"). Trong thi kệ, `ཀྱི` cũng có thể đứng thay cho công cụ cách `ཀྱིས`, khi ấy phải đọc là "được đấng Thiện Thệ chỉ bày là con đường độc nhất phải đi". Tạng văn không phân định được hai cách đọc; động từ `ཉེ་བར་བསྟན` vốn không nêu chủ thể, nên bản dịch cũng để "được chỉ bày" không nêu chủ thể.]*
 
 Và trong *Nhập Bồ-tát Hạnh*:
 
@@ -11482,7 +11482,7 @@ Như thế, khi khinh an của thân mới sinh khởi lần đầu thì do sứ
 
 — đã dạy như vậy. Như có lời dạy:
 
-> Khi điều như thế đã xảy ra thì gọi là “đã đạt được tịnh chỉ” hoặc “có tác ý”.
+> Khi điều như thế đã xảy ra thì gọi là "đã đạt được tịnh chỉ" hoặc "có tác ý".
 
 — theo đó, [hành giả] được kể vào số những vị gọi là đã đạt được tác ý; bởi vì do đạt được tịnh chỉ vốn được nhiếp trong cận phần của tĩnh lự thứ nhất, nên đã đạt được tác ý nhỏ nhất thuộc địa của đẳng dẫn. Cũng như thế, *Thanh Văn Địa* nói:
 

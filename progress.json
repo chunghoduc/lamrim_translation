@@ -127,8 +127,8 @@
       "flags": [],
       "translatedAt": "2026-08-24",
       "sourceHash": "15dad146c022",
-      "outputHash": "42742f3f6dbf",
-      "outputBytes": 5699
+      "outputHash": "282b40afc9d1",
+      "outputBytes": 5687
     },
     {
       "id": "c004",
@@ -3364,8 +3364,8 @@
         "unsure: p0281, the four-line stanza under `ངོམས་མི་ཤེས་པའི་ཉེས་པ་ནི` is given with NO source attribution in the Tibetan — it is introduced by nothing and closed only with `ཞེས`. I supplied no title for it (it is very likely Suhṛllekha, given the surrounding citations, but the text does not say so)."
       ],
       "sourceHash": "dda68ef6f13e",
-      "outputHash": "4cf26b0dc57e",
-      "outputBytes": 11248,
+      "outputHash": "37ac7f93c2a9",
+      "outputBytes": 11246,
       "translatedAt": "2026-08-28",
       "runId": "wf_a77da773-838",
       "verify": {
@@ -4216,8 +4216,8 @@
       ],
       "translatedAt": "2026-08-25",
       "sourceHash": "d512823657a6",
-      "outputHash": "7887559f16a7",
-      "outputBytes": 10305,
+      "outputHash": "7dd2e499cd09",
+      "outputBytes": 10304,
       "runId": "wf_9a0a7f2f-18e",
       "verify": {
         "verdict": "clean"
@@ -7596,8 +7596,8 @@
       ],
       "translatedAt": "2026-09-05",
       "sourceHash": "c3280b54b7c9",
-      "outputHash": "7b8cacd3d57e",
-      "outputBytes": 8316,
+      "outputHash": "7f21055c2c75",
+      "outputBytes": 8308,
       "runId": "wf_7d3efcce-8f8",
       "verify": {
         "verdict": "clean"
@@ -10481,8 +10481,8 @@
         "unsure: ཚུལ་བཞིན་མ་ཡིན་པའི་རྣམ་པར་རྟོག་པ ('sự phân biệt phi lý') and ཚུལ་མིན་ཡིད་བྱེད་ཀྱི་རྣམ་པར་རྟོག་པ ('sự phân biệt thuộc phi lý tác ý') stand three lines apart at p0920. Kept apart deliberately using the view's ཚུལ་མིན་ཡིད་བྱེད -> 'phi lý tác ý', but 'phi lý' now does double duty and a mechanical sweep may read one as drift from the other."
       ],
       "sourceHash": "b0c487bb3217",
-      "outputHash": "fd7f8e182b80",
-      "outputBytes": 9167,
+      "outputHash": "48d509ab6a9c",
+      "outputBytes": 9163,
       "translatedAt": "2026-09-05",
       "runId": "wf_7288ae59-83e",
       "verify": {
