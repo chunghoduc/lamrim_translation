@@ -8055,8 +8055,10 @@
       "kind": "internal",
       "boTail": "་པ་དང༌། །སྒྱུ་མ་སྨིག་རྒྱུ་སོགས་ལ་བཏགས་པ་གང༌། །དེ་དག་འཇིག་རྟེན་ལས་ཀྱང་ཡོད་མིན་ཉིད། །ཅེས་མུ་",
       "boHead": "སྟེགས་པའི་འདོད་པ་ཐུན་མོང་མ་ཡིན་པ་དང་སྔར་དྲངས་པ་ལྟར་རང་སྡེ་དངོས་པོར་སྨྲ་བ་རྣམས་ཀྱི་འདོད་པ་ཐ",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "— [tức nói rằng] những thứ được giả danh bởi chủ trương bất cộng của ngoại đạo",
+      "placedBy": "align",
+      "note": "chu mu|stegs pa (ngoai dao) bi ngat doi: 'mu' cuoi p759"
     },
     {
       "pdf": 761,
@@ -8065,8 +8067,10 @@
       "kind": "internal",
       "boTail": "ྲུབ་མཐས་བློ་བསྒྱུར་བ་ལའང་། ཇི་ལྟར་ཐ་སྙད་དུ་གྲགས་པ་ལྟར་རམ་འོན་ཏེ་དེ་ཁོ་ན་ཉིད་དུ་དེ་ལྟར་གནས་",
       "boHead": "སམ་ཞེས་དཔྱོད་པའི་བློ་མང་པོ་ཡོད་ཀྱང་དེའི་ཤེས་པ་ཐམས་ཅད་ཡིན་ཚུལ་ཇི་ལྟར་ཡིན་དཔྱོད་པའི་ཤེས་པ་ཡི",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "nhưng đâu cần gì mà hết thảy các thức của người ấy",
+      "placedBy": "align",
+      "note": "tieng Viet dua ve 'tuy co nhieu cai tri tham sat rang' (dpyod pa'i blo mang po yod kyang, p761) len truoc cau hoi nen ve ay nam ben p760"
     },
     {
       "pdf": 762,
@@ -8075,8 +8079,10 @@
       "kind": "internal",
       "boTail": "ེས་ཡོད་པར་གྲུབ་ན་ནི་རང་གི་ངོ་བོས་ཡོད་པར་གྲུབ་པ་ཡིན་པས་ཐ་སྙད་པའི་དོན་ཡིན་པར་འགལ་བ་ཡིན་ནོ། །",
       "boHead": "དེའི་ཕྱིར་རིགས་ཤེས་ཀྱིས་མི་གནོད་པ་དང་དེས་གྲུབ་པ་གཉིས་གཅིག་ཏུ་བཟུང་ནས། ཐ་སྙད་དུ་དགེ་སྡིག་ལས",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "Vì thế, chẳng có chỗ nào cho cái tà chấp gộp làm một",
+      "placedBy": "align",
+      "note": "khop dung chu"
     },
     {
       "pdf": 763,
@@ -8093,8 +8099,10 @@
       "kind": "internal",
       "boTail": "ེར་དངོས་པོ་དེ་རྣམ་པར་མི་གནས་པ་ཡིན་པ་ཉིད་ཀྱི་ཕྱིར་རོ། །ཕྱིན་ཅི་མ་ལོག་པ་ནི་སྡུག་བསྔལ་ལ་སོགས་",
       "boHead": "པ་ཉིད་དུ་འཛིན་པ་སྟེ། དངོས་པོ་དེ་ཀུན་རྫོབ་ཏུ་བདག་ཉིད་དེར་ཡོད་པ་ཉིད་ཀྱི་ཕྱིར་རོ། །ཞེས་རྟག་སོ",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "cái chấp [các pháp] chính là khổ v.v.",
+      "placedBy": "align",
+      "note": "cum sdug bsngal la sogs|pa nyid du 'dzin pa bi ngat doi; ''dzin pa' (cai chap) dich dat truoc nen 'sdug bsngal la sogs' cuoi p763 nam ben p764"
     },
     {
       "pdf": 765,
@@ -8103,8 +8111,10 @@
       "kind": "internal",
       "boTail": "ས། གཟུགས་རྟག་མི་རྟག་དང་བདེ་སྡུག་དང་བདག་ཡོད་མེད་གང་ལ་སྤྱོད་ནའང་མཚན་མ་ལ་སྤྱོད་པར་གསུངས་སོ། །",
       "boHead": "གལ་ཏེ་དངོས་པོ་རྣམས་ལ་རང་བཞིན་སྒྲོ་འདོགས་པའི་མ་རིག་པའི་འཛིན་སྟངས་རིགས་པས་སུན་འབྱིན་པ་དང་ཐ་ས",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "Nếu [có người nói:] hai điều — chánh lý phá trừ cách nắm giữ",
+      "placedBy": "align",
+      "note": "khop dung chu"
     },
     {
       "pdf": 766,
@@ -8113,8 +8123,10 @@
       "kind": "internal",
       "boTail": "ིས་གྲུབ་པའི་དོན་ཐ་སྙད་དུ་ཡོད་པས་རིགས་པས་མི་འགོག་ལ། མ་རིག་པས་ཇི་ལྟར་བཟུང་བ་ལྟར་ཀུན་རྫོབ་ཏུ་",
       "boHead": "ཡང་མེད་དེ། འདི་ནི་དངོས་པོ་རྣམས་ལ་རང་གི་ངོ་བོས་གྲུབ་པའི་རང་བཞིན་སྒྲོ་འདོགས་པ་ཡིན་ལ། དེ་འདྲ་",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "cũng không có; bởi vì [vô minh] này là cái gán đặt",
+      "placedBy": "align",
+      "note": "khop dung chu: 'kun rdzob tu' (trong the tuc) cuoi p765"
     },
     {
       "pdf": 767,
