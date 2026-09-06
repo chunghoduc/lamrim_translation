@@ -7575,8 +7575,10 @@
       "kind": "internal",
       "boTail": "པར་བྱང་བའི་ཆོས་སྐྱེ་བ་དང་འགག་པའི་རྟེན་འབྲེལ་དང་རང་བཞིན་མེད་པ་གཉིས་གཞི་མཐུན་དུ་འདུ་བ་ལྟ་ཅི་",
       "boHead": "སྨོས་ཏེ། དེ་འདྲ་བའི་རྟེན་འབྲེལ་དེ་ཉིད་རང་བཞིན་མེད་པ་རྟོགས་པའི་རྒྱུ་མཚན་བླ་ན་མེད་པར་འགྲོ་བ་",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "điều phải biết là: chính cái duyên khởi như thế",
+      "placedBy": "align",
+      "note": "cum lta ci|smos te bi ngat doi: 'smos te' dau p716 nam ben p715"
     },
     {
       "pdf": 717,
@@ -7585,8 +7587,10 @@
       "kind": "internal",
       "boTail": "སྟན་ལས། །རབ་ཏུ་ལོག་པར་གྱུར་པ་ཡིན། །ཞེས་དང༌། རིན་ཆེན་ཕྲེང་བ་ལས་ཀྱང༌། རེ་ཞིག་ལུས་འདི་མི་གཙང་",
       "boHead": "ཉིད། །རགས་ཤིང་མངོན་སུམ་སྤྱོད་ཡུལ་བ། །རྟག་ཏུ་སྣང་བའང་གང་གི་ཚེ། །སེམས་ལ་གནས་པ་མ་ཡིན་པ། །དེ་ཚ",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "Thô phù, là hành cảnh của hiện lượng,",
+      "placedBy": "align",
+      "note": "chu mi gtsang|nyid (bat tinh) bi ngat doi: 'nyid' dau p717 nam trong dong ke o ben p716"
     },
     {
       "pdf": 718,
@@ -7603,8 +7607,10 @@
       "kind": "internal",
       "boTail": "་སྙད་དུའང་ཆོས་རྣམས་ལ་རང་གི་ངོ་བོས་གྲུབ་པའི་རང་བཞིན་མེད་པ་ཡིན་པར་ཁྱེད་ཀྱང་འདོད་ལ། དེ་ལྟར་ན་",
       "boHead": "རང་བཞིན་འགོག་པའི་རིགས་པས་ཐ་སྙད་དུའང་རང་བཞིན་དེ་དགག་དགོས་པའི་ཕྱིར་དང༌། རང་བཞིན་འགོག་པའི་རིག",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "bởi vì chánh lý phủ định tự tánh tất phải phủ định tự tánh ấy",
+      "placedBy": "align",
+      "note": "khop dung chu: 'de ltar na' (va neu vay thi) cuoi p718"
     },
     {
       "pdf": 720,
@@ -7621,8 +7627,10 @@
       "kind": "internal",
       "boTail": "་ཉེར་བཞི་པ་ལས། ཁྱོད་ནི་རང་གི་སྐྱོན་རྣམས་ནི། །ང་ལ་སྐྱོན་དུ་སྒྱུར་བྱེད་པ། །རྟ་ལ་མངོན་པར་ཞོན་",
       "boHead": "བཞིན་དུ། །རྟ་ཉིད་བརྗེད་པར་གྱུར་པ་བཞིན། །གལ་ཏེ་དངོས་རྣམས་རང་བཞིན་ལས། །ཡོད་པར་རྗེས་སུ་ལྟ་བྱེ",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "Mà lại quên mất chính con ngựa ấy.",
+      "placedBy": "align",
+      "note": "'bzhin du' (Cung nhu, dau p721) nam trong dong ke truoc do nen thuoc ben p720"
     },
     {
       "pdf": 722,
@@ -7631,8 +7639,10 @@
       "kind": "internal",
       "boTail": "ང་འདྲ་བས་གཉིས་སུ་སྨྲ་བ་ལས་མ་འདས་པའི་ཕྱིར། འདིའི་མངོན་པར་འདོད་པ་ཐམས་ཅད་འགྲིགས་དཀའ་བར་འགྱུར་",
       "boHead": "རོ། །ཞེས་གསལ་བར་གསུངས་པའི་ཕྱིར་རོ། ། རང་བཞིན་ཡོད་མེད་དང་ཡོད་མེད་བཞི་པོ་འདི་དཔལ་ལྡན་ཟླ་བ་གྲ",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "— [ngài] đã nói rõ như vậy.",
+      "placedBy": "align",
+      "note": "cum 'gyur|ro bi ngat doi: chi am tiet 'ro' nam ben p722"
     },
     {
       "pdf": 723,
@@ -7641,8 +7651,10 @@
       "kind": "internal",
       "boTail": "ར་ལ་ལས་དང་འབྲས་བུ་ལ་སྐུར་པ་བཏབ་པའི་ཕྱིར་ན་ཁྱོད་མེད་པ་པའི་གཙོ་བོར་གྱུར་པ་ཡིན་ནོ། །བརྗོད་པར་",
       "boHead": "བྱ་སྟེ། ཁོ་བོ་ཅག་མེད་པ་པ་མ་ཡིན་ཏེ། ཁོ་བོ་ཅག་ནི་ཡོད་པ་དང་མེད་པ་གཉིས་སུ་སྨྲ་བ་བཀག་ནས་གཉིས་སུ",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "chúng tôi chẳng phải là những người chủ trương không có.",
+      "placedBy": "align",
+      "note": "cum brjod par|bya ste (Dap rang) bi ngat doi: 'bya ste' dau p723 nam ben p722"
     },
     {
       "pdf": 724,
@@ -7659,8 +7671,10 @@
       "kind": "internal",
       "boTail": "་དོན་ཏེ་རང་བཞིན་གྱིས་མ་སྐྱེས་པའི་དོན་དང་སྒྱུ་མ་དང་སྨིག་རྒྱུ་དང་གཟུགས་བརྙན་དང་དྲི་ཟའི་གྲོང་",
       "boHead": "ཁྱེར་དང་སྤྲུལ་པ་དང་རྨི་ལམ་དང་མཚུངས་པའི་རང་བཞིན་ཅན་གྱི་འབྲས་བུ་འབྱུང་བའི་དོན་དང་སྟོང་པ་ཉིད་",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "vật biến hóa và giấc mộng",
+      "placedBy": "align",
+      "note": "chu grong|khyer (thanh) bi ngat doi: 'khyer' dau p725 nam ben p724"
     },
     {
       "pdf": 726,
@@ -7669,8 +7683,10 @@
       "kind": "internal",
       "boTail": "ྱིར་ལོག་པ་ཡིན་ནོ་ཞེས་བྱ་བར་གྲུབ་བོ། །ལོག་པ་ཞེས་བྱ་བ་ནི་རང་བཞིན་མེད་པ་དང་རྟེན་ཅིང་འབྲེལ་པར་",
       "boHead": "འབྱུང་བ་ཞེས་བྱ་བ་དང་དོན་གཞན་མ་ཡིན་པ་སྟེ་དངོས་པོ་མེད་པའི་དོན་ནི་ལོག་པའི་དོན་མ་ཡིན་ནོ། །འདས་",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "nghĩa \"sự vật là không có\" chẳng phải là nghĩa của",
+      "placedBy": "align",
+      "note": "cum rten cing 'brel par|'byung ba (duyen khoi) bi ngat doi; ve dau p726 nam ben p725 vi tieng Viet dao 'chang khac nghia' len truoc"
     },
     {
       "pdf": 727,
@@ -7679,8 +7695,10 @@
       "kind": "internal",
       "boTail": "་པ་བྱས་ནས་འགོག་པས། དེ་གཉིས་སུ་ཁ་ཚོན་ཆོད་དགོས་པར་རང་ཉིད་ཀྱིས་ཁས་བླངས་བཞིན་དུ་དེ་གཉིས་གང་ཡང་",
       "boHead": "མིན་པའི་དོན་འདོད་པའི་ཕྱིར་རོ། །འདི་ལྟར་གཞི་གང་ཡང་རུང་བ་ཞིག་ལ་རང་བཞིན་ཡོད་དམ་མེད་ཅེས་བརྟག་པ",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "thế mà [kẻ ấy] lại chủ trương một nghĩa chẳng phải",
+      "placedBy": "align",
+      "note": "'de gnyis gang yang' cuoi p726 nam trong ve nay nen thuoc ben p727"
     },
     {
       "pdf": 728,
