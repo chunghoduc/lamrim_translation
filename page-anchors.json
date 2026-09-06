@@ -9859,8 +9859,10 @@
       "kind": "internal",
       "boTail": "་དང༌། རབ་ཏུ་རྣམ་པར་འབྱེད་པར་བྱེད་པ་དང༌། ཡོངས་སུ་རྟོག་པར་བྱེད་པ་དང༌། ཡོངས་སུ་དཔྱོད་པར་བྱེད་",
       "boHead": "པའོ། །དེ་ལ་ཇི་ལྟར་རྣམ་པར་འབྱེད་པར་བྱེད་ཅེ་ན། དཔྱད་པ་རྣམ་པར་སྦྱོང་བའི་དམིགས་པ་དང་མཁས་པའི་དམ",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "Trong đó, phân biện như thế nào?",
+      "placedBy": "align",
+      "note": "cum byed|pa'o bi ngat doi: chi am tiet 'pa'o' dau p927 nam ben p926"
     },
     {
       "pdf": 928,
@@ -9869,8 +9871,10 @@
       "kind": "internal",
       "boTail": "ས་པར་རྟོགས་པའི་ཆོས་རྣམས་ལ་རྣམ་པར་གྲོལ་བས་ཤིན་ཏུ་ལེགས་པར་བདེ་བ་ལ་རེག་པར་བྱ་བའི་ཕྱིར། ཡིད་ལ་",
       "boHead": "བྱེད་པའི་ལྷག་མཐོང་གང་ཡིན་པའོ་ཞེས་གསུངས་སོ། །འདི་ལ་ཉན་སར། ཐོས་པ་དང་བཟུང་བའི་ཆོས་སམ་གདམས་ངག་",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "— đã dạy như vậy.",
+      "placedBy": "align",
+      "note": "cum yid la|byed pa (tac y) bi ngat doi; tieng Viet dua 'la thang quan nao tac y' len dau cau nen ve dau p928 nam ben p927; day la diem cat sai lech it nhat"
     },
     {
       "pdf": 929,
@@ -9887,8 +9891,10 @@
       "kind": "internal",
       "boTail": "་བའོ། །དེ་ལ་དང་པོའི་དབང་དུ་བྱས་ནས་ཚོལ་བ་དང་པོའོ། །གཉིས་པའི་དབང་དུ་བྱས་ནས་དངོས་པོ་ཚོལ་བ་དང་",
       "boHead": "རང་གི་མཚན་ཉིད་ཚོལ་བ་གཉིས་སོ། །གསུམ་པའི་དབང་དུ་བྱས་ནས་ལྷག་མ་གསུམ་དང་སྤྱིའི་མཚན་ཉིད་ཚོལ་བ་བཞ",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "sự tầm cầu tướng riêng; y theo cái thứ ba",
+      "placedBy": "align",
+      "note": "khop dung chu"
     },
     {
       "pdf": 931,
