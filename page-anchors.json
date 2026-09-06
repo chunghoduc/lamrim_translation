@@ -10063,8 +10063,10 @@
       "kind": "internal",
       "boTail": "ས་བྱ་བར་གསུངས་པ་དང༌། སྤྱོད་འཇུག་ལས་ཀྱང༌། ཞི་གནས་བསམ་གཏན་ལེའུར་འབྱུང་བ་བཞིན་བསྒྲུབས་ནས། དེ་",
       "boHead": "ནས་ཤེས་རབ་བསྒོམ་པ་ན་རིགས་པའི་དཔྱད་པས་བསྒོམ་པར་གསུངས་པའི་ཕྱིར་རོ། །དེས་ན་ཕར་ཕྱིན་ཐ་མ་གཉིས་ཀ",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "rồi khi tu trí tuệ thì phải tu bằng sự quán sát của chánh lý",
+      "placedBy": "align",
+      "note": "cum de|nas (roi) bi ngat doi: 'de' cuoi p945"
     },
     {
       "pdf": 947,
@@ -10073,8 +10075,10 @@
       "kind": "internal",
       "boTail": "བོ་ཉིད་ཡོངས་སུ་བཙལ་ན་སྟོང་པར་རྟོགས་སོ། །སེམས་གང་ཡིན་པ་དེ་ཡང་བཙལ་ན་སྟོང་པར་རྟོགས་སོ། །སེམས་",
       "boHead": "གང་གིས་རྟོགས་པ་དེ་ཡང་ངོ་བོ་ཉིད་ཀུན་ཏུ་བཙལ་ན་སྟོང་པར་རྟོགས་ཏེ། དེ་ལྟར་རྟོགས་པས་མཚན་མ་མེད་པའ",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "nào chứng ngộ [như thế], nếu tìm cầu khắp cả thể tánh",
+      "placedBy": "align",
+      "note": "chu sems (Tam) cuoi p946, phan con lai cua cum dau p947"
     },
     {
       "pdf": 948,
@@ -10091,8 +10095,10 @@
       "kind": "internal",
       "boTail": "ོན་ལ་སོ་སོར་དཔྱོད་པ་རྟོག་པ་ཡིན་པས། དེ་ལས་རྣམ་པར་མི་རྟོག་པའི་ཡེ་ཤེས་སྐྱེ་བ་འགལ་ཏེ། འབྲས་བུ་",
       "boHead": "དང་རྒྱུ་གཉིས་རྗེས་སུ་མཐུན་པ་དགོས་པའི་ཕྱིར་སྙམ་ན། འདི་ལ་ནི་བཅོམ་ལྡན་འདས་ཉིད་ཀྱིས་དཔེ་དང་བཅས",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "và nhân, hai [thứ ấy], cần phải tùy thuận nhau",
+      "placedBy": "align",
+      "note": "khop dung chu: ''bras bu' (qua) cuoi p948"
     },
     {
       "pdf": 950,
@@ -10101,8 +10107,10 @@
       "kind": "internal",
       "boTail": "བྲས་གཉིས་མི་འདྲ་བའི་ཕྱིར་རོ། །དེ་བཞིན་དུ་ས་བོན་སྐྱ་བོ་ལས་མྱུ་གུ་སྔོན་པོ་སྐྱེ་བ་དང༌། མེ་ལས་",
       "boHead": "དུ་བ་སྐྱེ་བ་དང༌། བུད་མེད་ལས་སྐྱེས་པ་སྐྱེ་བ་སོགས་རྣམ་པ་མི་འདྲ་བའི་རྒྱུ་འབྲས་མཐའ་ཡས་པ་ཞིག་སྣ",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "mà khói sinh ra, từ người nữ mà người nam sinh ra",
+      "placedBy": "align",
+      "note": "khop dung chu: 'me las' (tu lua) cuoi p949"
     },
     {
       "pdf": 951,
@@ -10111,8 +10119,10 @@
       "kind": "internal",
       "boTail": "ག་ཅིང་འདི་ལྟར་ངེས་པར་བསམ་པར་བགྱི་སྟེ། ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་འདི་གང་ཡིན། ཤེས་རབ་ཀྱི་ཕ་",
       "boHead": "རོལ་ཏུ་ཕྱིན་པ་འདི་གང་གི་ཡིན། ཅི་ཆོས་གང་མེད་པ་དང་མི་དམིགས་པ་དེ་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་ཡ",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "Bát-nhã ba-la-mật này là của cái gì?",
+      "placedBy": "align",
+      "note": "cum pha|rol tu phyin pa (ba-la-mat) bi ngat doi: 'shes rab kyi pha' cuoi p950"
     },
     {
       "pdf": 952,
