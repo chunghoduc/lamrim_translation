@@ -8639,8 +8639,10 @@
       "kind": "internal",
       "boTail": "་ལྟར་སྨྲ་སྟེ། འཇུག་པའི་འགྲེལ་བཤད་ལས། དེ་ལ་འགའ་ཞིག་ན་རེ། གལ་ཏེ་ཐལ་འགྱུར་གཏན་ཚིགས་སུ་འདོད་ན་",
       "boHead": "དེ་ཚད་མས་གྲུབ་པ་ཡིན་ནམ་འོན་ཏེ་མ་གྲུབ་པ་ཡིན། དེ་ལ་གལ་ཏེ་ཕྱོགས་དང་པོ་ལྟར་ན་དེའི་ཚེ་གཉིས་ཀ་ལའ",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "thì cái ấy được thành lập bằng lượng, hay là chẳng được thành lập?",
+      "placedBy": "align",
+      "note": "khop dung chu"
     },
     {
       "pdf": 815,
@@ -8649,8 +8651,10 @@
       "kind": "internal",
       "boTail": "ངས་པ་ལ་ཐུག་པས་ན་ཚད་མས་མ་གྲུབ་ཀྱང་ཁས་བླངས་པའི་སྒོ་ནས་སུན་འབྱིན་འཐད་པ་ཡིན་ནོ། །ཞེས་འཆད་དོ། །",
       "boHead": "ཡང་དེ་ཉིད་ལས་གཞན་ཡང་རང་རྒྱུད་ཀྱི་གཏན་ཚིགས་ཀྱི་ཕྱོགས་ལ་གལ་ཏེ་གཏན་ཚིགས་དང་བསྒྲུབ་པར་བྱ་བ་དག་",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "Lại nữa, cũng chính từ [bản thích luận] ấy [có nói] thêm rằng:",
+      "placedBy": "align",
+      "note": "khop dung chu"
     },
     {
       "pdf": 816,
@@ -8659,8 +8663,10 @@
       "kind": "internal",
       "boTail": "་བ་ཡིན་པའི་ཕྱིར་རོ། །དེས་ན་ཁྱབ་པའང་ཁས་བླངས་པ་ཙམ་གྱིས་འགྲུབ་དགོས་པ་ཡིན་ནོ་ཞེས་ཟེར་ཏེ། འདིས་",
       "boHead": "ནི་ཚུལ་གསུམ་ཚད་མས་གྲུབ་པའི་རྟགས་ཀྱིས་བྱེད་ན་རང་རྒྱུད་དང༌། ཚུལ་གསུམ་ཁས་བླངས་ཀྱི་མཐར་ཐུག་པ་ཙ",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "thì hình như [ông] chủ trương rằng",
+      "placedBy": "align",
+      "note": "khop dung chu: ''dis' (Qua dieu nay) cuoi p815"
     },
     {
       "pdf": 817,
@@ -8677,8 +8683,10 @@
       "kind": "internal",
       "boTail": "བླངས་ནས་དེ་རང་ལུགས་སུ་བསྒྲུབ་པ་ནི་རང་རྒྱུད་པ་དང༌། དེ་ལྟར་ཁས་མི་ལེན་པར་གཞན་གྱི་འདོད་པ་འགོག་",
       "boHead": "པ་ཙམ་བྱེད་པ་ནི་ཐལ་འགྱུར་བར་བྱེད་པར་སྣང་ངོ་། ། ད་ལྟ་དབུ་མ་ཐལ་འགྱུར་བར་འདོད་པ་དག་ནི། དོན་དམ་",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "thì làm [chỗ khiến thành] phái Ứng Thành.",
+      "placedBy": "align",
+      "note": "cum 'gog|pa tsam (chi phu dinh) bi ngat doi: ve dau p818 nam ben p817"
     },
     {
       "pdf": 819,
@@ -8687,8 +8695,10 @@
       "kind": "internal",
       "boTail": "ཇུག་པ་ལས་ཀྱང༌། སུན་འབྱིན་པས་སུན་དབྱུང་བྱ་མ་ཕྲད་སུན་ནི་འབྱིན་བྱེད་དམ། །འོན་ཏེ་ཕྲད་ནས་འབྱིན་",
       "boHead": "ཞེས་སྨྲས་ཟིན་ཉེས་པ་འདིར་གང་ལ། །ངེས་པར་ཕྱོགས་ཡོད་དེ་ལ་འགྱུར་གྱི་བདག་ལ་ཕྱོགས་འདི་ནི། །ཡོད་པ་",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "— lỗi đã từng được nói ấy, ở đây, đối với ai",
+      "placedBy": "align",
+      "note": "khop dung chu: p818 het ngay sau ve trich dan"
     },
     {
       "pdf": 820,
