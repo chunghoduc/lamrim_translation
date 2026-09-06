@@ -9071,8 +9071,10 @@
       "kind": "internal",
       "boTail": "་གང་ཡིན་པ་འདི་ཉིད་ནི། ཡོད་པའི་ཕྱིར་ཞེས་བྱ་བའི་གཏན་ཚིགས་འདི་ལ་མ་གྲུབ་པའི་སྐྱོན་བརྗོད་པ་ལའང་",
       "boHead": "སྦྱར་བར་བྱའོ། །ཞེས་གསུངས་པ་འདིས་བསྟན་པ་ཡིན་ནོ། །དེ་ལ་སྔར་རང་གི་ངོ་བོས་གྲུབ་པའི་རང་བཞིན་གྱི",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "— [điều ấy] được trình bày bằng lời đã dạy này.",
+      "placedBy": "align",
+      "note": "'sbyar bar bya'o' (can duoc ap dung, dau p854) nam trong cau trich o ben p853"
     },
     {
       "pdf": 855,
@@ -9081,8 +9083,10 @@
       "kind": "internal",
       "boTail": "་པའི་དོན་ཉིད་དང་འགལ་བའི་དོན་ཉིད་དོ། །ཞེས་འདིས་སྐྱོན་འདི་སྨྲས་པ་ཡིན་ནོ། །གང་གི་ཕྱིར་དེ་ལྟར་",
       "boHead": "འདིས་རང་ཉིད་ཀྱིས་ཚུལ་འདིས་གཏན་ཚིགས་མ་གྲུབ་པར་ཁས་བླངས་པ་དེའི་ཕྱིར་དངོས་པོའི་ཆོས་གཏན་ཚིགས་སུ",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "vị này đã tự mình thừa nhận như thế, theo cách thức ấy",
+      "placedBy": "align",
+      "note": "khop dung chu: 'gang gi phyir de ltar' cuoi p854"
     },
     {
       "pdf": 856,
@@ -9099,8 +9103,10 @@
       "kind": "internal",
       "boTail": "་དུའང་མེད་པའི་དོན་ནི་མི་འདོད་པས་དེ་གསལ་བར་མཛད་མི་དགོས་སོ། །དེ་ལ་འབྱུང་བ་ཡིན་པའི་ཕྱིར། ཞེས་",
       "boHead": "བཀོད་པ་ན་རྟགས་སུ་བཀོད་པའི་འབྱུང་བ་དེ་བདེན་གཉིས་གང་ཡིན་ཞེས་འདྲི་ན་སྔ་མ་དང་འདྲ་བ་ཡིན་གྱི། བད",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "nếu hỏi rằng \"cái đại chủng được nêu làm nhân ấy",
+      "placedBy": "align",
+      "note": "'bkod pa na' (khi neu ra, dau p857) dich dat truoc nen nam ben p856"
     },
     {
       "pdf": 858,
