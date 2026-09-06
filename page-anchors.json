@@ -5523,8 +5523,10 @@
       "kind": "internal",
       "boTail": "་གནས་པ་དང་འཕེལ་བ་འདི་ལ་རག་ལས་པས་འདི་བསྐྱེད་པའི་ཉམས་ལེན་ནི་ཤིན་ཏུ་གལ་ཆེའོ། །དེ་ཡང་མཁས་གྲུབ་",
       "boHead": "ཆེན་པོ་ཞི་བ་ལྷའི་གཞུང་ཉིད་གོ་སླ་ཞིང་སྐྱོང་བདེ་ལ་ཡོངས་སུ་རྫོགས་པར་མཐོང་བས་དེའི་ལུགས་བརྗོད་པ",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "vì thấy rằng chính bản văn của bậc đại học giả",
+      "placedBy": "align",
+      "note": "cum mkhas grub|chen po bi ngat doi: 'mkhas grub' cuoi p526"
     },
     {
       "pdf": 528,
@@ -5533,8 +5535,10 @@
       "kind": "internal",
       "boTail": "དུ་སྐྱེ་བ་བསྟན་པར་འདོད་དོ།། དེ་སྤང་བའི་ཐབས་བསྟེན་པ་ལ་གསུམ་ལས། ཕྱི་བཤོལ་གྱི་ལེ་ལོ་འགོག་པ་ལ་",
       "boHead": "གསུམ། ལུས་ཐོབ་པ་འདི་མྱུར་དུ་འཇིག་པ། ཤི་བའི་འོག་ཏུ་ངན་འགྲོར་ལྟུང་བ། སླར་ཡང་རྟེན་བཟང་པོ་འདི་",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "có ba — thân đã đạt được này mau chóng hoại diệt",
+      "placedBy": "align",
+      "note": "khop dung chu"
     },
     {
       "pdf": 529,
@@ -5543,8 +5547,10 @@
       "kind": "internal",
       "boTail": "་བར་སྣང་བས། བདག་འདྲ་བས་ནི་འབྲས་བུ་དེ་འདྲ་བ་ཐོབ་པར་ག་ལ་ནུས་སྙམ་པའི་ཞུམ་པ་དངོས་སུ་བྱུང་ན་ནི་",
       "boHead": "སེམས་བསྐྱེད་གཏོང་བས་ཉེས་དམིགས་ཆེ་ལ། མ་བྱུང་ཡང་དང་པོ་ནས་དེའི་མཐའ་དགག་དགོས་སོ། །འགོག་ཚུལ་ནི།",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "lỗi hại sẽ rất lớn, vì [nó khiến] buông bỏ sự phát tâm",
+      "placedBy": "align",
+      "note": "khop dung chu; tieng Viet dao 'loi hai lon' len truoc 'buong bo phat tam'"
     },
     {
       "pdf": 530,
@@ -5561,8 +5567,10 @@
       "kind": "internal",
       "boTail": "་དུས་བཞིན་དུ་ཞུམ་པ་གཏན་མི་སྐྱེའོ། །འོན་ཀྱང་དེ་བཟང་རྟགས་མིན་གྱི། ལམ་གྱི་འགྲོ་ཚུལ་ལ་ངེས་པ་མ་",
       "boHead": "རྙེད་པའམ་གོ་བ་ཐར་ཐོར་ཡོད་ཀྱང་རང་གིས་ལག་ཏུ་མ་བླངས་པས་སླ་སླ་འདྲ་བ་ཞིག་གིས་བསྒྲིབས་པས་ལན་པ་ཡི",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "hoặc tuy có chút lãnh hội rời rạc nhưng tự mình chưa đem ra thực hành",
+      "placedBy": "align",
+      "note": "cum ma|rnyed pa bi ngat doi; 'chua tim duoc' dat truoc trong tieng Viet nen nam ben p530"
     },
     {
       "pdf": 532,
@@ -5571,8 +5579,10 @@
       "kind": "internal",
       "boTail": "དག་ནི་འཇིགས་པར་ཟད། །བསྐལ་པ་བྱེ་བ་གྲངས་མེད་དུ། །ལན་གྲངས་དུ་མར་བཅད་པ་དང༌། །དབུག་དང་བསྲེག་དང་",
       "boHead": "གཤེག་འགྱུར་གྱིས། །བྱང་ཆུབ་འཐོབ་པར་མི་འགྱུར་རོ། །བདག་གི་བྱང་ཆུབ་བསྒྲུབ་པ་ཡི། །སྡུག་བསྔལ་འདི",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "[thế mà] vẫn chẳng chứng được bồ-đề.",
+      "placedBy": "align",
+      "note": "'gshegs 'gyur gyis' (bi xe, dau p532) nam trong dong ke truoc do nen thuoc ben p531"
     },
     {
       "pdf": 533,
@@ -5581,8 +5591,10 @@
       "kind": "internal",
       "boTail": "་ལ་ཞུམ་པ་དགག་པ་ནི། སངས་རྒྱས་བསྒྲུབ་པ་ནི་འཁོར་བར་སྐྱེ་བ་མཐའ་ཡས་པ་བླངས་ནས་བྱེད་དགོས་ལ། དེའི་",
       "boHead": "ཚེ་འཁོར་བའི་སྡུག་བསྔལ་གྱིས་གནོད་པས་དེ་ལྟ་བུ་དེ་མི་ནུས་སོ་སྙམ་ན། བྱང་སེམས་ཀྱིས་སྡིག་སྤངས་པས",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "mà khi ấy lại bị khổ của luân hồi làm tổn hại",
+      "placedBy": "align",
+      "note": "cum de'i|tshe bi ngat doi: chi am tiet 'de'i' cuoi p532"
     },
     {
       "pdf": 534,
@@ -5599,8 +5611,10 @@
       "kind": "internal",
       "boTail": "ཏུ་མེད་པ་རྣམ་བཞི་ཡིས། །ཚོགས་ཀྱིས་རིང་པོར་མི་ཐོགས་པར། །ཇི་ལྟ་བུར་ན་འཐོབ་མི་འགྱུར། །ཞེས་སོ།།",
       "boHead": "དེས་ན་བྱམས་པ་དང་སྙིང་རྗེ་དང་བྱང་ཆུབ་ཀྱི་སེམས་ཆེས་ཤིན་ཏུ་ཤུགས་དྲག་ནས་ཡིད་བསྐྱོད་པས་སེམས་ཅན་",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "Vì thế, nếu do lòng từ, lòng bi và bồ-đề tâm",
+      "placedBy": "align",
+      "note": "khop dung chu: p534 het o 'zhes so'"
     },
     {
       "pdf": 536,
@@ -5609,8 +5623,10 @@
       "kind": "internal",
       "boTail": "ོབ་ཚུལ་རྣམས་ལེགས་པར་ཤེས་ཀྱང་ཞུམ་པ་མེད་པ་དང༌། ཡོན་ཏན་ངན་ངོན་ཙམ་གྱིས་ཆོག་ཤེས་མི་བྱེད་པ་གཉིས་",
       "boHead": "དང་ལྡན་པ་ཞིག་དགོས་པར་ཡང་ཡང་གསུངས་པ་ལ། ད་ལྟ་ནི་ཡོན་ཏན་ལྟར་སྣང་རེའམ་ཡོན་ཏན་མཚན་ཉིད་པ་ཡིན་ཀྱང",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "Thế nhưng ngày nay, hễ chỉ khởi lên được một phần nào đó",
+      "placedBy": "align",
+      "note": "tieng Viet dua khung 'da nhieu lan day rang can phai co du' (dang ldan pa zhig dgos par yang yang gsungs pa la, dau p536) len dau cau, nen doan ay nam ben p535; day la diem cat sai lech it nhat"
     },
     {
       "pdf": 537,
@@ -5619,8 +5635,10 @@
       "kind": "internal",
       "boTail": "དོད་པ་གཉིས་བསྐྱེད་པའི་ཕྱིར་རོ། །དེ་ཡང་ལས་འབྲས་སྤྱི་དང་ཁྱད་པར་དུ་བྱང་སེམས་ཀྱི་སྤྱོད་པ་རྣམས་",
       "boHead": "ཀྱི་ཕན་ཡོན་དང༌། དེ་དག་ལས་འདས་པའི་ཉེས་དམིགས་ཀྱི་རྒྱུ་འབྲས་སེམས་པ་ཡིན་ཏེ་སྐབས་ཀྱིས་ཤེས་སོ། །",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "cùng lỗi hại của việc vượt khỏi những hạnh ấy",
+      "placedBy": "align",
+      "note": "'kyi phan yon dang' (dau p537) dich thanh 'loi ich cua' dat truoc 'cac hanh bo-tat' nen nam ben p536"
     },
     {
       "pdf": 538,
@@ -5637,8 +5655,10 @@
       "kind": "internal",
       "boTail": "བསྒྲུབ་བོ་སྙམ་པ་ལ་ང་རྒྱལ་དང་འདྲ་བ་ཡོད་པས་དེར་བཏགས་པའོ། །ནུས་པའི་ང་རྒྱལ་ནི། འགྲོ་བ་རྣམས་ནི་",
       "boHead": "ཉོན་མོངས་ཀྱི་དབང་དུ་གྱུར་པས་རང་གི་དོན་ཡང་བསྒྲུབ་པར་མི་ནུས་ན་གཞན་གྱི་དོན་ལྟ་ཅི་སྨོས། བདག་གི",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "đã rơi vào quyền lực của phiền não nên ngay cả lợi ích",
+      "placedBy": "align",
+      "note": "khop dung chu: ''gro ba rnams ni' (chung sinh) cuoi p538"
     },
     {
       "pdf": 540,
@@ -5647,8 +5667,10 @@
       "kind": "internal",
       "boTail": "ད་གྱུར་ན། །ཁྭ་ཡང་མཁའ་ལྡིང་ལྟ་བུར་སྤྱོད། །གལ་ཏེ་བདག་ཉིད་ཉམ་ཆུང་ན། །ལྟུང་བ་ཆུང་ངུའང་གནོད་པར་",
       "boHead": "བྱེད། །ཞུམ་བཅས་རྩོལ་བ་དོར་བ་ལ། །ཕོངས་ལས་ཐར་བ་ཡོད་དམ་ཅི། །ཞེས་སོ།། ཤ་ར་བའི་ཞལ་ནས། ཆོས་བོར་བ",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "Với kẻ thối chí, đã vứt bỏ nỗ lực,",
+      "placedBy": "align",
+      "note": "cum gnod par|byed bi ngat doi: chi am tiet 'byed' nam ben p540"
     },
     {
       "pdf": 541,
@@ -5657,8 +5679,10 @@
       "kind": "internal",
       "boTail": "ན་མོངས་ཕར་ལ་གཞོམ་གྱི། དེས་ཚུར་ལ་ནམ་ཡང་འཇོམས་མི་ནུས་པར་བྱེད་པའི་བློའི་བརྟན་པ་བསྐྱེད་ཅིང་དམ་",
       "boHead": "བཅའ་བར་སྐབས་སུ་འདོར་བའི་ཉེས་དམིགས་བསམས་ལ། ལེགས་པར་བརྟགས་ནས་གང་བྱ་བར་ཡི་དམ་བཅས་པ་ཐམས་ཅད་ལ་མ",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "và hãy nghĩ đến lỗi hại của việc bỏ dở lời cam kết giữa chừng",
+      "placedBy": "align",
+      "note": "chu dam|bcha' (loi cam ket) bi ngat doi: 'dam' cuoi p540"
     },
     {
       "pdf": 542,
