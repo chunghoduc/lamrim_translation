@@ -8231,8 +8231,10 @@
       "kind": "internal",
       "boTail": "ེན་པ་དེ་བཟློག་པར་ནུས་ཀྱི། གང་དག་སྟོང་པ་ཉིད་ལ་དངོས་པོ་ཉིད་དུ་མངོན་པར་ཞེན་པ་དེ་དག་ལ་ནི། གཞན་",
       "boHead": "གང་གིས་ཀྱང་མངོན་པར་ཞེན་པ་དེ་བཟློག་པར་མི་ནུས་ཏེ། དཔེར་ན་ཅི་ཡང་མེད་དོ་ཞེས་སྨྲས་པ་ན་ཅི་ཡང་མེད",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "có thể ngăn dứt sự bám chấp ấy; ví như khi",
+      "placedBy": "align",
+      "note": "cum gzhan|gang gis kyang (chang gi khac) bi ngat doi: 'gzhan' cuoi p775"
     },
     {
       "pdf": 777,
@@ -8241,8 +8243,10 @@
       "kind": "internal",
       "boTail": "།ཅེས་གསུངས་ཤིང༌། གཞན་ཡང་གསུང་རབ་དང་བསྟན་བཅོས་ནས་སྟོང་པ་དང་བདག་མེད་པར་བལྟ་བ་རྣམས་མི་རུང་བར་",
       "boHead": "གསུངས་པ་རྣམས་ཀྱང་སྔར་བཤད་པ་ལྟར་ཤེས་དགོས་ཏེ། དེ་ལྟ་མ་ཡིན་ན། ཤཱ་རིའི་བུས་སྤྱན་རས་གཟིགས་ལ་ཤེར",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "cũng cần phải được hiểu như đã giải thích ở trước",
+      "placedBy": "align",
+      "note": "'gsungs pa rnams kyang' (nhung loi day rang, dau p777) dich dat truoc nen nam ben p776"
     },
     {
       "pdf": 778,
@@ -8259,8 +8263,10 @@
       "kind": "internal",
       "boTail": "ང་ལྡན་པ་སྟེ། ངོ་བོ་རྒྱུ་དང་རྐྱེན་གྱིས་མ་བསྐྱེད་པ་དང་། གནས་སྐབས་གཞན་དུ་མི་འགྱུར་བ་དང་། རྣམ་",
       "boHead": "འཇོག་གཞན་ལ་མི་ལྟོས་པའོ། །དེ་ཡང་དབུ་མའི་རྩ་བ་ལས། རང་བཞིན་རྒྱུ་དང་རྐྱེན་ལས་ནི། །འབྱུང་བར་རིག",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "và sự an lập nó thì chẳng nương vào cái khác",
+      "placedBy": "align",
+      "note": "chu rnam|'jog (su an lap) bi ngat doi: 'rnam' cuoi p778"
     },
     {
       "pdf": 780,
@@ -8269,8 +8275,10 @@
       "kind": "internal",
       "boTail": "ང་བདེན་པར་གྲུབ་ནའང་རྒྱུ་རྐྱེན་གྱིས་མ་བསྐྱེད་པ་སོགས་སུ་འགྱུར་དགོས་ནའང་། དེ་དག་ནི་དོན་དམ་པར་",
       "boHead": "གྲུབ་པ་སོགས་ཀྱི་དོན་མིན་ཏེ། དཔེར་ན་བུམ་པ་ལ་མི་རྟག་པས་ཁྱབ་ཀྱང་མི་རྟག་པ་བུམ་པའི་དོན་དུ་མི་རུ",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "vẫn chẳng phải là ý nghĩa của",
+      "placedBy": "align",
+      "note": "cum don dam par|grub pa bi ngat doi: 'don dam par' cuoi p779 nam ben p780"
     },
     {
       "pdf": 781,
@@ -8287,8 +8295,10 @@
       "kind": "internal",
       "boTail": "ེས་བཞག་པ་ཡིན་ཏེ། བཅོས་མ་མིན་པ་དང་གཞན་ལ་རག་ལས་པ་མིན་པའོ། །དེ་ནི་ཡོད་དེ། འཇུག་འགྲེལ་ལས། ཁྱད་",
       "boHead": "པར་དུ་མཛད་པ་རྣམ་པ་དེ་ལྟ་བུའི་རང་བཞིན་སློབ་དཔོན་གྱིས་ཞལ་གྱིས་བཞེས་པ་ཞིག་ཡོད་དམ་ཞེ་ན། གང་གི་",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "Nếu hỏi: Phải chăng có một tự tánh mang những nét đặc trưng như thế",
+      "placedBy": "align",
+      "note": "cum khyad|par du mdzad pa (net dac trung) bi ngat doi: 'khyad' cuoi p781"
     },
     {
       "pdf": 783,
@@ -8297,8 +8307,10 @@
       "kind": "internal",
       "boTail": "མ་བཅོས་པ་གང་ཞིག་སྔར་མ་བྱུང་བ་ལས་ཕྱིས་འབྱུང་བ་མ་ཡིན་པ་གང་ཞིག་ཆུའི་ཚ་བའམ་ཚུ་རོལ་དང་ཕ་རོལ་ལམ་",
       "boHead": "རིང་པོ་དང་ཐུང་ངུ་ལྟར་རྒྱུ་དང་རྐྱེན་ལ་བལྟོས་པ་དང་བཅས་པར་མ་གྱུར་པ་གང་ཡིན་པ་དེ་རང་བཞིན་ཡིན་པར",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "cái nào mà chẳng trở thành có nương vào nhân và duyên",
+      "placedBy": "align",
+      "note": "tieng Viet dao ve 'chang tro thanh co nuong vao nhan duyen' (p783) len truoc danh sach vi du, nen 'chu'i tsha ba'am tshu rol dang pha rol lam' cuoi p782 nam ben p783; day la diem cat sai lech it nhat"
     },
     {
       "pdf": 784,
@@ -8315,8 +8327,10 @@
       "kind": "internal",
       "boTail": "ང་ཡིན་པ་འདི་ཉིད་དེ་རྣམས་ཀྱི་རང་བཞིན་ཡིན་ན་ནི། རང་བཞིན་དེ་ཕྱིན་ཅི་ལོག་ཏུ་གྱུར་པས་ཀྱང་རྟོགས་",
       "boHead": "པའི་ཕྱིར། ཚངས་པར་སྤྱོད་པ་དོན་མེད་པར་འགྱུར་ན། གང་གི་ཕྱིར་འདི་ཉིད་རང་བཞིན་མ་ཡིན་པ་དེའི་ཕྱིར་",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "nên phạm hạnh sẽ trở thành vô nghĩa",
+      "placedBy": "align",
+      "note": "cum rtogs|pa'i phyir bi ngat doi: 'pa'i phyir' dau p785 nam ben p784"
     },
     {
       "pdf": 786,
@@ -8325,8 +8339,10 @@
       "kind": "internal",
       "boTail": "་བློ་དེའི་ངོ་ན་མེད་པས་དེ་གཉིས་ཆོས་ཉིད་དང་ཆོས་ཅན་དུ་འཇོག་པ་ནི་ཐ་སྙད་པའི་བློ་གཞན་ཞིག་གི་ངོས་",
       "boHead": "ནས་བཞག་དགོས་སོ། །དེ་ལྟར་ན་དོན་དམ་པའི་བདེན་པ་ནི་རང་གི་ངོ་བོས་གྲུབ་པའི་སྤྲོས་པ་ཐམས་ཅད་ཞི་བའི",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "Như vậy, thắng nghĩa đế được đặt để nơi chỉ riêng",
+      "placedBy": "align",
+      "note": "'nas bzhag dgos so' (phai duoc dat de, dau p786) dich dat truoc nen nam ben p785"
     },
     {
       "pdf": 787,
