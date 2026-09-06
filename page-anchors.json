@@ -8715,8 +8715,10 @@
       "kind": "internal",
       "boTail": "དེ་ངེས་པའི་གཞི་ཚང་མང་དུ་མི་རུང་བས། གཞི་འདིའི་སྟེང་དུ་ངེས་དགོས་པའི་གཞི་བསྟན་དགོས་སོ། །དཔེར་",
       "boHead": "ན་སྒྲའི་སྟེང་དུ་ངེས་པར་བྱ་རྒྱུའི་བསྒྲུབ་བྱའི་ཆོས་མི་རྟག་པ་དེ་སྒྲ་བུམ་གཉིས་ཀ་ལ་རྗེས་སུ་འགྲོ",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "Ví như: pháp phải thành lập là vô thường",
+      "placedBy": "align",
+      "note": "cum dper|na (Vi nhu) bi ngat doi: 'dper' cuoi p820"
     },
     {
       "pdf": 822,
@@ -8725,8 +8727,10 @@
       "kind": "internal",
       "boTail": "ར་དམ་བཅས་པའི་དོན་དེ་ཡང་རིགས་ཤེས་ཀྱིས་མི་ཁེགས་པར་འགྱུར་ཏེ། རྒྱུ་མཚན་མཚུངས་པའི་ཕྱིར་རོ། །གལ་",
       "boHead": "ཏེ་དེ་ཁོ་ན་ཉིད་ལ་དཔྱོད་པའི་སྐབས་སུ་རང་བཞིན་ཡོད་པར་དམ་བཅས་པའི་དོན་ཡང་མི་ཁེགས་སོ་སྙམ་ན། དེ་ན",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "Nếu [ông] nghĩ rằng: vào lúc thẩm sát về thật tánh thì nghĩa",
+      "placedBy": "align",
+      "note": "cum gal|te (Neu) bi ngat doi: 'gal' cuoi p821"
     },
     {
       "pdf": 823,
@@ -8735,8 +8739,10 @@
       "kind": "internal",
       "boTail": "ུ་མ་པའི་རིགས་པས་རྣམ་པར་དཔྱོད་པའི་དུས་མི་སྲིད་པར་འདོད་དགོས་ལ། སྐབས་དེ་འཇོག་ན་ནི་དཔྱོད་པ་པོ་",
       "boHead": "དང་དཔྱོད་པའི་རིགས་པ་དང་དཔྱོད་པའི་གཞི་དང་གང་དང་ལྷན་ཅིག་དཔྱོད་པའི་ཕྱི་རྒོལ་སོགས་ཀྱང་ངེས་པར་འ",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "chánh lý dùng để thẩm sát, cơ sở được thẩm sát",
+      "placedBy": "align",
+      "note": "khop dung chu: 'dpyod pa po' (nguoi tham sat) cuoi p822"
     },
     {
       "pdf": 824,
@@ -8753,8 +8759,10 @@
       "kind": "internal",
       "boTail": "་མ་མཐོང་བ། ཁྱོད་ནི་རང་གི་སྐྱོན་རྣམས་ནི། །ཞེས་སོགས་སྔར་དྲངས་པ་ལྟར་གསུངས་པའི་དབུ་མ་པའི་ལུགས་",
       "boHead": "དོན་དམ་པ་གཏན་ལ་འབེབས་པའི་ཚད་མ་དང་ཐ་སྙད་པའི་ཚད་མའི་ལམ་ནས་འོངས་པའི་རྣམ་གཞག་སྐྱོན་གདགས་སུ་མེད",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "các sự an lập đến theo con đường của lượng quyết trạch thắng nghĩa",
+      "placedBy": "align",
+      "note": "khop dung chu: 'dbu ma pa'i lugs' cuoi p824; ve 'phai tim cho duoc su xac quyet' (p825) dich dat truoc nen nam ben p824"
     },
     {
       "pdf": 826,
@@ -8763,8 +8771,10 @@
       "kind": "internal",
       "boTail": "ད་པའི་ཕྱིར་རོ་ཞེས་ལན་བཏབ་པས་ཆོག་པའི་ཕྱིར་རོ། །གང་ཟག་རྫས་སུ་ཡོད་ཅེས་སྨྲ་ན་ཕུང་པོ་དང༌དེ་ཉིད་",
       "boHead": "དང་གཞན་དུ་མེད་པ་འགལ་བས་དེ་དག་ཏུ་བརྗོད་དུ་མེད་པ་མི་འཐད་པས་དཔྱད་པ་དེ་འཇུག་གོ་ཞེས་སྨྲ་ན་ནི། ཅ",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "mà cũng chẳng phải là khác [với các uẩn] là điều mâu thuẫn",
+      "placedBy": "align",
+      "note": "khop dung chu: 'phung po dang de nyid' cuoi p825"
     },
     {
       "pdf": 827,
@@ -8773,8 +8783,10 @@
       "kind": "internal",
       "boTail": "་ཁས་བླང་དགོས་པའི་ཕྱིར། ཁས་བླངས་ལས་གྲོལ་བ་མེད་དོ། །དེའི་ཚེ་གང་གི་ངོར་བཞག་པའི་གཞན་དང་འཇོག་པ་",
       "boHead": "པོ་རང་ལ་སོགས་པ་རྣམས་ཁས་བླང་དགོས་པས་གཞན་ངོ་ཙམ་དུ་ཁས་བླངས་སོ་ཞེས་སྨྲས་པས་ནི། རང་ལུགས་མེད་པ་ལ",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "cùng chính mình là kẻ đặt để v.v.",
+      "placedBy": "align",
+      "note": "cum 'jog pa|po (ke dat de) bi ngat doi: ''jog pa' cuoi p826"
     },
     {
       "pdf": 828,
