@@ -8955,8 +8955,10 @@
       "kind": "internal",
       "boTail": "རིབ་ཅན་གྱིས་སྐྲ་ཤད་ལ་སོགས་པ་ལྟར་ཕྱིན་ཅི་ལོག་གིས་ཡོད་པ་མ་ཡིན་པ་ཡོད་པ་ཉིད་དུ་འཛིན་པ་དེའི་ཚེ་",
       "boHead": "ནི་ཡོད་པར་གྱུར་པའི་དོན་ཆ་ཙམ་ཡང་དམིགས་པར་ག་ལ་འགྱུར། གང་གི་ཚེ་རབ་རིབ་ཅན་མ་ཡིན་པས་སྐྲ་ཤད་ལ་སོ",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "làm sao có thể nhận thấy được dù chỉ một phần của nghĩa vốn là có?",
+      "placedBy": "align",
+      "note": "khop dung chu: 'de'i tshe' (thi khi ay) cuoi p842"
     },
     {
       "pdf": 844,
@@ -8965,8 +8967,10 @@
       "kind": "internal",
       "boTail": "དོན་དམ་པར་རང་བཞིན་ཡོད་པར་འདོད་པའི་དངོས་པོར་སྨྲ་བ་དང་། ཐ་སྙད་དུ་དེ་དག་ལ་རང་གི་མཚན་ཉིད་ཀྱིས་",
       "boHead": "གྲུབ་པའི་རང་བཞིན་ཡོད་པར་འདོད་པའི་རང་རྒྱུད་པ་གཉིས་ཀ་ཡིན་ནོ། །དབུ་མ་རང་རྒྱུད་པ་ལའང་ངོ་བོ་ཉིད",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "trong danh ngôn, ⟪⟫có tự tánh được thành lập bằng tự tướng.",
+      "placedBy": "align",
+      "note": "'rang rgyud pa' (nha Tu Lap, p844) dich dat truoc nen ve dau p844 mot phan nam ben p843"
     },
     {
       "pdf": 845,
@@ -8983,8 +8987,10 @@
       "kind": "internal",
       "boTail": "ག་ལ་སོགས་པའི་ཤེས་པ་ཐ་སྙད་པ་མ་རིག་པས་བསླད་པ་རྣམས་སོ། །དེ་དག་གིས་ཡོད་པ་མ་ཡིན་པ་ཡོད་པ་ཉིད་དུ་",
       "boHead": "འཛིན་པ་ཞེས་པ་ནི། གཟུགས་སྒྲ་སོགས་ལ་རང་གི་ངོ་བོ་ཉིད་ཀྱིས་གྲུབ་པའི་མཚན་ཉིད་མེད་བཞིན་དུ་དབང་པོ",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "thì [nghĩa là]: nơi sắc, thanh v.v., tuy chẳng có tướng",
+      "placedBy": "align",
+      "note": "''dzin pa zhes pa ni' (dau p846) nam trong cau trich dan o ben p845"
     },
     {
       "pdf": 847,
