@@ -9007,8 +9007,10 @@
       "kind": "internal",
       "boTail": "ད་པ་ནི། སྔར་ཡང་བཤད་ཅིང་ད་དུང་ཡང་འཆད་པས་ལན་དེ་ནི་རིགས་པ་མ་ཡིན་ནོ། ། དཔེ་བཀོད་པ་དང་མི་འདྲ་བ།",
       "boHead": "གཉིས་པ་དཔེ་བཀོད་པ་དང་མི་འདྲ་བ་ནི། ཚིག་གསལ་ལས། དཔེ་ལ་ཡང་འདྲ་བ་ཡོད་པ་མ་ཡིན་ནོ། །དེར་ནི་སྒྲའི",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "Thứ hai, [về việc] chẳng tương tự với thí dụ đã nêu",
+      "placedBy": "align",
+      "note": "khop dung chu: dong sa-bcad (de muc) la chu cuoi p847"
     },
     {
       "pdf": 849,
@@ -9017,8 +9019,10 @@
       "kind": "internal",
       "boTail": "པ་མ་ཡིན་ནོ་ཞེས་པའི་དོན་ནོ། ། མ་འཁྲུལ་བ་ནི། སྤྱིར་ནི་དོན་དམ་བདེན་པ་མངོན་སུམ་དུ་འཇལ་བའི་མཉམ་",
       "boHead": "གཞག་ཡིན་མོད་ཀྱང༌། འདིར་ནི་སྣང་ཡུལ་རང་མཚན་ལ་མ་འཁྲུལ་བའི་མངོན་སུམ་ཚད་མ་དང་ཞེན་ཡུལ་རང་མཚན་ལ་མ",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "nhưng ở đây [chữ ấy] phải được dùng cho cả hai",
+      "placedBy": "align",
+      "note": "chu mnyam|gzhag (dang dan) bi ngat doi: 'gzhag yin mod kyang' dau p849 nam ben p848"
     },
     {
       "pdf": 850,
@@ -9035,8 +9039,10 @@
       "kind": "internal",
       "boTail": "ས་མང་དུ་བྱེད་པ་རྣམས་ཕྱིས་ལྟ་བ་རྙེད་པའི་ལུགས་སུ་བྱས་པ་ན། སྔ་མ་ཐམས་ཅད་མཚན་མར་འཛིན་པ་འཁོར་བར་",
       "boHead": "འཆིང་བྱེད་དུ་མཐོང་ནས། དགེ་སྦྱོར་དེ་དག་ནི་འདི་འདྲ་བའི་ངེས་དོན་གྱི་ལྟ་བ་མ་རྙེད་པ་རྣམས་ལ་གསུང",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "rồi sinh khởi cái hiểu rằng",
+      "placedBy": "align",
+      "note": "''ching byed du mthong nas' (dau p851) dich thanh 'ho thay... la cai troi buoc' dat truoc nen nam ben p850"
     },
     {
       "pdf": 852,
@@ -9045,8 +9051,10 @@
       "kind": "internal",
       "boTail": "ྱེ་མི་སྲིད་པར་ཐལ་བའི་ཕྱིར་རོ། ། སློབ་དཔོན་ལེགས་ལྡན་འབྱེད་ལ་སོགས་པ་ཆོས་རྣམས་ལ་རང་གི་ངོ་བོས་",
       "boHead": "གྲུབ་པའི་རང་གི་མཚན་ཉིད་ཐ་སྙད་དུ་བཞེད་པའི་དབུ་མ་པ་རྣམས། རང་རྒྱུད་ཀྱི་རྟགས་རང་གི་ལུགས་ལ་ཞལ་ག",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "Còn các nhà Trung Quán như A-xà-lê Thanh Biện v.v.",
+      "placedBy": "align",
+      "note": "tieng Viet dao manh (dbu ma pa rnams, tha snyad du bzhed pa'i cua p852 dat len truoc), nen 've slob dpon legs ldan 'byed... rang gi ngo bos' cuoi p851 nam ben p852; day la diem cat de doc va sai lech khong hon cac diem khac"
     },
     {
       "pdf": 853,
