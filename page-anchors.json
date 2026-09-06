@@ -2911,8 +2911,10 @@
       "kind": "internal",
       "boTail": " བརྒྱ་བྱིན་འཇིག་རྟེན་མཆོད་འོས་གྱུར་ནས་ནི། །ལས་ཀྱི་དབང་གིས་ཕྱིར་ཡང་ས་སྟེང་ལྟུང༌། །འཁོར་ལོས་",
       "boHead": "བསྒྱུར་བ་ཉིད་དུ་གྱུར་ནས་ཀྱང༌། །འཁོར་བ་དག་ཏུ་ཡང་བྲན་ཉིད་དུ་འགྱུར། །མཐོ་རིས་བུ་མོའི་ནུ་མ་རྐེ",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "trong luân hồi lại cũng thành kẻ tôi tớ.",
+      "placedBy": "align",
+      "note": "'khor los | bsgyur ba (Chuyển Luân Vương) bị ngắt đôi"
     },
     {
       "pdf": 286,
@@ -2921,8 +2923,10 @@
       "kind": "internal",
       "boTail": "ླ་བའི་འོད་ནི་རྟེན་དང་བརྟེན་པ་མ་ཕྱེ་བར་འཇིག་རྟེན་ན་གྲགས་པ་ལྟར་བཤད་པ་སྟེ། ཕྱེ་ན་དེ་གཉིས་ཀྱི་",
       "boHead": "གཞལ་མེད་ཁང་གི་འོད་དོ། །འདི་དག་གིས་མཚོན་ནས་མཐོ་ས་ནས་དམའ་སར་འགྲོ་བའི་ཚུལ་ཐམས་ཅད་བསམས་ནས་སྲིད",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "ánh sáng nơi vô lượng cung của hai vị ấy",
+      "placedBy": "align",
+      "note": "de gnyis kyi (của hai vị ấy) khép p285; tiếng Việt đặt sở hữu ngữ ở cuối"
     },
     {
       "pdf": 287,
@@ -2939,8 +2943,10 @@
       "kind": "internal",
       "boTail": "ི། ཟག་པ་དང་བཅས་པའི་ཚོར་བ་བཏང་སྙོམས་ཏེ། གནས་ངན་ལེན་རྗེས་སུ་འབྲེལ་བས་འདུ་བྱེད་ཀྱི་སྡུག་བསྔལ་",
       "boHead": "ལོ། །འདི་ཡང་ཚོར་བ་གཅིག་པུ་ལ་མི་བྱ་བ་ནི་སྔར་ལྟར་རོ། །འདི་ནི་ལས་དང་ཉོན་མོངས་པ་སྔ་མའི་གཞན་དབང",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "Rằng điều này cũng không được quy cho riêng một mình cảm thọ",
+      "placedBy": "align",
+      "note": "sdug bsngal | lo bị ngắt đôi"
     },
     {
       "pdf": 289,
@@ -2949,8 +2955,10 @@
       "kind": "internal",
       "boTail": "ེ་ཙམ་དུ་བདེ་བ་མེད་པ་བཞིན་དུ། ཉེ་བར་ལེན་པའི་ཕུང་པོའི་ཁུར་ཡང་ཇི་སྲིད་བཟུང་དགོས་པ་དེ་སྲིད་དུ་",
       "boHead": "སྡུག་བསྔལ་བར་འགྱུར་ཏེ། ཕུང་པོ་འདི་ལ་སྡུག་བསྔལ་དང་ཉོན་མོངས་ཀྱི་གནས་ངན་ལེན་བརྟན་ཆགས་པར་ཡོད་པ",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "vẫn còn khổ. Bởi vì nơi uẩn này",
+      "placedBy": "align",
+      "note": "khớp đúng chữ"
     },
     {
       "pdf": 290,
@@ -2967,8 +2975,10 @@
       "kind": "internal",
       "boTail": "བདུན་ནི་སྔར་བཤད་པས་ཤེས་པར་བྱའོ། །གཞན་ཡང་ཚོགས་ཀྱི་གཏམ་ལས། ངན་འགྲོའི་སྡུག་བསྔལ་མ་ལུས་པ། །མི་",
       "boHead": "རྣམས་ལ་ཡང་ཡོད་པར་སྣང༌། །སྡུག་བསྔལ་གཟིར་བས་དམྱལ་བ་མཚུངས། །དབུལ་བས་གཤིན་རྗེའི་འཇིག༌རྟེན་པ། །",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "cũng thấy là có nơi loài người.",
+      "placedBy": "align",
+      "note": "mi | rnams (loài người) bị ngắt đôi"
     },
     {
       "pdf": 292,
@@ -2977,8 +2987,10 @@
       "kind": "internal",
       "boTail": "་སྡུག་བསྔལ་གསུམ་སྟེ། འཆི་འཕོ་བ་དང་ལྟུང་བའི་སྡུག་བསྔལ་དང༌། སྤ་གོང་བའི་སྡུག་བསྔལ་དང༌། བཅད་པ་",
       "boHead": "དང་དྲལ་བ་དང་གསོད་པ་དང་སྤྱུག་པའི་སྡུག་བསྔལ་ལོ། ། དང་པོ་ལ་གཉིས་ལས། འཆི་འཕོ་བའི་སྡུག་བསྔལ་ནི།",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "bị xẻ, bị giết và bị trục xuất",
+      "placedBy": "align",
+      "note": "bcad pa | dang dral ba bị ngắt đôi"
     },
     {
       "pdf": 293,
@@ -2995,8 +3007,10 @@
       "kind": "internal",
       "boTail": "ནས། །དེ་ཡང་ཤིན་ཏུ་ངེས་གྲོལ་མིན། །དེ་ལས་སླར་ཡང་ལྟུང་བར་འགྱུར། །ངན་འགྲོའི་སྡུག་བསྔལ་རྦ་ཀློང་",
       "boHead": "ལས། །འདས་པ་ལྟ་བུར་བྱུང་གྱུར་ལ། །འབད་ཀྱང་ཇི་ལྟར་རིང་མི་གནས། །མཁའ་ལ་ལྡིང་བའི་བྱ་དང་མཚུངས། །བ",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "[Họ] dường như đã vượt qua rồi;",
+      "placedBy": "align",
+      "note": "rba klong | las bị ngắt đôi"
     },
     {
       "pdf": 295,
@@ -3013,8 +3027,10 @@
       "kind": "internal",
       "boTail": "་ལ་གནོད་པ་བྱ་བར་སེམས་པའོ། ། ང་རྒྱལ་ནི། འཇིག་ལྟ་ལ་བརྟེན་ཏེ་ཕྱིའམ་ནང་གི་མཐོ་དམན་དང་བཟང་ངན་ལ་",
       "boHead": "དམིགས་ནས་སེམས་ཁེངས་པ་སྟེ། མཐོ་བའི་རྣམ་པ་ཅན་དུ་འཇུག་པའོ། ། མ་རིག༌པ་ནི། བདེན་བཞི་དང་ལས་འབྲས་",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "mà tâm tự cao; nó vận hành với hành tướng vươn cao",
+      "placedBy": "align",
+      "note": "dmigs nas (duyên vào) mở p296 nhưng tiếng Việt đặt động từ trước tân ngữ"
     },
     {
       "pdf": 297,
@@ -3023,8 +3039,10 @@
       "kind": "internal",
       "boTail": "གི་འཇུག་པ་ངེས་པར་བྱེད་པའི་བརྟུལ་ཞུགས་དང༌། གང་ལ་བརྟེན་ནས་དེ་དག་འབྱུང་བའི་ཕུང་པོ་ལ་དམིགས་ནས་",
       "boHead": "སྡིག་པ་འདག་པ་དང་ཉོན་མོངས་ལས་གྲོལ་བ་དང་འཁོར་བ་ལས་ངེས་པར་འབྱིན་པར་ལྟ་བའི་ཤེས་རབ་ཉོན་མོངས་ཅན་",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "rồi thấy [chúng] là tịnh trừ được tội lỗi",
+      "placedBy": "align",
+      "note": "khớp đúng chữ"
     },
     {
       "pdf": 298,
@@ -3041,8 +3059,10 @@
       "kind": "internal",
       "boTail": "དང༌། མྱང་འདས་ལས་རིང་དུ་དང༌། དགེ་བ་ལས་ཉམས་པར་བྱེད་པ་དང་། ལོངས་སྤྱོད་ལས་ཉམས་པ་དང་། འཁོར་གྱི་",
       "boHead": "ནང་དུ་སོང་བ་ན་ཡིད་ཞུམ་པ་དང་། དགའ་བ་དང་མི་འཇིགས་པ་མེད་པ་དང༌། ཕྱོགས་མཚམས་ཀུན་ཏུ་མི་སྙན་པ་འཕེ",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "khi đi vào giữa hội chúng",
+      "placedBy": "align",
+      "note": "'khor gyi | nang du bị ngắt đôi"
     },
     {
       "pdf": 300,
@@ -3059,8 +3079,10 @@
       "kind": "internal",
       "boTail": "་པ་ལྟར། རང་དང་མཚུངས་པར་ལྡན་པའི་སེམས་ཡུལ་རྣམས་ལ་གཡོ་ཞིང་སྐུལ་བར་བྱེད་པའི་སེམས་བྱུང་ཡིད་ཀྱི་",
       "boHead": "ལས་སོ། ། གཉིས་པ་ནི། སེམས་པ་དེས་ཀུན་ནས་བསླངས་པའི་ལུས་ངག་གི་ལས་ཏེ། མཛོད་ལས། ལས་ནི་སེམས་པ་དང་",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "Thứ hai: là nghiệp của thân và ngữ được phát khởi",
+      "placedBy": "align",
+      "note": "yid kyi | las so bị ngắt đôi"
     },
     {
       "pdf": 302,
@@ -3069,8 +3091,10 @@
       "kind": "internal",
       "boTail": "ུ་ཁམས་གོང་མར་ས་གཞན་དུ་སྨིན་རྒྱུའི་ལས། ས་དེ་ལས་གཞན་དུ་མི་སྨིན་པས་མི་གཡོ་བ་ཞེས་བྱ་སྟེ། མཛོད་",
       "boHead": "ལས། གང་ཕྱིར་ས་ནི་དེ་དག་ཏུ། །ལས་རྣམས་སྨིན་ཕྱིར་མི་གཡོའི་ཕྱིར། །ཞེས་གསུངས་པའི་ཕྱིར་རོ།། དེ་ཇ",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "Bởi vì các nghiệp chín muồi",
+      "placedBy": "align",
+      "note": "mdzod | las bị ngắt đôi"
     },
     {
       "pdf": 303,
@@ -3087,8 +3111,10 @@
       "kind": "internal",
       "boTail": "ན། དེ་དག་ནི་ངོ་བོ་ཉིད་ཀྱིས་ཡང་འབྱུང་བའི་སྲིད་པ་ལ་མི་ཕྱོགས་པ་ཡིན་མོད་ཀྱི། འོན་ཀྱང་ཡང་འབྱུང་",
       "boHead": "བའི་ལུས་དང་ངག་དང་ཡིད་ཀྱིས་ལེགས་པར་སྤྱད་པ་དང་རྗེས་སུ་མཐུན་པ་ཡིན་པས་དེའི་ཕྱིར་ཀུན་འབྱུང་བའི་",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "thế nhưng vì chúng tùy thuận với sự khéo hành trì",
+      "placedBy": "align",
+      "note": "yang 'byung | ba'i lus bị ngắt đôi"
     },
     {
       "pdf": 305,
@@ -3105,8 +3131,10 @@
       "kind": "internal",
       "boTail": "་བར་ཟ་བ་དང༌། མ་ཞུ་བ་ལྟོར་བསགས་པ་འབྱིན་པར་མི་བྱེད་པ་དང༌། སྨིན་པ་བསྒགས་པ་དང༌། སྨན་སོ་སོར་མི་",
       "boHead": "བསྟེན་པ་དང༌། གོམས་པ་དང་མ་གོམས་པ་མི་ཤེས་པ་དང༌། དུས་མ་ཡིན་པར་འགྲོ་བ་དང༌། མི་ཚངས་པར་སྤྱོད་པའོ",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "không biết cái gì đã quen và cái gì chưa quen",
+      "placedBy": "align",
+      "note": "mi | bsten pa bị ngắt đôi"
     },
     {
       "pdf": 307,
@@ -3115,8 +3143,10 @@
       "kind": "internal",
       "boTail": "ྡུག་བསྔལ་གྱི་ཚོར་བ་དྲག་པོ་མྱོང་བ་དང་མི་དགེ་བའི་ལས་བྱེད་བྱེད་པ་འཆི་བའི་ཚེ་ནི། མི་དགེ་བ་སྔར་",
       "boHead": "བྱས་པའི་ལས་ཀྱི་འབྲས་བུའི་སྔ་ལྟས་རྣམས་འདིར་མྱོང་སྟེ། རྨི་ལམ་བཞིན་དུ་གཟུགས་མི་སྡུག་པ་དུ་མ་དེ",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "các điềm báo trước về quả của nghiệp bất thiện",
+      "placedBy": "align",
+      "note": "sngar | byas pa bị ngắt đôi; tiếng Việt đảo trật tự định ngữ"
     },
     {
       "pdf": 308,
@@ -3125,8 +3155,10 @@
       "kind": "internal",
       "boTail": "དྲན་ལ་གཞན་གྱིས་ཀྱང་དྲན་པར་མ་བྱས་པའོ། །དེ་ནི་འཆི་བའི་ཚེ་བདེ་སྡུག་གཉིས་ཀ་དང་མི་ལྡན་ནོ། །དགེ་",
       "boHead": "བའི་སེམས་ཀྱིས་འཆི་བ་ནི་འདུ་ཤེས་རགས་པ་ཡོད་པའི་བར་ལ་ཡིན་གྱི། འདུ་ཤེས་ཆ་ཕྲ་མོ་རྒྱུ་བའི་ཚེ་ནི་",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "Chết với tâm thiện thì chỉ là trong khoảng",
+      "placedBy": "align",
+      "note": "dge | ba'i sems bị ngắt đôi"
     },
     {
       "pdf": 309,
@@ -3143,8 +3175,10 @@
       "kind": "internal",
       "boTail": "གྱི་ལུས་ལ་འདོད་པ་མི་འབྱུང་བར་རྣལ་འབྱོར་སྤྱོད་པའི་སར་གསུངས་པས། སྔོན་གྱི་ལུས་མཐོང་ནས་ཡིད་མི་",
       "boHead": "བདེ་སྐྱེ་བར་འདོད་པ་ཡང་སྒྲོ་བཏགས་སོ།། མི་དགེ་བ་བྱེད་པའི་བར་སྲིད་ནི། ཕྱར་བ་ནག་པོའམ་མཚན་མོ་མུ",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "khổ cũng là sự gán đặt.",
+      "placedBy": "align",
+      "note": "yid mi | bde (buồn khổ) bị ngắt đôi"
     },
     {
       "pdf": 311,
@@ -3153,8 +3187,10 @@
       "kind": "internal",
       "boTail": "རྗེས་ནས་ཞག་བདུན་ཕྲག་བདུན་ཚུན་ཆད་དུ་གནས་ཀྱི། དེ་ཚུན་ཆད་དུ་ངེས་པར་སྐྱེ་བའི་རྐྱེན་རྙེད་པས་དེ་",
       "boHead": "ཕན་ཆད་མི་གནས་སོ། །གཞུང་ཁུངས་མ་གང་ནས་ཀྱང་དེ་ལས་རིང་བ་མ་བཤད་པས། དེ་ལས་རིང་བ་གནས་པར་འདོད་པ་ནི",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "thì không trụ nữa. Vì chẳng một bản văn",
+      "placedBy": "align",
+      "note": "khớp đúng chữ"
     },
     {
       "pdf": 312,
@@ -3163,8 +3199,10 @@
       "kind": "internal",
       "boTail": "ག་པོའི་སྐབས་སུ་བབ་པ་ན་མཇུག་ཁོ་ནར་ཁུ་བ་བསྐ་བ་འབྱུང་ལ། དེའི་རྗེས་ལ་གཉིས་ཀ་ལས་ཁུ་ཁྲག་གི་ཐིགས་",
       "boHead": "པ་གཉིས་གདོན་མི་ཟ་བར་འབྱུང་སྟེ། དེ་གཉིས་མའི་སྐྱེ་གནས་སུ་འདྲེས་ནས། དཔེར་ན་འོ་མ་བསྐོལ་བ་གྲངས་",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "Hai [giọt] ấy hòa lẫn trong chỗ thọ sinh",
+      "placedBy": "align",
+      "note": "thigs | pa gnyis (hai giọt) bị ngắt đôi; \"nhất định phát sinh\" thuộc p312 nhưng đứng trước dấu"
     },
     {
       "pdf": 313,
