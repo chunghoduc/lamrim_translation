@@ -32,6 +32,9 @@ function inline(s) {
   s = s.replace(/\*\*([^*]+)\*\*/g, '<strong>$1</strong>');
   s = s.replace(/(?<!\*)\*([^*\n]+)\*(?!\*)/g, '<em>$1</em>');
   s = s.replace(/\u0000(\d+)\u0000/g, (m, i) => `<code>${esc(code[+i])}</code>`);
+  // Page markers 【N】 are apparatus, not prose: wrap them so the stylesheet can
+  // set them small and grey. Done after esc() — the bracket glyphs are not escaped.
+  s = s.replace(/(【\*?\d+】)/g, '<span class="pg">$1</span>');
   return s;
 }
 
@@ -142,6 +145,11 @@ blockquote p { margin: 0 0 .5em; }
 p.verse { text-align: left; text-indent: -1.2em; padding-left: 1.2em;
              line-height: 1.45; }
 em { font-style: italic; }
+/* 【22】 = printed folio of the Sera Jey edition, 【*5】 = unnumbered front matter.
+   Small, grey and raised: findable when checking a passage against the original,
+   but out of the way of the line the reader is following. Never break one. */
+.pg { font-family: Calibri, "Segoe UI", sans-serif; font-size: .68em; color: #909090;
+      vertical-align: .3em; letter-spacing: -.02em; white-space: nowrap; }
 /* The front matter carries the edition's apparatus criticus in Tibetan (variant readings
    marked *བསྒྲུབས), so the Tibetan face has to be in the stack or those lines print as
    tofu. Microsoft Himalaya ships with Windows; Jomolhari/Kailasa are the usual fallbacks. */
