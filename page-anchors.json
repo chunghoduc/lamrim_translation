@@ -9187,8 +9187,10 @@
       "kind": "internal",
       "boTail": "ས་པ་ལྟར་རོ། །དེ་ལྟར་བསྲེག་པ་ལ་རང་གི་ངོ་བོས་གྲུབ་པའི་རང་བཞིན་ཁས་ལེན་ན་ནི་རང་མི་བསྲེག་ན་གཞན་",
       "boHead": "ཡང་མི་བསྲེག་པར་འགྱུར་བ་ལྟར། མིག་ལ་བལྟ་བའི་རང་བཞིན་ཁས་ལེན་ནའང་རང་ལ་མི་བལྟ་ན་གཞན་ལ་ཡང་མི་བལྟ",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "mà thành ra cũng chẳng đốt cái khác",
+      "placedBy": "align",
+      "note": "cum gzhan|yang mi bsreg (cung chang dot cai khac) bi ngat doi: 'gzhan' cuoi p864"
     },
     {
       "pdf": 866,
@@ -9197,8 +9199,10 @@
       "kind": "internal",
       "boTail": "་དང་བུད་ཤིང་ལ་རང་བཞིན་ཡོད་ན་རང་བཞིན་གཅིག་དང་ཐ་དད་གང་རུང་དུ་འགྱུར་རོ། །ཞེས་པ་དང་། གཅིག་ཡིན་",
       "boHead": "ན་མེས་རང་ཉིད་བསྲེག་པར་འགྱུར་རོ། །ཞེས་སོགས་གཞན་གྱིས་ཁས་བླངས་པ་རྟགས་སུ་བཀོད་ནས་ཕ་རོལ་པོ་ལ་མི",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "nếu là một ⟪⟫thì lửa ắt phải đốt chính nó",
+      "placedBy": "align",
+      "note": "khop dung chu: 'gcig yin' (neu la mot) cuoi p865"
     },
     {
       "pdf": 867,
@@ -9215,8 +9219,10 @@
       "kind": "internal",
       "boTail": "ང་གི་རྗེས་སུ་འབྲང་སྙམ་ན། འདིར་ནི་ཐལ་འགྱུར་བའི་ལུགས་ཀྱི་རྗེས་སུ་འཇུག་པ་ཡིན་ནོ། །འདི་ཡང་སྔར་",
       "boHead": "བཤད་པ་ལྟར་ཐ་སྙད་དུ་རང་གི་ངོ་བོ་ཉིད་ཀྱིས་གྲུབ་པའི་རང་བཞིན་འགོག་པ་དང༌། དེ་བཀག་པ་ལ་འཁོར་འདས་ཀ",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "như đã nói trước đây, [một là] phủ định — trong danh ngôn",
+      "placedBy": "align",
+      "note": "cum sngar|bshad pa ltar bi ngat doi: 'sngar' cuoi p867"
     },
     {
       "pdf": 869,
