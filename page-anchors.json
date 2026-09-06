@@ -7967,8 +7967,10 @@
       "kind": "internal",
       "boTail": "ི་དོན་ཁོ་ན་གཞུང་འཛུགས་པར་མཛད་པ་ཡིན་ནོ། །ཞེས་གཞན་དབང་ལ་དོན་དམ་པར་ངོ་བོ་ཉིད་སྒྲོ་བཏགས་པ་ཀུན་",
       "boHead": "བརྟགས་ཡིན་པས་དེ་མེད་པ་དང་ཐ་སྙད་དུ་གཞན་དབང་ལ་རང་གི་མཚན་ཉིད་ཡོད་པས་དེས་སྐུར་འདེབས་སེལ་བས་དབུ",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "nên cái ấy là không có, còn trong danh ngôn thì y tha khởi",
+      "placedBy": "align",
+      "note": "chu kun|brtags (bien ke) bi ngat doi: 'brtags yin pas' dau p752 nam ben p751"
     },
     {
       "pdf": 753,
@@ -7977,8 +7979,10 @@
       "kind": "internal",
       "boTail": "ེད་ལ། སློབ་དཔོན་ལེགས་ལྡན་འབྱེད་ལ་སོགས་པས་ནི་དེ་ཙམ་གྱིས་དོན་དམ་པར་གྲུབ་པར་མི་འགྱུར་བར་བཞེད་",
       "boHead": "པ་ཡིན་ནོ། ། གཞན་ཡང་སེམས་ཙམ་པས་རྡུལ་ཕྲ་རབ་རེ་རེ་བ་དབང་ཤེས་ཀྱི་ཡུལ་མ་ཡིན་ཏེ། མི་སྣང་བའི་ཕྱིར",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "Lại nữa, các vị Duy Thức nói rằng",
+      "placedBy": "align",
+      "note": "cum bzhed|pa yin no (chu truong) bi ngat doi: 'pa yin no' dau p753 nam ben p752"
     },
     {
       "pdf": 754,
@@ -7987,8 +7991,10 @@
       "kind": "internal",
       "boTail": "ན་དུ་བཞེད་དོ། །དེའི་ཕྱིར་དབང་པོའི་ཤེས་པ་ཕྱི་ནང་གི་འཁྲུལ་རྒྱུ་སྔར་བཤད་པ་རྣམས་ཀྱིས་མ་བསླད་པ་",
       "boHead": "མ་འཁྲུལ་བར་བཞེད་ཅིང་། ཐ་སྙད་དུ་མདོ་སྡེ་པ་དང་མཐུན་པའི་དམིགས་རྐྱེན་བཞེད་པ་ཡིན་ནོ། ། འཇུག་འགྲ",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "thì [thức ấy] không mê lầm; và trong danh ngôn",
+      "placedBy": "align",
+      "note": "khop dung chu: 'ma bslad pa' cuoi p753"
     },
     {
       "pdf": 755,
@@ -8005,8 +8011,10 @@
       "kind": "internal",
       "boTail": "སོགས་པ་སྣང་བའི་ཤེས་པ་ནི་སྣང་བ་ལྟར་གྱི་དོན་ཟླ་བ་གཉིས་དང་བྱད་བཞིན་ལ་སོགས་པ་མེད་པར་ཐ་སྙད་པའི་",
       "boHead": "ཚད་མ་ཉིད་ཀྱིས་རིགས་པའི་ཤེས་པ་ལ་ལྟོས་མེད་དུ་འགྲུབ་པས་ན། དེ་དག་དང་སྔ་མ་རྣམས་ལ་ཡང་དག་དང་ལོག་པ",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "mà chẳng cần nương vào thức chánh lý",
+      "placedBy": "align",
+      "note": "cum tha snyad pa'i|tshad ma (luong danh ngon) bi ngat doi: 'tshad ma nyid kyis' dau p756 nam ben p755"
     },
     {
       "pdf": 757,
@@ -8015,8 +8023,10 @@
       "kind": "internal",
       "boTail": " དེ་གཉིས་ག་ཐ་སྙད་པའི་ཤེས་པ་ལ་སྣང་བར་འདྲ་ཡང་གཟུགས་བརྙན་ལ་སོགས་པ་ནི་འཇིག་རྟེན་པའི་ཤེས་པ་ཉིད་",
       "boHead": "ཀྱིས་བརྫུན་པར་རྟོགས་པས་འཇིག་རྟེན་ཀུན་རྫོབ་ཀྱི་བདེན་པར་མི་འཇོག་ལ། སྔོན་པོ་ལ་སོགས་པ་ནི་བརྫུན",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "chứng ngộ là hư vọng nên chẳng được an lập là thế tục đế",
+      "placedBy": "align",
+      "note": "khop dung chu"
     },
     {
       "pdf": 758,
@@ -8025,8 +8035,10 @@
       "kind": "internal",
       "boTail": "ུལ་བར་མི་འདོད་དེ། འཇིག་རྟེན་ཉིད་ལས་བདེན་ཡིན། ཞེས་སོགས་གསུངས་པ་ལྟར་རོ། །དེའི་ཕྱིར་དབུ་མ་པས་",
       "boHead": "དེ་དག་འཁྲུལ་པར་འཇོག་ལ་དེ་ལྟ་ནའང་ཡུལ་བརྫུན་པ་འཇོག་པ་མི་འགལ་ཏེ། ཡུལ་བདེན་པ་འཇོག་ན་ནི་ཡུལ་ཅན་",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "an lập chúng là lầm loạn, mà dù vậy",
+      "placedBy": "align",
+      "note": "khop dung chu: 'de'i phyir dbu ma pas' cuoi p757"
     },
     {
       "pdf": 759,
