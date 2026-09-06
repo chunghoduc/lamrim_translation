@@ -9415,8 +9415,10 @@
       "kind": "internal",
       "boTail": "་བར་འགྱུར། །དེ་བཞིན་དེར་ནི་གནས་འགྱུར་ཞིང༌། །དེར་མ་ཤི་བར་སྐྱེ་བར་འགྱུར། །ཆད་དང་ལས་རྣམས་ཆུད་",
       "boHead": "ཟ་དང༌། །གཞན་གྱིས་བྱས་པའི་ལས་རྣམས་ནི། །གཞན་གྱིས་སོ་སོར་མྱོང་བ་དང༌། །དེ་ལ་སོགས་པར་ཐལ་བར་འགྱུ",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "và các nghiệp do kẻ khác tạo",
+      "placedBy": "align",
+      "note": "cum chud|za (luong mat) bi ngat doi: 'za dang' dau p886 nam trong dong ke truoc do o ben p885"
     },
     {
       "pdf": 887,
@@ -9425,8 +9427,10 @@
       "kind": "internal",
       "boTail": "ས་བཞིན་དུ་རྒྱུད་གཅིག་ཏུ་བཞག་ཏུ་མེད་པ་ཡིན་ནོ། །རབ་བྱེད་ཉེར་བདུན་པ་ལས་ཀྱང༌། གལ་ཏེ་ལྷ་མི་གཞན་",
       "boHead": "ཡིན་ན། །རྒྱུད་ནི་འཐད་པར་མི་འགྱུར་རོ། །ཞེས་གསུངས་སོ། །མདོར་ན་རང་གི་ངོ་བོས་གྲུབ་པའི་གཞན་ཡིན་",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "thì tâm tương tục sẽ chẳng thành hợp lý.",
+      "placedBy": "align",
+      "note": "'yin na' (la khac nhau) dau p887 nam trong dong ke truoc do o ben p886"
     },
     {
       "pdf": 888,
@@ -9435,8 +9439,10 @@
       "kind": "internal",
       "boTail": "་གི་མཚན་ཉིད་ཀྱིས་མ་གྲུབ་པ་སྟེ། དེ་རྣམས་ལ་རྣམ་པ་དེ་ལྟ་བུའི་རྐྱེན་ཉེ་བར་ལྷགས་པ་ཡོད་དང༌། གཞན་",
       "boHead": "དུ་འགྱུར་བ་ཉིད་མི་རིགས་པ་མ་ཡིན་ཏེ། དེའི་ཕྱིར་དངོས་པོ་རང་གི་མཚན་ཉིད་ཀྱིས་མ་གྲུབ་པའི་རྒྱུ་ཅན",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "thì việc [chúng] biến thành cái khác chẳng phải là không hợp lý",
+      "placedBy": "align",
+      "note": "cum gzhan|du 'gyur ba bi ngat doi: 'gzhan' cuoi p887"
     },
     {
       "pdf": 889,
@@ -9453,8 +9459,10 @@
       "kind": "internal",
       "boTail": "ིད་གཟུགས་སུ་རུང་བ་སོགས་ལས་རང་བཞིན་ཐ་དད་པར་ཡོད་ན། དེ་ལྟར་དུ་དམིགས་དགོས་ཏེ། དཔེར་ན་གཟུགས་དང་",
       "boHead": "སེམས་ཐ་དད་དུ་དམིགས་པ་བཞིན་ནོ། །དེ་ལྟར་འཛིན་པ་ཡང་མེད་པས་བདག་དོན་གཞན་དུ་མེད་དེ། རབ་བྱེད་ཉེར་",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "tâm được nhận thấy là khác biệt vậy.",
+      "placedBy": "align",
+      "note": "khop dung chu: 'dper na gzugs dang' cuoi p889"
     },
     {
       "pdf": 891,
@@ -9463,8 +9471,10 @@
       "kind": "internal",
       "boTail": "ག་ཏུ་འདོད་ན་ནི་འཇིག་རྟེན་གྱི་མཐོང་བའི་ཚད་མ་འདིས་དགག་དགོས་ཀྱི། རྒོལ་ཕྱི་རྒོལ་གཉིས་ཀྱི་གྲུབ་",
       "boHead": "མཐའ་ཐུན་མོང་མ་ཡིན་པ་རྣམས་གནོད་བྱེད་དུ་མི་འགྱུར་རོ། །དེ་བཞིན་དུ་ཐ་དད་དུ་ཡོད་པ་ལ་ཡང་དེ་ལྟར་ཡ",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "chứ các tông nghĩa bất cộng của hai bên",
+      "placedBy": "align",
+      "note": "chu grub|mtha' (tong nghia) bi ngat doi; tieng Viet dao nen 'rgol phyi rgol gnyis kyi grub' cuoi p890 nam ben p891"
     },
     {
       "pdf": 892,
