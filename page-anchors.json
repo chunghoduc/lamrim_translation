@@ -8891,8 +8891,10 @@
       "kind": "internal",
       "boTail": "ྱུ་མ་དང་འདྲ་དེ་ཡི་ཕྱིར། །བདག་ལ་སྐྱོན་དུ་མི་འགྱུར་འཇིག་རྟེན་པ་ཡི་དངོས་པོ་རྣམས་ཀྱང་ཡོད། །གང་",
       "boHead": "གི་ལྟར་ན། རང་གི་མཚན་ཉིད་བསྐྱེད་པར་བྱ་བ་ཉིད་དང་སྐྱེད་པར་བྱེད་པ་ཉིད་ཡིན་པ་དེ་ལ་རྣམ་པར་དཔྱད་པ",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "Theo ai mà cái được sinh ra và cái làm cho sinh ra",
+      "placedBy": "align",
+      "note": "cum gang|gi ltar na bi ngat doi: 'gang' cuoi p836"
     },
     {
       "pdf": 838,
@@ -8901,8 +8903,10 @@
       "kind": "internal",
       "boTail": "ས་པ་དང་དམ་བཅའ་བ་ཞེས་པའི་ཚིག་ཁྱད་པར་བ་དགོས་ནའང་མང་དུ་གསུངས་ཏེ། རྩོད་ཟློག་ལས། ཐ་སྙད་ཁས་ནི་མ་",
       "boHead": "བླངས་པར། །ངེད་ཅག་འཆད་པར་མི་བྱེད་དོ། །ཞེས་དང༌། རིགས་པ་དྲུག་ཅུ་པ་ལས་ཀྱང༌། དངོས་པོ་བྱུང་བ་ཞིག",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "Chúng tôi chẳng thuyết giảng.",
+      "placedBy": "align",
+      "note": "cum khas ni ma|blangs par bi ngat doi: 'blangs par' dau p838 nam trong dong ke truoc do o ben p837"
     },
     {
       "pdf": 839,
@@ -8919,8 +8923,10 @@
       "kind": "internal",
       "boTail": "འགྱུར་བས་རང་རྒྱུད་པའི་ལུགས་སུན་ཕྱུང་ནས་རང་གི་ལུགས་བཞག་པ་ཉིད་བརྗོད་ན་གཉིས་ཀ་རྟོགས་པར་འགྱུར་",
       "boHead": "བས་དེ་བརྗོད་པར་བྱའོ། ། འདི་ལ་ཚིག་གསལ་ལས་མང་དུ་གསུངས་ཀྱང་ཚིག་མངས་པས་འཇིགས་ནས་འདིར་ནི་གཙོ་བོ",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "cho nên sẽ nói điều ấy.",
+      "placedBy": "align",
+      "note": "khop dung chu"
     },
     {
       "pdf": 841,
@@ -8929,8 +8935,10 @@
       "kind": "internal",
       "boTail": "་པ་ལ་མ་གྲུབ་པ་ཡིན་ནོ། །དེ་བཞིན་དུ་བྱེ་བྲག་པ་སྒྲ་མི་རྟག་པར་དམ་འཆའ་བ་ནའང་བྱས་པའི་སྒྲ་འཛིན་ན་",
       "boHead": "དེ་གཞན་ལ་མ་གྲུབ་བོ། །འོན་ཏེ་མངོན་པར་གསལ་བར་བྱ་བ་ཡིན་ན་ནི་དེ་རང་ལ་མ་གྲུབ་པ་ཡིན་ནོ། །དེ་བཞིན",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "thì điều ấy chẳng thành lập nơi kẻ khác. Còn nếu là cái được làm cho hiển lộ rõ",
+      "placedBy": "align",
+      "note": "khop dung chu"
     },
     {
       "pdf": 842,
