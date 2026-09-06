@@ -10139,8 +10139,10 @@
       "kind": "internal",
       "boTail": "ས་པ་དཀོན་མཆོག་སྤྲིན་ལས་བཀའ་སྩལ་པ། ལྷག་མཐོང་གིས་བརྟགས་ནས་ངོ་བོ་ཉིད་མེད་པར་རྟོགས་པ་ནི་མཚན་མ་",
       "boHead": "མེད་པ་ལ་འཇུག་གོ །ཞེས་འབྱུང་ངོ་། །འཕགས་པ་ལང་ཀར་གཤེགས་པ་ལས་ཀྱང༌། བློ་གྲོས་ཆེན་པོ། གང་གི་ཕྱིར",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "ấy là thể nhập vô tướng.",
+      "placedBy": "align",
+      "note": "cum mtshan ma|med pa (vo tuong) bi ngat doi: 'mtshan ma' cuoi p952"
     },
     {
       "pdf": 954,
@@ -10149,8 +10151,10 @@
       "kind": "internal",
       "boTail": "་ལས་བསམ་གྱིས་མི་ཁྱབ་པ་དང་བློ་ལས་འདས་པ་ལ་སོགས་པ་གསུངས་པ་དེར་ནི་ཟབ་མོའི་དོན་ཐོས་པ་དང་སེམས་པ་",
       "boHead": "ཙམ་གྱིས་རྟོགས་པར་རློམ་པ་དགག་པའི་ཕྱིར། དེ་རྣམས་འཕགས་པའི་སོ་སོ་རང་གིས་རིག་པར་བྱ་བ་ཡིན་པས་གཞན",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "nhằm ngăn dứt sự tự phụ cho rằng chỉ bằng văn và tư",
+      "placedBy": "align",
+      "note": "tieng Viet dao nen 'zab mo'i don thos pa dang sems pa' cuoi p953 nam ben p954"
     },
     {
       "pdf": 955,
@@ -10159,8 +10163,10 @@
       "kind": "internal",
       "boTail": "ག་པ་ཞེས་བྱའོ་ཞེས་གསུངས་པ་ལ་སོགས་པ་འདི་འདྲ་བ་རྣམས་དང་འགལ་བའོ། །སྒོམ་རིམ་དང་པོ་ལས་ཀྱང༌། རྣམ་",
       "boHead": "པར་མི་རྟོག་པར་འཇུག་པའི་གཟུངས་ལས། ཡིད་ལ་མི་བྱེད་པས་གཟུགས་ལ་སོགས་པའི་མཚན་མ་སྤོང་ངོ་། །ཞེས་གས",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "Còn về lời đã dạy trong *Tổng Trì Nhập Vô Phân Biệt*",
+      "placedBy": "align",
+      "note": "ten kinh rnam|par mi rtog par 'jug pa'i gzungs bi ngat doi: 'rnam' cuoi p954"
     },
     {
       "pdf": 956,
@@ -10177,8 +10183,10 @@
       "kind": "internal",
       "boTail": "ར་དེའི་དོན་ལ་ངེས་པའི་ཤུགས་བསྐྱེད་དེ། མི་འཕྲོ་བར་འཛིན་པའི་འཇོག་སྒོམ་དང་སོ་སོར་རྟོག་པའི་ཤེས་",
       "boHead": "རབ་ཀྱིས་དཔྱོད་པ་སྤེལ་མར་བྱའོ། །དེའི་ཚེ་དཔྱད་སྒོམ་མངས་པས་གནས་ཆ་ཆུང་དུ་སོང་ན་འཇོག་སྒོམ་མང་དུ",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "với sự quán sát bằng trí tuệ giản trạch.",
+      "placedBy": "align",
+      "note": "chu shes|rab (tri tue) bi ngat doi: 'shes' cuoi p956"
     },
     {
       "pdf": 958,
@@ -10187,8 +10195,10 @@
       "kind": "internal",
       "boTail": "་བྱའོ། །ཤེར་ཕྱིན་མན་ངག་ལས་ནི། གང་བསྒོམ་པར་བྱ་བའི་ཡུལ་དེ་ཉིད་ལ་ཞི་གནས་ཀྱི་སྐྱོང་ཚུལ་བྱས་ནས་",
       "boHead": "ཤིན་སྦྱངས་བསྐྱེད་པ་དང༌། ཡང་དེ་ལ་ལྷག་མཐོང་གི་དཔྱད་སྒོམ་བྱས་ནས་ཤིན་སྦྱངས་བསྒྲུབས་ནས། དེ་དག་ས",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "mà phát khởi khinh an, rồi lại nơi [cảnh] ấy",
+      "placedBy": "align",
+      "note": "khop dung chu"
     },
     {
       "pdf": 959,
