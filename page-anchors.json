@@ -8359,8 +8359,10 @@
       "kind": "internal",
       "boTail": "་དང༌། དགག་བྱ་ལ་དོན་དམ་གྱི་ཁྱད་པར་སྦྱོར་མི་སྦྱོར་བཤད་པའོ། ། དངོས་ཀྱི་དོན་དགག་བྱ་ངོས་བཟུང་བ།",
       "boHead": "དང་པོ་ནི། སྤྱིར་དགག་བྱ་ལ་ལམ་གྱི་དགག་བྱ་དང་རིགས་པའི་དགག་བྱ་གཉིས་ཡོད་དོ། །དེ་ལ་དང་པོ་ནི་དབུས",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "Thứ nhất. Nói chung, nơi cái phải phá bỏ có hai thứ",
+      "placedBy": "align",
+      "note": "khop dung chu: dong sa-bcad (de muc) la chu cuoi p787"
     },
     {
       "pdf": 789,
@@ -8369,8 +8371,10 @@
       "kind": "internal",
       "boTail": "་བོ་ནི་ཕྱི་མ་ཡིན་ཏེ། ཡུལ་ཅན་ཕྱིན་ཅི་ལོག་ལྡོག་པ་ལ་དེས་གཟུང་བའི་ཡུལ་ཐོག་མར་དགག་དགོས་པས་སོ། །",
       "boHead": "འདི་ཡང་རྟེན་འབྲེལ་གྱིས་གང་ཟག་དང་ཆོས་ཀྱི་སྟེང་དུ་རང་གི་ངོ་བོས་གྲུབ་པའི་རང་བཞིན་ཡོད་པ་འགོག་པ",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "Cái này cũng chính là những [việc] như dùng duyên khởi",
+      "placedBy": "align",
+      "note": "khop dung chu"
     },
     {
       "pdf": 790,
@@ -8379,8 +8383,10 @@
       "kind": "internal",
       "boTail": "ཞིན་དུ་ལྷ་སྦྱིན་ཁྱིམ་ན་ཡོད་དོ་ཞེས་ཟེར་བ་དང༌། དེ་མེད་པ་ལ་ཁ་ཅིག་ན་རེ་མེད་དོ་ཞེས་ཟེར་བ་ན་ཚིག་",
       "boHead": "དེས་ལྷ་སྦྱིན་མེད་པར་མི་བྱེད་ཀྱི། ལྷ་སྦྱིན་ཁྱིམ་ན་མི་སྲིད་པར་སྟོན་པ་འབའ་ཞིག་ཏུ་ཟད་དོ། །དེ་བ",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "ấy chẳng làm cho Devadatta thành không có",
+      "placedBy": "align",
+      "note": "khop dung chu: 'tshig' (loi) cuoi p789"
     },
     {
       "pdf": 791,
@@ -8397,8 +8403,10 @@
       "kind": "internal",
       "boTail": "བསལ་ཕྱིར་གསུངས་པས་ཞེ་སྡང་ཟད་པར་བྱེད་མི་འགྱུར། །ཞེ་སྡང་བསལ་བར་བྱ་ཕྱིར་གསུངས་པས་ཀྱང་ནི་འདོད་",
       "boHead": "ཆགས་ཟད་པར་བྱེད་འགྱུར་མིན། །གང་ཞིག་ང་རྒྱལ་སོགས་ཟད་བྱ་ཕྱིར་གསུངས་པ་དེས་ཀྱང་དྲི་མ་གཞན་མི་འཇོམ",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "lời nào được thuyết nhằm làm cạn hết ngã mạn v.v.",
+      "placedBy": "align",
+      "note": "chu 'dod|chags (tham ai) bi ngat doi; ve dau p792 nam trong dong ke truoc do o ben p791"
     },
     {
       "pdf": 793,
@@ -8407,8 +8415,10 @@
       "kind": "internal",
       "boTail": "ུས་ལ་ལུས་དབང་ཇི་བཞིན་དུ། །གཏི་མུག་ཀུན་ལ་གནས་འགྱུར་ཏེ། །དེ་ཕྱིར་ཉོན་མོངས་ཐམས་ཅད་ཀྱང༌། །གཏི་",
       "boHead": "མུག་བཅོམ་པས་བཅོམ་པར་འགྱུར། །ཞེས་པའི་བཞི་བརྒྱ་པའི་འགྲེལ་པ་ལས། གཏི་མུག་ནི་དེ་རྣམས་ལ་ཇི་ལྟར་བ",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "sẽ bị phá hủy do si mê bị phá hủy.",
+      "placedBy": "align",
+      "note": "chu gti|mug (si me) bi ngat doi: 'gti' cuoi p792"
     },
     {
       "pdf": 794,
@@ -8417,8 +8427,10 @@
       "kind": "internal",
       "boTail": "་འོག་ཏུ་སྟོན་པར་འགྱུར་རོ། །དེས་ན་ཡན་ལག་བཅུ་གཉིས་ཀྱི་དང་པོའི་མ་རིག་པ་འདི་འཁོར་བའི་རྩ་བ་ཡིན་",
       "boHead": "པ་ལ་འཇིག་ལྟ་ཡང་འཁོར་བའི་རྩ་བ་ཡིན་པར་བཤད་པ་ནི་མ་རིག་པ་སྤྱི་དང་འཇིག་ལྟ་བྱེ་བྲག་ཡིན་པས་འགལ་བ་",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "mà [ngài] cũng giảng rằng hoại tụ kiến là gốc rễ",
+      "placedBy": "align",
+      "note": "cum yin|pa la bi ngat doi: 'pa la' dau p794"
     },
     {
       "pdf": 795,
