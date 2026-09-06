@@ -9555,8 +9555,10 @@
       "kind": "internal",
       "boTail": "ནམ་མཁའི་གློག་འདྲ་སྟེ། །ཆུ་ཡི་ཟླ་བ་འདྲ་ཞིང་སྨིག་རྒྱུ་བཞིན། །མི་འགའ་འཇིག་རྟེན་འདིར་ཡང་ཤི་ནས་",
       "boHead": "ནི། །འཇིག་རྟེན་གཞན་དུ་འཕོ་ཞིང་འགྲོ་མེད་ཀྱང༌། །ལས་བྱས་རྣམས་ནི་ནམ་ཡང་ཆུད་མི་ཟ། །འཁོར་བ་ན་ཡང་",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "mà chuyển dời và đi sang thế gian khác, song",
+      "placedBy": "align",
+      "note": "chi tro tu 'ni' dau p899 nam trong dong ke truoc do o ben p898"
     },
     {
       "pdf": 900,
@@ -9565,8 +9567,10 @@
       "kind": "internal",
       "boTail": "་པའི་རྟེན་འབྲེལ་གྱི་ཕྱོགས་རྣམས་ཡིད་ལ་བྱ་ཞིང༌། རང་བཞིན་མེད་པ་ལ་རྟེན་འབྲེལ་འཐད་པའི་འཐད་ལུགས་",
       "boHead": "རྣམས་ལ་ངེས་པ་རྙེད་པར་བྱའོ། །དེ་གཉིས་འགལ་བར་སྣང་བའི་ཚེ་ན་གཟུགས་བརྙན་ལ་སོགས་པ་དཔེར་བླངས་ནས་མ",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "Khi hai điều ấy hiện ra là mâu thuẫn nhau",
+      "placedBy": "align",
+      "note": "'rnams la nges pa rnyed par bya'o' (dau p900) dich dat truoc nen nam ben p899"
     },
     {
       "pdf": 901,
@@ -9575,8 +9579,10 @@
       "kind": "internal",
       "boTail": "ས་ཐམས་ཅད་ཀྱི་རང་བཞིན་མེད་པ་མངོན་སུམ་དུ་རྟོགས་དགོས་པ་ཡིན་ནོ་ཞེས་སྨྲ་མོད་ཀྱང༌། རིགས་པ་མ་ཡིན་",
       "boHead": "ཏེ། བཞི་བརྒྱ་པ་ལས། དངོས་པོ་གཅིག་གི་ལྟ་པོ་གང༌། །དེ་ནི་ཀུན་གྱི་ལྟ་པོར་བརྗོད། །གཅིག་གི་སྟོང་ཉ",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "bởi vì trong *Tứ Bách Luận* [có nói]:",
+      "placedBy": "align",
+      "note": "chi lien tu 'te' dau p901 nam ben p900"
     },
     {
       "pdf": 902,
@@ -9593,8 +9599,10 @@
       "kind": "internal",
       "boTail": "མ་བསྒོམ་པ་ངོ་བོ་ཉིད་ཀྱིས་སྟོང༌། །ཆོས་རྣམས་ཐམས་ཅད་དེ་བཞིན་ཤེས་པར་གྱིས། །ཇི་ལྟར་ནམ་མཁའ་དྭངས་",
       "boHead": "པར་ཟླ་ཤར་བ། །དེ་ཡི་གཟུགས་བརྙན་དྭངས་པའི་མཚོར་སྣང་སྟེ། །ཟླ་བ་ཆུ་ཡི་ནང་དུ་འཕོས་པ་མེད། །ཆོས་ཀུ",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "mà mặt trăng mọc lên,",
+      "placedBy": "align",
+      "note": "chu dwangs|par (trong treo) bi ngat doi: chi am tiet 'par' dau p903 nam ben p902"
     },
     {
       "pdf": 904,
