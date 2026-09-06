@@ -7715,8 +7715,10 @@
       "kind": "internal",
       "boTail": "ས་བསྟན་པར་གསལ་བར་བཤད་དོ།། མདོར་ན་རང་བཞིན་མེད་པའི་སྟོང་ཉིད་ནི་སྟོང་པ་ཉིད་དམ་པ་མ་ཡིན་ནོ་ཞེས་",
       "boHead": "སྨྲ་ཞིང་དེ་འགོག་ན། ཤེར་ཕྱིན་སྤངས་པའི་ཆོས་སྤོང་གིས་ངན་འགྲོར་འགྲོ་ལ། རང་བཞིན་མེད་པ་ལ་མོས་ནའང",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "rồi ngăn dứt điều ấy, thì do sự khước bỏ pháp",
+      "placedBy": "align",
+      "note": "chi dong tu 'smra' (noi rang) dau p729 nam ben p728"
     },
     {
       "pdf": 730,
@@ -7725,8 +7727,10 @@
       "kind": "internal",
       "boTail": "ག་ཡོད་པར་མི་འདོད་པས་ཅི་ཞིག་ཆད་པའི་ཆད་ལྟ་བར་འགྱུར་ཏེ། སྔོན་བྱུང་ད་ལྟར་མེད་ཅེས་པ། །དེས་ན་ཆད་",
       "boHead": "པར་ཐལ་བར་འགྱུར། །ཞེས་དེ་འདྲ་བ་ལ་ཆད་ལྟ་བར་གསུངས་ཤིང༌། ཚིག་གསལ་ལས་ཀྱང༌། རྣལ་འབྱོར་པ་ཀུན་རྫོབ",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "dạy rằng chính hạng như thế mới là kiến đoạn",
+      "placedBy": "align",
+      "note": "cum chad|par (doan) bi ngat doi: 'par thal bar 'gyur' dau p730 nam trong dong ke o ben p729"
     },
     {
       "pdf": 731,
@@ -7735,8 +7739,10 @@
       "kind": "internal",
       "boTail": "ད་ལྟ་ཐམས་ཅད་དེས་སྤོང་བ་མིན་ནོ། ། ལས་འབྲས་མེད་པར་འདོད་པའི་ཆད་ལྟ་བ་དང་མི་འདྲ་བའི་ཚུལ་གཞན་ནི་",
       "boHead": "ཚིག་གསལ་ལས་རྒྱས་པར་གསུངས་ཏེ། འདི་ལྟར་ཆད་ལྟ་བ་ནི་ལས་འབྲས་དང་འཇིག་རྟེན་ཕ་རོལ་མེད་པར་འདོད་ལ་ད",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "thì được nói rộng trong *Minh Cú Luận*",
+      "placedBy": "align",
+      "note": "khop dung chu"
     },
     {
       "pdf": 732,
@@ -7753,8 +7759,10 @@
       "kind": "internal",
       "boTail": "མཚན་དུ་རྟེན་འབྲེལ་འགོད་པ་དང་། རྣམ་གཞག་དེ་རྣམས་ཡོད་པར་ཀུན་རྫོབ་ཏུ་བཞེད་པར་གསུངས་པ་ཡིན་ནོ། །",
       "boHead": "གལ་ཏེ་ལས་འབྲས་སོགས་ལ་རང་གི་ངོ་བོས་གྲུབ་པའི་རང་བཞིན་མེད་པར་ནི་འཐད་ལ། ཆད་ལྟ་བས་ཀྱང་དེ་དག་མེད",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "Nếu nghĩ rằng: \"Việc nơi nghiệp quả v.v. chẳng có tự tánh",
+      "placedBy": "align",
+      "note": "khop dung chu"
     },
     {
       "pdf": 734,
@@ -7763,8 +7771,10 @@
       "kind": "internal",
       "boTail": "ེད་པ་པ༌དངོས་པོའི་རང་གི་ངོ་བོ་ཇི་ལྟ་བ་བཞིན་རིག་པ་མ་ཡིན་པ་དག་དང་ལྷན་ཅིག་ཤེས་པ་དང་བརྗོད་པ་དག་",
       "boHead": "མཚུངས་པ་མ་ཡིན་ནོ། །ཞེས་གསུངས་སོ། །འདིས་ནི་ཁ་ཅིག་རང་བཞིན་མེད་པར་གོ་བ་ན་ལས་འབྲས་སོགས་རིགས་པས",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "— đã dạy như vậy. Điều này cũng đã khéo phá bỏ",
+      "placedBy": "align",
+      "note": "'mtshungs pa ma yin no' (chang giong, dau p734) dich dat giua cau nen nam ben p733; day la diem cat sai lech it nhat"
     },
     {
       "pdf": 735,
