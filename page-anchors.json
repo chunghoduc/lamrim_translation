@@ -4683,8 +4683,10 @@
       "kind": "internal",
       "boTail": "དུས་རིང་པོར་བསྒྲུབས་པའི་སྒོ་ནས་འཕེལ་བ་ལ་དེ་དག་གི་ཕན་ཡོན་སོགས་བསམས་པའི་སྒོ་ནས་སྤྲོ་བ་དྲག་ལ་",
       "boHead": "རིང་བའི་བརྩོན་པ་དང༌། ཉོན་མོངས་མགོ་གནོན་པ་ལ་བསམ་གཏན་དང༌། དེའི་ས་བོན་དང་ཤེས་སྒྲིབ་འཇོམས་པ་ལ་",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "đối với việc chế phục phiền não, [cần có] tĩnh lự",
+      "placedBy": "align",
+      "note": "drag la | ring ba'i brtson pa bị ngắt đôi; tiếng Việt đảo trật tự"
     },
     {
       "pdf": 451,
@@ -4693,8 +4695,10 @@
       "kind": "internal",
       "boTail": "ོ་མ་རྙེད་ཀྱི་བར་དུ་བསམ་པར་བྱའོ།། གཞན་ཡང་དང་པོ་ནས་འཁོར་བ་ལས་མི་འདའ་བའམ་མི་འཕགས་པའི་རྒྱུ་ནི་",
       "boHead": "གཉིས་ཏེ། ལོངས་སྦྱོད་ལ་ཆགས་པ་དང་ཁྱིམ་ལ་ཆགས་པའོ། །དེའི་གཉེན་པོར་ནི་སྦྱིན་པ་དང་ཚུལ་ཁྲིམས་སོ། ",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "gồm có hai phần: tham đắm nơi thọ dụng",
+      "placedBy": "align",
+      "note": "khớp đúng chữ"
     },
     {
       "pdf": 452,
@@ -4719,8 +4723,10 @@
       "kind": "internal",
       "boTail": "སླངས་པའི་ལུས་ངག་གི་ལས་སོ། །དེ་ལ་སྦྱིན་པའི་ཕར་ཕྱིན་རྫོགས་པ་ནི། སྦྱིན་བྱའི་རྫས་གཞན་ལ་བཏང་བས་",
       "boHead": "འགྲོ་བ་རྣམས་ཀྱི་དབུལ་བ་བོར་བ་ལ་མི་བལྟོས་ཏེ། དེ་ལྟ་མ་ཡིན་ན་ད་དུང་འགྲོ་བ་བཀྲེན་པོ་དུ་མ་ཡོད་པ",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "mà trừ bỏ được sự nghèo khó của chúng sinh",
+      "placedBy": "align",
+      "note": "btang bas | 'gro ba rnams bị ngắt đôi; tiếng Việt đảo nên \"không tùy thuộc\" đứng trước dấu"
     },
     {
       "pdf": 455,
@@ -4729,8 +4735,10 @@
       "kind": "internal",
       "boTail": "དོག་པ་ཐམས་ཅད་གཞན་ལ་གཏོང་བའི་བསམ་པ་སྙིང་ཐག་པ་ནས་བསྐྱེད་དགོས་སོ། །དེ་ལ་ཡོངས་སུ་བཟུང་བའི་ཉེས་",
       "boHead": "དམིགས་དང་བཏང་བའི་ཕན་ཡོན་བསྒོམ་དགོས་པས་དེ་བརྗོད་པར་བྱའོ། །ཟླ་བ་སྒྲོན་མ་ལས། རུལ་བར་གྱུར་པའི་",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "và lợi ích của việc buông xả, nên [nay] sẽ nói",
+      "placedBy": "align",
+      "note": "nyes | dmigs (lỗi hại) bị ngắt đôi"
     },
     {
       "pdf": 456,
@@ -4739,8 +4747,10 @@
       "kind": "internal",
       "boTail": "ེས་གསུངས་པ་ལྟར། འབད་པ་དུ་མས་བསྲུངས་ཀྱང་ངེས་པར་འདོར་དགོས་པའི་སྙིང་པོ་མེད་པའི་ལུས་གཞན་ལ་བསམ་",
       "boHead": "པས་བཏང་བས་རང་གཞན་གྱི་དོན་མང་པོ་འགྲུབ་པ་ལ། དེ་ལྟར་བློ་མི་སྦྱོང་བ་ནི་བདག་བླུན་པའོ་སྙམ་དུ་བསམ",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "thì thành tựu được nhiều lợi ích cho mình và cho người",
+      "placedBy": "align",
+      "note": "bsam | pas btang bas bị ngắt đôi"
     },
     {
       "pdf": 457,
@@ -4757,8 +4767,10 @@
       "kind": "internal",
       "boTail": "ློབ་པར་དམ་བཅས་པ་དྲན་པར་བྱས་ཏེ། བདག་གིས་སྔར་ལུས་ལོངས་སྤྱོད་དགེ་བ་ཐམས་ཅད་སེམས་ཅན་ལ་བཏང་ནས་ད་",
       "boHead": "ཡང་ལོངས་སྤྱོད་ལ་ཆགས་པར་བྱེད་ན། བདག་གི་སྤྱོད་པ་ནི་གླང་པོ་ཆེ་ཉི་མས་གདུངས་པ་ན་ཆུར་ཞུགས་ནས་ཁྲུ",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "lại còn tham đắm nơi thọ dụng",
+      "placedBy": "align",
+      "note": "da | yang bị ngắt đôi"
     },
     {
       "pdf": 459,
@@ -4767,8 +4779,10 @@
       "kind": "internal",
       "boTail": "་ཐམས་ཅད་ལ་བསམ་པས་གཏོང་བའོ། །དེ་ལྟར་བདོག་པ་ཐམས་ཅད་ལ་རང་གིར་འཛིན་པའི་སྲེད་པ་བཟློག་ནས། གཞན་ལ་",
       "boHead": "གཏོང་བའི་སེམས་པ་ཡང་དང་ཡང་དུ་སྦྱོང་བ་ལ་བྱང་ཆུབ་སེམས་དཔའ་ཞེས་བྱ་སྟེ། ཕར་ཕྱིན་བསྡུས་པ་ལས། འདི",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "tu tập đi tu tập lại cái tư đem cho người khác",
+      "placedBy": "align",
+      "note": "gzhan la (cho người khác) khép p458"
     },
     {
       "pdf": 460,
@@ -4777,8 +4791,10 @@
       "kind": "internal",
       "boTail": "ཐམས་ཅད་ལ་བསྔོས་པ་ཡིན་པས་སེམས་ཅན་གཅིག་ལ་རིན་ཐང་ཚང་བ་མི་སྲིད་པས་ཕམ་པ་མི་འོང་ཞེས་འདོད་ལ། གཞན་",
       "boHead": "དག །སེམས་ཅན་རེ་རེ་ལའང་ཡོ་བྱད་རིལ་པོ་བསྔོས་པས་དེ་མི་འཐད་པར་སྨྲ་ཞིང༌། ལ་ལ། གཞན་ལ་བསྔོས་ཀྱང་ད",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "Có người khác nói điều ấy không hợp lý",
+      "placedBy": "align",
+      "note": "gzhan | dag bị ngắt đôi"
     },
     {
       "pdf": 461,
@@ -4795,8 +4811,10 @@
       "kind": "internal",
       "boTail": "ེལ་ཆེན་ལས་གསུངས་སོ།། གཉིས་པ་ནི། སྤྱིར་ཟང་ཟིང་གི་སྦྱིན་པ་ཁྱིམ་པའི་བྱང་སེམས་ཀྱིས་བྱེད་ལ་བྱང་",
       "boHead": "སེམས་རབ་བྱུང་གིས་ཆོས་ཀྱི་སྦྱིན་པ་བྱ་བར་གསུངས་ཏེ། བྱང་སེམས་ཀྱི་སོ་སོར་ཐར་པ་ལས། ཤཱ་རིའི་བུ། ",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "xuất gia thì được dạy là nên làm bố thí pháp",
+      "placedBy": "align",
+      "note": "byang | sems (bồ-tát) bị ngắt đôi"
     },
     {
       "pdf": 463,
@@ -4805,8 +4823,10 @@
       "kind": "internal",
       "boTail": "སླབ་པའི་གཞི་འཛིན་དུ་འཇུག་པའོ། །མི་འཇིགས་པའི་སྦྱིན་པ་ནི། རྒྱལ་པོ་དང་ཆོམ་རྐུན་ལ་སོགས་པ་མིའི་",
       "boHead": "འཇིགས་པ་དང༌། སེང་གེ་དང་སྟག་དང་ཆུ་སྲིན་ལ་སོགས་པ་མི་མ་ཡིན་པའི་འཇིགས་པ་དང༌། ཆུ་དང་མེ་ལ་སོགས་པ",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "khỏi nỗi sợ hãi do loài phi nhân",
+      "placedBy": "align",
+      "note": "mi'i | 'jigs pa bị ngắt đôi"
     },
     {
       "pdf": 464,
@@ -4815,8 +4835,10 @@
       "kind": "internal",
       "boTail": "་ཞིང་ལ་དམིགས་པ་སྟེ་བསམ་པ་གསུམ་དང་ལྡན་པ་དགོས་ཏེ། ཕར་ཕྱིན་བསྡུས་པ་ལས། སློང་བ་མངོན་དུ་འོངས་ན་",
       "boHead": "རྒྱལ་སྲས་དེས། །རྫོགས་པའི་བྱང་ཆུབ་ཚོགས་ནི་སྤེལ་བའི་ཕྱིར། །དེས་གཞན་འདུ་ཤེས་བདག་ལ་བཞག་བྱས་ཤིང",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "Vị Phật tử ấy, vì để tăng trưởng tư lương",
+      "placedBy": "align",
+      "note": "khớp đúng chữ"
     },
     {
       "pdf": 465,
@@ -4833,8 +4855,10 @@
       "kind": "internal",
       "boTail": "།འགྲོ་བ་ཡོན་ཏན་ཆུང་བ་གཞན་རྣམས་ཀྱང་ནི་མཐོན་པོར་བཀུར་བར་གྱུར། །ཡོན་ཏན་ཚོགས་ལ་གནས་ཚེ་ཉིད་ཀྱི་",
       "boHead": "སྤྱོད་པ་ཉེས་པ་ཆུང་ངུའང་བཟུང༌། །ཞེས་པ་ལྟར་རོ། །རྟེན་པའི་བསམ་པ་མེད་པ་ནི། སྙན་གྲགས་འོང་དུ་རེ་",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "ngài vẫn nắm giữ cả lỗi nhỏ nơi hành vi",
+      "placedBy": "align",
+      "note": "nyid kyi (của chính mình) khép p465"
     },
     {
       "pdf": 467,
@@ -4843,8 +4867,10 @@
       "kind": "internal",
       "boTail": "ོས་པ་དང་སེམས་རྣམ་པར་གཡེངས་པ་མེད་པ་དང༌། སློང་བ་པོའི་ལོག་སྒྲུབ་སྣ་ཚོགས་ཀྱིས་སྐྱོ་བ་མེད་པ་དང་",
       "boHead": "རང་བསླུ་བ་ལ་སོགས་པའི་སློང་བ་པོའི་སྐྱོན་མཐོང་ཡང་གཞན་ལ་སྒྲོག་པའི་བསམ་པ་མེད་པ་དང༌། གཞན་གྱིས་ཁ",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "dù thấy lỗi của người xin",
+      "placedBy": "align",
+      "note": "khớp đúng chữ"
     },
     {
       "pdf": 468,
@@ -4853,8 +4879,10 @@
       "kind": "internal",
       "boTail": "ན་དུ་སྦྱིན་པ་ནི་ཁ་ན་མ་ཐོ་བ་མེད་པར་མཐོང་སྟེ། འདི་ལྟར་བསགས་ནས་དུས་གཅིག་ཏུ་གཏོང་བ་ལ་བསོད་ནམས་",
       "boHead": "ལྷག་པ་མེད་པ་དང༌། གསོག་པའི་རིང་ལ་ཡོ་བྱད་སློང་བ་དུ་མ་ཞིག་ཕྱིར་བཟློག་སྟེ་ཀུན་ནས་མནར་སེམས་བསྐྱ",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "và trong lúc tích chứa thì đã khước từ",
+      "placedBy": "align",
+      "note": "bsod nams | lhag pa med pa bị ngắt đôi"
     },
     {
       "pdf": 469,
@@ -4871,8 +4899,10 @@
       "kind": "internal",
       "boTail": "ྦྱིན་པ་གཏོང་བའི་གྲོགས་བྱེད་དོ། །གཞན་ཡང་སྦྱིན་བྱའི་རྫས་རྣམས་ལ་འདམས་ཏེ་བཟང་རིམ་ནས་སྟེར་བ་དང་",
       "boHead": "སྦྱིན་པར་བྱ་བའི་རྫས་བཤམས་པ་རྣམས་ཡོངས་སུ་རྫོགས་པར་སྦྱིན་པར་བྱེད་དོ།། དངོས་པོ་ལ་གཉིས། གཏོང་བ",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "các vật đã bày ra để bố thí thì hãy bố thí cho trọn vẹn",
+      "placedBy": "align",
+      "note": "khớp đúng chữ"
     },
     {
       "pdf": 471,
@@ -4881,8 +4911,10 @@
       "kind": "internal",
       "boTail": "དཀའ་བའི་ལས་རྣམས་རྩོམ་པ་སྟེ། དཔེར་ན་རང་གི་ཤ་སྦྱིན་པ་ལ་སོགས་པ་ལྟ་བུའོ། །འདིས་སེམས་ཅན་རྣམས་ལ་",
       "boHead": "ལུས་བྱིན་ཟིན་མོད་ཀྱི། འོན་ཀྱང་དུས་མ་ཡིན་པར་ཡོངས་སུ་སྤྱོད་པ་ལས་ལྡོག་པར་ཟད་དེ། གཞན་དུ་ན་སེམས",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "thân đã được đem cho chúng sinh rồi",
+      "placedBy": "align",
+      "note": "sems can rnams la (cho chúng sinh) khép p470"
     },
     {
       "pdf": 472,
@@ -4891,8 +4923,10 @@
       "kind": "internal",
       "boTail": "ཀྱིས་སློང་ནའང་མི་སྟེར་ཏེ། འདི་དག་ནི་བསམ་པ་ཐག་པ་ནས་སློང་བ་མ་ཡིན་གྱི། བླ་བརྡོལ་ཙམ་དུ་ཟད་པའི་",
       "boHead": "ཕྱིར་རོ། །དེ་དག་ནི་མ་བྱིན་ན་ལྟུང་བ་མེད་པར་མ་ཟད་ཀྱི། བྱིན་ན་ལྟུང་བར་འགྱུར་བའོ། །དེ་དག་མ་གཏོ",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "Đối với những trường hợp ấy, chẳng những không cho",
+      "placedBy": "align",
+      "note": "zad pa'i | phyir ro bị ngắt đôi"
     },
     {
       "pdf": 473,
