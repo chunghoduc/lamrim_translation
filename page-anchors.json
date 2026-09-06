@@ -9239,8 +9239,10 @@
       "kind": "internal",
       "boTail": "་གང་དུ་ཡང་དེས་མ་གྲུབ་པའི་ཕྱིར་རང་བཞིན་མེད་དོ། །དེ་ལ་ཤིང་རྟའི་ཡན་ལག་ནི་སྲོག་ཤིང་དང་འཁོར་ལོ་",
       "boHead": "དང་གཟེར་བུ་ལ་སོགས་པའོ། །ཤིང་རྟ་ནི་ཡན་ལག་དེ་དག་དང་རང་བཞིན་གཅིག་མ་ཡིན་ཏེ། གཅིག་ཡིན་ན་ཡན་ལག་ད",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "đinh chốt v.v. Cỗ xe chẳng phải là một tự tánh",
+      "placedBy": "align",
+      "note": "khop dung chu"
     },
     {
       "pdf": 871,
@@ -9249,8 +9251,10 @@
       "kind": "internal",
       "boTail": "ིན་པའི་ཕྱིར་དེ་ལྟར་ལྡན་པ་མེད་དོ། །ལྷ་སྦྱིན་རྣ་བ་དང་ལྡན་ནོ། །ཞེས་པ་ལྟར་ཤིང་རྟ་ཡན་ལག་དང་ལྡན་",
       "boHead": "པ་ཡང་མི་རིགས་ཏེ། རང་བཞིན་ཐ་དད་པ་བཀག་པའི་ཕྱིར་ན། རང་གི་ངོ་བོ་ཉིད་ཀྱིས་གྲུབ་པ་ལ་ལྡན་ཚུལ་དེ་ན",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "cũng chẳng hợp lý; bởi vì [ở đây] tự tánh khác biệt đã bị bác bỏ",
+      "placedBy": "align",
+      "note": "cum ldan|pa yang bi ngat doi: 'pa yang mi rigs te' dau p871"
     },
     {
       "pdf": 872,
@@ -9259,8 +9263,10 @@
       "kind": "internal",
       "boTail": "པས་ཁྱད་པར་སྦྱར་མི་དགོས་ཏེ། ཚོགས་པ་ཤིང་རྟའི་གདགས་གཞི་ཡིན་པའི་ཕྱིར་ཏེ། ཕུང་པོ་ཚོགས་པ་བདག་གི་",
       "boHead": "གདགས་གཞི་ཡིན་པས་བདག་ཏུ་མི་རུང་བར་གསུངས་པས་སོ། །གལ་ཏེ་ཡན་ལག་ཚོགས་པ་ཙམ་ཤིང་རྟར་མི་འདོད་ཀྱི། ",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "do là cơ sở giả danh của ngã, nên chẳng khả dĩ là ngã.",
+      "placedBy": "align",
+      "note": "'bdag gi' (cua nga) cuoi p871 nam trong ve nay nen thuoc ben p872"
     },
     {
       "pdf": 873,
@@ -9277,8 +9283,10 @@
       "kind": "internal",
       "boTail": "ས་གཞི་ཡིན་ལ། ཤིང་རྟ་ནི་དེ་ལ་བཏགས་པའི་བཏགས་ཆོས་ཡིན་པས་དེ་ཙམ་ཤིང་རྟར་མི་འདོད་དོ། །དེའི་ཕྱིར་",
       "boHead": "ཚོགས་པའི་དབྱིབས་ཤིང་རྟ་ཡིན་པ་འགོག་པའི་དགག་བྱ་ལ་ཡང་ཁྱད་པར་སྦྱར་མི་དགོས་སོ། །གལ་ཏེ་བདེན་པ་མེ",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "đối với cái phải phá bỏ trong sự phá rằng hình dạng của sự tụ hội",
+      "placedBy": "align",
+      "note": "khop dung chu: 'de'i phyir' (Vi the) cuoi p873"
     },
     {
       "pdf": 875,
@@ -9287,8 +9295,10 @@
       "kind": "internal",
       "boTail": "དེའི་མཚན་ཉིད་མ་ཡིན་པར་འགྱུར་ཏེ། དེ་དག་ནི་དབྱིབས་ཡིན་པའི་ཕྱིར་རོ་སྙམ་ན། གང་གི་ལྟོ་བ་ལྡིར་བ་",
       "boHead": "དང་མགྲིན་པ་རིང་བ་སོགས་དེ་ནི་བུམ་པ་ཡིན་པར་འདོད་ཀྱི། ལྟོ་བ་ལྡིར་བ་སོགས་ཀྱི་དབྱིབས་བུམ་པར་མི་",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "cổ nó dài v.v., cái ấy mới được chủ trương là bình",
+      "placedBy": "align",
+      "note": "khop dung chu"
     },
     {
       "pdf": 876,
@@ -9297,8 +9307,10 @@
       "kind": "internal",
       "boTail": "པ་རྣམས་དབུ་མ་པའི་ལུགས་སུ་འདོད་པར་སྣང་ངོ་། །དེས་ན་འདི་ལྟར་འདོད་པ་རྣམས་ལ་གདོན་མི་ཟ་བར་ཐ་སྙད་",
       "boHead": "པའི་རྣམ་གཞག་ཐམས་ཅད་བྱར་མེད་པའི་སྐྱོན་དུ་འགྱུར་རོ། །རང་ལ་ཉེས་པ་མེད་པའི་ཚུལ་ནི། དེ་ནི་དེ་ཉིད",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "sẽ thành ra cái lỗi khiến hết thảy sự an lập danh ngôn",
+      "placedBy": "align",
+      "note": "cum tha snyad|pa'i rnam gzhag (su an lap danh ngon) bi ngat doi: 'tha snyad' cuoi p875"
     },
     {
       "pdf": 877,
