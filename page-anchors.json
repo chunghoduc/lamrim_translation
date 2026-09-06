@@ -4943,8 +4943,10 @@
       "kind": "internal",
       "boTail": "ད་པར་བྱའོ་ཞེས་ཟེར་ན། བྱང་ཆུབ་སེམས་དཔས་གལ་ཏེ་གླེགས་བམ་དེ་ཆོས་ཀྱི་སྟ་གོན་བྱས་པ་ཞིག་ཡིན་ན་ནི་",
       "boHead": "དེ་ལ་སྦྱིན་པར་མི་བྱ་བར་རིན་བདོག་ན་རིན་སྦྱིན་པར་བྱའོ། །གལ་ཏེ་རིན་མི་བདོག་ན་གཉིས་ཀ་མ་བྱིན་ཀྱ",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "chẳng nên bố thí [nó] cho kẻ ấy",
+      "placedBy": "align",
+      "note": "khớp đúng chữ"
     },
     {
       "pdf": 475,
@@ -4953,8 +4955,10 @@
       "kind": "internal",
       "boTail": "ཐམས་ཅད་དགའ་བར་བྱེད་ནུས་ཀྱི༌བྱིན་ན་འདི་གཅིག་པུ་དགའ་བ་ཙམ་ཡིན་པའི་ཕྱིར་རོ། །བྱང་སར་དགོས་པ་ཆེ་",
       "boHead": "ཆུང་དེ་ལྟར་གསུངས་ཤིང༌། སྤྱོད་འཇུག་ལས་ཀྱང༌། ཆུང་ངུའི་ཕྱིར་དུ་ཆེ་མི་བཏང༌། །ཞེས་གསུངས་པས་མ་བྱ",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "như vậy; và trong *Nhập Bồ-tát Hạnh* cũng dạy",
+      "placedBy": "align",
+      "note": "che | chung (lớn nhỏ) bị ngắt đôi"
     },
     {
       "pdf": 476,
@@ -4963,8 +4967,10 @@
       "kind": "internal",
       "boTail": "སྦྱིན་པའི་དབང་མེད་པ་ཞིག་ཡིན་ངེས་སྙམ་དུ་འགྱུར་བ་དེ་ལྟར་བྱེད་པ་སྟེ་ཤེས་རབ་ཅན་གྱི་སྦྱིན་པའོ།།",
       "boHead": "དངོས་པོའི་སྒོ་ནས་སྦྱིན་དུ་མི་རུང་བ་ནི། རང་གི་ཕ་མ་དང་སྲོག་ཆགས་དང་བཅས་པའི་བཟའ་བཏུང་དང༌། བརྡའ",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "Điều không thích hợp để cho xét theo sự vật",
+      "placedBy": "align",
+      "note": "khớp đúng chữ"
     },
     {
       "pdf": 477,
@@ -4981,8 +4987,10 @@
       "kind": "internal",
       "boTail": "སྔར་བཤད་པ་ལས་མ་གཏོགས་པ་རྣམས་དང་རྒྱལ་པོ་བྱེད་པའི་ཚེ་གཞན་གྱི་བུ་དང་ཆུང་མ་ལ་སོགས་པ་བདག་པོ་དང་",
       "boHead": "ཁ་ཕྲལ་ནས་སྦྱིན་དུ་མི་རུང་ཡང་གྲོང་ལ་སོགས་པ་དང་བཅས་ཏེ་སློང་བ་ལ་སྦྱིན་ནོ། །དེ་བཞིན་དུ་ངན་འགྲོ",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "mà bố thí, nhưng [nếu] cùng với làng xóm",
+      "placedBy": "align",
+      "note": "bdag po dang | kha phral bị ngắt đôi"
     },
     {
       "pdf": 479,
@@ -4991,8 +4999,10 @@
       "kind": "internal",
       "boTail": "་བདག་གདོན་མི་ཟ་བར་འབྲལ་ཏེ་འདིས་ཀྱང་བདག་འདོར་བདག་གིས་ཀྱང་འདི་འདོར་རོ། །དེས་ན་འདི་བཏང་ལ་ཡིད་",
       "boHead": "དགའ་བ་དང་སྙིང་པོ་བླངས་ཏེ་འཆི་བའི་དུས་བྱའོ། །འདི་བཏང་ན་འཆི་བའི་དུས་ཀྱི་ཚེ་ནོར་ལ་ཆགས་པར་མི་འ",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "được hoan hỷ và đã lấy được tinh yếu",
+      "placedBy": "align",
+      "note": "yid | dga' ba bị ngắt đôi"
     },
     {
       "pdf": 480,
@@ -5001,8 +5011,10 @@
       "kind": "internal",
       "boTail": "གེགས་ནི་བསྡུ་བ་ལས་འབྱུང་བ་ལྟར་བཞི་སྟེ། མ་གོམས་པ་དང༌། རྒུད་པ་དང༌།ཆགས་པ་དང༌། འབྲས་བུ་མ་མཐོང་",
       "boHead": "བའོ། །དེ་ལ་དང་པོ་ནི། སྦྱིན་པར་བྱ་བའི་རྫས་ཡོད་བཞིན་དུ་སློང་བ་པོ་ལ་སྦྱིན་མི་འདོད་པ་སྟེ། དེའི",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "Trong đó, thứ nhất là: tuy có vật để bố thí",
+      "placedBy": "align",
+      "note": "mthong | ba'o bị ngắt đôi"
     },
     {
       "pdf": 481,
@@ -5019,8 +5031,10 @@
       "kind": "internal",
       "boTail": " ས་དེ་ཐོབ་ནས་ནི་ལོངས་སྤྱོད་ཀྱིས་ཕོངས་པ་མི་སྲིད་དེ། བྱང་ས་ལས། དེ་ལྟར་ན་བྱང་ཆུབ་སེམས་དཔའ་ནི་",
       "boHead": "ཇི་སྲིད་བསམ་པ་རྣམ་པར་དག་པ་མ་ཐོབ་ཀྱི་བར་དུ་ལོངས་སྤྱོད་དེ་དག་མེད་དེ། མི་བདོག་བཞིན་དུ་ཤེས་རབ་",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "cho đến khi nào chưa đắc được ý lạc hoàn toàn thanh tịnh",
+      "placedBy": "align",
+      "note": "khớp đúng chữ"
     },
     {
       "pdf": 483,
@@ -5037,8 +5051,10 @@
       "kind": "internal",
       "boTail": "ིན་ཏེ། སྤྱོད་འཇུག་ལས། ཉ་ལ་སོགས་པ་གང་ཞིག་ཏུ། །དེ་དག་གསོད་མི་འགྱུར་བར་བསྐྲད། །སྤོང་བའི་སེམས་",
       "boHead": "ནི་ཐོབ་པ་ལས། །ཚུལ་ཁྲིམས་ཕ་རོལ་ཕྱིན་པར་བཤད། །ཅེས་སོ། །ཚུལ་ཁྲིམས་ལ་གསུམ་དུ་ཡོད་མོད་ཀྱི་འདིར་",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "Mà nói là giới ba-la-mật.",
+      "placedBy": "align",
+      "note": "spong ba'i sems | ni thob pa bị ngắt đôi"
     },
     {
       "pdf": 485,
@@ -5047,8 +5063,10 @@
       "kind": "internal",
       "boTail": "ན་གྱི་དོན་ལ་བརྩོན་པས་ནི་ཚུལ་ཁྲིམས་ལ་གཅེས་སྤྲས་བྱ་བ་ལ་ལྷོད་པར་མི་བྱ་བར་བསྲུང་སྡོམ་ལ་ཤིན་ཏུ་",
       "boHead": "གྲིམས་དགོས་ཏེ། ཕར་ཕྱིན་བསྡུས་པ་ལས། རྫོགས་པའི་སངས་རྒྱས་ཚུལ་ཁྲིམས་རྒྱན་ལྡན་པར། །འགྲོ་བ་ཐམས་ཅ",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "phải hết sức nghiêm cẩn nơi việc phòng hộ ngăn giữ. ⟪⟫Bởi trong *Ba-la-mật Tập* [có nói]:",
+      "placedBy": "align",
+      "note": "shin tu | grims bị ngắt đôi; câu dẫn lặp nên định vị kèm ngữ cảnh"
     },
     {
       "pdf": 486,
@@ -5057,8 +5075,10 @@
       "kind": "internal",
       "boTail": "འདི་ལ་བརྟེན་ནས་རྒྱུད་གོང་ནས་གོང་དུ་ཁྱད་པར་དུ་འགྲོ་བ་དང་། སྙིང་རྗེའི་ངང་ཅན་སེམས་དཔའ་ཆེན་པོ་",
       "boHead": "རྣམས་དང་བསླབ་པ་མཚུངས་པར་འགྱུར་བ་དང་། ཉེས་སྤྱོད་ཀྱི་ས་བོན་ཐམས་ཅད་སྤངས་པའི་ཡེ་ཤེས་གཙང་མ་འཐོབ",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "và đạt được trí thanh tịnh vốn đã đoạn trừ",
+      "placedBy": "align",
+      "note": "sems dpa' chen po | rnams bị ngắt đôi"
     },
     {
       "pdf": 487,
@@ -5075,8 +5095,10 @@
       "kind": "internal",
       "boTail": "ལ་དགོད་པའི་ཕྱིར་དུ་བསྲུང་བར་བྱ་སྟེ། དེ་ཉིད་ལས། གང་ཞིག་འཇིག་རྟེན་དཔག་ཡས་སེམས་ཅན་དག །མཐའ་དག་",
       "boHead": "ཚུལ་ཁྲིམས་དག་ལ་དགོད་མོས་ཤིང༌། །འཇིག་རྟེན་ཕན་ཕྱིར་ཚུལ་ཁྲིམས་སྟེན་བྱེད་པ། །དེ་ནི་ཚུལ་ཁྲིམས་ཕ",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "mà mong đặt để vào trong giới,",
+      "placedBy": "align",
+      "note": "khớp đúng chữ"
     },
     {
       "pdf": 489,
@@ -5085,8 +5107,10 @@
       "kind": "internal",
       "boTail": "། འདི་རྣམས་རྒྱས་པར་ཚུལ་ཁྲིམས་ལེའུའི་རྣམ་བཤད་དུ་བདག་གིས་གཏན་ལ་ཕབ་ཟིན་པས་དེ་ངེས་པར་ཡང་དང་ཡང་",
       "boHead": "དུ་བལྟ་དགོས་སོ། །དེས་ན་སོ་སོར་ཐར་པའི་བཅས་པ་རྣམས་ནི་བྱང་ཆུབ་སེམས་དཔའི་སྡོམ་ལྡན་རབ་ཏུ་བྱུང་བ",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "Do vậy, các điều chế định của biệt giải thoát",
+      "placedBy": "align",
+      "note": "yang dang yang | du blta bị ngắt đôi"
     },
     {
       "pdf": 490,
@@ -5095,8 +5119,10 @@
       "kind": "internal",
       "boTail": "ིན་རྣམས་ཀྱི་ཡང་ཉེས་དམིགས་ཆེ་བའི་གནད་རྣམས་བསྡུས་པ་ནི། ཐེག་པ་གོང་འོག་ཐམས་ཅད་དུ་གསུངས་པའི་མི་",
       "boHead": "དགེ་བཅུ་སྤོང་ཡིན་པས་དེ་དག་ལ་ཀུན་སློང་ཙམ་ཡང་མི་རྒྱུ་བའི་སྒོ་ནས་སྒོ་གསུམ་ཡང་དག་པར་སྡོམ་དགོས་",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "Cho nên phải chân chánh thu thúc ba cửa",
+      "placedBy": "align",
+      "note": "mi | dge bcu (mười điều bất thiện) bị ngắt đôi"
     },
     {
       "pdf": 491,
@@ -5113,8 +5139,10 @@
       "kind": "internal",
       "boTail": "ངས་སུ་རྫོགས་པ་ཙམ་ཡིན་གྱི། སེམས་ཅན་ཐམས་ཅད་མི་བསྲུན་པ་དང་བྲལ་བ་ལ་ལྟོས་མི་དགོས་ཏེ། བསྒྲུབ་པར་",
       "boHead": "མི་ནུས་པའི་ཕྱིར་དང་། རང་གི་སེམས་བཏུལ་བ་ཉིད་ཀྱིས་དགོས་པ་འགྲུབ་པའི་ཕྱིར་ཏེ། སྤྱོད་འཇུག་ལས། ས",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "không thể thành tựu được, và bởi vì chỉ do điều phục tâm",
+      "placedBy": "align",
+      "note": "bsgrub par | mi nus bị ngắt đôi"
     },
     {
       "pdf": 493,
@@ -5123,8 +5151,10 @@
       "kind": "internal",
       "boTail": "་ལས་ཀྱང༌། གཞན་དོན་འདོར་བའི་ཡིད་དང་ལྡན་པ་ལ། །ཚུལ་གྱི་དམ་པ་བཟོད་པ་ཡིན་ཞེས་གསུངས། །འཇིག་རྟེན་",
       "boHead": "ལེགས་པ་ཕུན་སུམ་ཚོགས་པ་དག །ཁྲོ་བའི་སྐྱོན་ལ་བཟོད་པས་ཡོངས་སུ་སྐྱོབ། །མཐུ་ལྡན་རྣམས་ཀྱི་རྒྱན་གྱ",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "Những sự viên mãn tốt lành của thế gian,",
+      "placedBy": "align",
+      "note": "'jig rten | legs pa bị ngắt đôi; tiếng Việt đặt \"của thế gian\" ở cuối"
     },
     {
       "pdf": 494,
@@ -5133,8 +5163,10 @@
       "kind": "internal",
       "boTail": "བས་འདི་ཕྱི་ཀུན་ཏུ་བདེ་བའོ། །དེ་དག་ལ་སོགས་པའི་ཕན་ཡོན་རྣམས་བཟོད་པ་ལས་བྱུང་བའི་རྒྱུ་འབྲས་ཀྱི་",
       "boHead": "འབྲེལ་པ་ལ་ངེས་པ་ཤུགས་དྲག་ལ་བརྟན་པ་མ་རྙེད་ཀྱི་བར་དུ་བསྒོམ་པར་བྱའོ།། ཁྲོ་བའི་ཉེས་དམིགས་ལ། མ་",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "Phải tu tập cho đến chừng nào chưa tìm được",
+      "placedBy": "align",
+      "note": "rgyu 'bras kyi | 'brel pa bị ngắt đôi; câu tiếng Việt đảo mạnh"
     },
     {
       "pdf": 495,
@@ -5151,8 +5183,10 @@
       "kind": "internal",
       "boTail": "ོན་ལ་ཞེ་སྡང་ལྟ་བུ་དེའི་འབྲས་བུ་འབྱིན་པ་ཡིན་གྱི། ད་གདོད་རྐྱེན་དང་ཕྲད་ན་རང་རང་གི་འབྲས་བུ་མི་",
       "boHead": "འབྱིན་པ་མིན་ཏེ། འཇིག་རྟེན་པའི་ལམ་གང་གིས་ཀྱང་སྤང་བྱའི་ས་བོན་སྤོང་མི་ནུས་ན་ཉོན་མོངས་པས་ས་བོན",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "Bởi vì nếu không một đạo lộ thế gian nào",
+      "placedBy": "align",
+      "note": "mi | 'byin pa bị ngắt đôi"
     },
     {
       "pdf": 497,
@@ -5161,8 +5195,10 @@
       "kind": "internal",
       "boTail": "ུ་གུ་མི་འབྱུང་བ་ལྟར། ད་གདོད་རྐྱེན་དང་ཕྲད་ཀྱང་འབྲས་བུ་འབྱིན་མི་ནུས་པར་གསུངས་སོ། །དེ་ཡང་སྔར་",
       "boHead": "བཤད་པ་ལྟར་སྡིག་པ་བསགས་པ་སྟོབས་བཞིས་སྦྱངས་པས་འདག་ཀྱང་ལམ་གོང་མ་སྐྱེ་བ་བུལ་དུ་སོང་བ་མི་འགལ་བ་",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "tuy tội lỗi đã tích tập được tịnh trừ bằng bốn lực",
+      "placedBy": "align",
+      "note": "sngar | bshad pa ltar bị ngắt đôi"
     },
     {
       "pdf": 498,
@@ -5171,8 +5207,10 @@
       "kind": "internal",
       "boTail": "གཞན་གྱི་རྣམ་སྨིན་ཆེས་ཡིད་དུ་འོང་བ་འབྱིན་པ་དཔག་ཏུ་མེད་པ་འགོག་པ་ནི་མ་མཐོང་བའི་ཉེས་དམིགས་སོ།།",
       "boHead": "མཐོང་ཆོས་ཀྱི་ཉེས་དམིགས་ནི། ཡིད་ཞི་ཞིང་དེས་པ་ཉམས་སུ་མི་མྱོང་བ་དང་དགའ་བ་དང་བདེ་བ་སྔར་ཡོད་འཇི",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "Lỗi hại nơi hiện pháp là:",
+      "placedBy": "align",
+      "note": "khớp đúng chữ"
     },
     {
       "pdf": 499,
@@ -5189,8 +5227,10 @@
       "kind": "internal",
       "boTail": "སླབ་བཏུས་ལས་ཤེས་པར་བྱའོ།། བཟོད་པའི་རབ་དབྱེ་ལ་གསུམ། གནོད་བྱེད་ལ་ཇི་མི་སྙམ་པ་དང༌། སྡུག་བསྔལ་",
       "boHead": "དང་དུ་ལེན་པ་དང༌། ཆོས་ལ་ངེས་སེམས་ཀྱི་བཟོད་པའོ། །དང་པོ་གནོད་བྱེད་ལ་ཇི་མི་སྙམ་པའི་བཟོད་པ་བསྐྱ",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "và nhẫn của tâm xác quyết đối với pháp",
+      "placedBy": "align",
+      "note": "sdug bsngal | dang du len pa bị ngắt đôi"
     },
     {
       "pdf": 501,
@@ -5199,8 +5239,10 @@
       "kind": "internal",
       "boTail": "ནོད་པའི་སེམས་དེ་བསྐྱེད་དོ་སྙམ་དུ་མ་བསམས་ཀྱང་རྒྱུ་རྐྱེན་དེ་དག་གིས་བསྐྱེད་པར་འགྱུར་བའི་ཕྱིར་",
       "boHead": "དང༌། རྒྱུ་རྐྱེན་དེ་དག་མ་ཚང་ན་བསྐྱེད་དོ་སྙམ་དུ་བསམས་ཀྱང་གཏན་མི་སྐྱེ་བའི་ཕྱིར་རོ། །དེ་ལྟར་རྒ",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "và vì nếu các nhân duyên ấy không đầy đủ",
+      "placedBy": "align",
+      "note": "khớp đúng chữ"
     },
     {
       "pdf": 502,
@@ -5209,8 +5251,10 @@
       "kind": "internal",
       "boTail": "༌། འདི་འདིར་སེམས་ཅན་སྐྱོན་མིན་གྱི། །འདི་ནི་ཉོན་མོངས་རྣམས་སྐྱོན་ཞེས། །རྣམ་པར་དཔྱད་ནས་མཁས་པ་",
       "boHead": "རྣམས། །སེམས་ཅན་དག་ལ་འཁྲུག་མི་བྱེད། །ཅེས་གསུངས་པ་ལྟར་རོ། །སྤྱོད་འཇུག་ནས་རིགས་པ་མང་དུ་གསུངས་",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "Chẳng tức giận với các chúng sinh.",
+      "placedBy": "align",
+      "note": "mkhas pa | rnams bị ngắt đôi"
     },
     {
       "pdf": 503,
