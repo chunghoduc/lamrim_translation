@@ -8447,8 +8447,10 @@
       "kind": "internal",
       "boTail": "ར་བྱ་བའི་ཕྱིར། དངོས་པོ་རྣམས་ཀྱི་ཡང་དག་པ་ཇི་ལྟ་བ་ཉིད་རབ་ཏུ་བསྟན་པར་བཞེད་པས། རྟེན་ཅིང་འབྲེལ་",
       "boHead": "པར་འབྱུང་བ་རྗེས་སུ་བསྟན་པར་བརྩམས་ཏེ། ཡང་དག་མ་ཡིན་མཐོང་བ་འཆིང༌། །ཡང་དག་མཐོང་བ་རྣམ་པར་གྲོལ། ",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "do đó [ngài] khởi sự chỉ dạy về duyên khởi",
+      "placedBy": "align",
+      "note": "cum rten cing 'brel|par 'byung ba (duyen khoi) bi ngat doi: 'rten cing 'brel' cuoi p795"
     },
     {
       "pdf": 797,
@@ -8457,8 +8459,10 @@
       "kind": "internal",
       "boTail": "ད་རྟོགས་པ་བཞེད་པར་གསལ་ལོ། །དེས་ན་ཉན་རང་ལ་ཆོས་རང་བཞིན་མེད་པ་རྟོགས་པའི་སྒྲུབ་བྱེད་ཆེན་པོ་ནི།",
       "boHead": "ཆོས་ཀྱི་བདག་འཛིན་ཡན་ལག་བཅུ་གཉིས་ཀྱི་མ་རིག་པར་འགྱུར་བ་འདི་ཡིན་པར་ཤེས་པར་གྱིས་ཤིག ། བཞི་བརྒྱ",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "điều này: việc ngã chấp nơi pháp trở thành vô minh",
+      "placedBy": "align",
+      "note": "'shes par gyis shig' (hay biet rang, cuoi p797) dich dat len dau cau nen nam ben p796"
     },
     {
       "pdf": 798,
@@ -8467,8 +8471,10 @@
       "kind": "internal",
       "boTail": "་ཡུལ་དེ་ཉིད་གཞིར་བཞག་ནས་རང་དང་གཞན་གྱི་སྡེ་པ་དངོས་པོར་སྨྲ་བ་རྣམས་ཀྱིས་ཁྱད་པར་དུ་མ་ཞིག་སྒྲོ་",
       "boHead": "བཏགས་པ་གྲུབ་མཐའི་དབང་གིས་བཞག་པ་ཐམས་ཅད་ནི། མ་རིག་པའི་འཛིན་སྟངས་ཀྱི་ཡུལ་དེ་ཉིད་སུན་ཕྱུང་བ་ན་",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "thì khi chính cái cảnh của cách nắm giữ của vô minh ấy bị phá trừ",
+      "placedBy": "align",
+      "note": "cum sgro|btags pa bi ngat doi; tieng Viet dua 'Het thay nhung gi duoc an lap do suc cua tong nghia' (p798) len dau cau nen ve ay nam ben p797; day la diem cat sai lech it nhat"
     },
     {
       "pdf": 799,
@@ -8485,8 +8491,10 @@
       "kind": "internal",
       "boTail": "ཀྱང་ཐ་སྙད་པའི་བློའི་ངོ་ན་ཇི་ལྟར་སྣང་བའི་སྣང་ཚུལ་ལ་དཔྱད་པ་བཞག་ནས་ཆོས་དེ་རྣམས་ཀྱི་རང་གི་གནས་",
       "boHead": "ལུགས་ཇི་ལྟ་བུ་ཡིན་སྙམ་དུ་ཡུལ་སྟེང་དུ་དཔྱད་པ་ན་ཅིར་ཡང་མ་གྲུབ་པ་ཡིན་པ་ལ། དེ་ལྟར་དུ་མི་འཛིན་པ",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "mà thẩm sát ở trên cảnh, nghĩ rằng",
+      "placedBy": "align",
+      "note": "cum rang gi gnas|lugs (that tanh cua chinh no) bi ngat doi; ve cuoi p799 dich dat sau nen nam ben p800"
     },
     {
       "pdf": 801,
@@ -8495,8 +8503,10 @@
       "kind": "internal",
       "boTail": "ི་རིགས་ཏེ། གཞན་དུ་ན་གང་ཟག་གཞན་ལ་དམིགས་ནས་རང་གི་མཚན་ཉིད་ཀྱིས་གྲུབ་པར་འཛིན་པའང་གང་ཟག་གི་བདག་",
       "boHead": "འཛིན་དུ་འགྱུར་ལ། དེ་འདོད་ན་ནི་འཇིག་ཚོགས་ལ་ལྟ་བར་འགྱུར་དགོས་ན། དེ་ལ་ནི་ངའོ་སྙམ་དུ་མི་འཛིན་པ",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "và nếu chấp nhận điều ấy thì [nó] ắt phải thành hoại tụ kiến",
+      "placedBy": "align",
+      "note": "cum gang zag gi bdag|'dzin bi ngat doi: ''dzin du 'gyur la' dau p801 nam ben p800"
     },
     {
       "pdf": 802,
