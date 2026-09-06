@@ -8143,8 +8143,10 @@
       "kind": "internal",
       "boTail": "དཔྱོད་པའི་རིགས་པས་བདག་དང་གཞན་ལ་སོགས་པ་གང་ལས་སྐྱེ་ཞེས་ཇི་ལྟར་དཔྱོད་དེ་རིགས་པས་དཔྱད་བཟོད་དུ་",
       "boHead": "འདོད་མི་དགོས་པའི་ཕྱིར་རོ། །གཞན་ཡང་བརྟེན་ནས་སྐྱེ་བ་ཉིད་ཀྱིས་མུ་བཞིའི་སྐྱེ་བ་འགོག་པ་ཡིན་ཏེ། ",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "Bởi vì [người ấy] chẳng cần chủ trương [nó] kham chịu nổi",
+      "placedBy": "align",
+      "note": "''dod mi dgos pa'i phyir ro' (dau p768) dich dat truoc 'kham chiu noi su tham sat' nen 'rigs pas dpyad bzod du' cuoi p767 nam ben p768"
     },
     {
       "pdf": 769,
@@ -8153,8 +8155,10 @@
       "kind": "internal",
       "boTail": "དུ། གང་ཞིག་ཀུན་ནས་ཉོན་མོངས་པ་དང་རྣམ་པར་བྱང་བའི་རྒྱུར་གྱུར་པ་རྫས་ཀྱི་བདག་ཉིད་སྐྱེ་བར་འགྱུར་",
       "boHead": "བར་བྱ་དགོས་སོ་ཞེས་སྨྲ་ན། དེ་ལྟ་ནའང་དེ་སྐད་དུ་སྨྲ་བ་ལ་ཚིག་ཙམ་ཞིག་ལྷག་མ་ལུས་པར་འགྱུར་རོ། །ཅི",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "thì dẫu vậy, đối với người nói như thế cũng chỉ còn sót lại",
+      "placedBy": "align",
+      "note": "cum skye|bar bya dgos so bi ngat doi; ve dau p769 nam ben p768 vi tieng Viet dao khung 'Neu noi rang' len truoc"
     },
     {
       "pdf": 770,
@@ -8163,8 +8167,10 @@
       "kind": "internal",
       "boTail": "ཉིད་མཁྱེན་པའི་མཆོག་གིས་གསུངས། །ཞེས་པའི་འགྲེལ་པར། རྟེན་ཅིང་འབྲེལ་བར་འབྱུང་བ་མཐོང་ན་དངོས་པོ་",
       "boHead": "རྣམས་རང་བཞིན་དུ་དམིགས་པར་མི་འགྱུར་ཏེ། གང་བརྟེན་ནས་སྐྱེས་པ་དེ་ནི་གཟུགས་བརྙན་བཞིན་དུ་རང་བཞིན",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "thì sẽ chẳng duyên lấy các sự vật như là [có] tự tánh",
+      "placedBy": "align",
+      "note": "cum dngos po|rnams (cac su vat) bi ngat doi: 'dngos po' cuoi p769 nam ben p770"
     },
     {
       "pdf": 771,
@@ -8181,8 +8187,10 @@
       "kind": "internal",
       "boTail": "་རྣམས་ནས་དངོས་པོའམ་རང་བཞིན་ཡོད་པ་དང་མེད་པ་དང་གཉིས་ཀ་དང་གཉིས་ཀ་མིན་པའི་མུ་བཞི་ཐམས་ཅད་བཀག་ལ།",
       "boHead": "དེར་མ་འདུས་པའི་ཆོས་ཀྱང་མེད་པས་རིགས་པས་ཐམས་ཅད་འགོག་གོ་སྙམ་ན། འདི་ནི་སྔར་བསྟན་པ་ལྟར་དངོས་པོ་",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "mà lại chẳng có pháp nào không thâu nhiếp vào trong đó",
+      "placedBy": "align",
+      "note": "khop dung chu"
     },
     {
       "pdf": 773,
@@ -8191,8 +8199,10 @@
       "kind": "internal",
       "boTail": "་པའི་ཤེས་རབ་ཀྱི་ཡུལ་རང་བཞིན་མེད་པ་དེ་ཇི་ལྟར་བྱས་པས་སུན་འབྱིན་པ་སྨྲོས་ཤིག །རྩ་ཤེ་ལས། གལ་ཏེ་",
       "boHead": "སྟོང་མིན་ཅུང་ཟད་ཡོད། །སྟོང་པའང་ཅུང་ཟད་ཡོད་པར་འགྱུར། །མི་སྟོང་ཅུང་ཟད་ཡོད་མིན་ན། །སྟོང་པའང་ཡ",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "có chút gì chẳng phải là không,",
+      "placedBy": "align",
+      "note": "khop dung chu: 'gal te' (Neu) cuoi p772"
     },
     {
       "pdf": 774,
@@ -8201,8 +8211,10 @@
       "kind": "internal",
       "boTail": "བློ་གཞན་ཞིག་གིས་རང་བཞིན་མེད་པ་དེ་ཉིད་ཡོད་དོ་སྙམ་དུ་འཛིན་པ་ནའང་དེའི་ཡུལ་རིགས་པས་འགོག་པ་མིན་",
       "boHead": "གྱི། སྟོང་ཉིད་དེ་རང་གི་ངོ་བོས་གྲུབ་པར་འདོད་ན་འགོག་པ་ཡིན་ནོ། །འོ་ན་རང་བཞིན་མེད་པ་དེ་ལ་རང་བཞ",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "mà nếu chủ trương tánh không ấy được thành lập bằng thể tánh",
+      "placedBy": "align",
+      "note": "chi lien tu 'gyi' dau p774"
     },
     {
       "pdf": 775,
