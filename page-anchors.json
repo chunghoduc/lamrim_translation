@@ -6095,8 +6095,10 @@
       "kind": "internal",
       "boTail": "ནས་ཞེས་བྱའོ། །ཞི་གནས་དེ་ཉིད་ལ་གནས་པའི་ཚེ་དེ་ཁོ་ན་ལ་རྣམ་པར་དཔྱོད་པ་གང་ཡིན་པ་དེ་ནི་ལྷག་མཐོང་",
       "boHead": "ཡིན་ཏེ། ཞེས་པ་དང༌། ཤེར་ཕྱིན་མན་ངག་ལས་ཀྱང༌། དེ་ལ་ཇི་སྙེད་ཡོད་པར་གྱུར་པ་དང༌། ཇི་ལྟ་བ་བཞིན་དུ",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "— nói như vậy. Và trong *Bát-nhã Ba-la-mật Khẩu Quyết* cũng nói:",
+      "placedBy": "align",
+      "note": "he tu 'yin te' (dau p580) khep menh de 'de ni lhag mthong' nen nam ben p579"
     },
     {
       "pdf": 581,
@@ -6105,8 +6107,10 @@
       "kind": "internal",
       "boTail": "རྒྱུག་པ་ཞི་ནས་ནང་དུ་དམིགས་པ་ལ་གནས་པས་ན་ཞི་གནས་ཞེས་བྱ་ལ། ལྷག་པ་སྟེ་ཁྱད་པར་དུ་མཐོང་བས་ན་ལྷག་",
       "boHead": "མཐོང་ཞེས་བྱའོ། །གང་དག་སེམས་མི་རྟོག་པར་གནས་པ་རིག་པའི་གསལ་ཆའི་ངར་མེད་པ་ཞི་གནས་དང༌། གསལ་ཆའི་ང",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "nên ⟪⟫gọi là thắng quán.",
+      "placedBy": "align",
+      "note": "chu lhag|mthong (thang quan) bi ngat doi: chi am tiet 'lhag' cuoi p580"
     },
     {
       "pdf": 582,
@@ -6123,8 +6127,10 @@
       "kind": "internal",
       "boTail": "་མི་འཕྲོ་བར་གནས་པའི་མི་རྟོག་པའི་ཏིང་ངེ་འཛིན་ཡོད་ཀྱང་ཡིན་ལུགས་རྟོགས་པའི་ཤེས་རབ་མེད་ན་དེ་ཁོ་",
       "boHead": "ན་ཉིད་ལྟ་བའི་མིག་དང་བྲལ་བས། ཏིང་ངེ་འཛིན་ལ་ཇི་ཙམ་གོམས་ཀྱང་ཡིན་ལུགས་རྟོགས་པ་མི་སྲིད་ལ། བདག་མ",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "thì do thiếu con mắt nhìn thật tánh",
+      "placedBy": "align",
+      "note": "cum de kho|na nyid (that tanh) bi ngat doi: 'de kho' cuoi p582"
     },
     {
       "pdf": 584,
@@ -6133,8 +6139,10 @@
       "kind": "internal",
       "boTail": "འི་མདོ་ལས། ཇི་སྐད་དུ། ཞི་གནས་སྟོབས་ཀྱིས་གཡོ་བ་མེད་པར་འགྱུར། །ལྷག་མཐོང་གིས་ནི་རི་དང་འདྲ་བར་",
       "boHead": "འགྱུར། །ཞེས་གསུངས་པ་ལྟ་བུའོ། །ཞེས་སོ།། དེས་ན་སེམས་དམིགས་པ་ལས་མི་གཡེང་བར་གར་བཞག་ཏུ་ལྷན་ལྷན་",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "— như đã nói vậy.",
+      "placedBy": "align",
+      "note": "dong tu ''gyur' (tro nen) dau p584 khep dong ke truoc do nen nam ben p583"
     },
     {
       "pdf": 585,
@@ -6151,8 +6159,10 @@
       "kind": "internal",
       "boTail": "ྡོད་ཐུབ་ལ། བཏང་ནའང་ཡུར་བ་བདེ་མོ་ལ་ཆུ་དྲངས་པ་ལྟར། དགེ་བའི་དམིགས་པ་མཐའ་ཡས་པ་ལ་ཇི་ལྟར་འདོད་པ་",
       "boHead": "ལྟར་འགྲོ་བ་ཞིག་ཡིན་པས། ཞི་གནས་གྲུབ་ནས་ཇི་ལྟ་བ་དང་ཇི་སྙེད་པའི་ཡུལ་ལ་དམིགས་པའི་ཤེས་རབ་དང་གཏོ",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "Vì vậy, sau khi tịnh chỉ đã thành tựu, cần phải nuôi dưỡng",
+      "placedBy": "align",
+      "note": "cum ji ltar 'dod pa|ltar 'gro ba zhig yin pas bi ngat doi; tieng Viet dao thu tu nen ve 'thi di den... la thu ma' nam ben p585"
     },
     {
       "pdf": 587,
@@ -6161,8 +6171,10 @@
       "kind": "internal",
       "boTail": "་རྣམ་པར་གནོན་ནོ། །ཤེས་རབ་ཀྱིས་ནི་བག་ལ་ཉལ་ལེགས་པར་འཇོམས་པར་བྱེད་དོ། །ཞེས་བཀའ་སྩལ་ཏོ། །འཕགས་",
       "boHead": "པ་ཏིང་ངེ་འཛིན་གྱི་རྒྱལ་པོ་ལས་ཀྱང༌། ཏིང་ངེ་འཛིན་དེ་སྒོམ་པར་བྱེད་མོད་ཀྱི། །དེས་ནི་བདག་ཏུ་འདུ",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "Trong *Thánh Kinh Tam-muội Vương* cũng nói:",
+      "placedBy": "align",
+      "note": "chu 'phags|pa (Thanh) bi ngat doi: chi am tiet ''phags' cuoi p586"
     },
     {
       "pdf": 588,
@@ -6179,8 +6191,10 @@
       "kind": "internal",
       "boTail": "ྱེ་བ་ལའང་ཞི་གནས་སྔོན་དུ་འགྲོ་མི་དགོས་ཏེ། ཞི་གནས་མེད་ཀྱང་སོ་སོར་རྟོག་པའི་ཤེས་རབ་ཀྱིས་ཡང་ཡང་",
       "boHead": "དཔྱད་དེ་གོམས་པར་བྱས་པས་ཡིད་འགྱུར་བ་སྐྱེ་བར་མི་འགལ་བའི་ཕྱིར་ཏེ། འགལ་ན་མི་རྟག་པ་དང་འཁོར་བའི་",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "rồi tập cho thuần thục, việc phát sinh sự chuyển đổi tâm ý",
+      "placedBy": "align",
+      "note": "'yang yang' (di... lai) cuoi p588 va 'dpyad' (quan sat) dau p589 dan xen trong tieng Viet; chi 'dpyad' nam ben p588"
     },
     {
       "pdf": 590,
@@ -6189,8 +6203,10 @@
       "kind": "internal",
       "boTail": "མེད་པའི་གོ་བ་བཙལ་ནས་དེའི་དོན་ལ་ཡང་དང་ཡང་དུ་དཔྱོད་པར་བྱེད་ན་ནི་སྔོན་དུ་ཞི་གནས་མ་གྲུབ་པས་དེ་",
       "boHead": "ལ་བརྟེན་ནས་ཞི་གནས་འགྲུབ་མི་སྲིད་ལ། མི་དཔྱོད་པར་འཇོག་སྒོམ་བྱེད་ན་ནི་དེ་ལ་བརྟེན་ནས་ཞི་གནས་འག",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "việc nương vào đó mà thành tựu tịnh chỉ là không thể có",
+      "placedBy": "align",
+      "note": "chi dai tu 'de' (do) cuoi p589 nam ben p590"
     },
     {
       "pdf": 591,
@@ -6199,8 +6215,10 @@
       "kind": "internal",
       "boTail": "ང་པོ་ནས་སོ་སོར་རྟོག་པའི་ཤེས་རབ་ཀྱིས་དཔྱད་པ་ལས་ལྷག་མཐོང་བསྐྱེད་པར་བཞེད་པ་ནི། ཤིང་རྟ་ཆེན་པོ་",
       "boHead": "རྣམས་ཀྱི་གཞུང་དང་འགལ་བས་བློ་དང་ལྡན་པ་རྣམས་ཀྱིས་ཡིད་བརྟན་པའི་གནས་སུ་མི་རུང་ངོ་། ། ཞི་གནས་དང",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "thì trái với bản văn của các bậc Đại Xa",
+      "placedBy": "align",
+      "note": "cum shing rta chen po|rnams kyi gzhung bi ngat doi: 'shing rta chen po' cuoi p590 nam ben p591"
     },
     {
       "pdf": 592,
