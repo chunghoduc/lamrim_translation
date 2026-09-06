@@ -9491,8 +9491,10 @@
       "kind": "internal",
       "boTail": "ིན་གཟུགས་དང་ལྡན་པ་ལྟ་བུའོ། ། འོ་ན་ཕུང་པོ་འདུས་པ་ཙམ་བདག་ཡིན་ནམ་སྙམ་ན་དེ་ཡང་མི་རིགས་ཏེ། ཕུང་",
       "boHead": "པོ་ལྔ་ལ་བརྟེན་ནས་བདག་ཏུ་འདོགས་པར་གསུངས་པས་ན། གདགས་གཞི་བཏགས་ཆོས་སུ་མི་འཐད་པའི་ཕྱིར་རོ། །དེ་",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "bởi vì [ngài] dạy rằng nương vào năm uẩn mà giả danh là ngã",
+      "placedBy": "align",
+      "note": "chu phung|po (uan) bi ngat doi: 'phung' cuoi p892"
     },
     {
       "pdf": 894,
@@ -9509,8 +9511,10 @@
       "kind": "internal",
       "boTail": "ཚོལ་བའི་རིགས་པའི་ཤེས་པ་དང་གཟུགས་སོགས་ཡོད་པར་འཛིན་པའི་ཐ་སྙད་པའི་བློ་གཉིས་དགོས་པའི་རྒྱུ་མཚན་",
       "boHead": "ནི་དེ་ཡིན་ནོ། ། དེས་ན་གཟུགས་སོགས་སྒྱུ་མ་བཞིན་དུ་འཆར་དུ་མ་འདོད་ན་དེ་དག་འཛིན་པའི་ཐ་སྙད་པའི་བ",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "chính là điều ấy.",
+      "placedBy": "align",
+      "note": "khop dung chu"
     },
     {
       "pdf": 896,
@@ -9519,8 +9523,10 @@
       "kind": "internal",
       "boTail": "་དགག་བྱའི་ཚད་ལེགས་པར་མ་ཟིན་པར་གཅིག་ཐ་དད་སོགས་ལ་རིགས་པས་བརྟགས་པ་ན། དེ་དག་ལ་གནོད་པ་མཐོང་བའི་",
       "boHead": "ཚེ་གང་ཟག་ལ་སོགས་པ་ནི་ཡེ་མི་འདུག་གོ་སྙམ་པ་དང༌། གང་ཟག་ལ་སོགས་པའི་དངོས་པོ་རྣམས་རི་བོང་གི་རྭ་ལ",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "sẽ khởi lên ý nghĩ",
+      "placedBy": "align",
+      "note": "chi am tiet 'tshe' (khi) dau p896 nam ben p895"
     },
     {
       "pdf": 897,
@@ -9529,8 +9535,10 @@
       "kind": "internal",
       "boTail": "ུ་དེ་ཉིད་ལྷག་མར་ལུས་པར་འགྱུར་རོ། །ཞེས་སྒྱུ་མའི་དོན་ལྷག་མར་ལུས་དགོས་པར་གསུངས་པའི་ཕྱིར་རོ། །",
       "boHead": "འདི་ཡང་མྱུ་གུ་དེའི་རང་གི་ངོ་བོས་གྲུབ་པའི་རང་བཞིན་ཁེགས་པ་ན། རིགས་པ་དེའི་འདུ་བྱེད་ཇི་སྲིད་མ་",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "Điều này cũng vậy: khi tự tánh được thành lập bằng thể tánh của chính nó nơi mầm",
+      "placedBy": "align",
+      "note": "khop dung chu"
     },
     {
       "pdf": 898,
