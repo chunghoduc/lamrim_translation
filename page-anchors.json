@@ -9911,8 +9911,10 @@
       "kind": "internal",
       "boTail": "་མང་དུ་བཤད་ཟིན་ཏོ། །ཅི་སྟེ་ཆོས་འདི་དག་ཡིན་ཚུལ་དཔྱོད་པའི་རིགས་པས་རྣམ་པར་དཔྱད་པ་ན། དེ་དག་གི་",
       "boHead": "དངོས་པོ་དང་དངོས་པོ་མེད་པ་སོགས་གང་ཡང་རིགས་པ་དེས་ཡོད་པར་མི་འགྲུབ་པས། དེ་རྣམས་དོན་དམ་པར་སྤྲོས",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "thì bằng chánh lý ấy chẳng thành lập được rằng có bất cứ gì",
+      "placedBy": "align",
+      "note": "'de dag gi' (trong chung) cuoi p931 dich dat sau nen nam ben p932"
     },
     {
       "pdf": 933,
@@ -9921,8 +9923,10 @@
       "kind": "internal",
       "boTail": "་ཟད་ཀྱང་མེད་པར་འགྱུར་ཏེ། སྒོམ་རིམ་ཐ་མ་ལས། གང་ཞིག་སེམས་ཀྱི་རྣམ་པར་རྟོག་པས་བསྐྱེད་པའི་དགེ་བ་",
       "boHead": "དང་མི་དགེ་བའི་ལས་ཀྱི་དབང་གིས་སེམས་ཅན་རྣམས་མཐོ་རིས་ལ་སོགས་པའི་འབྲས་བུ་མྱོང་ཞིང་འཁོར་བ་ན་འཁོ",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "chúng sinh thọ nhận các quả như các cõi cao v.v.",
+      "placedBy": "align",
+      "note": "cum dge ba|dang mi dge ba bi ngat doi; tieng Viet dao 'Do nang luc cua nghiep' (p933) len truoc nen ve ay nam ben p932"
     },
     {
       "pdf": 934,
@@ -9931,8 +9935,10 @@
       "kind": "internal",
       "boTail": "ྱུར་རོ་ཞེས་འབྱུང་སྟེ། དེའི་ཕྱིར་ཐེག་པ་ཆེན་པོ་སྤོང་བ་ནི་ལས་ཀྱི་སྒྲིབ་པ་ཆེན་པོ་བྱས་པར་འགྱུར་",
       "boHead": "རོ། །དེ་ལྟ་བས་ན་ཐེག་པ་ཆེན་པོ་སྤོང་བ་ཐོས་པ་ཉུང་བ། བདག་གི་ལྟ་བ་མཆོག་ཏུ་འཛིན་པ། སྐྱེ་བོ་མཁས་པ",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "Do đó, lời khước bỏ Đại thừa, [lời của kẻ] ít nghe học",
+      "placedBy": "align",
+      "note": "chi tro tu ket 'ro' dau p934 nam ben p933"
     },
     {
       "pdf": 935,
@@ -9949,8 +9955,10 @@
       "kind": "internal",
       "boTail": "ུར་རོ། །འདི་ནི་དཔེར་ན་མཚན་མོ་རྒྱུས་མེད་པའི་བྲག་ཕུག་ཏུ་སྲིན་པོ་ཡོད་དམ་མེད་སྙམ་དུ་འཇིགས་པ་ན།",
       "boHead": "སྒྲོན་མེ་བཏེག་ནས་དེར་འདུག་མི་འདུག་ལེགས་པར་རྩད་བཅད་ནས་འཇིགས་པ་དེ་མི་སེལ་བར། སྲིན་པོ་ལ་རྟོག་",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "thì thay vì giơ đèn lên tra xét cho kỹ",
+      "placedBy": "align",
+      "note": "khop dung chu"
     },
     {
       "pdf": 937,
@@ -9959,8 +9967,10 @@
       "kind": "internal",
       "boTail": "འི་དོན་གོམས་པས་ལྡོག་ལ། དེ་ལོག་ན་དེས་བསྐྱེད་པའི་འཁོར་བའི་སྡུག་བསྔལ་ཐམས་ཅད་ལྡོག་པས་ན། དབུ་མ་",
       "boHead": "རིགས་ཚོགས་ལ་སོགས་པར་ཡུལ་རྣམས་ལ་དཔྱད་ནས་འགོག་པའི་རྒྱུ་མཚན་དེ་ལྟར་ཡིན་ཏེ། འཕགས་པ་ལྷས། ཡུལ་ལ་",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "Cho nên lý do của việc thẩm sát các cảnh rồi phá bỏ",
+      "placedBy": "align",
+      "note": "ten luan dbu ma|rigs tshogs (Trung Quan Ly Tu) bi ngat doi: 'dbu ma' cuoi p936"
     },
     {
       "pdf": 938,
@@ -9969,8 +9979,10 @@
       "kind": "internal",
       "boTail": "་དུ་སོང་བའི་གང་ཟག་ཡིན་ཀྱང་འཕགས་པ་ཡིན་པ་མི་འགལ་ལོ་ཞེས་སྨྲ་བར་བྱ་སྟེ། ཀུན་ནས་མཚུངས་པའི་ཕྱིར་",
       "boHead": "རོ། །ཡང་དེ་འདྲ་བའི་གང་ཟག་དེ་ཁོ་ན་ཉིད་མངོན་སུམ་དུ་རྟོགས་པ་དེས་རང་གི་ཡུལ་དེ། དེ་ཁོ་ན་ཉིད་ཀྱི",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "Lại nữa, vì hạng người như thế, kẻ hiện chứng thật tánh ấy",
+      "placedBy": "align",
+      "note": "chi tro tu ket 'ro' dau p938 nam ben p937"
     },
     {
       "pdf": 939,
