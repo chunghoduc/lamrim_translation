@@ -9123,8 +9123,10 @@
       "kind": "internal",
       "boTail": "གས་པ་རྣམས་མ་གྲུབ་པར་འགྱུར་རོ། །རང་རྒྱུད་ཁས་མི་ལེན་ན་ཕ་རོལ་དངོས་པོར་སྨྲ་བ་རང་ལ་ཚད་མ་དེ་འདྲ་",
       "boHead": "བས་གྲུབ་པས་ཆོག་གི །རང་ལ་ཚད་མ་དེས་གྲུབ་མི་དགོས་སོ། །དེས་ན་གཞུང་ནས་འབྱུང་བའི་རྗེས་དཔག་རྣམས་ཀ",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "thế là đủ; chứ chẳng cần [chúng] được thành lập",
+      "placedBy": "align",
+      "note": "cum tshad ma de 'dra|bas grub pas bi ngat doi; ve dau p859 nam ben p858 vi tieng Viet dao thu tu"
     },
     {
       "pdf": 860,
@@ -9133,8 +9135,10 @@
       "kind": "internal",
       "boTail": "པ་མ་ཡིན་ཏེ། དཔེར་ན་བུམ་པ་བཞིན་ནོ། །མིག་ལའང་རང་གི་བདག་ཉིད་མི་བལྟ་བ་ཡོད་པ་ཡིན་ཏེ། དེའི་ཕྱིར་",
       "boHead": "གཞན་ལ་བལྟ་བའང་འདི་ལ་མེད་དོ། །དེའི་ཕྱིར་རང་གི་བདག་ཉིད་མི་བལྟ་བ་དང་འགལ་བ་སྔོན་པོ་ལ་སོགས་པ་གཞ",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "nơi nó cũng chẳng có sự thấy cái khác.",
+      "placedBy": "align",
+      "note": "khop dung chu: 'de'i phyir' (vi the) cuoi p859"
     },
     {
       "pdf": 861,
@@ -9151,8 +9155,10 @@
       "kind": "internal",
       "boTail": "་པར་ཁས་བླངས་པ་ཙམ་གྱིས་མི་ཆོག་གོ། །ཆོས་ཅན་མིག་ལ་སོགས་པ་དེ་དག་ནི་ཡོད་པར་ཁོ་རང་གིས་ཁས་ལེན་པས་",
       "boHead": "དབུ་མ་པས་དེ་དག་བསྒྲུབ་ག་ལ་དགོས། གལ་ཏེ་དེ་ལའང་བསྙོན་ནས་ཁོ་བོ་ཅག་ལ་མ་གྲུབ་པས་སྒྲུབས་ཤིག་ཅེས་",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "vậy nhà Trung Quán đâu cần phải thành lập chúng.",
+      "placedBy": "align",
+      "note": "khop dung chu"
     },
     {
       "pdf": 863,
@@ -9161,8 +9167,10 @@
       "kind": "internal",
       "boTail": "་རང་བཞིན་མེད་ཀྱང༌། ཚད་མར་འཇོག་པ་མི་འགལ་བ་ཁོ་ལ་གྲུབ་ཟིན་ནས་དེ་འདྲ་བའི་ཚད་མས་སྒྲུབ་ན་ནི་ཆོས་",
       "boHead": "རྣམས་རང་བཞིན་མེད་པར་རྟོགས་པའི་ལྟ་བ༌རྙེད་པ་ཡིན་པས། དེ་ལ་རང་ལ་མི་བལྟ་བ་ཡིན་ན་རང་གི་ངོ་བོས་གྲ",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "thì [vị ấy] đã tìm được cái kiến chứng ngộ các pháp là vô tự tánh",
+      "placedBy": "align",
+      "note": "chu chos|rnams (cac phap) bi ngat doi: 'chos' cuoi p862"
     },
     {
       "pdf": 864,
