@@ -5851,8 +5851,10 @@
       "kind": "internal",
       "boTail": "་འགལ་བའང་ཤེས་རབ་ཀྱིས་བྱེད་པ་ཡིན་ནོ།། དེ་ལྟར་ཤེས་རབ་མེད་པ་ལ་འགལ་བ་ཤེས་རབ་ཅན་ལ་མི་འགལ་བ་མཐའ་",
       "boHead": "ཡས་ཀྱང༌། བདེན་གཉིས་ཀྱི་རྣམ་གཞག་དང་གསུང་རབ་ཕན་ཚུན་ལ་གནང་བཀག་མང་དུ་ཡོད་ཀྱང་དགོངས་པ་མི་འགལ་བར",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "nhưng việc trí tuệ phân biện được sự an lập hai đế",
+      "placedBy": "align",
+      "note": "chu mtha'|yas (vo bien) bi ngat doi: 'yas kyang' dau p557 nam ben p556"
     },
     {
       "pdf": 558,
@@ -5861,8 +5863,10 @@
       "kind": "internal",
       "boTail": "བྲས་བུ་དོན་གཉེར་ལ། །སྦྱིན་པ་བདག་ཉིད་རྣམ་པར་དག་མི་འགྱུར། །གཞན་དོན་བཏང་བ་སྦྱིན་པའི་མཆོག་ཅེས་",
       "boHead": "གསུངས། །ལྷག་མ་ནོར་སྤེལ་དོན་གྱི་སྦྱོར་བ་ཡིན། །ཞེས་དང༌། ཤེས་རབ་སྣང་བས་མུན་པ་མ་བསལ་ན། །ཚུལ་ཁྲ",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "Phần còn lại là gia hành nhằm mục đích tăng trưởng tài sản.",
+      "placedBy": "align",
+      "note": "cum ces|gsungs bi ngat doi: chi am tiet 'gsungs' nam ben p557"
     },
     {
       "pdf": 559,
@@ -5871,8 +5875,10 @@
       "kind": "internal",
       "boTail": "ང་ལེ་ལོ་དང་སྙོམས་ལས་དང་གཉིད་ཆེ་བ་དང་སོ་སོར་རྟོག་ཅིང་དཔྱོད་པ་ལ་མི་དགའ་བ་དང་རྒྱ་ཆེན་པོ་ལ་མི་",
       "boHead": "མོས་པ་དང༌། མི་ཤེས་བཞིན་དུ་ཤེས་སོ་སྙམ་པའི་ང་རྒྱལ་དང་ལོག་ལྟ་ཆེ་བ་དང་བདག་འདྲ་བས་མི་ནུས་སྙམ་དུ",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "ngã mạn nghĩ rằng mình biết trong khi thật chẳng biết",
+      "placedBy": "align",
+      "note": "cum mi|mos pa bi ngat doi; 'mos pa dang' dau p559 nam ben p558 vi tieng Viet dao thu tu"
     },
     {
       "pdf": 560,
@@ -5889,8 +5895,10 @@
       "kind": "internal",
       "boTail": "་བྱ་བ་མ་བྱས་པར་ལག་མཐིལ་ཙམ་པ་ཞིག་སྟོན་པ་ཙུག །སྦེད་པ་ཙུག་བྱས་པས་གར་ཡང་མི་ཕྱིན་གསུང༌། ཕུ་ཆུང་",
       "boHead": "བ་བཀའ་པོད་ཞལ་ཕྱེ་བ་སྔས་ན་བཞག་ནས། ཁོ་བོ་ཅག་ནི་སློབ་པ་བྱ་བ་ཡིན་པས། བལྟ་བ་མ་བྱུང་ཡང་འདི་ཀུན་ལ",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "đặt pho thánh điển đã mở sẵn nơi gối nằm",
+      "placedBy": "align",
+      "note": "ten Phu chung|ba bi ngat doi: chi am tiet 'ba' nam ben p561"
     },
     {
       "pdf": 562,
@@ -5899,8 +5907,10 @@
       "kind": "internal",
       "boTail": "ོས་སུ་མི་འགྲོ་བར་རྒྱབ་རི་འདྲ་བ་ཞིག་ཏུ་གོ་ནས་འོང༌། དེའི་རྒྱུ་མཚན་གྱིས་རང་མྱུར་དུ་འཚང་རྒྱ་བ་",
       "boHead": "ལ་སྒྲུབ་པ་དགོས། སངས་རྒྱས་ཀྱི་བསྟན་པ་ལ་ཐོས་པ་དགོས་ཞེས་བསྟན་པ་ལ་ཕན་པ་དང༌། སྒྲུབ་པ་བྱེད་པ་གཉི",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "mà họ nói ra lời mâu thuẫn hết sức càn bậy",
+      "placedBy": "align",
+      "note": "tieng Viet dua cau trich ra cuoi cau nen 'rang myur du 'tshang rgya ba' (cuoi p561) nam ben p562; day la diem cat sai lech it nhat"
     },
     {
       "pdf": 563,
@@ -5909,8 +5919,10 @@
       "kind": "internal",
       "boTail": "་ཚང་ཞིག་ཡིན་ན། མདོར་བསྡུས་ཀྱང་མདོ་སྔགས་དང་ཐེག་པ་གོང་འོག་གི་ལམ་གྱི་འགག་ཐམས་ཅད་ཚང་བ་ལ། རྒྱས་",
       "boHead": "པར་བཀྲལ་ན་བསྟན་པ་མཐའ་དག་ལ་འགྲོ་ཐུབ་པ་ཞིག་དགོས་པས་དེ་འདྲ་ཞིག་མ་རྙེད་བར་དུ་ཉམས་ལེན་གྱི་ཕྱོགས",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "còn nếu triển khai rộng thì phải có thể trải khắp toàn bộ giáo pháp",
+      "placedBy": "align",
+      "note": "chu rgyas|par bi ngat doi: chi am tiet 'rgyas' cuoi p562"
     },
     {
       "pdf": 564,
@@ -5927,8 +5939,10 @@
       "kind": "internal",
       "boTail": "ོད་པར་མི་འགྱུར་བས་སྤྱོད་པའི་རྟེན་སེམས་བསྐྱེད་ཇེ་འཕེལ་དུ་བཏང་ནས། ས་མཐོན་པོའི་ཤེས་རབ་ཀྱི་ཕར་",
       "boHead": "ཕྱིན་རྣམས་ཀྱང་སྨོན་པའི་ཡུལ་དུ་བྱས་ནས་སྦྱོང་བ་དང༌། ཡེ་ཤེས་ཀྱི་ཚོགས་ཆེན་པོ་གོང་ན་མེད་པ་རྫོགས",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "làm đối tượng của sự mong nguyện mà tu luyện",
+      "placedBy": "align",
+      "note": "chu phar|phyin (ba-la-mat) bi ngat doi: 'phyin rnams kyang' dau p565 nam ben p564"
     },
     {
       "pdf": 566,
@@ -5945,8 +5959,10 @@
       "kind": "internal",
       "boTail": "ྱིན་མཚུངས་དེ་སྟོན་ལེན་འཇུག་དང༌། །བདག་ཉིད་རྗེས་སུ་འཇུག་རྣམས་ཀྱིས། །སྙན་པར་སྨྲ་དང་དོན་སྤྱོད་",
       "boHead": "དང༌། །དོན་མཐུན་ཉིད་དུ་འདོད་པ་ཡིན། །ཞེས་སོ།། བཞིར་བཞག་པའི་རྒྱུ་མཚན། གཉིས་པ་ནི། ཅིའི་ཕྱིར་བས",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "và là đồng sự.",
+      "placedBy": "align",
+      "note": "''dod pa yin' (duoc cho la, dau p567) dich dat o dong ke truoc do nen nam ben p566"
     },
     {
       "pdf": 568,
