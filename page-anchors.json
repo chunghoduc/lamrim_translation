@@ -3827,8 +3827,10 @@
       "kind": "internal",
       "boTail": "་ན་དགའ་ཞིང་། དགྲ་གཉེན་བར་མ་ལ་སྡུག་བསྔལ་བྱུང་ན་ཕལ་ཆེར་ཡལ་བར་འདོར་བའི་བཏང་སྙོམས་སྐྱེ་བ་བཞིན་",
       "boHead": "ནོ། །དེ་ལ་དང་པོ་ནི་ཡིད་དུ་སྡུག་པ་ཡོད་པས་ཡིན་ལ། དེ་ཡང་ཇི་ཙམ་གཅེས་པ་དེ་ཙམ་དུ་སྡུག་བསྔལ་ལ་མི་",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "Trong đó, điều thứ nhất là do có sự đáng yêu nơi ý.",
+      "placedBy": "align",
+      "note": "bzhin | no bị ngắt đôi"
     },
     {
       "pdf": 371,
@@ -3837,8 +3839,10 @@
       "kind": "internal",
       "boTail": "མ་ལ་ཤཱི་ལ་རྣམས་ཀྱིས་བཤད་དོ།། ལྷག་བསམ་དང་སེམས་བསྐྱེད་འབྲས་བུར་འགྱུར་ཚུལ་ནི། དེ་ལྟར་བློ་རིམ་",
       "boHead": "གྱིས་སྦྱངས་པས་སྙིང་རྗེ་སྐྱེས་པ་ན། སེམས་ཅན་གྱི་དོན་དུ་སངས་རྒྱས་ལ་ཐོབ་འདོད་སྐྱེ་བས་དེ་ཙམ་གྱི",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "mà lòng bi sinh khởi, thì vì ý muốn đạt được quả Phật",
+      "placedBy": "align",
+      "note": "rim | gyis sbyangs bị ngắt đôi; tiếng Việt đảo nên \"do tu tập\" đứng trước dấu"
     },
     {
       "pdf": 372,
@@ -3847,8 +3851,10 @@
       "kind": "internal",
       "boTail": "ངས་པར་བརྟབས་པའི་ཚུལ་གྱིས་བུ་གཅིག་པུ་དེ་འདོན་པའི་བློས་སྲེད་པར་བྱས་ཏེ་སྐྱུག་བྲོ་བ་མེད་པར་མི་",
       "boHead": "གཙང་བའི་དོང་དེར་བབས་ཏེ་བུ་གཅིག་པུ་ཕྱུང་བར་གྱུར་ཏོ། །ཞེས་ཁམས་གསུམ་པོ་ནི་མི་གཙང་བའི་དོང་དང༌།",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "bước xuống hố bất tịnh, vớt đứa con một lên",
+      "placedBy": "align",
+      "note": "mi | gtsang ba'i dong (hố bất tịnh) bị ngắt đôi"
     },
     {
       "pdf": 373,
@@ -3865,8 +3871,10 @@
       "kind": "internal",
       "boTail": "མའོ། །འདི་བསྒོམ་པའི་གོ་རིམ་ནི། སྐྱེ་སླ་བས་ཐོག་མར་ཕན་ཡང་མ་བཏགས་གནོད་པའང་མ་བྱས་པའི་བར་མ་ཞིག་",
       "boHead": "ལ་དམིགས་རྟེན་བྱས་ནས་རྗེས་སུ་ཆགས་པ་དང་ཁོང་ཁྲོ་བ་བསལ་ཏེ་སེམས་སྙོམས་པ་བསྒྲུབ་པར་བྱའོ། །དེ་ལ་ས",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "làm đối tượng sở duyên, rồi trừ bỏ tham luyến",
+      "placedBy": "align",
+      "note": "khớp đúng chữ"
     },
     {
       "pdf": 375,
@@ -3883,8 +3891,10 @@
       "kind": "internal",
       "boTail": "ས་པ་དང་མ་སོང་བ་དང་མ་ཤི་བའི་ས་ཕྱོགས་དེ་ནི་ངས་མཐོང་བར་དཀའོ། །ཡུན་རིང་པོ་འདས་པ་ནས་སེམས་ཅན་གང་",
       "boHead": "ཁྱེད་ཀྱི་ཕའམ་མའམ་ཕུ་ནུའམ་སྲིང་མོའམ་སློབ་དཔོན་ནམ་མཁན་པོའམ་བླ་མའམ་བླ་མའི་གནས་ལྟ་བུར་མ་གྱུར་པ",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "mà chưa từng làm cha, hoặc mẹ",
+      "placedBy": "align",
+      "note": "gang (nào) khép p375"
     },
     {
       "pdf": 377,
@@ -3893,8 +3903,10 @@
       "kind": "internal",
       "boTail": "ད་ནས་མིན་གྱི། སྡིག་དང་སྡུག་དང་གཏམ་ངན་དང་བསྲེས་ཀྱིན་ཤ་ཐང་ཐང་དུ་བཙལ་ནས་བྱིན་པ་ཡིན། བུ་ལ་ན་ཚ་",
       "boHead": "ལ་སོགས་པའི་སྡུག་བསྔལ་བྱུང་ན། བུ་འཆི་བ་བས་རང་འཆི་བ་དང་། བུ་ན་བ་བས་རང་ན་བ་དང་། བུ་སྡུག་པ་བས་",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "v.v., thì tự đáy lòng bà chọn lấy",
+      "placedBy": "align",
+      "note": "na tsha | la sogs pa bị ngắt đôi; tiếng Việt đảo nên \"khổ đau\" đứng trước dấu"
     },
     {
       "pdf": 378,
@@ -3911,8 +3923,10 @@
       "kind": "internal",
       "boTail": "་དུ་ཕན་ལན་བྱ་དགོས་ཏེ། དབུ་མའི་སྙིང་པོ་ལས། གཞན་ཡང་སྔོན་ཆད་ཉོན་མོངས་པའི། །གདོན་གྱིས་བརླམས་པ་",
       "boHead": "བདག་གིས་ནི། །རྨས་ལ་འགྱུར་བྱེད་འདེབས་པ་བཞིན། །སྡུག་བསྔལ་ནད་པ་གང་སྡུག་བྱས། །སྐྱེ་བ་གཞན་དུ་གང",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "Như rắc nước ăn da lên vết thương,",
+      "placedBy": "align",
+      "note": "brlams pa | bdag gis bị ngắt đôi"
     },
     {
       "pdf": 380,
@@ -3929,8 +3943,10 @@
       "kind": "internal",
       "boTail": "་དུ་སེམས་ཅན་རྣམས་ཀྱང་བདེ་བ་དང་ལྡན་ནོ། །དེར་ལོ་བྱེ་བ་བརྒྱ་སྟོང་དུ་ཚངས་སྤྱོད་སྤྱད་པས་ནི་ཞིང་",
       "boHead": "འདིར་ཐ་ན་སེ་གོལ་གཏོགས་པའི་ཡུན་ཙམ་དུ་སེམས་ཅན་ཐམས་ཅད་ལ་བྱམས་པའི་སེམས་བསྐྱེད་ན་སྔ་མ་ལས་བསོད་ན",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "chỉ trong khoảng thời gian búng một cái ngón tay",
+      "placedBy": "align",
+      "note": "zhing | 'dir (cõi này) bị ngắt đôi"
     },
     {
       "pdf": 382,
@@ -3939,8 +3955,10 @@
       "kind": "internal",
       "boTail": "ནས་དགྲ་ལ་བསྒོམ་པར་བྱ་ཞིང་དེ་ནས་སེམས་ཅན་ཐམས་ཅད་ལ་རིམ་པ་བཞིན་དུ་བསྒོམ་མོ། །བསྒོམ་བའི་ཚུལ་ནི།",
       "boHead": "ཇི་ལྟར་སེམས་ཅན་སྡུག་བསྔལ་བས་སྡུག་བསྔལ་བའི་ཚུལ་ཡང་ཡང་བསམས་ན་སྙིང་རྗེ་སྐྱེ་བ་ལྟར། སེམས་ཅན་ལ་",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "cũng như bi tâm sinh khởi khi nhiều lần tư duy",
+      "placedBy": "align",
+      "note": "khớp đúng chữ"
     },
     {
       "pdf": 383,
@@ -3949,8 +3967,10 @@
       "kind": "internal",
       "boTail": "་པའི་ཚུལ་ནི། མར་གྱུར་པའི༌སེམས་ཅན་དེ་རྣམས་འཁོར་བར་ལྷུང་ནས་སྤྱི་དང་སོ་སོའི་སྡུག་བསྔལ་ཇི་ལྟར་",
       "boHead": "ཉམས་སུ་མྱོང་བ་རྣམས་སེམས་པ་སྟེ། སྡུག༌བསྔལ་རྣམས་ནི་སྔར་བཤད་ཟིན་ཏོ། །དེ་ཡང་སྔར་སྐྱེས་བུ་འབྲིང",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "Các khổ ấy thì đã được nói ở trước.",
+      "placedBy": "align",
+      "note": "ji ltar | nyams su myong ba bị ngắt đôi; cụm \"đã lãnh thọ... tư duy\" thuộc p383 nhưng đứng trước dấu"
     },
     {
       "pdf": 384,
@@ -3967,8 +3987,10 @@
       "kind": "internal",
       "boTail": "ཡིན། །ཞེས་གསུངས་པས། གྲངས་མེད་གསུམ་གྱི་འགོ་རྩོམ་པའི་བྱང་ཆུབ་སེམས་དཔའ་ལའང་སེམས་དེ་ལྟ་བུ་ཞིག་",
       "boHead": "སྐྱེ་དགོས་པ་ཡིན་ནོ། །དེས་ན་འདི་དག་གི་ཕྱོགས་དང་ཡུལ་ཙམ་ནའང་མེད་པར་སེམས་ཅན་ཐམས་ཅད་ཀྱི་དོན་དུ་",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "Do đó, có những kẻ mà ngay đến phương hướng",
+      "placedBy": "align",
+      "note": "zhig | skye dgos pa bị ngắt đôi"
     },
     {
       "pdf": 386,
@@ -3977,8 +3999,10 @@
       "kind": "internal",
       "boTail": "ཡན་ལག་བདུན་པ་དང་སྐྱབས་འགྲོས་རྒྱུད་སྦྱོང་བ་དང་བསླབ་བྱ་རྣམས་ཤེས་པར་བྱས་ནས་བསྲུང་འདོད་བསྐྱེད་",
       "boHead": "པའོ། །དེས་ན་ལམ་བགྲོད་པ་ལ་སྟོང་པ་ཉིད་ཀྱི་རྟོགས་པ་སྦྱངས་ནས་ཇེ་རྒྱས་སུ་འགྲོ་དགོས་པ་ལ་མིང་ཙམ་ཞ",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "Do đó, đối với việc trong khi đi trên đạo lộ",
+      "placedBy": "align",
+      "note": "bskyed | pa'o bị ngắt đôi"
     },
     {
       "pdf": 387,
@@ -3995,8 +4019,10 @@
       "kind": "internal",
       "boTail": "ྱིས་བསྐྱེད་པ་ནི་ཁྱད་པར་ཆེ་བར་ཡེ་ཤེས་ཕྱག་རྒྱའི་ཏིང་ངེ་འཛིན་ལས་བཀའ་སྩལ་པར་སྒོམ་རིམ་དང་པོ་ལས་",
       "boHead": "གསུངས་སོ།། སྦྱངས་པའི་འབྲས་བུ་སེམས་བསྐྱེད་པ་ངོས་བཟུང་བ། གསུམ་པ་སྦྱངས་པའི་འབྲས་བུ་སེམས་བསྐྱེ",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "### Nhận diện sự phát tâm, tức quả của việc tu tập ấy",
+      "placedBy": "align",
+      "note": "khớp đúng chữ"
     },
     {
       "pdf": 389,
@@ -4005,8 +4031,10 @@
       "kind": "internal",
       "boTail": "ོས་སོ།། བདག་གཞན་བརྗེ་བའི་སྒོ་ནས་སྦྱང་བ། གཉིས་པ་ཞི་བ་ལྷའི་གཞུང་ལ་བརྟེན་ནས་སྦྱང་བ་ལ་གསུམ་ལས།",
       "boHead": "བདག་གཞན་བརྗེ་བའི་ཕན་ཡོན་དང་མ་བརྗེས་པའི་ཉེས་དམིགས་བསམ་ པ། བདག་གཞན་བརྗེ་བའི་ཕན་ཡོན་དང་མ་བརྗེ",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "## Quán xét lợi ích của việc hoán đổi mình và người",
+      "placedBy": "align",
+      "note": "khớp đúng chữ: p389 mở ngay ở tiêu đề sa-bcad này"
     },
     {
       "pdf": 390,
@@ -4015,8 +4043,10 @@
       "kind": "internal",
       "boTail": "་དུ་བལྟ་བའང་གོམས་ན་སྐྱེ་སྟེ། དེ་ཉིད་ལས། དཀའ་ལས་ཕྱིར་ལྡོག་མི་བྱ་སྟེ། །འདི་ལྟར་གོམས་པའི་མཐུ་",
       "boHead": "ཡིས་ནི། །གང་གི་མིང་ཐོས་འཇིགས་པ་ཡང༌། །དེ་ཉིད་མེད་ན་མི་དགར་འགྱུར། །ཞེས་དང༌། བདག་གི་ལུས་ནི་གཞ",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "kẻ mà chỉ nghe tên đã thấy sợ hãi,",
+      "placedBy": "align",
+      "note": "mthu | yis bị ngắt đôi"
     },
     {
       "pdf": 391,
@@ -4033,8 +4063,10 @@
       "kind": "internal",
       "boTail": "བོས་གྲུབ་པ་མེད་པར་གསུངས་སོ།། ཡང་གཞན་གྱི་སྡུག་བསྔལ་གྱིས་བདག་ལ་མི་གནོད་པས་དེ་སེལ་བའི་དོན་དུ་",
       "boHead": "མི་འབད་དོ་སྙམ་པའི་གེགས་བསལ་བ་ནི། དེ་ལྟ་ན་རྒས་པའི་ཚེ་སྡུག་བསྔལ་བར་དོགས་ནས་གཞོན་པའི་ཚེ་ནོར་ག",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "thì như sau. Nếu vậy thì việc tích góp của cải",
+      "placedBy": "align",
+      "note": "don du | mi 'bad do bị ngắt đôi"
     },
     {
       "pdf": 393,
@@ -4043,8 +4075,10 @@
       "kind": "internal",
       "boTail": "རང་དང་གཞན་གྱི་དོན་གང་ཡང་མ་གྲུབ། མ་གྲུབ་པ་ཙམ་དུ་མ་ཟད་སྡུག་བསྔལ་འབའ་ཞིག་གིས་མནར་བར་གྱུར། རང་",
       "boHead": "དོན་གྱི་བསམ་པ་དེ་གཞན་ལ་སྤོས་ནས་ཞུགས་ན་ཆེས་ཤིན་ཏུ་སྔ་བར་སངས་རྒྱས་ནས་རང་གཞན་གྱི་དོན་ཐམས་ཅད་ཕ",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "Nếu chuyển cái ý nghĩ vì lợi ích của mình ấy",
+      "placedBy": "align",
+      "note": "rang | don gyi bsam pa bị ngắt đôi"
     },
     {
       "pdf": 394,
@@ -4053,8 +4087,10 @@
       "kind": "internal",
       "boTail": "ད་ཀྱིས་གཞན་མི་བསམ། །གཞན་དབང་མིག་ལ་སོགས་པ་ཡིས། །རང་དོན་བསྒྲུབ་པར་རིགས་མ་ཡིན། །དེ་དོན་མིག་ལ་",
       "boHead": "སོགས་པ་ཡིས། །དེ་ལ་ལོག་པར་བྱ་མི་རིགས། །ཞེས་སོ། ། ལུས་ལ་སོགས་པ་ལ་གཞན་དོན་དུ་དམིགས་པ་ཤོར་ཏེ་ར",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "làm điều trái nghịch với họ là không hợp lẽ.",
+      "placedBy": "align",
+      "note": "mig la | sogs pa bị ngắt đôi"
     },
     {
       "pdf": 395,
