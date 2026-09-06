@@ -9619,8 +9619,10 @@
       "kind": "internal",
       "boTail": "ེས་བདག་གི་བ་ཡང་ཁེགས་པར་བསྟན་པ། གཉིས་པ་དེས་བདག་གི་བ་ཡང་ཁེགས་པར་བསྟན་པ་ནི། དེ་ལྟར་བདག་དེ་རང་",
       "boHead": "བཞིན་ཡོད་མེད་ཚོལ་བའི་རིགས་པས་བཙལ་བ་ན་བདུན་པོ་དེ་གང་དུ་ཡང་མ་རྙེད་པས། བདག་ལ་རང་བཞིན་ཁེགས་པ་ད",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "được tìm bằng chánh lý tìm xem có hay không có tự tánh mà chẳng được tìm thấy",
+      "placedBy": "align",
+      "note": "chu rang|bzhin (tu tanh) bi ngat doi: 'rang' cuoi p904"
     },
     {
       "pdf": 906,
@@ -9629,8 +9631,10 @@
       "kind": "internal",
       "boTail": "ན་དུ་བཙལ་བ་ན། དེ་དག་ཏུ་བདེན་གཉིས་གང་དུའང་མི་རྙེད་ཅིང་མ་དཔྱད་པའི་ཐ་སྙད་པའི་ཤེས་ངོ་ན་འཇོག་པ་",
       "boHead": "ཡིན་ཏེ། འཕགས་པ་སྡོམ་པ་གསུམ་བསྟན་པ་ལས། འཇིག་རྟེན་ང་དང་རྩོད་ཀྱི། ང་ནི་འཇིག་རྟེན་དང་མི་རྩོད་ད",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "Bởi vì trong *Thánh Tam Luật Nghi Sở Thuyết* có dạy:",
+      "placedBy": "align",
+      "note": "cum 'jog pa|yin te bi ngat doi: 'yin te' dau p906 nam ben p905"
     },
     {
       "pdf": 907,
@@ -9639,8 +9643,10 @@
       "kind": "internal",
       "boTail": "ུ་སོགས་ལ་ཡང་དེ་བཞིན་དུ་སྦྱར་རོ། །འདོད་ཆགས་ནི་ལྷག་པར་ཞེན་པ་དང་ཆགས་པ་ནི་དེའི་རྟེན་ཏེ། དེ་ཡང་",
       "boHead": "ཆགས་ཅན་གྱི་གང་ཟག་ལ་འགྲེལ་བཤད་ལས་བཤད་དོ། །མེ་ནི་སྲེག་བྱེད། བུད་ཤིང་ནི་བསྲེག་བྱའོ། །དེ་ལ་ཡན་",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "trong bản thích luận, được giảng là hạng người có tham đắm",
+      "placedBy": "align",
+      "note": "khop dung chu: 'de yang' (va dieu ay) cuoi p906"
     },
     {
       "pdf": 908,
@@ -9657,8 +9663,10 @@
       "kind": "internal",
       "boTail": "་དག་ལ་ཡང་བདག་གཞན་རེ་རེ་བ་དང་བདག་གཞན་ཚོགས་པ་ལས་སྐྱེ་བ་གཉིས་སུ་ངེས་ལ། རེ་རེ་བ་ལ་བདག་སྐྱེ་དང་",
       "boHead": "གཞན་སྐྱེ་གཉིས་ཡིན་པས་མུ་བཞིའི་སྐྱེ་བ་ཙམ་ཞིག་འགོག་པའི་མཐའ་གཞན་སེལ་ལུགས་ནི་དེ་ལྟར་དུ་ཡིན་ནོ།",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "Cách thức mà việc chỉ bác bỏ sự sinh theo bốn trường hợp",
+      "placedBy": "align",
+      "note": "'gzhan skye gnyis yin pas' (dau p909) nam trong ve ke o ben p908"
     },
     {
       "pdf": 910,
@@ -9667,8 +9675,10 @@
       "kind": "internal",
       "boTail": "། གཞན་ཡིན་པའི་ཕྱིར་རོ། །གཞན་ཡང་རྒྱུར་གྱུར་མ་གྱུར་ཐམས་ཅད་ལས་འབྲས་བུ་ཡིན་མིན་ཐམས་ཅད་སྐྱེ་བར་",
       "boHead": "འགྱུར་ཏེ། གཞན་ཉིད་མཚུངས་པ་ཡིན་པའི་ཕྱིར་རོ་ཞེས་པའོ། །འདིའི་དོན་ནི། ས་མྱུག་ལ་རང་གི་ངོ་བོས་གྲ",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "bởi vì tính khác biệt thì như nhau — [nói] như vậy",
+      "placedBy": "align",
+      "note": "cum skye bar|'gyur te bi ngat doi: ''gyur te' dau p910 nam ben p909"
     },
     {
       "pdf": 911,
@@ -9677,8 +9687,10 @@
       "kind": "internal",
       "boTail": "ས་པ་དག་ལས་ཀྱང་འགྱུར་རོ། །ཡང་ཇི་ལྟར་ས་ལུའི་མྱུ་གུ་གཞན་དུ་གྱུར་པ༌ས་ལུའི་ས་བོན་ལས་འབྱུང་བ་དེ་",
       "boHead": "བཞིན་དུ། བུམ་པ་དང་སྣམ་བུ་ལ་སོགས་པ་རྣམས་ཀྱང་འགྱུར་བ་ཞིག་ན་དེ་ནི་མཐོང་བ་མ་ཡིན་ཏེ། དེའི་ཕྱིར་",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "thì cũng vậy, bình và tấm nỉ v.v. lẽ ra cũng phải",
+      "placedBy": "align",
+      "note": "cum de|bzhin du bi ngat doi: 'de' cuoi p910"
     },
     {
       "pdf": 912,
