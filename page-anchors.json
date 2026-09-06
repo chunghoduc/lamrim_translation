@@ -9999,8 +9999,10 @@
       "kind": "internal",
       "boTail": "་དེས་མི་རྟོག་པར་བཞག་པ་ཐམས་ཅད་སྟོང་ཉིད་བསྒོམས་པ་ཡིན་ནོ་ཞེས་སྨྲའོ། །འདི་ནི་མི་རིགས་པ་ཡིན་ཏེ།",
       "boHead": "གང་ཟག་དེས་ངེས་དོན་གྱི་ལྟ་བ་རྙེད་པ་ཡིན་པས། ཁོས་མི་རྟོག་པ་གང་བསྒོམས་པ་ཐམས་ཅད་ངེས་དོན་གྱི་ལྟ་",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "nếu, do hạng người ấy đã tìm được cái kiến về nghĩa liễu nghĩa",
+      "placedBy": "align",
+      "note": "khop dung chu"
     },
     {
       "pdf": 941,
@@ -10009,8 +10011,10 @@
       "kind": "internal",
       "boTail": "ྱི། འོན་ཀྱང་ཅིར་ཡང་མི་རྟོག་པར་སྐྱོང་རེས་ཀྱིས་དེའི་སྔོན་རོལ་དུ་སོ་སོར་རྟོག་པའི་ཤེས་རབ་ཀྱིས་",
       "boHead": "དཔྱད་པ་ཚར་གཅིག་བཏང་ན། དེའི་འོག་ཏུ་མི་རྟོག་པར་གང་བཞག་ཐམས་ཅད་སྟོང་ཉིད་ཀྱི་དོན་བསྒོམས་པར་འགྱུ",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "thì hết thảy những gì đặt [tâm] một cách chẳng phân biệt sau đó",
+      "placedBy": "align",
+      "note": "'dpyad pa tshar gcig btang na' (dau p941) dich dat truoc 'bang tri tue gian trach' nen nam ben p940"
     },
     {
       "pdf": 942,
@@ -10027,8 +10031,10 @@
       "kind": "internal",
       "boTail": "ྷག་མཐོང་རྒྱུ་གང་ལས་བྱུང་བ་ལགས། བྱམས་པ། ཚུལ་ཁྲིམས་རྣམ་པར་དག་པའི་རྒྱུ་ལས་བྱུང་བ་དང་ཐོས་པ་དང་",
       "boHead": "བསམས་པ་ལས་བྱུང་བའི་ལྟ་བ་རྣམ་པར་དག་པའི་རྒྱུ་ལས་བྱུང་བ་ཡིན་ནོ། །ཞེས་དང༌། འཕགས་པའི་གཏམ་འདོད་པ",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "và phát sinh từ nhân là cái kiến hoàn toàn thanh tịnh",
+      "placedBy": "align",
+      "note": "cum thos pa dang|bsams pa (van va tu) bi ngat doi; tieng Viet dat 'van va tu' o cuoi cau nen 'thos pa dang' cuoi p942 nam ben p943"
     },
     {
       "pdf": 944,
@@ -10037,8 +10043,10 @@
       "kind": "internal",
       "boTail": "་ཡང་འགོག་དགོས་པར་འགྱུར་ཏེ། བདེན་འཛིན་སྒོམ་བྱེད་དུས་དགག་དགོས་ལ། དུས་གཞན་གྱི་ཚེ་མི་དགོས་པའི་",
       "boHead": "ཁྱད་པར་ཅུང་ཟད་ཀྱང་མེད་པའི་ཕྱིར་རོ། །གལ་ཏེ་དེ་ལྟར་མི་འདོད་ཀྱི། འོན་ཀྱང་ལུང་དང་རིགས་པས་སྒོ་ད",
-      "status": "pending",
-      "locator": null
+      "status": "placed",
+      "locator": "Nếu [ông] nghĩ rằng: [chúng tôi] chẳng chủ trương như thế",
+      "placedBy": "align",
+      "note": "tieng Viet dua 'chang co may may su khac biet nao' (p944) len truoc nen ve ay nam ben p943"
     },
     {
       "pdf": 945,
