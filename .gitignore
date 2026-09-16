@@ -38,3 +38,10 @@ glossary/by-chunk/
 
 # build artifacts
 lamrim-vi.html
+
+# --- reference translation, NOT redistributed -------------------------------
+# sample/ holds a third-party published Vietnamese translation, consulted only
+# to study its prose style (see STYLE.md). Same rule as the Lamrim PDF above:
+# the repo keeps what is DERIVED from it, not the book itself. Regenerate the
+# Markdown with:  node tools/50-docx2md.mjs "sample/<file>.docx"
+sample/
