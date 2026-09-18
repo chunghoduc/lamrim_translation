@@ -273,12 +273,25 @@ most of the readability — not to relax the check.
 
 ## Open defect in the instruction: `ấy` → `đó` is not the job
 
-Found in the c003–c012 batch, and it needs fixing before any further batch runs.
+Found in the c003–c012 batch, and it needs fixing before any further batch runs. **It is
+batch-wide, not one bad chunk** — I first wrote this up as a c003 problem and the measurement
+showed otherwise.
 
-**c003 made 9 demonstrative edits and every one of them was `ấy` → `đó`.** No drops, no noun
-repeated, nothing removed. Each per-item note was correct about what the Tibetan has, and the
-verifier passed the chunk clean — rightly, since no meaning moved. But the chunk's demonstrative
-*load* is exactly what it was before. It relabelled a tic.
+`ấy` fell 61% across the ten chunks, from 87 to 34: the agents did exactly what they were told.
+But `đó` rose by 26 to absorb it, so the **total** demonstrative load fell only 6%, from 169 to 159.
+
+| per chunk | `ấy` | `đó` | total | |
+|---|---|---|---|---|
+| c003 | 10 → 1 | 2 → 11 | 17 → 17 | **relabelled only** |
+| c007 | 4 → 1 | 3 → 5 | 8 → 8 | **relabelled only** |
+| c006 | 8 → 1 | 3 → 3 | 12 → 6 | dropped 6 — the model result |
+| c009 | 16 → 2 | 9 → 15 | 30 → 23 | dropped 7 |
+| c004 | 10 → 6 | 0 → 1 | 13 → 11 | dropped 2 |
+| c005, c008, c010, c011, c012 | | | | dropped 1 each |
+
+c003's nine edits were `ấy` → `đó` nine times out of nine. Each per-item note was correct about
+what the Tibetan has, and the verifier passed it clean — rightly, since no meaning moved. But the
+chunk's demonstrative *load* is exactly what it was. It relabelled a tic.
 
 STYLE.md §3.2 does say "most often nothing at all", but it gives no number, so an agent can satisfy
 the letter of the instruction and miss the point entirely. Here is the number:
