@@ -37,7 +37,11 @@ function unitsOf(c) {
   const out = [];
   let run = [], quoted = false, start = 0;
   const flush = () => {
-    if (run.length > 1 && run.every(x => [...x].length < SHORT)) {
+    // Measured on the TRIMMED line: tools/54 adds two trailing spaces to verse lines so a
+    // stanza survives a generic Markdown renderer, and counting those pushed 6 units and 22
+    // lines over the threshold - they stopped registering as verse at all and would have
+    // silently dropped out of this pass. Trailing whitespace is not content and never was.
+    if (run.length > 1 && run.every(x => [...x.trimEnd()].length < SHORT)) {
       out.push({ chunk: c.id, pages: c.pages, quoted, startLine: start, lines: run.slice() });
     }
     run = [];

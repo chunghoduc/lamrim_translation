@@ -106,7 +106,9 @@ function render(md) {
     // them printed four padas as one running prose sentence in the first PDF. Same test
     // tools/36 uses to tell a hand-broken run from a machine-wrapped one: if every line sits
     // well short of the wrap column, the breaks are the author's and must survive.
-    const handBroken = buf.length > 1 && buf.every(x => [...x].length < 76);
+    // Trimmed, for the same reason tools/42 trims: tools/54's verse hard breaks add two
+    // trailing spaces, and counting them would flip a stanza back to running prose.
+    const handBroken = buf.length > 1 && buf.every(x => [...x.trimEnd()].length < 76);
     out.push(handBroken
       ? `<p class="verse">${buf.map(x => inline(x)).join('<br>')}</p>`
       : `<p>${inline(buf.join(' '))}</p>`);

@@ -54,7 +54,7 @@ function proseOf(id) {
   for (const l of lines) {
     const t = l.replace(/^\s*>\s?/, '');
     if (/^\s*(#|-\s|\*\s|\d+\.\s|---\s*$|\|)/.test(t) || !t.trim()) { flushRun(); continue; }
-    if ([...t].length < SHORT) { run.push(t); continue; }
+    if ([...t.trimEnd()].length < SHORT) { run.push(t); continue; }
     flushRun();
     keep.push(t);
   }
@@ -89,7 +89,7 @@ function metricsOf(id) {
   const body = raw(id).split('\n');
   let noBreak = 0, qrun = [];
   const flushQ = () => {
-    if (qrun.length > 1 && qrun.every(x => [...x.replace(/^\s*>\s?/, '')].length < SHORT)) {
+    if (qrun.length > 1 && qrun.every(x => [...x.replace(/^\s*>\s?/, '').trimEnd()].length < SHORT)) {
       noBreak += qrun.filter((x, i) => i < qrun.length - 1 && !/ {2}$/.test(x)).length;
     }
     qrun = [];

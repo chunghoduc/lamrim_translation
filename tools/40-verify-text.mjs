@@ -82,7 +82,10 @@ const hanging = [];
 for (const p of paras) {
   const t = p.trim();
   if (!t || /^#{1,6}\s/.test(t) || /^\s*>/.test(t) || /^\s*[-*+\d]/.test(t)) continue;
-  if (!/[.!?:;"'»)\]…]\s*$/.test(t) && !/\*$/.test(t)) hanging.push(t.slice(-70).replace(/\n/g, ' '));
+  // The closing curly quotes ” and ’ belong in this set as much as " and ': after tools/54
+  // curled the corpus's 3778 straight quotes, 57 paragraphs that end on a closing quotation
+  // mark - a perfectly terminated paragraph - started reporting as cut off mid-clause.
+  if (!/[.!?:;"'’”»)\]…]\s*$/.test(t) && !/\*$/.test(t)) hanging.push(t.slice(-70).replace(/\n/g, ' '));
 }
 say('prose paragraphs ending mid-clause', hanging.length);
 for (const h of hanging.slice(0, 6)) console.log(`      ...${h}`);

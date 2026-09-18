@@ -114,7 +114,7 @@ sentence's subject and the section heading keep `cách thức`. Tibetan repeats 
 item without strain because it is a light nominaliser; `cách thức` is a heavy two-syllable
 noun and three of them in one sentence is what made the passage read badly.
 
-Not changed, deliberately: headings of the form *"Cách thức tu học tịnh chỉ, tức thể tánh
+Not changed, deliberately: headings of the form *"Cách thức tu học tịnh chỉ, tức thể tính
 của tĩnh lự"*. The trailing appositive attaches to the nearest noun phrase, which is the
 right one (`tịnh chỉ`), so these are correct as they stand.
 
