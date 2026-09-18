@@ -271,6 +271,39 @@ most of the readability — not to relax the check.
 
 ---
 
+## Found while restyling — not this pass's job, but someone's
+
+Things the restyle surfaced that are **pre-existing** and that it correctly did not touch. Each
+needs an owner decision, because each turns on a terminology choice.
+
+### The book's own table of contents disagrees with two of its section titles
+
+c004 lists the four top-level divisions; c005, c008, c012 and c018 are those divisions. Two of the
+four outline items render `ཆོས` differently from the heading of the section they name:
+
+| c004's outline item | that section's own heading |
+|---|---|
+| `…chỉ rõ` **`pháp này`** `có nguồn gốc đáng tin cậy` | c005: `…chỉ rõ` **`giáo pháp`** `có nguồn gốc đáng tin cậy` |
+| item 2 — matches exactly | c008 ✓ |
+| `Cách thức nghe và giảng đối với` **`bộ pháp`** `có đủ hai sự vĩ đại` | c012: `…đối với` **`giáo pháp`** `có đủ hai sự vĩ đại` |
+| item 4 — matches exactly | c018 ✓ |
+
+A contents list that does not match its own chapter titles is the first thing a reader notices, and
+this is two words. But `ཆོས` is a glossary headword, so the fix is a ruling on which form wins —
+`giáo pháp` in both places is the obvious candidate, since it is what the headings already use —
+followed by an outline sweep. **Not changed:** the restyle workflow forbids agents from moving a
+term, and it was right to leave it.
+
+### `རིམ་གྲོ་བསྐྱེད་པ` in c012
+
+c012 renders it *khởi lòng cung kính*, while `glossary/decisions.md` §5 assigns `རིམ་གྲོ` → *tôn
+kính* and reserves *cung kính* for `གུས་པ`. §5 already names c012 among the chunks translated under
+the older split and says they need a sweep once the provisional call is confirmed — so this is a
+known pending item, not a new gap. The restyle agent identified it and left it alone, which is the
+correct behaviour.
+
+---
+
 ## Step 4 — the batch loop, one pass per chunk
 
 The loop mirrors Phase 4 exactly, and for the same reasons. **Each chunk is touched once and
