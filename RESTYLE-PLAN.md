@@ -276,6 +276,27 @@ most of the readability — not to relax the check.
 The loop mirrors Phase 4 exactly, and for the same reasons. **Each chunk is touched once and
 all style changes are made together**, because every touch costs a re-anchor.
 
+### Ordering: worst-first to clear work, book order to be reviewed
+
+`52-style-lint.mjs batch` takes three orderings, and the right one depends on who reads the
+result:
+
+```bash
+node tools/52-style-lint.mjs batch 10                      # worst-first: most work cleared per batch
+node tools/52-style-lint.mjs batch 10 --first               # book order, skipping zero-burden chunks
+node tools/52-style-lint.mjs batch --ids c004 c005 c006     # exactly these
+```
+
+Worst-first is right for grinding through the corpus. **Book order is right whenever a human has
+to review the output**, because reviewing c003–c012 means reading the opening of the book — the
+editor's note, the homage, the "greatness of the author" sequence — instead of landing
+mid-argument in a Madhyamaka refutation at c226. The pilot was worst-first and that made it hard
+to read; the review batch that followed was `--first`.
+
+`--first` also skips any chunk whose burden is zero. c001 and c002 are title pages and publisher
+data with no long sentence, no `ấy` and no semicolon load: including them spends ~275k tokens to
+produce an empty diff.
+
 **Pass `.wf.json` to the workflow programmatically — never retype its numbers.** On the pilot I
 hand-copied the lint block into the workflow args and used a stale pre-sweep word count (1858
 where the file said 1562). The worklist-critical fields happened to be right, so the agents were
