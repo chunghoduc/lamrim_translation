@@ -119,10 +119,14 @@ if (cmd === 'init') {
         status: first ? 'exact' : 'pending',
         locator: null,
       };
-      // Carry a placed locator across a rebuild, but only if it is still valid.
+      // Carry a placed locator across a rebuild, but only if it is still valid. An anchor
+      // whose locator no longer matches falls back to `pending`, which is what makes `init`
+      // the re-anchoring step after a prose edit: it demotes exactly the boundaries the edit
+      // broke and leaves the rest alone. Keys are assigned in the same order `place` uses, or
+      // a no-op rebuild shows up as a 1338-line diff and hides the real changes.
       if (!first && old && old.locator) {
         const why = validate({ ...a, locator: old.locator }, chunkBody(c.id));
-        if (!why) { a.locator = old.locator; a.status = old.status; a.note = old.note; a.placedBy = old.placedBy; }
+        if (!why) { a.locator = old.locator; a.status = old.status; a.placedBy = old.placedBy; a.note = old.note; }
       }
       anchors.push(a);
     }

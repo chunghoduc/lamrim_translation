@@ -1,0 +1,12 @@
+{
+  "frozenAt": "2026-09-18",
+  "note": "Pre-existing findings that the restyle pass is not responsible for. A counter above these fails; below is an improvement.",
+  "counters": {
+    "headingLevelJumps": 3,
+    "headingsRepeated": 1,
+    "hangingParagraphs": 9,
+    "conflictingHeadwords": 204,
+    "assemblyAnomalies": 3,
+    "stutteringWelds": 0
+  }
+}

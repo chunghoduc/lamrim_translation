@@ -31,12 +31,15 @@ which is exactly what `doctor` is for.
 
 **1. Page-marker locators.** `page-anchors.json` holds 673 locators, each a ~10-word
 Vietnamese phrase that must occur **exactly once** in its chunk. Rewriting the prose will
-invalidate a large share of them. `43-pages.mjs check` catches every one — it cannot silently
-mis-place a marker — but `batch` only emits anchors with status `pending`, so a broken
-`placed` anchor currently has no route back into the queue.
+invalidate a large share of them, and `43-pages.mjs check` catches every one — it cannot
+silently mis-place a marker.
 
-> **Step 1 adds `43-pages.mjs reset <pdfPage…> | --broken`**, which sends failing anchors back
-> to `pending` so they flow through the existing `batch` → agent → `place` machinery unchanged.
+> **`43-pages.mjs init` is the re-anchoring step.** No new subcommand was needed: `init`
+> already re-validates every carried-over locator and drops the ones that no longer match back
+> to `pending`, leaving the rest untouched — so broken anchors flow through the existing
+> `batch` → agent → `place` machinery unchanged. It is now verified byte-idempotent on an
+> unchanged tree (it used to reorder two keys and produce a 1,338-line diff on every run,
+> which would have buried the real changes during this pass).
 
 **2. The verse ledger.** `verse-check.json` hashes each verse unit's own lines; editing a
 verse makes the unit STALE and it must be re-checked. Today **all 842 units are unchecked**,
@@ -76,20 +79,38 @@ untouched** — the default is the safe one.
 
 ---
 
-## Step 1 — tooling (half a day, no text changes)
+## Step 1 — tooling · **DONE**
 
-1. `tools/51-style-metrics.mjs` — **done**. The measurement harness; it is how progress gets
-   reported, per chunk and corpus-wide.
-2. **`tools/52-style-lint.mjs`** — new. Per chunk, flags: sentences over 80 words, `ấy`
-   density above the corpus target, semicolon runs, straight quotes, blockquote verse lines
-   missing a hard break. Output is a worklist, ranked worst-first, so Step 4 is ordered by
-   where the problem actually is rather than by chunk number.
-3. **`43-pages.mjs reset`** — new subcommand, as above.
-4. Extend `39-assemble.mjs`'s existing content check, or add the equivalent to the merge, to
-   assert the invariants table after every batch.
+1. `tools/51-style-metrics.mjs` — the cross-book measurement harness (STYLE.md §2).
+2. `tools/52-style-lint.mjs` — the per-chunk worklist **and the restyle ledger**
+   (`restyle-check.json`), on the same pattern as the verse and page ledgers: each restyled
+   chunk stores the `outputHash` it was restyled at, so a later edit re-opens it and "how much
+   is left" stays answerable after a machine change.
+   `report [--all] | show <id> | batch <n> | done <id…> | doctor`
+3. `43-pages.mjs init` — the re-anchoring step, now byte-idempotent (see above). No new
+   subcommand.
+4. `tools/53-invariants.mjs` — the whole invariants table in one command, against a frozen
+   `invariants-baseline.json`, so "no new findings" is a comparison and not an impression.
 
-Acceptance: `node tools/52-style-lint.mjs --report` prints a ranked list of all 292 chunks,
-and the invariants table above passes unchanged on the current text.
+### What the linter measures, and the two numbers that differ from STYLE.md §2
+
+`52-style-lint.mjs` reports **610 sentences over 80 words (128 over 120), 4,362 × `ấy`, 4,940
+straight quotes, 3,489 verse lines missing a hard break.** Two of those disagree with STYLE.md
+§2 on purpose:
+
+- **`51` excludes blockquotes, `52` includes quoted prose.** For comparing two books, dropping
+  blockquotes is the fair cut — every blockquote in the reference is verse. For deciding what a
+  restyle must fix, quoted *prose* is prose and in scope. Hence `ấy` 3,718 there and 4,362 here.
+- **`52` never joins paragraphs.** This corpus does not hard-wrap, so one line is one
+  paragraph. Joining them made `Bởi vì trong *X* có nói:` merge with the passage it introduces
+  and reported a 296-word sentence where the real longest is 193.
+
+The linter deliberately does **not** score `[...]` brackets or terminology. Those are STYLE.md
+§4.2–4.3, out of scope, and a linter that counted them would push agents toward the forbidden
+edits.
+
+Acceptance — met: `node tools/52-style-lint.mjs report` ranks all 292 chunks, and
+`node tools/53-invariants.mjs` passes all 15 checks on the untouched text.
 
 ---
 
@@ -103,7 +124,7 @@ Zero fidelity risk, so it does not need agents or verification — only a diff r
 - Item (b) from Step 0, if the owner chose to change hyphenation.
 
 Then: `43-pages.mjs check` (a curly quote inside a locator will break it — expect a handful),
-`43-pages.mjs reset --broken`, re-place those, `39-assemble.mjs --write`, invariants.
+`43-pages.mjs init`, re-place those, `39-assemble.mjs --write`, invariants.
 
 Acceptance: the diff contains **only** quote characters, trailing whitespace and (if chosen)
 hyphens. Any other change in that diff is a bug in the sweep.
@@ -140,16 +161,17 @@ The loop mirrors Phase 4 exactly, and for the same reasons. **Each chunk is touc
 all style changes are made together**, because every touch costs a re-anchor.
 
 ```bash
-node tools/52-style-lint.mjs --batch 10 > .wf.json     # worst-first, pending only
+node tools/52-style-lint.mjs batch 10 > .wf.json      # worst-first, pending only
 node tools/37-chunk-glossary.mjs --batch .wf.json      # the agents still need the rulings
 # run the `lamrim-restyle` workflow with that object as args; note the Run ID
 node tools/35-merge-batch.mjs --run wf_XXXX --write
-node tools/43-pages.mjs check
-node tools/43-pages.mjs reset --broken
-node tools/43-pages.mjs batch 20 > .wf.json            # re-place what the restyle moved
+node tools/43-pages.mjs init                           # demotes the locators the edits broke
+node tools/43-pages.mjs batch 20 > .wf.json            # re-place exactly those
 # run the page-alignment workflow; then
 node tools/43-pages.mjs place results.json
 node tools/39-assemble.mjs --write
+node tools/52-style-lint.mjs done <the merged ids>
+node tools/53-invariants.mjs                           # must pass before the next batch
 ```
 
 ### The workflow: `.claude/workflows/lamrim-restyle.js`
