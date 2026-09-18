@@ -355,6 +355,29 @@ compares against a half-restyled file and the check is worth nothing.
 > `git show HEAD:translation/<id>.md | md5sum` against the last commit that touched
 > `translation/` must match for every chunk in the batch.
 
+### Launch the workflow by `scriptPath`, never by `name`
+
+`Workflow({name: 'lamrim-restyle'})` resolved to a **stale snapshot** — the version as it stood the
+first time the name was used in the session, not the file on disk. The c003–c012 batch ran for
+several minutes on the pre-pilot workflow (16,685 bytes against the current 20,207) with the old
+permissive boundary rule and none of the pilot's lessons: no shad requirement, no `scopeCheck`, no
+concessive-particle check, no final-governor scope check, no backtick protection. It was caught
+because `scopeCheck` came back `undefined` on a chunk whose schema required it.
+
+```bash
+# Launch like this
+Workflow({ scriptPath: 'D:/.../.claude/workflows/lamrim-restyle.js', args: {...} })
+```
+
+The tool result names the script it actually used — **read that line**. If it points into
+`…/workflows/scripts/lamrim-restyle-wf_*.js` it is a snapshot and may be stale; if it points at
+`.claude/workflows/lamrim-restyle.js` it is the live file. A cheap independent check is to grep the
+named script for a phrase you added recently.
+
+The run was stopped and the seven chunks it had already written were discarded with
+`git checkout -- translation/`. Work done under weaker rules is not worth keeping: it was produced
+without the checks that exist precisely because 3 of 3 chunks failed them once.
+
 ### The workflow: `.claude/workflows/lamrim-restyle.js` · **WRITTEN** (`62ff530`)
 
 Modelled on `lamrim-translate.js`, three phases, same contract — **agents write only
