@@ -194,11 +194,22 @@ if (cmd === 'report') {
   // Emitted under `chunks`, with the same fields tools/32 emits, so
   // `37-chunk-glossary.mjs --batch` works on this file unchanged - it reads `b.chunks`.
   // `lint` is the extra: it tells each agent what its own chunk was flagged for.
-  const n = Number(rest[0] || 10);
-  const picked = rows()
-    .filter(r => r.status !== 'done')
-    .sort((a, b) => b.burden - a.burden || b.m.ayPer1k - a.m.ayPer1k)
-    .slice(0, n)
+  // Ordering is a choice, not a default. Worst-first is right when the aim is to clear the most
+  // work per batch; BOOK ORDER is right when a human has to read the result, because reviewing
+  // c004-c013 means reading the opening of the book rather than landing mid-argument in c226.
+  //   batch 10                 worst-first (default)
+  //   batch 10 --first         book order, skipping chunks with nothing to do
+  //   batch --ids c004 c005    exactly these, in the order given
+  const ids = rest.includes('--ids') ? rest.slice(rest.indexOf('--ids') + 1).filter(a => !a.startsWith('--')) : null;
+  const n = Number(rest.find(a => /^\d+$/.test(a)) || 10);
+  const pending = rows().filter(r => r.status !== 'done');
+  const picked = (ids
+    ? ids.map(id => pending.find(r => r.id === id)).filter(Boolean)
+    : rest.includes('--first')
+      // A chunk with no long sentence, no `ấy` and no semicolon load has nothing for an agent to
+      // do; including it in a review batch spends ~275k tokens to produce an empty diff.
+      ? pending.filter(r => r.burden > 0).sort((a, b) => a.id.localeCompare(b.id)).slice(0, n)
+      : pending.sort((a, b) => b.burden - a.burden || b.m.ayPer1k - a.m.ayPer1k).slice(0, n))
     .map(r => {
       const c = chunks.find(x => x.id === r.id);
       return {

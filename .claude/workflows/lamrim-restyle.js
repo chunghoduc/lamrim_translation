@@ -141,6 +141,9 @@ ABSOLUTELY FORBIDDEN
 - Deleting or altering a [...] bracket. Those mark words supplied by the translator and are the
   fidelity audit trail, not clutter. There are 6463 of them and they all stay.
 - Deleting or altering a "tồn nghi:" note or any inline uncertainty marker.
+- Touching ANYTHING INSIDE BACKTICKS. Those hold the source edition's own critical apparatus -
+  c003 quotes its sigla and a bare straight quote as data - and a "correction" there corrupts a
+  record of what the printed edition says.
 - Touching a 【22】 or 【*5】 page marker. Those mark where a page of the original begins.
 - TOUCHING VERSE AT ALL. Any blockquote of short lines, and any run of short lines, is verse.
   It has its own pass with its own prosody constraints. Restyle PROSE only.
