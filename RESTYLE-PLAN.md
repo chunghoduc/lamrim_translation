@@ -271,6 +271,40 @@ most of the readability — not to relax the check.
 
 ---
 
+## Open defect in the instruction: `ấy` → `đó` is not the job
+
+Found in the c003–c012 batch, and it needs fixing before any further batch runs.
+
+**c003 made 9 demonstrative edits and every one of them was `ấy` → `đó`.** No drops, no noun
+repeated, nothing removed. Each per-item note was correct about what the Tibetan has, and the
+verifier passed the chunk clean — rightly, since no meaning moved. But the chunk's demonstrative
+*load* is exactly what it was before. It relabelled a tic.
+
+STYLE.md §3.2 does say "most often nothing at all", but it gives no number, so an agent can satisfy
+the letter of the instruction and miss the point entirely. Here is the number:
+
+| | `ấy` | `đó` | `này` | `kia` | **total / 1000 words** |
+|---|---:|---:|---:|---:|---:|
+| reference | 0.37 | 7.08 | 4.29 | 0.56 | **12.29** |
+| ours | 13.64 | 4.18 | 3.91 | 0.74 | **22.47** |
+
+The reference uses **1.8× fewer demonstratives in total**. It does prefer `đó` over `ấy` heavily, so
+some re-pointing is right — but closing the gap means **dropping roughly 45% of all demonstratives**,
+not renaming them. A chunk whose total demonstrative count is unchanged after restyling has not done
+this part of the work.
+
+Compare c008, which did it properly: two re-pointed to `này` because the Tibetan was proximal `འདི་དག`
+(so `ấy` had been pointing the *wrong way* — a fidelity fix, not a style one), one dropped outright
+(`như thế ấy` → `như thế`), and two **kept** because `དེ་དག` genuinely marked a contrast.
+
+**To do before the next batch:**
+1. Add the total-load number and the "unchanged count means not done" test to the workflow prompt
+   and to STYLE.md §3.2.
+2. Report `demonstrativeLoad` per chunk in `52-style-lint.mjs`, so the ledger can show it moved.
+3. Re-run c003, and any other chunk in this batch whose demonstrative total came out unchanged.
+
+---
+
 ## Found while restyling — not this pass's job, but someone's
 
 Things the restyle surfaced that are **pre-existing** and that it correctly did not touch. Each
