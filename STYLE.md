@@ -259,11 +259,18 @@ speech with no obligation to mark what the speaker did not say, and ours is a tr
 whose central rule is that **every Vietnamese word traces to specific Tibetan**. The brackets
 are the audit trail for exactly the words that do not.
 
-They are still too dense to read — `[nó]` ×322, `[tâm]` ×215, `[chúng]` ×196 — and most of
-them supply a subject or object that Vietnamese grammar requires and that the Tibetan makes
-unambiguous. That is a case for a **policy** on when a supplied word needs marking, not for
-deleting the marks. Step 0 of the plan puts the policy question to the owner; until it is
-answered, brackets stay exactly as they are.
+They look too dense to read — `[nó]` ×322, `[tâm]` ×215, `[chúng]` ×196 — and most of them supply
+a subject or object that Vietnamese grammar requires and that the Tibetan makes unambiguous. A
+policy was drafted to drop those and keep the rest.
+
+**The Step 3 pilot settled it against thinning, and the reasoning is worth keeping.** Three chunks
+improved sharply with every bracket left in place: median sentence 77→41, 55→33, 71→38, semicolons
+cut by three quarters. The gain came from sentence length and punctuation. Whatever the bracket
+density costs a reader, it is not what was making these pages hard to read — so removing 2,000 of
+them would spend fidelity risk on a small remaining gain, against the project's central rule.
+
+**Decided: all 6,463 stay** (`glossary/decisions.md` §9). The restyle workflow forbids agents from
+removing even one, and the verifier reports any loss as `apparatusLoss`.
 
 ### 4.4 Paragraphing
 

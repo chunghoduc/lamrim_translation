@@ -86,14 +86,15 @@ implemented in full.)* Applied in Step 2:
   `thức-xoa-ma-na`. They are dehyphenated as decided; pulling any of them back is a one-line
   edit to `HYPHENATED` in `tools/54-sweep.mjs` plus a re-run.
 
-**(c) Bracket policy — DECIDE AFTER THE STEP 3 PILOT.** All 6,463 `[...]` inserts are untouched,
-and the restyle workflow forbids agents from removing even one. Revisit with real before/after
-text in hand. The proposal on the table:
+**(c) Bracket policy — LEAVE ALL 6,463 ALONE.** *(Decided after the pilot, as planned.)*
 
-> Mark with brackets only what a reader could otherwise take for something the Tibetan says:
-> a supplied **noun** that resolves an ambiguous referent, an **interpolated clause**, a
-> **gloss**. Do not mark a pronoun or subject that Vietnamese grammar obliges and the Tibetan
-> leaves unambiguous (`[nó]` ×322, `[chúng]` ×196, `[họ]` ×119, `[ta]` ×90).
+The pilot settled it, and against thinning. Three chunks improved sharply with every bracket in
+place — median sentence 77→41, 55→33, 71→38, semicolons cut by three quarters. **The readability
+gain came from sentence length and punctuation, not from the brackets**, so thinning them would
+spend fidelity risk on what little is left. They are the audit trail for exactly the words that do
+not trace to specific Tibetan, which is the project's central rule. Recorded as
+`glossary/decisions.md` §9. The workflow forbids agents from removing even one, and the verifier
+reports any loss as `apparatusLoss` — across the pilot's three chunks that list was empty.
 
 ---
 

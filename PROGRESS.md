@@ -48,7 +48,7 @@ node tools/30-progress.mjs --verify
 | Repair entries (secondary fonts) | 19 |
 | CIDs deliberately left unrepaired | 10 |
 | sa-bcad outline built | yes |
-| Glossary terms | 4737 |
+| Glossary terms | 4741 |
 | Translation files written | 292 |
 
 ## Translation progress

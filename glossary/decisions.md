@@ -128,3 +128,68 @@ merging into one, and asserts something the Tibetan does not say. Where śamatha
 vipaśyanā are in union that distinction carries doctrine: they are conjoined, not fused.
 
 Four occurrences were corrected. The glossary entry is updated accordingly.
+
+## §8 — Orthographic register, continued: `tính` / `chính` · **2026-09-18**
+
+*Decided by the project owner, adopting the reference edition's spelling.*
+
+`tính`, not `tánh`. `chính`, not `chánh`. Applied corpus-wide by `tools/54-sweep.mjs`:
+**2,824 instances** across `translation/`, `glossary.json` and this file.
+
+**This finishes §2 rather than opening a new question.** §2 fixed the register as northern —
+`chúng sinh` not `chúng sanh`, `phúc đức` not `phước đức` — and `glossary.json` records both
+rules under `houseStyle`. `tánh` and `chánh` are the southern halves of the same pair and were
+simply never listed, which left the book writing `chúng sinh` and `phúc đức` beside `tự tánh`
+(×793), `thể tánh` (×347) and `chánh lý`: **1,736 `tánh` against 84 `tính`.** The inconsistency
+was ours, not the source's.
+
+**Why it runs through the whole morpheme.** The decision was to adopt the reference's
+`tính không`. Changing only `tánh không` (×207) would have spelled one morpheme two ways in
+adjacent sentences — *tính không của tự tánh* — which is worse than either spelling used
+consistently. There is no Vietnamese word in which these letters mean anything else, which is
+why a substring substitution is safe here and would not be for a lexical change.
+
+### What was NOT changed, and must not be changed by a sweep
+
+`yểm ly` / `viễn ly` / `xả ly`. The reference edition renders renunciation as `tâm buông bỏ`,
+and adopting that would have collapsed **three different Tibetan terms** into one phrase:
+
+| Tibetan | Vietnamese | sense |
+|---|---|---|
+| `སྐྱོ་ཤས` | **lòng yểm ly** | weariness with, disenchantment |
+| `རབ་ཏུ་དབེན་པ` | **viễn ly** | thorough seclusion, isolation |
+| `སྤོང་བ་པ` | **bậc xả ly** | one who abandons |
+
+This is §5's failure again — several distinct Tibetan terms converging on one Vietnamese word —
+and it is a **fidelity** change, not an orthographic one. Raised and left unapplied. If the
+merge is still wanted it needs a decision per Tibetan term, with a reason recorded for each.
+
+### Hyphenation — same date, same sweep
+
+Hyphens removed from 69 transliterated compounds, **2,692 occurrences**: `bồ-tát` → `bồ tát`,
+`niết-bàn` → `niết bàn`, `ba-la-mật` → `ba la mật`. A house-style call by the project owner,
+matching the reference edition, which uses none.
+
+On six long transliterations the hyphen had been doing disambiguating work and they read worse
+without it: `bổ-đặc-già-la` (×95), `xá-lợi-phất` (×9, where *xá lợi* alone means *relics*),
+`a-tỳ-đạt-ma`, `ma-hầu-la-già`, `ương-quật-ma-la`, `thức-xoa-ma-na`. Dehyphenated as decided and
+recorded here rather than silently exempted; restoring any of them is a one-line edit to
+`HYPHENATED` in `tools/54-sweep.mjs` plus a re-run.
+
+## §9 — The `[...]` apparatus stays, in full · **2026-09-18**
+
+*Decided by the project owner after the Step 3 restyle pilot.*
+
+All **6,463** bracketed insertions remain. They run at 19.02 per 1,000 words against the
+reference edition's 0.20, and a policy was on the table to drop them around a pronoun or subject
+that Vietnamese grammar obliges and the Tibetan leaves unambiguous — `[nó]` ×322, `[tâm]` ×215,
+`[chúng]` ×196, `[họ]` ×119, `[ta]` ×90, roughly a third of the total.
+
+**The pilot settled it against thinning.** Three chunks improved sharply with every bracket left
+in place — median sentence 77→41, 55→33, 71→38; semicolons cut by three quarters. The readability
+gain came from sentence length and punctuation, not from the brackets. Thinning them would spend
+fidelity risk on what is left, and the brackets are the audit trail for exactly the words that do
+*not* trace to specific Tibetan — the project's central rule.
+
+`.claude/workflows/lamrim-restyle.js` forbids agents from removing even one, and the verifier
+reports any loss as `apparatusLoss`. Across the pilot's three chunks that list was empty.
