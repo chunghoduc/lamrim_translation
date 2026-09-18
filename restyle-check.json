@@ -73,6 +73,24 @@
         "straightQuotes": 2,
         "verseNoBreak": 0
       }
+    },
+    "c004": {
+      "at": "2026-09-18",
+      "outputHash": "7a4ae4f69706",
+      "metrics": {
+        "words": 271,
+        "sents": 8,
+        "med": 41,
+        "p90": 94,
+        "max": 94,
+        "long": 1,
+        "vlong": 0,
+        "ay": 0,
+        "ayPer1k": 0,
+        "semiPer1k": 0,
+        "straightQuotes": 0,
+        "verseNoBreak": 0
+      }
     }
   }
 }
