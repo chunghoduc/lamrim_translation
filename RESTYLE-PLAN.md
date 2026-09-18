@@ -339,6 +339,22 @@ marked their own unverified work as finished.
 text with `git show HEAD:translation/<id>.md`; if the tree is dirty when a batch starts, it
 compares against a half-restyled file and the check is worth nothing.
 
+> **And NEVER `git add -A` while a batch is running.** Doing so sweeps whatever the restyle agents
+> have already written into HEAD, so the verifiers that have not started yet compare the restyled
+> text against *itself* and pass everything. I did exactly this during the c003–c012 batch — it
+> was harmless only because no agent had written a file in that particular second. During a batch,
+> commit named paths and nothing else:
+>
+> ```bash
+> git add RESTYLE-PLAN.md && git commit -m "..."     # fine mid-batch
+> git add -A                                          # NOT fine mid-batch
+> ```
+>
+> The cost of getting this wrong is silent: every chunk comes back `clean` and nothing looks
+> amiss. If it is ever in doubt, prove it instead of assuming —
+> `git show HEAD:translation/<id>.md | md5sum` against the last commit that touched
+> `translation/` must match for every chunk in the batch.
+
 ### The workflow: `.claude/workflows/lamrim-restyle.js` · **WRITTEN** (`62ff530`)
 
 Modelled on `lamrim-translate.js`, three phases, same contract — **agents write only
