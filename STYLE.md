@@ -80,6 +80,23 @@ Our sentence-length distribution, in full:
 **359 sentences of 100 words or more** is the headline finding. The reference book has
 essentially none.
 
+> **These numbers are the BASELINE, measured before any change (commit `6900732`).** Do not
+> compare a later measurement against them without reading this note first.
+>
+> Two of them move for reasons that have nothing to do with prose quality:
+>
+> - **Dehyphenation inflated every word count.** Removing 2,692 hyphens turned `bồ-tát` into two
+>   tokens, adding 2,831 "words" corpus-wide. "Sentences over 80 words" rose 610 → 627 with no
+>   prose touched. **The Step 4 progress baseline is therefore the post-sweep number, not this
+>   one.**
+> - **`51-style-metrics.mjs` excludes blockquotes; `52-style-lint.mjs` includes quoted prose.**
+>   For comparing two books the first is the fair cut — every blockquote in the reference is
+>   verse. For deciding what a restyle must fix, quoted prose is prose. Hence `ấy` at 3,718 here
+>   and 4,362 there. Both are right for their own purpose.
+>
+> A third is simply a measurement bug now fixed: `52` counted the 1,160 double quotes in the YAML
+> front matter as straight-quote defects. The body held 2.
+
 ---
 
 ## 3. What transfers — the adoptable rules
@@ -104,6 +121,42 @@ the argumentation genuinely is denser.
 **What is forbidden.** Splitting by inserting a connective the Tibetan does not have
 ("Vì vậy", "Do đó", "Bởi thế") in order to make two sentences cohere. That is adding an
 inference. If the two halves need a connective to stand apart, leave them joined.
+
+#### The three ways a split changes meaning — learned from the Step 3 pilot
+
+The pilot restyled three chunks, made 41 splits, and the independent check rejected both of the
+first two chunks. Nothing was lost from the apparatus and no glossary term moved: **every
+rejection was a split that quietly altered what the sentence claims.** Three distinct patterns,
+and all three are invisible unless you are holding the Tibetan.
+
+**1. Only a shad `།` is a reliable boundary.** `ཞིང` / `ལ` / `སྟེ` joined by a tsheg into the next
+word is *not* a sentence break, however much it looks like one in translation. Of the pilot's 15
+splits in c226, fourteen landed on a shad and were upheld; the one that landed on a tsheg-joined
+`རློམ་ཞིང` was rejected, because the whole stretch was a single nominalised subject whose only head
+was `ཤིན་ཏུ་མང་བར་སྣང་ངོ་།` at the far end. **Require a shad.** A split anywhere else needs an argument,
+not an intuition.
+
+**2. A concessive particle must survive the split.** `ཀྱང` and `མོད་ཀྱང` are rendered by the Vietnamese
+pair *tuy … nhưng*. Split the sentence and drop the *tuy*, and a clause the text **concedes**
+becomes a claim the text **asserts**:
+
+> `ཐ་སྙད་དུ་འཇོག་པའི་དོན་རྣམས་ཐ་སྙད་པའི་ཚད་མས་གྲུབ་དགོས་ཀྱང་།`
+> before — "các nghĩa … **tuy** phải được thành lập bởi lượng danh ngôn, **nhưng** …"
+> after — "các nghĩa … phải được thành lập bởi lượng danh ngôn. **Nhưng** …"
+
+In a Prāsaṅgika passage about exactly what conventional *pramāṇa* does and does not settle, that
+is not neutral re-punctuation. Same fault, same chunk, twice.
+
+**3. A sentence-final governor scopes over everything before it.** Tibetan puts the governing
+element last, so `སྙམ་ནས` ("having thought thus"), or a single head over several `ལ`-linked clauses,
+reaches back across the whole sentence. Put a full stop in the middle and that reach is silently
+cut to the final clause — in c225 this turned two clauses that the text attributes to an
+*opponent's thinking* into Tsongkhapa's own assertions. The repair reverted it verbatim.
+
+**The rule that follows.** Before splitting, find the sentence's governing element and ask what
+it governs. If anything before your proposed full stop is inside its scope — a hedge, a
+concessive, an attributive frame, a quantifier — **leave the sentence long.** This is the case
+STYLE.md §5 is about: the awkward true sentence is the deliverable.
 
 ### 3.2 `ấy` — 3,718 occurrences of a calque
 
@@ -132,10 +185,29 @@ their own. Do not chase them separately.
 
 ### 3.4 Typography — purely mechanical, zero fidelity risk
 
-- Quotation: `"..."` → `“...”` (3,778 straight quotes; the reference uses curly throughout).
+All of these are applied corpus-wide by `tools/54-sweep.mjs`. **An agent must never make these
+changes by hand**: the Step 3 pilot showed why — one agent, left to its own taste, moved six
+periods the *opposite* way to the reference's convention, which would have deepened an
+inconsistency instead of fixing it. Typography is a corpus rule, not a per-chunk judgement.
+
+- Quotation: `"..."` → `“...”` — 3,778 straight quotes; the reference uses curly throughout.
+- Nested quotation: `'...'` → `‘...’` — 109 of them. **The apostrophe in a Wylie transliteration
+  is not a quote mark**: in *sme'u zan*, *'tshal ba*, *bar mnar med pa'i 'khor mun nag chen po*
+  it is the letter *a-chung*, and curling it corrupts the transliteration. The sweep protects
+  italic spans that contain an apostrophe and no Vietnamese diacritic.
+- **Period inside the closing quote**: `cả”.` → `cả.”` — 177. The reference runs 48:1 for inside;
+  our corpus was split 237 inside / 171 outside, an inconsistency predating this pass. Every
+  instance was checked: the period is always sentence-final, so moving it changes nothing.
+- **Commas stay where they are.** The reference has no comma convention at all — 8 inside, 8
+  outside — while our corpus is already consistent at 337 outside. The first version of the rule
+  moved commas too and would have changed 337 of them, breaking a consistency we have on no
+  authority. The period is the only half of this the reference actually settles.
 - Verse inside a blockquote needs a hard line break (two trailing spaces) so a stanza
-  survives in a generic Markdown viewer. Our own renderer (`tools/41-pdf.mjs`) already
-  handles this correctly — this is for GitHub and anything else that reads the `.md`.
+  survives in a generic Markdown viewer — 3,489 lines. Our own renderer (`tools/41-pdf.mjs`)
+  already handles this correctly; this is for GitHub and anything else that reads the `.md`.
+  *Watch the knock-on:* three tools told verse from prose by raw line length against a 76-char
+  threshold, and two trailing spaces pushed some lines over it, silently dropping 6 stanzas out
+  of the verse ledger. They now measure the trimmed line.
 - Citation shape: the reference sets *`Title`* + `(chapter.verse)` + verb + colon —
   *Nhập Bồ Tát Hạnh* (8.131) dạy rằng: — which is **already our convention**. Keep it.
 

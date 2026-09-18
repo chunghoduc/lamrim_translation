@@ -69,9 +69,20 @@ const count = (s, re) => (s.match(re) || []).length;
 // `v.v.` is a real abbreviation in this corpus (3.81 per 1000 words) and splitting on its dots
 // would halve every sentence it appears in. The placeholder is put back before anything is
 // measured or printed, so it never reaches the reader or the word count.
+// ...EXCEPT when it ends the sentence, which "khuôn mặt v.v. Vì thế, ..." does. Protecting every
+// `v.v.` made the linter fuse two sentences of ~20 and ~66 words into one 86-word unit and report
+// it as needing a split - found by a restyle agent in the Step 3 pilot, which flagged the unit as
+// a measurement artifact rather than trying to split a sentence that was not there. The lookahead
+// leaves a `v.v.` followed by whitespace and a capital as the boundary it is.
 const SAFE = 'v․v․';                       // U+2024 ONE DOT LEADER, not a full stop
 function sentencesOf(paras) {
-  return paras.flatMap(p => p.replace(/v\.v\./g, SAFE).split(/[.!?]+\s+/))
+  // A closing quote may sit BETWEEN the full stop and the space - `...cả.” Vì thế` - because
+  // tools/54 moves the period inside the quotation, which is the reference edition's convention.
+  // Splitting on /[.!?]+\s+/ alone misses all 176 of those, fusing the sentences on either side:
+  // it made the corpus look as though restyling three chunks had pushed the longest sentence from
+  // 237 words to 290. The optional closer is not cosmetic - it is the difference between measuring
+  // the prose and measuring the punctuation.
+  return paras.flatMap(p => p.replace(/v\.v\.(?!\s+\p{Lu})/gu, SAFE).split(/[.!?]+[”’"']?\s+/))
     .map(s => s.replace(new RegExp(SAFE, 'g'), 'v.v.').trim())
     .filter(s => s.length > 1);
 }
@@ -108,7 +119,10 @@ function metricsOf(id) {
     ay: count(prose, AY),
     ayPer1k: per1k(count(prose, AY)),
     semiPer1k: per1k(count(prose, /;/g)),
-    straightQuotes: count(raw(id), /"/g),
+    // On the PROSE, not the raw file: the YAML front matter double-quotes `section` and
+    // `sectionPath`, so counting the raw file scored 1160 front-matter quotes as a style defect
+    // corpus-wide while the body held 2.
+    straightQuotes: count(prose, /"/g),
     verseNoBreak: noBreak,
   };
 }

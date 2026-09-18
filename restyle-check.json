@@ -1,0 +1,60 @@
+{
+  "generatedBy": "tools/52-style-lint.mjs",
+  "note": "see RESTYLE-PLAN.md; a chunk re-opens if its file changes after being restyled",
+  "restyled": {
+    "c225": {
+      "at": "2026-09-18",
+      "outputHash": "a6079089511a",
+      "metrics": {
+        "words": 1559,
+        "sents": 34,
+        "med": 41,
+        "p90": 80,
+        "max": 132,
+        "long": 3,
+        "vlong": 1,
+        "ay": 10,
+        "ayPer1k": 6.4,
+        "semiPer1k": 4.5,
+        "straightQuotes": 0,
+        "verseNoBreak": 0
+      }
+    },
+    "c245": {
+      "at": "2026-09-18",
+      "outputHash": "33fd0aa487aa",
+      "metrics": {
+        "words": 1687,
+        "sents": 38,
+        "med": 35,
+        "p90": 99,
+        "max": 140,
+        "long": 4,
+        "vlong": 2,
+        "ay": 23,
+        "ayPer1k": 13.6,
+        "semiPer1k": 1.8,
+        "straightQuotes": 0,
+        "verseNoBreak": 0
+      }
+    },
+    "c226": {
+      "at": "2026-09-18",
+      "outputHash": "8ecf4f973f79",
+      "metrics": {
+        "words": 1589,
+        "sents": 32,
+        "med": 49,
+        "p90": 82,
+        "max": 100,
+        "long": 7,
+        "vlong": 0,
+        "ay": 14,
+        "ayPer1k": 8.8,
+        "semiPer1k": 1.9,
+        "straightQuotes": 0,
+        "verseNoBreak": 0
+      }
+    }
+  }
+}

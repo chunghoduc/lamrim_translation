@@ -178,7 +178,75 @@ tools that measure the corpus, not just the corpus.** Run `53-invariants.mjs` an
 
 ---
 
-## Step 3 — pilot on three chunks, then stop and look
+## Step 3 — pilot · **DONE**. Read this before authorising Step 4.
+
+Three worst-ranked chunks (c225, c245, c226), through the full Step 4 machinery. 9 agents,
+826k subagent tokens, 25 minutes.
+
+**All three were rejected by the independent check on the first pass. All three passed after
+repair.** That is the single most important result: the verifier is not decoration.
+
+| chunk | >80 words | >120 | median | 90th pct | longest | `ấy`/1k | `;`/1k |
+|---|---|---|---|---|---|---|---|
+| c225 | 9 → **2** | 3 → 1 | 77 → **41** | 124 → 80 | 166 → 132 | 9.0 → 6.4 | 10.9 → **4.5** |
+| c245 | 7 → **3** | 3 → 1 | 55 → **33** | 122 → 76 | 140 → 122 | 18.9 → 13.6 | 8.3 → **1.8** |
+| c226 | 9 → **4** | 2 → 0 | 71 → **38** | 116 → 81 | 157 → 94 | 17.6 → 8.8 | 8.2 → **1.9** |
+
+41 splits and 39 demonstrative edits were made. **Zero apparatus loss, zero glossary changes,
+zero verse touched** — every prohibition held, across three agents, without exception.
+
+### The targets in this plan were too strict. Revised, on evidence.
+
+The plan asked for median ≤ 30 and no sentence over 80. The pilot got median 33–41 and 2–4
+sentences over 80 per chunk, **because the verifier refused the splits that would have got
+there** — see STYLE.md §3.1 for the three mechanisms. Those refusals were correct. The realistic
+target, which is what Step 4 should be measured against:
+
+- median **≤ 45** (from 55–77)
+- sentences over 80 **cut by about two thirds**
+- sentences over 120 **nearly eliminated**
+- semicolons **cut by about three quarters** — the clearest win, and the least risky
+- `ấy` **down by a third**, not to the reference's rate; much of the rest is load-bearing
+
+**Do not push past this by loosening the check.** A long faithful sentence is the deliverable.
+
+### What the pilot cost, and what Step 4 therefore costs
+
+275k subagent tokens per chunk. **289 chunks remain → roughly 80M subagent tokens**, about 29
+batches of 10, on the order of 15–20 hours of wall clock. This is a real commitment and should
+be authorised explicitly, not drifted into.
+
+### Three measurement bugs it exposed, all of which had been overstating or distorting the problem
+
+Every "sentences over 80 words" figure quoted before the pilot was wrong. The trustworthy
+pre-restyle baseline is **572 over 80, 111 over 120, longest 237, median 26**.
+
+1. **The front-matter quote count.** `52` scored the 1,160 YAML `section:` quotes as
+   straight-quote defects; the body held 2.
+2. **`v.v.` at a sentence end.** Protecting every `v.v.` from the splitter also protected the
+   real full stop in `khuôn mặt v.v. Vì thế`, fusing two sentences into one 86-word unit. **Found
+   by a restyle agent**, which flagged the unit as a measurement artifact instead of splitting a
+   sentence that was not there. Worth 12 false long sentences corpus-wide.
+3. **The period inside the closing quote — self-inflicted.** Step 2's own sweep moved 176 periods
+   inside the quotation, after which the period is followed by `”` and not by whitespace, so the
+   splitter stopped seeing those 176 boundaries. It made restyling three chunks look as though it
+   had pushed the corpus's longest sentence from 237 words to 290. The splitter now accepts an
+   optional closing quote.
+
+The lesson is the same one Step 2 taught, and it is worth stating as a rule: **when a sweep
+changes the corpus, re-derive the baseline with the corrected tool before comparing anything.**
+
+### One process failure, mine
+
+I hand-typed the workflow args instead of passing `.wf.json`, and fed three agents a **stale
+`section` and `sectionPath`** from an earlier run, plus a wrong word count. No damage — the
+agents read the actual files and pages, and one of them caught and reported the discrepancy
+rather than editing the front matter to match. But it is the second time retyping those numbers
+has cost something. Pass the file.
+
+---
+
+## Step 3 — the original plan for the pilot (kept for the record)
 
 Pick the three worst chunks from `52-style-lint.mjs` — the ones carrying the 100+ word
 sentences. Restyle them through the Step 4 machinery, then **measure before continuing**:
@@ -206,6 +274,12 @@ most of the readability — not to relax the check.
 
 The loop mirrors Phase 4 exactly, and for the same reasons. **Each chunk is touched once and
 all style changes are made together**, because every touch costs a re-anchor.
+
+**Pass `.wf.json` to the workflow programmatically — never retype its numbers.** On the pilot I
+hand-copied the lint block into the workflow args and used a stale pre-sweep word count (1858
+where the file said 1562). The worklist-critical fields happened to be right, so the agents were
+guided correctly, but I then read the agent's output as a 16% loss of content when it was a 6-word
+change. Wrong numbers in the args are wrong numbers in the report.
 
 ```bash
 git status --porcelain            # MUST be clean: Verify reads `git show HEAD:translation/<id>.md`

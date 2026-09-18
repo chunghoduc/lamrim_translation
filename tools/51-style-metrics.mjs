@@ -55,8 +55,13 @@ for (const f of files) {
 
   // Sentences: split on . ! ? ... but not on the "v.v." abbreviation, which is
   // frequent in the Lamrim translation and would halve every sentence length.
-  const protectedBody = body.replace(/v\.v\./g, 'vXvX');
-  const sents = protectedBody.split(/[.!?]+[\s\n]+/).map(s => s.trim()).filter(s => s.length > 1);
+  // The lookahead is the exception to the exception: "khuôn mặt v.v. Vì thế" ends a sentence at
+  // that v.v., and protecting it fused two sentences into one and overstated their length.
+  const protectedBody = body.replace(/v\.v\.(?!\s+\p{Lu})/gu, 'vXvX');
+  // The optional closing quote matters: tools/54 puts the period INSIDE the quotation, so a
+  // sentence can end `...cả.” Vì thế` and splitting on /[.!?]+\s+/ alone would fuse it with the
+  // next one. 176 boundaries in this corpus look like that.
+  const sents = protectedBody.split(/[.!?]+[”’"']?[\s\n]+/).map(s => s.trim()).filter(s => s.length > 1);
   const words = body.split(/\s+/).filter(Boolean);
   const paras = body.split(/\n{2,}/).map(p => p.trim()).filter(p => p.length > 40);
 

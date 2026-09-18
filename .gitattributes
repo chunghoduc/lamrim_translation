@@ -1,0 +1,8 @@
+# Line endings are LF everywhere. tools/32 hashes the raw bytes of translation/<id>.md, so a
+# git operation that round-trips the working tree (stash, checkout, merge) under core.autocrlf
+# rewrites those bytes and makes all 292 chunks read as "edited by hand" with no content change.
+# That happened once during the restyle; this stops it.
+* text=auto eol=lf
+*.png binary
+*.pdf binary
+*.docx binary

@@ -35,8 +35,12 @@ const RESTYLE_SCHEMA = {
       type: 'array',
       description: 'Every sentence you split. For each: the Tibetan clause boundary you split at, quoted from the source, and the Vietnamese before and after. If you cannot quote the Tibetan boundary, you may not split there.',
       items: {
-        type: 'object', additionalProperties: false, required: ['boBoundary', 'before', 'after'],
-        properties: { boBoundary: { type: 'string' }, before: { type: 'string' }, after: { type: 'string' } },
+        type: 'object', additionalProperties: false, required: ['boBoundary', 'before', 'after', 'scopeCheck'],
+        properties: {
+          boBoundary: { type: 'string', description: 'The shad (།) you split at, quoted WITH the Tibetan words on either side of it, so it can be located in the source file.' },
+          before: { type: 'string' }, after: { type: 'string' },
+          scopeCheck: { type: 'string', description: 'What the sentence\'s final governing element is, and why nothing before your cut falls inside its scope. Name any ཀྱང / མོད་ཀྱང / སྙམ་ནས and say how it is still rendered on both sides. "none" only if the sentence genuinely has no governor reaching across the cut.' },
+        },
       },
     },
     demonstratives: { type: 'array', description: 'Each `ấy` you changed or dropped, as "<old phrase> -> <new phrase>". Say "dropped" where the demonstrative is simply gone.', items: { type: 'string' } },
@@ -93,9 +97,32 @@ An awkward TRUE sentence beats a graceful FALSE one. Where a passage cannot be m
 well without asserting something the Tibetan does not, LEAVE IT AWKWARD and flag it.
 
 THE ONLY FOUR THINGS YOU MAY DO
-1. SPLIT an over-long sentence - but only at a clause boundary the TIBETAN ITSELF MARKS
-   (ནས, སྟེ/ཏེ/དེ, ཞིང, ཅིང, ལ, a shad). You must quote that Tibetan boundary in your answer. A split
-   you cannot point to in the source is forbidden.
+1. SPLIT an over-long sentence - but only AT A SHAD (།) in the Tibetan. You must quote that shad
+   with the words on either side of it. A split you cannot point to in the source is forbidden.
+
+   THIS RULE IS STRICTER THAN IT LOOKS, AND IT IS STRICTER BECAUSE OF WHAT WENT WRONG. In the
+   pilot batch, 3 chunks out of 3 were rejected, and every single rejection was a split that
+   changed what the sentence claims. ནས / སྟེ / ཞིང / ལ joined by a TSHEG into the following word is
+   NOT a sentence boundary, however much the Vietnamese makes it look like one. Of 15 splits in
+   one chunk, the 14 that landed on a shad were upheld and the one that landed on a tsheg-joined
+   རློམ་ཞིང was rejected - that whole stretch was a single nominalised subject whose only head was
+   ཤིན་ཏུ་མང་བར་སྣང་ངོ་། at the far end.
+
+   BEFORE EVERY SPLIT, RUN THESE TWO CHECKS. Both failures below happened in the pilot:
+
+   a) DOES A PARTICLE SCOPE ACROSS YOUR CUT? ཀྱང and མོད་ཀྱང are rendered by the Vietnamese pair
+      "tuy ... nhưng". Split the sentence, drop the "tuy", and a clause the text CONCEDES becomes
+      a claim the text ASSERTS. That is a meaning change, and in a Madhyamaka passage about what
+      conventional pramana does and does not establish it is a serious one. Every hedge,
+      concessive, quantifier and attributive frame that reached across your cut must still be
+      rendered on both sides, or do not cut.
+
+   b) WHAT DOES THE SENTENCE'S FINAL GOVERNOR GOVERN? Tibetan puts the governing element LAST, so
+      སྙམ་ནས ("having thought thus"), or one head over several ལ-linked clauses, reaches back over the
+      whole sentence. Put a full stop in the middle and that reach is silently cut to the last
+      clause only. In the pilot this turned two clauses the text attributes to an OPPONENT'S
+      thinking into Tsongkhapa's own assertions. Find the governor, work out its scope, and if
+      anything before your proposed full stop sits inside that scope, LEAVE THE SENTENCE LONG.
 2. RE-POINT OR DROP a demonstrative. ấy is a calque of Tibetan དེ and appears 4362 times, 37x the
    rate of good Vietnamese Buddhist prose. Render དེ as the passage needs: đó, này, the noun
    repeated, or - most often - nothing, since Vietnamese tolerates a bare noun where Tibetan
@@ -196,9 +223,20 @@ Read, from ${ROOT}:
   - glossary/by-chunk/${c.id}.md and glossary/decisions.md. Do NOT read glossary.json.
 
 Diff them yourself and examine EVERY changed sentence. The restyler claimed these splits:
-${(rs.splits || []).length ? rs.splits.map((s, i) => `  ${i + 1}. at Tibetan «${s.boBoundary}»\n     before: ${s.before}\n     after : ${s.after}`).join('\n') : '  (none claimed)'}
-Check each claimed Tibetan boundary against the source. A boundary that is not there, or is
-not where the split was made, is an unsupportedSplit.
+${(rs.splits || []).length ? rs.splits.map((s, i) => `  ${i + 1}. at Tibetan «${s.boBoundary}»\n     before: ${s.before}\n     after : ${s.after}\n     its scope check: ${s.scopeCheck || '(none given)'}`).join('\n') : '  (none claimed)'}
+
+For EACH claimed split, do all three of these - the pilot batch was rejected 3 out of 3, and
+each of these caught a real failure:
+
+  a) FIND THE SHAD in the source file. Only a shad (།) is a boundary. ནས / སྟེ / ཞིང / ལ joined by a
+     TSHEG into the next word is not one, whatever the Vietnamese looks like. A split not on a
+     shad is an unsupportedSplit.
+  b) CHECK FOR A LOST PARTICLE. If ཀྱང or མོད་ཀྱང scoped across the cut, the Vietnamese "tuy" must
+     still be there. Without it a CONCEDED clause has become an ASSERTED one - a meaningChange.
+  c) CHECK THE FINAL GOVERNOR'S SCOPE. Tibetan puts the governing element last, so སྙམ་ནས, or one
+     head over several ལ-linked clauses, reaches back over the whole sentence. If a full stop now
+     cuts that reach short, clauses the text attributed to an opponent may read as the author's
+     own - a meaningChange. Verify the scopeCheck the restyler gave; do not take it on trust.
 
 Report four lists:
 1. meaningChanges     - a sentence that now asserts more, less, or other than before. This
