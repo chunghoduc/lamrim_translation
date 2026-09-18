@@ -55,6 +55,24 @@
         "straightQuotes": 0,
         "verseNoBreak": 0
       }
+    },
+    "c003": {
+      "at": "2026-09-18",
+      "outputHash": "1e9c272d63d3",
+      "metrics": {
+        "words": 819,
+        "sents": 28,
+        "med": 25,
+        "p90": 51,
+        "max": 61,
+        "long": 0,
+        "vlong": 0,
+        "ay": 1,
+        "ayPer1k": 1.2,
+        "semiPer1k": 0,
+        "straightQuotes": 2,
+        "verseNoBreak": 0
+      }
     }
   }
 }

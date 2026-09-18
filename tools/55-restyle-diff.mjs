@@ -82,9 +82,32 @@ function inlineDiff(before, after) {
   return s.replace(/\s+/g, ' ').trim();
 }
 
-// Pair paragraphs by position, but tolerate a restyle that split one paragraph in two: match on
-// the first six words, which no edit in scope is allowed to change.
-const key = p => p.split(/\s+/).slice(0, 6).join(' ').toLowerCase();
+// Pairing paragraphs by their first six words fails the moment an edit touches the opening - which
+// hand editing does routinely ("Lại nữa, do các…" → "Lại nữa, nếu do các…" lost a whole paragraph
+// from the report). Pair by best token overlap instead, over a window, so a paragraph survives any
+// edit short of a rewrite while still refusing to pair two genuinely different paragraphs.
+const toks = p => new Set(p.toLowerCase().split(/\s+/).filter(w => w.length > 2));
+function similarity(a, b) {
+  const A = toks(a), B = toks(b);
+  let shared = 0;
+  for (const w of A) if (B.has(w)) shared++;
+  return shared / Math.max(A.size, B.size, 1);
+}
+// Greedy nearest match inside a window, so paragraph order still guides the pairing.
+function pairParas(A, B) {
+  const used = new Set();
+  return A.map((p, i) => {
+    let best = -1, score = 0;
+    for (let j = Math.max(0, i - 3); j < Math.min(B.length, i + 4); j++) {
+      if (used.has(j)) continue;
+      const s = similarity(p, B[j]);
+      if (s > score) { score = s; best = j; }
+    }
+    if (best === -1 || score < 0.5) return [p, null];
+    used.add(best);
+    return [p, B[best]];
+  });
+}
 
 const lines = [];
 const say = s => lines.push(s);
@@ -102,13 +125,8 @@ for (const id of ids) {
   const afterText = fs.readFileSync(path.join(ROOT, 'translation', `${id}.md`), 'utf8');
 
   const A = paras(beforeText), B = paras(afterText);
-  const bByKey = new Map();
-  for (const p of B) { const k = key(p); if (!bByKey.has(k)) bByKey.set(k, []); bByKey.get(k).push(p); }
-
   const changed = [];
-  for (const p of A) {
-    const cand = bByKey.get(key(p));
-    const match = cand && cand.length ? cand.shift() : null;
+  for (const [p, match] of pairParas(A, B)) {
     if (match === null) { changed.push([p, '(no counterpart found — check by hand)']); continue; }
     if (match !== p) changed.push([p, match]);
   }
