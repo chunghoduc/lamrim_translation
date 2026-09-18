@@ -50,32 +50,50 @@ so staleness costs nothing.
 
 ---
 
-## Step 0 — decisions only the project owner can make
+## Step 0 — decisions only the project owner can make · **ANSWERED 2026-09-18**
 
-Three questions. Each changes the size of the job, and none should be answered by drift.
-Nothing else in this plan is blocked on them except where noted.
+**(a) Terminology — ADOPT the reference's.** *(I had recommended keeping ours; overruled, and
+implemented in full.)* Applied in Step 2:
 
-**(a) Terminology — adopt the reference's, or keep ours?** The reference writes `tính không`,
-`bồ đề tâm`, `Đại Thừa`, `tâm buông bỏ`; we write `tánh không` (×207), `bồ-đề tâm` (×113),
-`Đại thừa` (×126), `yểm ly` / `viễn ly`. **Recommendation: keep ours.** They are recorded
-decisions with reasons, and CLAUDE.md permits the Vietnamese editions to *check* a term, never
-to supply one. If any are to change, each becomes its own entry in `glossary/decisions.md`
-with its own corpus sweep — a separate job from this one.
+- `tánh` → `tính` and `chánh` → `chính`, **2,824 instances.** Scope note: the reference writes
+  `tính không`, but changing only `tánh không` while leaving `tự tánh` (×793) and `thể tánh`
+  (×347) would spell the same morpheme two ways in adjacent sentences. So the decision was
+  carried through the whole morpheme, which is the only coherent reading of it.
+- `Đại thừa` → `Đại Thừa`, 144.
+- `bồ-đề tâm` → `bồ đề tâm` — subsumed by (b).
 
-**(b) Hyphenation.** `bồ-tát` ×279, `niết-bàn` ×69, `ba-la-mật` ×173. The reference uses none.
-This is orthographic house style, genuinely the owner's call, and it is a clean mechanical
-sweep either way. *Blocks nothing; if it is to change, do it in Step 2 where it is free.*
+  This turned out to rest on firmer ground than the reference book. `glossary.json` already
+  records `houseStyle.register = "northern"` with the rules *"sinh, never sanh"* and *"phuc,
+  never phuoc"*. `tánh`/`chánh` are the southern halves of exactly that pair and were simply
+  never included — 1,736 `tánh` against 84 `tính`, in a book that already writes `chúng sinh`
+  and `phúc đức`. The change **closes an inconsistency the project had already decided
+  against.** Recorded in `glossary/decisions.md` §6.
 
-**(c) Bracket policy.** 6,463 `[...]` inserts, 19.16 per 1,000 words. Proposed policy, to be
-confirmed or replaced:
+- **`yểm ly` / `viễn ly` / `xả ly` → `tâm buông bỏ`: NOT DONE, and should not be.** This is not
+  a spelling change. Those three render **three different Tibetan terms** — `སྐྱོ་ཤས` (weariness),
+  `རབ་ཏུ་དབེན་པ` (thorough seclusion), `སྤོང་བ་པ` (one who abandons) — and the reference's single
+  phrase would collapse all three. Merging distinct source terms is a *fidelity* change, not a
+  style one, and `glossary/decisions.md` §5 exists because this project has already been bitten
+  by four Tibetan terms converging on one Vietnamese word. Raised rather than applied; if it is
+  still wanted, it needs a per-term decision, not a sweep.
+
+**(b) Hyphenation — DROP the hyphens.** Applied in Step 2: **69 forms, 2,692 occurrences.**
+
+  One cost worth naming, now that the full inventory is visible rather than the four commonest
+  forms: on long transliterations the hyphen was doing disambiguating work, and six forms read
+  worse without it — `bổ-đặc-già-la` (×95, now four bare syllables), `xá-lợi-phất` (×9, where
+  *xá lợi* alone means *relics*), `a-tỳ-đạt-ma`, `ma-hầu-la-già`, `ương-quật-ma-la`,
+  `thức-xoa-ma-na`. They are dehyphenated as decided; pulling any of them back is a one-line
+  edit to `HYPHENATED` in `tools/54-sweep.mjs` plus a re-run.
+
+**(c) Bracket policy — DECIDE AFTER THE STEP 3 PILOT.** All 6,463 `[...]` inserts are untouched,
+and the restyle workflow forbids agents from removing even one. Revisit with real before/after
+text in hand. The proposal on the table:
 
 > Mark with brackets only what a reader could otherwise take for something the Tibetan says:
 > a supplied **noun** that resolves an ambiguous referent, an **interpolated clause**, a
 > **gloss**. Do not mark a pronoun or subject that Vietnamese grammar obliges and the Tibetan
 > leaves unambiguous (`[nó]` ×322, `[chúng]` ×196, `[họ]` ×119, `[ta]` ×90).
-
-That would remove roughly a third of them. **Until this is answered, brackets are left
-untouched** — the default is the safe one.
 
 ---
 
@@ -114,20 +132,49 @@ Acceptance — met: `node tools/52-style-lint.mjs report` ranks all 292 chunks, 
 
 ---
 
-## Step 2 — the free sweep: typography only (one commit, corpus-wide)
+## Step 2 — the mechanical sweep · **DONE** (`16945da`)
 
-Zero fidelity risk, so it does not need agents or verification — only a diff review.
+`tools/54-sweep.mjs`. Zero fidelity risk, so no agents and no verification — a diff review
+instead. What it applied:
 
-- `"` → `“ ”` across all 292 chunk files (3,778 occurrences), matching pairs only; report
-  any unbalanced quote instead of guessing.
-- Two trailing spaces on blockquote verse lines so stanzas survive a generic Markdown viewer.
-- Item (b) from Step 0, if the owner chose to change hyphenation.
+| | |
+|---:|---|
+| 3,778 | straight quotes → `“ ”` |
+| 3,489 | verse lines given a hard line break |
+| 2,692 | hyphens removed from 69 transliterated compounds — Step 0(b) |
+| 2,824 | `tánh` → `tính`, `chánh` → `chính` — Step 0(a) |
+| 144 | `Đại thừa` → `Đại Thừa` — Step 0(a) |
+| 863 | glossary fields + `decisions.md`, swept to match |
+| 75 | page-anchor locators, swept to match |
 
-Then: `43-pages.mjs check` (a curly quote inside a locator will break it — expect a handful),
-`43-pages.mjs init`, re-place those, `39-assemble.mjs --write`, invariants.
+**Quote direction is decided by context, not by pairing.** Pairing failed twice: per line, a
+quotation set as verse opens on the first pada and closes on the last (c017's runs four lines),
+giving 64 false "unpaired" reports; per block, quotations that open in one paragraph and close
+in the next still came out odd. The context rule holds no state, so one unbalanced quote cannot
+invert its neighbours. Validated separately: **0 typographically impossible calls** corpus-wide.
+18 files do not balance — they were already unbalanced as straight quotes.
 
-Acceptance: the diff contains **only** quote characters, trailing whitespace and (if chosen)
-hyphens. Any other change in that diff is a bug in the sweep.
+**Acceptance — met.** Normalising away the five intended axes on both sides leaves **292/292
+files byte-identical to HEAD**. No unintended edit anywhere.
+
+### Three things the sweep broke, all caught by the harness rather than by eye
+
+1. **75 of 673 page-marker locators stopped matching** — a locator is a literal substring of the
+   body, and the body had been respelled. Exactly the 75 containing a sweep target. Applying the
+   *identical* transform to the locator is not a judgement call, so **all 673 recovered
+   mechanically and zero boundaries needed re-aligning by reading.** The sweep now does this.
+2. **`hangingParagraphs` jumped 9 → 66.** Not a regression in the text: `40-verify-text.mjs`
+   accepted a straight `"` as terminal punctuation but not a curly `”`, so 57 correctly
+   terminated paragraphs read as cut off mid-clause. Fixed in the checker.
+3. **The verse ledger lost 6 units and 22 lines.** Three tools measured *raw* line length
+   against the 76-character hand-break threshold, and two trailing spaces pushed some lines over
+   it — those stanzas stopped registering as verse at all and would have dropped silently out of
+   the verse pass. `41-pdf`, `42-verse` and `52-style-lint` now measure the trimmed line. Ledger
+   back to 842 units / 4,357 lines.
+
+The general lesson for Step 4, where the edits are much larger: **a corpus-wide change breaks
+tools that measure the corpus, not just the corpus.** Run `53-invariants.mjs` and
+`42-verse.mjs list` after every batch, and treat a moved count as a question, not noise.
 
 ---
 
@@ -161,23 +208,52 @@ The loop mirrors Phase 4 exactly, and for the same reasons. **Each chunk is touc
 all style changes are made together**, because every touch costs a re-anchor.
 
 ```bash
-node tools/52-style-lint.mjs batch 10 > .wf.json      # worst-first, pending only
+git status --porcelain            # MUST be clean: Verify reads `git show HEAD:translation/<id>.md`
+node tools/52-style-lint.mjs batch 10 > .wf.json       # worst-first, pending only
 node tools/37-chunk-glossary.mjs --batch .wf.json      # the agents still need the rulings
 # run the `lamrim-restyle` workflow with that object as args; note the Run ID
-node tools/35-merge-batch.mjs --run wf_XXXX --write
+
+# --- fold it back in ---------------------------------------------------------
+node tools/32-chunk.mjs restamp                        # re-formatting is not re-translating
+node tools/52-style-lint.mjs done <ids that PASSED>    # only the ones that passed
 node tools/43-pages.mjs init                           # demotes the locators the edits broke
-node tools/43-pages.mjs batch 20 > .wf.json            # re-place exactly those
+node tools/43-pages.mjs batch 20 > .wf.json            # re-place exactly those, by reading
 # run the page-alignment workflow; then
 node tools/43-pages.mjs place results.json
 node tools/39-assemble.mjs --write
-node tools/52-style-lint.mjs done <the merged ids>
 node tools/53-invariants.mjs                           # must pass before the next batch
+node tools/42-verse.mjs list                           # unit count must not have moved
+git commit                                             # before the NEXT batch, not after it
 ```
 
-### The workflow: `.claude/workflows/lamrim-restyle.js`
+**Do not use `35-merge-batch.mjs` here.** It is built for Phase 4: it stamps `translatedAt` and
+writes a `verify` record, so running it would overwrite each chunk's original Phase 4 fidelity
+verdict with a restyle verdict — destroying the record that the *translation* was ever checked.
+A restyle is not a translation. `restamp` + `52-style-lint.mjs done` is the correct pair:
+`restamp` re-records `outputHash` without touching status (CLAUDE.md: "re-formatting is not
+re-translating, and it must never promote a draft"), and the restyle ledger is separate by
+design.
+
+`newTerms` and `flags` come back in the workflow's return value and have to be folded into
+`glossary.json` and the chunk records by hand, or through a small merge tool if the volume
+justifies one. Do not let agents write them — that is the rule that exists because agents twice
+marked their own unverified work as finished.
+
+**Unlike Phase 4, commit before each batch rather than after.** Verify obtains the pre-restyle
+text with `git show HEAD:translation/<id>.md`; if the tree is dirty when a batch starts, it
+compares against a half-restyled file and the check is worth nothing.
+
+### The workflow: `.claude/workflows/lamrim-restyle.js` · **WRITTEN** (`62ff530`)
 
 Modelled on `lamrim-translate.js`, three phases, same contract — **agents write only
 `translation/<id>.md`; only the merge may mark a chunk done.**
+
+Two things in it are worth knowing before reading the table. **The restyler must quote the
+Tibetan clause boundary for every split it makes** — a split it cannot point to in the source is
+refused, which turns "split only where the Tibetan does" from an instruction into something the
+verifier can audit. And **the repairer is told that reverting is a correct outcome**, not a
+failure: the pre-restyle sentence had passed a fidelity check and a restyled one a checker doubts
+has not, so a long faithful sentence is the deliverable.
 
 | phase | agent | given | must return |
 |---|---|---|---|
